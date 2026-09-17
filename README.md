@@ -4,7 +4,12 @@ Buckets every GW2 wardrobe skin (armor, weapon, back item, gathering tool)
 by the expansion / living-world release that introduced it, and ships a
 browsable web page over the result.
 
+**Live:** <https://jonesiblitz.github.io/gw2-wardrobe-expansions/>
+
 ## Browse it
+
+Live, at the link above (served from `docs/`, rebuilt by `npm run build:docs`
+whenever `web/` changes), or locally:
 
 ```bash
 npm run serve
@@ -14,7 +19,8 @@ then open <http://localhost:5175>. Tabs are "release windows" spanning one
 expansion gap each (Core Tyria &rarr; Heart of Thorns, Heart of Thorns &rarr;
 Path of Fire, ...), with search, a type filter (Armor/Weapon/Back/Gathering),
 and a confidence filter. Each card links out to the skin's GW2 Wiki page.
-Needs `npm run all` to have been run first so `web/data.js` exists.
+Needs `npm run all` to have been run first so `web/data.js` (and `docs/`)
+exist.
 
 ## Why this needs two data sources
 

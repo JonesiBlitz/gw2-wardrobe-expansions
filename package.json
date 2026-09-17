@@ -1,0 +1,18 @@
+{
+  "name": "gw2-wardrobe-expansions",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Buckets GW2 wardrobe skins (armor/weapon/back/gathering) by the expansion or release that introduced them, using the official GW2 API cross-referenced with GW2 Wiki category data.",
+  "scripts": {
+    "fetch:skins": "node src/fetchSkins.mjs",
+    "fetch:wiki": "node src/fetchWikiBuckets.mjs",
+    "build": "node src/classifySkins.mjs",
+    "fetch:dates": "node src/fetchReleaseDates.mjs",
+    "report:eras": "node src/reportEras.mjs",
+    "build:web": "node src/buildWebData.mjs",
+    "build:docs": "node src/buildDocs.mjs",
+    "serve": "node src/serve.mjs",
+    "all": "npm run fetch:skins && npm run fetch:wiki && npm run build && npm run fetch:dates && npm run report:eras && npm run build:web && npm run build:docs"
+  }
+}

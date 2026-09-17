@@ -292,10 +292,22 @@ header.hero p {
 }
 .load-more:hover { border-color: var(--accent); }
 
-footer.note {
+.note {
   margin-top: 28px;
   padding-top: 14px;
   border-top: 1px solid var(--border);
   color: var(--text-muted);
   font-size: 12px;
 }
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem 1.5rem;
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  line-height: 1.7;
+  max-width: 900px;
+  margin: 0 auto;
+}
+footer a { color: var(--text-muted); }
+footer a:hover { color: var(--accent); opacity: 1; }

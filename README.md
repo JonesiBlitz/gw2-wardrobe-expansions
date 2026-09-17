@@ -22,6 +22,25 @@ and a confidence filter. Each card links out to the skin's GW2 Wiki page.
 Needs `npm run all` to have been run first so `web/data.js` (and `docs/`)
 exist.
 
+### Filtering by your own unlocked skins
+
+Click **Settings** to add a GW2 API key (create one at
+[account.arena.net/applications](https://account.arena.net/applications)
+with only the **unlocks** permission checked). Once saved, the page calls
+`/v2/account/skins` directly from your browser and unlocks an "All skins /
+Unlocked only / Locked only" filter, with a lock/unlock badge on every card.
+
+- The key is stored **only** in your browser's `localStorage` and sent
+  **only** to `api.guildwars2.com` (via `?access_token=`, not a header -
+  the GW2 API doesn't send CORS headers for authenticated requests, so a
+  query param is what avoids the preflight browser block). This site has
+  no server or database of its own, so there is nowhere else for it to go.
+- It re-syncs automatically on every page load if a key is saved; use
+  **Refresh wardrobe** in Settings to re-sync on demand, or **Remove key**
+  to delete it from `localStorage` immediately.
+- Matching is by skin **id** (not name), so it's exact - no ambiguity from
+  the weight-class ("Angler Vest") issue described below.
+
 ## Why this needs two data sources
 
 The official GW2 API's [`/v2/skins`](https://wiki.guildwars2.com/wiki/API:2/skins)

@@ -3,6 +3,8 @@
 
   const DATA = window.GW2_WARDROBE_DATA;
   const PAGE_SIZE = 240;
+  const GW2_API = "https://api.guildwars2.com/v2";
+  const API_KEY_STORAGE = "gw2-wardrobe-api-key";
 
   const RARITY_VAR = {
     Junk: "--rarity-junk",
@@ -26,7 +28,9 @@
     search: "",
     type: "",
     source: "",
+    unlock: "all",
     visible: PAGE_SIZE,
+    unlockedIds: null, // null = no wardrobe synced; else Set<number>
   };
 
   const els = {
@@ -35,6 +39,8 @@
     search: document.getElementById("search"),
     typeFilter: document.getElementById("typeFilter"),
     sourceFilter: document.getElementById("sourceFilter"),
+    unlockFilter: document.getElementById("unlockFilter"),
+    unlockHintBtn: document.getElementById("unlockHintBtn"),
     resultCount: document.getElementById("resultCount"),
     grid: document.getElementById("grid"),
     loadMoreWrap: document.getElementById("loadMoreWrap"),
@@ -42,6 +48,16 @@
     totalSkins: document.getElementById("totalSkins"),
     totalWindows: document.getElementById("totalWindows"),
     themeToggle: document.getElementById("themeToggle"),
+    wardrobeSyncLine: document.getElementById("wardrobeSyncLine"),
+    settingsBtn: document.getElementById("settingsBtn"),
+    settingsOverlay: document.getElementById("settingsOverlay"),
+    settingsClose: document.getElementById("settingsClose"),
+    apiKeyInput: document.getElementById("apiKeyInput"),
+    apiKeyToggle: document.getElementById("apiKeyToggle"),
+    apiKeyStatus: document.getElementById("apiKeyStatus"),
+    apiKeySave: document.getElementById("apiKeySave"),
+    apiKeyRefresh: document.getElementById("apiKeyRefresh"),
+    apiKeyClear: document.getElementById("apiKeyClear"),
   };
 
   function currentWindow() {
@@ -85,6 +101,11 @@
     if (state.search) {
       const q = state.search.toLowerCase();
       if (!skin.name.toLowerCase().includes(q)) return false;
+    }
+    if (state.unlock !== "all" && state.unlockedIds) {
+      const unlocked = state.unlockedIds.has(skin.id);
+      if (state.unlock === "unlocked" && !unlocked) return false;
+      if (state.unlock === "locked" && unlocked) return false;
     }
     return true;
   }
@@ -147,6 +168,15 @@
     sourceBadge.title = skin.sourceLabel;
     meta.appendChild(sourceBadge);
 
+    if (state.unlockedIds) {
+      const unlocked = state.unlockedIds.has(skin.id);
+      div.classList.toggle("is-locked", !unlocked);
+      const unlockBadge = document.createElement("span");
+      unlockBadge.className = "unlock-badge " + (unlocked ? "unlocked" : "locked");
+      unlockBadge.textContent = unlocked ? "✓ unlocked" : "🔒 locked";
+      meta.appendChild(unlockBadge);
+    }
+
     body.appendChild(meta);
     div.appendChild(body);
     return div;
@@ -157,6 +187,10 @@
     renderTabs();
     renderTypeOptions(win);
     els.windowMeta.textContent = fmtRange(win);
+
+    const hasWardrobe = !!state.unlockedIds;
+    els.unlockFilter.style.display = hasWardrobe ? "" : "none";
+    els.unlockHintBtn.style.display = hasWardrobe ? "none" : "";
 
     const filtered = win.skins.filter(matchesFilters);
     els.resultCount.textContent = `${filtered.length.toLocaleString()} of ${win.count.toLocaleString()} shown`;
@@ -199,6 +233,12 @@
     state.visible = PAGE_SIZE;
     render();
   });
+  els.unlockFilter.addEventListener("change", () => {
+    state.unlock = els.unlockFilter.value;
+    state.visible = PAGE_SIZE;
+    render();
+  });
+  els.unlockHintBtn.addEventListener("click", () => openSettings());
   els.loadMoreBtn.addEventListener("click", () => {
     state.visible += PAGE_SIZE;
     render();
@@ -227,9 +267,133 @@
     } catch (e) {}
   });
 
+  // ── Settings: API key & wardrobe sync ────────────────────────────────
+
+  function getStoredKey() {
+    try {
+      return localStorage.getItem(API_KEY_STORAGE) || "";
+    } catch (e) {
+      return "";
+    }
+  }
+
+  function setStoredKey(key) {
+    try {
+      if (key) localStorage.setItem(API_KEY_STORAGE, key);
+      else localStorage.removeItem(API_KEY_STORAGE);
+    } catch (e) {}
+  }
+
+  async function fetchJson(url) {
+    const res = await fetch(url);
+    if (!res.ok) {
+      let msg = `HTTP ${res.status}`;
+      try {
+        const body = await res.json();
+        if (body && body.text) msg = body.text;
+      } catch (e) {}
+      throw new Error(msg);
+    }
+    return res.json();
+  }
+
+  function setStatus(message, kind) {
+    els.apiKeyStatus.textContent = message;
+    els.apiKeyStatus.className = "modal-status" + (kind ? " " + kind : "");
+  }
+
+  function updateKeyButtons(hasKey) {
+    els.apiKeyRefresh.style.display = hasKey ? "" : "none";
+    els.apiKeyClear.style.display = hasKey ? "" : "none";
+  }
+
+  async function syncWardrobe(key, { silent } = {}) {
+    if (!silent) setStatus("Fetching your unlocked wardrobe…", "pending");
+    try {
+      const [skinIds, account] = await Promise.all([
+        fetchJson(`${GW2_API}/account/skins?access_token=${encodeURIComponent(key)}`),
+        fetchJson(`${GW2_API}/account?access_token=${encodeURIComponent(key)}`).catch(() => null),
+      ]);
+      state.unlockedIds = new Set(skinIds);
+      state.visible = PAGE_SIZE;
+
+      const who = account && account.name ? ` as ${account.name}` : "";
+      setStatus(`✓ Synced${who} — ${skinIds.length.toLocaleString()} skins unlocked.`, "success");
+      els.wardrobeSyncLine.style.display = "";
+      els.wardrobeSyncLine.textContent = `🔑 Wardrobe synced${who}: ${skinIds.length.toLocaleString()} skins unlocked.`;
+      updateKeyButtons(true);
+      render();
+      return true;
+    } catch (err) {
+      state.unlockedIds = null;
+      setStatus(`Couldn't sync: ${err.message || err}`, "error");
+      els.wardrobeSyncLine.style.display = "none";
+      render();
+      return false;
+    }
+  }
+
+  function openSettings() {
+    els.settingsOverlay.classList.add("open");
+    els.apiKeyInput.focus();
+  }
+  function closeSettings() {
+    els.settingsOverlay.classList.remove("open");
+  }
+
+  els.settingsBtn.addEventListener("click", openSettings);
+  els.settingsClose.addEventListener("click", closeSettings);
+  els.settingsOverlay.addEventListener("click", (e) => {
+    if (e.target === els.settingsOverlay) closeSettings();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && els.settingsOverlay.classList.contains("open")) closeSettings();
+  });
+
+  els.apiKeyToggle.addEventListener("click", () => {
+    els.apiKeyInput.type = els.apiKeyInput.type === "password" ? "text" : "password";
+  });
+
+  els.apiKeySave.addEventListener("click", async () => {
+    const key = els.apiKeyInput.value.trim();
+    if (!key) {
+      setStatus("Enter an API key first.", "error");
+      return;
+    }
+    setStoredKey(key);
+    updateKeyButtons(true);
+    await syncWardrobe(key);
+  });
+
+  els.apiKeyRefresh.addEventListener("click", async () => {
+    const key = getStoredKey();
+    if (key) await syncWardrobe(key);
+  });
+
+  els.apiKeyClear.addEventListener("click", () => {
+    setStoredKey("");
+    els.apiKeyInput.value = "";
+    state.unlockedIds = null;
+    state.unlock = "all";
+    els.unlockFilter.value = "all";
+    updateKeyButtons(false);
+    setStatus("Key removed.", "");
+    els.wardrobeSyncLine.style.display = "none";
+    render();
+  });
+
+  async function initWardrobeSync() {
+    const key = getStoredKey();
+    if (!key) return;
+    els.apiKeyInput.value = key;
+    updateKeyButtons(true);
+    await syncWardrobe(key, { silent: true });
+  }
+
   els.totalSkins.textContent = DATA.totalSkins.toLocaleString();
   els.totalWindows.textContent = DATA.windows.length;
 
   applyStoredTheme();
   render();
+  initWardrobeSync();
 })();

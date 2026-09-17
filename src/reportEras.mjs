@@ -12,6 +12,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { TIMELINE, CORE_TYRIA } from "./expansions.mjs";
 import { eraForDate as eraForDateShared } from "./windows.mjs";
+import { resolveSkinDate } from "./skinTitle.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA = path.join(__dirname, "..", "data");
@@ -24,7 +25,10 @@ function csvEscape(v) {
 
 async function main() {
   const byExpansion = JSON.parse(await readFile(path.join(DATA, "skins-by-expansion.json"), "utf8"));
-  const dates = JSON.parse(await readFile(path.join(DATA, "unmatched-release-dates.json"), "utf8"));
+  const plainDates = JSON.parse(await readFile(path.join(DATA, "unmatched-release-dates.json"), "utf8"));
+  const weightClassDates = JSON.parse(
+    await readFile(path.join(DATA, "weight-class-release-dates.json"), "utf8").catch(() => "{}")
+  );
 
   const timeline = TIMELINE.filter((b) => b.released);
   const unmatched = byExpansion[CORE_TYRIA.key].skins;
@@ -35,7 +39,7 @@ async function main() {
   let noPage = 0;
 
   for (const skin of unmatched) {
-    const info = dates[skin.name];
+    const info = resolveSkinDate(skin, plainDates, weightClassDates);
     if (!info || info.missing || !info.timestamp) {
       noPage++;
       rows.push({ ...skin, wikiFirstSeen: null, era: "unknown (no wiki page found)" });

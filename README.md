@@ -38,8 +38,9 @@ official API data by skin name.
 npm run fetch:skins   # -> data/skins.json                    (GW2 API: all 10k+ skins)
 npm run fetch:wiki    # -> data/wiki-title-map.json            (GW2 Wiki: title -> release)
 npm run build         # -> data/skins-by-expansion.json, out/summary.csv, out/counts.md
-npm run fetch:dates   # -> data/unmatched-release-dates.json   (GW2 Wiki: title -> first-seen date)
-npm run report:eras   # -> out/unmatched-by-era.csv, out/unmatched-by-era.md
+npm run fetch:dates              # -> data/unmatched-release-dates.json      (GW2 Wiki: title -> first-seen date)
+npm run fetch:dates:weightclass  # -> data/weight-class-release-dates.json   (retry via "<name> (light/medium/heavy skin)")
+npm run report:eras              # -> out/unmatched-by-era.csv, out/unmatched-by-era.md
 # or just:
 npm run all
 ```
@@ -62,10 +63,20 @@ npm run all
    article's *first-ever revision timestamp* as an approximate "date added
    to the game" (one request per title - MediaWiki won't let you batch
    `rvdir=newer` lookups across multiple titles in one call).
-5. **`reportEras.mjs`** maps that date onto `TIMELINE` (the same releases,
-   in true chronological order, each with its real launch date) to say
-   "this skin's wiki page appeared during the X era" for skins the wiki
-   never directly tagged with a release category.
+5. **`fetchWeightClassDates.mjs`** - retries every skin step 4 came up empty
+   on. A lot of armor skin *names* are reused across weight classes (e.g.
+   "Angler Vest" is a separate Light/Medium/Heavy skin, each with its own
+   release), so the wiki disambiguates them as `<Name> (light skin)` /
+   `(medium skin)` / `(heavy skin)`, and the plain name often isn't a real
+   article at all - it's exactly why step 4 reported so many as "no wiki
+   page found". This alone recovered dates for ~770 skins (see
+   `src/skinTitle.mjs`).
+6. **`reportEras.mjs`** maps the resolved date (weight-class title preferred,
+   plain-name title as fallback - `resolveSkinDate()` in `skinTitle.mjs`)
+   onto `TIMELINE` (the same releases, in true chronological order, each
+   with its real launch date) to say "this skin's wiki page appeared during
+   the X era" for skins the wiki never directly tagged with a release
+   category.
 
 ## Accuracy & caveats
 
@@ -106,9 +117,11 @@ festivals) genuinely weren't added *by* an expansion. What we can still say
 is *when* each one showed up, by using the wiki article's first-revision
 date and slotting it into whichever release was "current" at that time:
 
-- **7,801 of 8,834** got a date this way; **1,033** have no matching wiki
+- **8,572 of 8,834** got a date this way; only **262** have no matching wiki
   page at all (name mismatch, or the article was never written) and are
-  reported as `unknown`.
+  reported as `unknown`. (Before the weight-class retry in step 5, this was
+  7,801 dated / 1,033 unknown - the disambiguated-title lookup alone closed
+  most of that gap.)
 - This is a **proxy, not ground truth**. A wiki page is usually created
   within days of an item's real release, but can lag by a lot for obscure
   items nobody documented promptly, or lead it slightly for datamined
@@ -122,25 +135,28 @@ date and slotting it into whichever release was "current" at that time:
   | Era | Skins |
   |---|---:|
   | Core Tyria & non-expansion releases (pre-LWS1) | 1,804 |
-  | Living World Season 1 | 861 |
-  | Living World Season 2 | 754 |
-  | Heart of Thorns | 635 |
-  | Living World Season 3 | 41 |
+  | Living World Season 1 | 885 |
+  | Living World Season 2 | 823 |
+  | Heart of Thorns | 647 |
+  | Living World Season 3 | 44 |
   | Path of Fire | 227 |
-  | Living World Season 4 | 651 |
-  | The Icebrood Saga | 821 |
-  | End of Dragons | 765 |
-  | Secrets of the Obscure | 497 |
-  | Janthir Wilds | 452 |
-  | Visions of Eternity | 293 |
-  | unknown (no wiki page found) | 1,033 |
+  | Living World Season 4 | 654 |
+  | The Icebrood Saga | 920 |
+  | End of Dragons | 912 |
+  | Secrets of the Obscure | 605 |
+  | Janthir Wilds | 602 |
+  | Visions of Eternity | 449 |
+  | unknown (no wiki page found) | 262 |
 
 ## Output
 
 - `data/skins-by-expansion.json` - full structured data, one entry per
   release bucket with `{label, count, skins: [{id, name, type, rarity, via, set}]}`.
 - `data/unmatched-release-dates.json` - `{ skinName: { missing, timestamp } }`
-  wiki first-revision lookups for the non-expansion bucket.
+  wiki first-revision lookups for the non-expansion bucket (plain title).
+- `data/weight-class-release-dates.json` - same shape, keyed by the
+  weight-class-disambiguated title (`"<Name> (light skin)"` etc.), for
+  armor skins the plain-title lookup missed.
 - `out/summary.csv` - flat `id,name,type,rarity,weight_class,bucket,via,set` for spreadsheets.
 - `out/counts.md` - quick count table (also printed to console on `npm run build`).
 - `data/skins-by-window.json` / `web/data.js` - all skins merged into the 7

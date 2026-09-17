@@ -9,10 +9,11 @@
     "fetch:wiki": "node src/fetchWikiBuckets.mjs",
     "build": "node src/classifySkins.mjs",
     "fetch:dates": "node src/fetchReleaseDates.mjs",
+    "fetch:dates:weightclass": "node src/fetchWeightClassDates.mjs",
     "report:eras": "node src/reportEras.mjs",
     "build:web": "node src/buildWebData.mjs",
     "build:docs": "node src/buildDocs.mjs",
     "serve": "node src/serve.mjs",
-    "all": "npm run fetch:skins && npm run fetch:wiki && npm run build && npm run fetch:dates && npm run report:eras && npm run build:web && npm run build:docs"
+    "all": "npm run fetch:skins && npm run fetch:wiki && npm run build && npm run fetch:dates && npm run fetch:dates:weightclass && npm run report:eras && npm run build:web && npm run build:docs"
   }
 }

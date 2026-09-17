@@ -7,6 +7,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { CORE_TYRIA } from "./expansions.mjs";
 import { WINDOWS, UNKNOWN_WINDOW, windowKeyForEraKey, eraForDate } from "./windows.mjs";
+import { resolveSkinDate } from "./skinTitle.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA = path.join(__dirname, "..", "data");
@@ -14,7 +15,10 @@ const WEB = path.join(__dirname, "..", "web");
 
 async function main() {
   const byExpansion = JSON.parse(await readFile(path.join(DATA, "skins-by-expansion.json"), "utf8"));
-  const unmatchedDates = JSON.parse(await readFile(path.join(DATA, "unmatched-release-dates.json"), "utf8"));
+  const plainDates = JSON.parse(await readFile(path.join(DATA, "unmatched-release-dates.json"), "utf8"));
+  const weightClassDates = JSON.parse(
+    await readFile(path.join(DATA, "weight-class-release-dates.json"), "utf8").catch(() => "{}")
+  );
 
   const windowMap = new Map(
     [...WINDOWS, UNKNOWN_WINDOW].map((w) => [w.key, { key: w.key, label: w.label, from: w.from, to: w.to, skins: [] }])
@@ -23,7 +27,7 @@ async function main() {
   for (const [bucketKey, bucket] of Object.entries(byExpansion)) {
     if (bucketKey === CORE_TYRIA.key) {
       for (const skin of bucket.skins) {
-        const info = unmatchedDates[skin.name];
+        const info = resolveSkinDate(skin, plainDates, weightClassDates);
         if (!info || info.missing || !info.timestamp) {
           windowMap.get(UNKNOWN_WINDOW.key).skins.push({
             ...skin,
@@ -35,10 +39,11 @@ async function main() {
         }
         const era = eraForDate(info.timestamp);
         const wKey = windowKeyForEraKey(era.key);
+        const viaNote = info.via === "weight-class-title" ? " (via weight-class page)" : "";
         windowMap.get(wKey).skins.push({
           ...skin,
           source: "date-inferred",
-          sourceLabel: `Inferred: ${era.label} era (wiki page first seen)`,
+          sourceLabel: `Inferred: ${era.label} era (wiki page first seen)${viaNote}`,
           wikiFirstSeen: info.timestamp,
         });
       }

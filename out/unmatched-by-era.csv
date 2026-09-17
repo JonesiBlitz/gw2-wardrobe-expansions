@@ -2561,18 +2561,42 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 5668,Pinnacle Wake,Weapon,Basic,,2014-09-22T13:50:24Z,Living World Season 1
 5664,Pinnacle Trident,Weapon,Basic,,2014-09-22T13:51:17Z,Living World Season 1
 5676,Pinnacle Impaler,Weapon,Basic,,2014-09-22T18:31:11Z,Living World Season 1
+773,Hellfire Warhelm,Armor,Basic,Light,2014-09-23T15:22:04Z,Living World Season 1
+775,Hellfire Mantle,Armor,Basic,Light,2014-09-23T15:33:35Z,Living World Season 1
 5595,Hellfire Brigandine,Armor,Basic,Light,2014-09-23T15:38:22Z,Living World Season 1
+772,Hellfire Vambraces,Armor,Basic,Light,2014-09-23T15:40:11Z,Living World Season 1
 5596,Hellfire Leggings,Armor,Basic,Light,2014-09-23T15:44:53Z,Living World Season 1
+769,Hellfire Greaves,Armor,Basic,Light,2014-09-23T15:49:52Z,Living World Season 1
+762,Radiant Warhelm,Armor,Basic,Light,2014-09-23T16:00:26Z,Living World Season 1
+763,Radiant Mantle,Armor,Basic,Light,2014-09-23T16:05:25Z,Living World Season 1
 5588,Radiant Brigandine,Armor,Basic,Light,2014-09-23T16:10:22Z,Living World Season 1
+761,Radiant Vambraces,Armor,Basic,Light,2014-09-23T16:11:32Z,Living World Season 1
 5587,Radiant Leggings,Armor,Basic,Light,2014-09-23T16:13:28Z,Living World Season 1
+764,Radiant Greaves,Armor,Basic,Light,2014-09-23T16:14:30Z,Living World Season 1
+776,Hellfire Warhelm,Armor,Basic,Medium,2014-09-23T16:18:19Z,Living World Season 1
+779,Hellfire Mantle,Armor,Basic,Medium,2014-09-23T16:21:41Z,Living World Season 1
 5593,Hellfire Hauberk,Armor,Basic,Medium,2014-09-23T16:24:29Z,Living World Season 1
+778,Hellfire Vambraces,Armor,Basic,Medium,2014-09-23T16:27:45Z,Living World Season 1
 5598,Hellfire Legguards,Armor,Basic,Medium,2014-09-23T16:34:14Z,Living World Season 1
+765,Radiant Warhelm,Armor,Basic,Medium,2014-09-23T16:41:55Z,Living World Season 1
+767,Radiant Mantle,Armor,Basic,Medium,2014-09-23T16:42:27Z,Living World Season 1
 5589,Radiant Hauberk,Armor,Basic,Medium,2014-09-23T16:43:50Z,Living World Season 1
+766,Radiant Vambraces,Armor,Basic,Medium,2014-09-23T16:47:05Z,Living World Season 1
 5591,Radiant Legguards,Armor,Basic,Medium,2014-09-23T16:48:20Z,Living World Season 1
+760,Radiant Greaves,Armor,Basic,Medium,2014-09-23T16:49:42Z,Living World Season 1
+770,Hellfire Warhelm,Armor,Basic,Heavy,2014-09-23T16:52:27Z,Living World Season 1
+768,Hellfire Mantle,Armor,Basic,Heavy,2014-09-23T16:54:52Z,Living World Season 1
 5597,Hellfire Cuirass,Armor,Basic,Heavy,2014-09-23T16:57:59Z,Living World Season 1
+771,Hellfire Vambraces,Armor,Basic,Heavy,2014-09-23T16:58:58Z,Living World Season 1
 5594,Hellfire Chausses,Armor,Basic,Heavy,2014-09-23T17:02:16Z,Living World Season 1
+774,Hellfire Greaves,Armor,Basic,Medium,2014-09-23T17:03:13Z,Living World Season 1
+777,Hellfire Greaves,Armor,Basic,Heavy,2014-09-23T17:04:26Z,Living World Season 1
+758,Radiant Warhelm,Armor,Basic,Heavy,2014-09-23T17:06:47Z,Living World Season 1
+756,Radiant Mantle,Armor,Basic,Heavy,2014-09-23T17:07:19Z,Living World Season 1
 5592,Radiant Cuirass,Armor,Basic,Heavy,2014-09-23T17:09:26Z,Living World Season 1
+759,Radiant Vambraces,Armor,Basic,Heavy,2014-09-23T17:10:05Z,Living World Season 1
 5590,Radiant Chausses,Armor,Basic,Heavy,2014-09-23T17:11:31Z,Living World Season 1
+757,Radiant Greaves,Armor,Basic,Heavy,2014-09-23T17:11:59Z,Living World Season 1
 5586,Belinda's Greatsword,Weapon,Basic,,2014-09-23T21:00:36Z,Living World Season 1
 3802,Dead Stop,Weapon,Basic,,2014-10-07T13:33:33Z,Living World Season 1
 8091,Tireless Harvesting Minion,Gathering,Basic,,2014-10-07T13:40:55Z,Living World Season 1
@@ -3212,6 +3236,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 6100,Dwayna's Staff,Weapon,Basic,,2015-08-11T21:59:25Z,Living World Season 2
 2344,Elegant Guild Back Banner,Back,Basic,,2015-08-11T23:51:32Z,Living World Season 2
 2343,Savage Guild Back Banner,Back,Basic,,2015-08-11T23:53:11Z,Living World Season 2
+1404,Vigil's Honor Gloves,Armor,Basic,Light,2015-08-12T21:24:13Z,Living World Season 2
+1407,Vigil's Honor Gloves,Armor,Basic,Medium,2015-08-12T21:38:24Z,Living World Season 2
+1423,Whisper's Secret Gloves,Armor,Basic,Medium,2015-08-13T19:03:04Z,Living World Season 2
+1425,Whisper's Secret Leggings,Armor,Basic,Medium,2015-08-13T19:04:56Z,Living World Season 2
+1420,Whisper's Secret Gloves,Armor,Basic,Light,2015-08-13T19:12:52Z,Living World Season 2
+1418,Whisper's Secret Leggings,Armor,Basic,Light,2015-08-13T19:14:45Z,Living World Season 2
 5971,Balthazar's Sword,Weapon,Basic,,2015-08-15T02:28:06Z,Living World Season 2
 5975,Balthazar's Hammer,Weapon,Basic,,2015-08-15T02:29:58Z,Living World Season 2
 5970,Balthazar's Longbow,Weapon,Basic,,2015-08-15T02:31:18Z,Living World Season 2
@@ -3401,6 +3431,57 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 3815,Kasmeer's Staff,Weapon,Basic,,2015-09-14T08:02:19Z,Living World Season 2
 5988,Chain-Whip Sword,Weapon,Basic,,2015-09-14T08:35:48Z,Living World Season 2
 3832,Shark's Tooth Sword,Weapon,Basic,,2015-09-14T08:55:19Z,Living World Season 2
+838,Scarlet's Veil,Armor,Basic,Heavy,2015-09-22T02:52:17Z,Living World Season 2
+827,Scarlet's Veil,Armor,Basic,Medium,2015-09-22T02:53:13Z,Living World Season 2
+830,Scarlet's Veil,Armor,Basic,Light,2015-09-22T02:53:53Z,Living World Season 2
+1208,Zephyrite Lightning Helm,Armor,Basic,Heavy,2015-09-22T03:08:54Z,Living World Season 2
+1210,Zephyrite Lightning Helm,Armor,Basic,Medium,2015-09-22T03:10:36Z,Living World Season 2
+1209,Zephyrite Lightning Helm,Armor,Basic,Light,2015-09-22T03:11:17Z,Living World Season 2
+1205,Zephyrite Sun Helm,Armor,Basic,Heavy,2015-09-22T07:24:06Z,Living World Season 2
+1207,Zephyrite Sun Helm,Armor,Basic,Medium,2015-09-22T07:25:07Z,Living World Season 2
+1206,Zephyrite Sun Helm,Armor,Basic,Light,2015-09-22T07:26:04Z,Living World Season 2
+1202,Zephyrite Wind Helm,Armor,Basic,Heavy,2015-09-22T07:35:32Z,Living World Season 2
+1204,Zephyrite Wind Helm,Armor,Basic,Medium,2015-09-22T07:36:30Z,Living World Season 2
+1203,Zephyrite Wind Helm,Armor,Basic,Light,2015-09-22T07:37:23Z,Living World Season 2
+2021,Air-Filtration Device,Armor,Basic,Heavy,2015-09-23T06:38:56Z,Living World Season 2
+2022,Air-Filtration Device,Armor,Basic,Medium,2015-09-23T06:40:01Z,Living World Season 2
+2023,Air-Filtration Device,Armor,Basic,Light,2015-09-23T06:41:08Z,Living World Season 2
+5852,Dragon's Mask,Armor,Basic,Heavy,2015-09-23T06:59:31Z,Living World Season 2
+5853,Dragon's Mask,Armor,Basic,Medium,2015-09-23T07:00:19Z,Living World Season 2
+5850,Dragon's Mask,Armor,Basic,Light,2015-09-23T07:00:56Z,Living World Season 2
+1367,Lawless Helmet,Armor,Basic,Heavy,2015-09-26T09:29:09Z,Living World Season 2
+1364,Lawless Helmet,Armor,Basic,Medium,2015-09-26T09:29:52Z,Living World Season 2
+1365,Lawless Helmet,Armor,Basic,Light,2015-09-26T09:30:40Z,Living World Season 2
+5854,Lion's Mask,Armor,Basic,Heavy,2015-09-26T09:36:41Z,Living World Season 2
+5851,Lion's Mask,Armor,Basic,Medium,2015-09-26T09:37:27Z,Living World Season 2
+5855,Lion's Mask,Armor,Basic,Light,2015-09-26T09:38:17Z,Living World Season 2
+839,Magnus's Left Eye Patch,Armor,Basic,Heavy,2015-09-26T09:56:25Z,Living World Season 2
+841,Magnus's Left Eye Patch,Armor,Basic,Medium,2015-09-26T09:56:40Z,Living World Season 2
+833,Magnus's Left Eye Patch,Armor,Basic,Light,2015-09-26T09:57:21Z,Living World Season 2
+843,Magnus's Right Eye Patch,Armor,Basic,Heavy,2015-09-26T21:46:31Z,Living World Season 2
+842,Magnus's Right Eye Patch,Armor,Basic,Medium,2015-09-26T21:47:08Z,Living World Season 2
+840,Magnus's Right Eye Patch,Armor,Basic,Light,2015-09-26T21:48:29Z,Living World Season 2
+1192,Mask of the Crown,Armor,Basic,Heavy,2015-09-27T08:24:05Z,Living World Season 2
+1191,Mask of the Crown,Armor,Basic,Medium,2015-09-27T08:24:48Z,Living World Season 2
+1190,Mask of the Crown,Armor,Basic,Light,2015-09-27T08:25:34Z,Living World Season 2
+1186,Mask of the Jubilee,Armor,Basic,Heavy,2015-09-27T08:28:22Z,Living World Season 2
+1185,Mask of the Jubilee,Armor,Basic,Medium,2015-09-27T08:29:21Z,Living World Season 2
+1184,Mask of the Jubilee,Armor,Basic,Light,2015-09-27T08:30:18Z,Living World Season 2
+2029,Mask of the Night,Armor,Basic,Heavy,2015-09-28T07:15:29Z,Living World Season 2
+2027,Mask of the Night,Armor,Basic,Medium,2015-09-28T07:16:19Z,Living World Season 2
+2028,Mask of the Night,Armor,Basic,Light,2015-09-28T07:16:54Z,Living World Season 2
+1189,Mask of the Queen,Armor,Basic,Heavy,2015-09-28T07:21:18Z,Living World Season 2
+1188,Mask of the Queen,Armor,Basic,Medium,2015-09-28T07:22:28Z,Living World Season 2
+1187,Mask of the Queen,Armor,Basic,Light,2015-09-28T07:23:15Z,Living World Season 2
+1049,Mask of the Silent,Armor,Basic,Heavy,2015-09-28T07:26:41Z,Living World Season 2
+1050,Mask of the Silent,Armor,Basic,Medium,2015-09-28T07:27:38Z,Living World Season 2
+1051,Mask of the Silent,Armor,Basic,Light,2015-09-28T07:28:54Z,Living World Season 2
+1252,Mask of the Wanderer,Armor,Basic,Heavy,2015-09-28T07:33:11Z,Living World Season 2
+1250,Mask of the Wanderer,Armor,Basic,Medium,2015-09-28T07:34:08Z,Living World Season 2
+1251,Mask of the Wanderer,Armor,Basic,Light,2015-09-28T07:35:00Z,Living World Season 2
+987,Wide-Rim Glasses,Armor,Basic,Heavy,2015-09-30T22:05:29Z,Living World Season 2
+982,Wide-Rim Glasses,Armor,Basic,Medium,2015-09-30T22:06:27Z,Living World Season 2
+986,Wide-Rim Glasses,Armor,Basic,Light,2015-09-30T22:07:29Z,Living World Season 2
 1128,Deathly Avian Shoulderpads,Armor,Basic,Medium,2015-10-02T07:26:36Z,Living World Season 2
 1116,Deathly Avian Pauldrons,Armor,Basic,Heavy,2015-10-02T07:26:45Z,Living World Season 2
 1121,Deathly Avian Mantle,Armor,Basic,Light,2015-10-02T07:26:53Z,Living World Season 2
@@ -3410,13 +3491,25 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 1120,Deathly Pauldrons,Armor,Basic,Heavy,2015-10-02T07:47:09Z,Living World Season 2
 1136,Deathly Shoulderpads,Armor,Basic,Medium,2015-10-02T07:49:55Z,Living World Season 2
 1126,Deathly Mantle,Armor,Basic,Light,2015-10-02T07:51:44Z,Living World Season 2
+1371,Lawless Shoulders,Armor,Basic,Heavy,2015-10-02T08:05:05Z,Living World Season 2
+1368,Lawless Shoulders,Armor,Basic,Medium,2015-10-02T08:06:46Z,Living World Season 2
+1362,Lawless Shoulders,Armor,Basic,Light,2015-10-02T08:07:38Z,Living World Season 2
 1325,Toxic Pauldron,Armor,Basic,Heavy,2015-10-02T17:00:55Z,Living World Season 2
 1327,Toxic Shoulderpad,Armor,Basic,Medium,2015-10-02T17:01:52Z,Living World Season 2
 1326,Toxic Mantle,Armor,Basic,Light,2015-10-02T17:02:36Z,Living World Season 2
 802,Fire God's Heavy Vambraces,Armor,Basic,Heavy,2015-10-03T08:58:48Z,Living World Season 2
 800,Fire God's Medium Vambraces,Armor,Basic,Medium,2015-10-03T08:59:00Z,Living World Season 2
 804,Fire God's Light Vambraces,Armor,Basic,Light,2015-10-03T08:59:10Z,Living World Season 2
+1372,Lawless Gloves,Armor,Basic,Heavy,2015-10-04T09:54:56Z,Living World Season 2
+1366,Lawless Gloves,Armor,Basic,Medium,2015-10-04T09:55:42Z,Living World Season 2
+1373,Lawless Gloves,Armor,Basic,Light,2015-10-04T09:56:23Z,Living World Season 2
 1329,Toxic Gloves,Armor,Basic,Light,2015-10-04T10:15:54Z,Living World Season 2
+1369,Lawless Boots,Armor,Basic,Heavy,2015-10-04T10:34:17Z,Living World Season 2
+1361,Lawless Boots,Armor,Basic,Medium,2015-10-04T10:35:04Z,Living World Season 2
+1370,Lawless Boots,Armor,Basic,Light,2015-10-04T10:35:49Z,Living World Season 2
+5815,Shadow of the Dragon Shoulders,Armor,Basic,Heavy,2015-10-07T06:54:32Z,Living World Season 2
+5820,Shadow of the Dragon Shoulders,Armor,Basic,Medium,2015-10-07T06:55:36Z,Living World Season 2
+5816,Shadow of the Dragon Shoulders,Armor,Basic,Light,2015-10-07T06:56:29Z,Living World Season 2
 6078,Butterfly Wings Backpack,Back,Basic,,2015-10-20T17:09:59Z,Living World Season 2
 6152,Nest,Weapon,Basic,,2015-10-24T04:05:38Z,Heart of Thorns
 6216,Nightwing,Weapon,Basic,,2015-10-24T06:03:44Z,Heart of Thorns
@@ -3603,6 +3696,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 6705,Triumphant Footgear,Armor,Basic,Light,2016-04-20T17:28:04Z,Heart of Thorns
 3687,Greatsaw,Weapon,Basic,,2016-04-23T06:53:15Z,Heart of Thorns
 3693,Ghastly Grinning Shield,Weapon,Basic,,2016-04-23T19:38:53Z,Heart of Thorns
+6727,Chaos Gloves,Armor,Basic,Heavy,2016-04-26T16:15:14Z,Heart of Thorns
+6700,Chaos Gloves,Armor,Basic,Light,2016-04-26T16:15:42Z,Heart of Thorns
+6732,Chaos Gloves,Armor,Basic,Medium,2016-04-26T16:16:01Z,Heart of Thorns
 6744,Macaw Wings Backpack,Back,Basic,,2016-05-04T10:43:32Z,Heart of Thorns
 6203,Improvised Shield,Weapon,Basic,,2016-05-09T05:25:08Z,Heart of Thorns
 6220,Improvised Axe,Weapon,Basic,,2016-05-09T05:36:46Z,Heart of Thorns
@@ -3808,9 +3904,18 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 6900,Shattered Bloodstone Circlet,Armor,Basic,Medium,2016-08-30T16:30:25Z,Heart of Thorns
 6935,Amethyst Shield,Weapon,Basic,,2016-09-02T19:13:43Z,Heart of Thorns
 6906,Dragon Kama,Weapon,Basic,,2016-09-06T22:47:51Z,Heart of Thorns
+6905,Peg-Leg Boots,Armor,Basic,Light,2016-09-14T04:15:15Z,Heart of Thorns
+6916,Peg-Leg Boots,Armor,Basic,Medium,2016-09-14T04:16:23Z,Heart of Thorns
+6909,Peg-Leg Boots,Armor,Basic,Heavy,2016-09-14T04:17:31Z,Heart of Thorns
+6910,Pirate Hook,Armor,Basic,Light,2016-09-14T04:23:16Z,Heart of Thorns
+6903,Pirate Hook,Armor,Basic,Medium,2016-09-14T04:24:06Z,Heart of Thorns
+6943,Pirate Hook,Armor,Basic,Heavy,2016-09-14T04:24:34Z,Heart of Thorns
 6942,Kurzick Dual Axe,Weapon,Basic,,2016-09-15T16:45:09Z,Heart of Thorns
 6965,Mursaat Wings Backpack,Back,Basic,,2016-09-20T20:51:11Z,Heart of Thorns
 6962,Cosmic Logging Tool,Gathering,Basic,,2016-09-27T16:41:50Z,Heart of Thorns
+6914,Pirate Corsair Hat,Armor,Basic,Light,2016-09-27T18:32:50Z,Heart of Thorns
+6915,Pirate Corsair Hat,Armor,Basic,Medium,2016-09-27T18:33:03Z,Heart of Thorns
+6931,Pirate Corsair Hat,Armor,Basic,Heavy,2016-09-27T18:33:14Z,Heart of Thorns
 6972,Furrocious Cat Ears,Armor,Basic,Heavy,2016-10-05T00:29:18Z,Heart of Thorns
 6974,Furrocious Cat Ears,Armor,Basic,Medium,2016-10-05T00:29:18Z,Heart of Thorns
 6975,Furrocious Cat Ears,Armor,Basic,Light,2016-10-05T00:29:18Z,Heart of Thorns
@@ -4073,6 +4178,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 7651,Fiery Blade Axe,Weapon,Basic,,2017-08-09T01:47:24Z,Living World Season 3
 7450,Icy Blade Axe,Weapon,Basic,,2017-08-09T01:47:59Z,Living World Season 3
 7322,Abaddon's Mask Skin,Armor,Basic,Clothing,2017-08-15T17:35:45Z,Living World Season 3
+7326,Abaddon's Mask,Armor,Basic,Heavy,2017-08-15T18:45:27Z,Living World Season 3
+7309,Abaddon's Mask,Armor,Basic,Medium,2017-08-15T18:47:28Z,Living World Season 3
+7336,Abaddon's Mask,Armor,Basic,Light,2017-08-15T18:48:18Z,Living World Season 3
 7687,Luminous Labrys,Weapon,Basic,,2017-08-24T05:01:31Z,Living World Season 3
 7693,Luminous Dirk,Weapon,Basic,,2017-08-24T05:02:40Z,Living World Season 3
 7615,Luminous Curio,Weapon,Basic,,2017-08-24T05:04:10Z,Living World Season 3
@@ -4662,6 +4770,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 8524,Enchanted Winter Antlers,Armor,Basic,Medium,2018-12-25T18:43:13Z,Living World Season 4
 8545,Enchanted Winter Antlers,Armor,Basic,Heavy,2018-12-25T18:43:13Z,Living World Season 4
 8586,Caithe's Crystal Bloom Sword,Weapon,Basic,,2019-01-12T10:04:23Z,Living World Season 4
+8617,Exalted Shoulders,Armor,Rare,Medium,2019-01-22T18:27:40Z,Living World Season 4
+8618,Exalted Shoulders,Armor,Rare,Light,2019-01-22T18:35:55Z,Living World Season 4
+8621,Exalted Shoulders,Armor,Rare,Heavy,2019-01-22T18:37:04Z,Living World Season 4
 8623,Lucky Boar Lantern,Back,Rare,,2019-01-22T19:23:18Z,Living World Season 4
 8624,Lucky Great Boar Lantern,Back,Exotic,,2019-01-22T20:27:49Z,Living World Season 4
 8622,Staff of Fortune,Weapon,Basic,,2019-01-22T21:36:33Z,Living World Season 4
@@ -5077,6 +5188,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9227,Warlord's Armguards,Armor,Basic,Light,2020-02-25T21:44:48Z,The Icebrood Saga
 9231,Glacial Mining Tool,Gathering,Basic,,2020-02-25T22:17:54Z,The Icebrood Saga
 9217,Open Warlord's Plate Helm,Armor,Basic,Heavy,2020-02-26T09:55:42Z,The Icebrood Saga
+9226,Maguuma's Mantle,Armor,Basic,Heavy,2020-03-03T16:44:20Z,The Icebrood Saga
+9222,Maguuma's Mantle,Armor,Basic,Light,2020-03-03T16:44:23Z,The Icebrood Saga
+9224,Maguuma's Mantle,Armor,Basic,Medium,2020-03-03T16:44:26Z,The Icebrood Saga
+9219,Maguuma's Grasp,Armor,Basic,Heavy,2020-03-03T16:44:37Z,The Icebrood Saga
+9228,Maguuma's Grasp,Armor,Basic,Light,2020-03-03T16:44:40Z,The Icebrood Saga
+9239,Maguuma's Grasp,Armor,Basic,Medium,2020-03-03T16:44:44Z,The Icebrood Saga
 9241,Ash Legion Staff,Weapon,Basic,,2020-03-17T20:32:06Z,The Icebrood Saga
 9263,Dark Wing Staff,Weapon,Basic,,2020-03-18T03:03:35Z,The Icebrood Saga
 9246,Dark Wing Dagger,Weapon,Basic,,2020-03-18T03:05:03Z,The Icebrood Saga
@@ -5096,6 +5213,18 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9288,Dark Wing Torch,Weapon,Basic,,2020-03-18T03:24:29Z,The Icebrood Saga
 9294,Dark Wing Focus,Weapon,Basic,,2020-03-18T03:25:27Z,The Icebrood Saga
 9252,Banner of the Steel Warband,Back,Basic,,2020-03-18T13:09:16Z,The Icebrood Saga
+9248,Stone Summit Helmet,Armor,Basic,Heavy,2020-03-18T15:02:27Z,The Icebrood Saga
+9277,Stone Summit Helmet,Armor,Basic,Medium,2020-03-18T15:06:05Z,The Icebrood Saga
+9258,Stone Summit Helmet,Armor,Basic,Light,2020-03-18T15:08:08Z,The Icebrood Saga
+9284,Stone Summit Pauldrons,Armor,Basic,Light,2020-03-18T15:10:27Z,The Icebrood Saga
+9259,Stone Summit Pauldrons,Armor,Basic,Heavy,2020-03-18T15:12:15Z,The Icebrood Saga
+9311,Stone Summit Pauldrons,Armor,Basic,Medium,2020-03-18T15:13:18Z,The Icebrood Saga
+9276,Stone Summit Gauntlets,Armor,Basic,Heavy,2020-03-18T15:16:08Z,The Icebrood Saga
+9279,Stone Summit Gauntlets,Armor,Basic,Medium,2020-03-18T15:17:45Z,The Icebrood Saga
+9262,Stone Summit Gauntlets,Armor,Basic,Light,2020-03-18T15:19:12Z,The Icebrood Saga
+9316,Stone Summit Boots,Armor,Basic,Heavy,2020-03-18T15:20:41Z,The Icebrood Saga
+9307,Stone Summit Boots,Armor,Basic,Medium,2020-03-18T15:22:06Z,The Icebrood Saga
+9327,Stone Summit Boots,Armor,Basic,Light,2020-03-18T15:23:58Z,The Icebrood Saga
 9272,Abyss Stalker Cape,Back,Masterwork,,2020-03-24T17:31:12Z,The Icebrood Saga
 9331,Dreamwalker Scythe,Weapon,Basic,,2020-03-31T16:54:32Z,The Icebrood Saga
 7315,Vengeance,Weapon,Basic,,2020-04-04T22:31:30Z,The Icebrood Saga
@@ -5126,6 +5255,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9346,Glitched Adventure Staff,Weapon,Basic,,2020-04-14T19:34:36Z,The Icebrood Saga
 9354,Glitched Adventure Shield,Weapon,Basic,,2020-04-14T19:36:32Z,The Icebrood Saga
 9344,Glitched Adventure Pistol,Weapon,Basic,,2020-04-14T19:38:00Z,The Icebrood Saga
+9343,Maguuma's Treads,Armor,Basic,Heavy,2020-04-21T17:33:38Z,The Icebrood Saga
+9350,Maguuma's Treads,Armor,Basic,Light,2020-04-21T17:33:40Z,The Icebrood Saga
+9339,Maguuma's Treads,Armor,Basic,Medium,2020-04-21T17:33:43Z,The Icebrood Saga
 9363,Prince Rurik's Vanguard Cape,Back,Masterwork,,2020-04-28T17:33:13Z,The Icebrood Saga
 9364,Draconic Wings Backpack,Back,Basic,,2020-04-28T17:37:44Z,The Icebrood Saga
 9376,Seven Reapers Grasps,Armor,Basic,Heavy,2020-05-26T16:25:06Z,The Icebrood Saga
@@ -5153,6 +5285,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9373,Ice Reaver Mace,Weapon,Basic,,2020-05-27T04:51:18Z,The Icebrood Saga
 9372,Ice Reaver Shield,Weapon,Basic,,2020-05-27T04:51:56Z,The Icebrood Saga
 9370,Ice Reaver Longbow,Weapon,Basic,,2020-05-27T04:52:37Z,The Icebrood Saga
+9429,Blood Legion Soldier Helm,Armor,Basic,Light,2020-05-27T10:45:45Z,The Icebrood Saga
+9439,Blood Legion Soldier Helm,Armor,Basic,Medium,2020-05-27T10:47:38Z,The Icebrood Saga
+9436,Blood Legion Soldier Helm,Armor,Basic,Heavy,2020-05-27T10:51:00Z,The Icebrood Saga
+9421,Charr War Mask,Armor,Basic,Light,2020-05-27T10:54:52Z,The Icebrood Saga
+9443,Charr War Mask,Armor,Basic,Heavy,2020-05-27T10:56:36Z,The Icebrood Saga
+9428,Charr War Mask,Armor,Basic,Medium,2020-05-27T10:56:51Z,The Icebrood Saga
 9388,Stormcaller Pistol,Weapon,Basic,,2020-05-27T11:11:21Z,The Icebrood Saga
 9397,Repeating Rifle,Weapon,Basic,,2020-05-27T11:54:33Z,The Icebrood Saga
 9426,Stormcaller Shield,Weapon,Basic,,2020-05-27T11:57:00Z,The Icebrood Saga
@@ -5195,6 +5333,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 8512,Racing Helmet,Armor,Basic,Light,2020-06-28T01:51:26Z,The Icebrood Saga
 8513,Racing Helmet,Armor,Basic,Medium,2020-06-28T01:51:26Z,The Icebrood Saga
 8515,Racing Helmet,Armor,Basic,Heavy,2020-06-28T01:51:26Z,The Icebrood Saga
+9452,Aurene's Crystalline Diadem,Armor,Basic,Light,2020-06-30T19:22:47Z,The Icebrood Saga
+9464,Aurene's Crystalline Diadem,Armor,Basic,Heavy,2020-06-30T19:23:15Z,The Icebrood Saga
+9458,Aurene's Crystalline Diadem,Armor,Basic,Medium,2020-06-30T19:23:36Z,The Icebrood Saga
 9474,Spellforged Backpack,Back,Basic,,2020-07-07T17:08:46Z,The Icebrood Saga
 9476,Wolfheart Sword,Weapon,Basic,,2020-07-22T11:34:53Z,The Icebrood Saga
 9477,Wolfheart Shield,Weapon,Basic,,2020-07-22T11:37:04Z,The Icebrood Saga
@@ -5234,6 +5375,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9534,Charged Stormcaller Rifle,Weapon,Basic,,2020-07-29T09:30:09Z,The Icebrood Saga
 9510,Charged Stormcaller Warhorn,Weapon,Basic,,2020-07-29T09:38:17Z,The Icebrood Saga
 9516,Charged Stormcaller Longbow,Weapon,Basic,,2020-07-29T10:35:10Z,The Icebrood Saga
+9523,Dominion Tribune Manica,Armor,Basic,Heavy,2020-07-29T10:44:25Z,The Icebrood Saga
+9503,Dominion Tribune Manica,Armor,Basic,Medium,2020-07-29T10:44:50Z,The Icebrood Saga
+9526,Dominion Tribune Manica,Armor,Basic,Light,2020-07-29T10:45:07Z,The Icebrood Saga
 9536,Charged Stormcaller Hammer,Weapon,Basic,,2020-07-29T11:13:10Z,The Icebrood Saga
 9527,Charged Stormcaller Mace,Weapon,Basic,,2020-07-29T11:31:11Z,The Icebrood Saga
 9483,Ice Reaver Cape,Back,Masterwork,,2020-08-04T16:48:38Z,The Icebrood Saga
@@ -5257,6 +5401,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9546,Sun-Blessed Vision,Armor,Basic,Medium,2020-08-11T19:00:36Z,The Icebrood Saga
 9555,Sun-Blessed Vision,Armor,Basic,Heavy,2020-08-11T19:00:36Z,The Icebrood Saga
 9541,Sun-Blessed Zephyrite Scepter,Weapon,Basic,,2020-08-11T20:01:51Z,The Icebrood Saga
+9554,Ice Reaver Pauldrons,Armor,Basic,Light,2020-08-15T18:14:51Z,The Icebrood Saga
+9559,Ice Reaver Pauldrons,Armor,Basic,Heavy,2020-08-15T18:14:53Z,The Icebrood Saga
+9551,Ice Reaver Pauldrons,Armor,Basic,Medium,2020-08-15T18:14:56Z,The Icebrood Saga
 9577,Ebon Vanguard Elite Shoulders Skin,Armor,Basic,Medium,2020-08-25T23:00:08Z,The Icebrood Saga
 9580,Ebon Vanguard Elite Shoulders Skin,Armor,Basic,Light,2020-08-25T23:00:08Z,The Icebrood Saga
 9581,Ebon Vanguard Elite Shoulders Skin,Armor,Basic,Heavy,2020-08-25T23:00:08Z,The Icebrood Saga
@@ -5385,6 +5532,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9708,Dragon Slayer Warhorn,Weapon,Basic,,2020-11-18T00:19:11Z,The Icebrood Saga
 9715,Dragon Slayer Greatsword,Weapon,Basic,,2020-11-18T00:19:26Z,The Icebrood Saga
 9698,Dragon Slayer Hammer,Weapon,Basic,,2020-11-18T00:19:53Z,The Icebrood Saga
+9695,Conjured Starlight Hat,Armor,Basic,Heavy,2020-11-24T17:54:50Z,The Icebrood Saga
+9699,Conjured Starlight Hat,Armor,Basic,Medium,2020-11-24T17:55:27Z,The Icebrood Saga
+9707,Conjured Starlight Hat,Armor,Basic,Light,2020-11-24T17:55:57Z,The Icebrood Saga
 9717,Herald of Aurene Cape,Back,Masterwork,,2020-12-01T18:06:30Z,The Icebrood Saga
 9721,Spirit of Raven Harvesting Tool,Gathering,Basic,,2020-12-08T18:06:45Z,The Icebrood Saga
 9718,Spirit of Wolf Logging Tool,Gathering,Basic,,2020-12-08T18:08:29Z,The Icebrood Saga
@@ -5455,7 +5605,13 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9733,Stylish Shoes,Armor,Basic,Medium,2020-12-29T17:43:54Z,The Icebrood Saga
 9757,Stylish Shoes,Armor,Basic,Heavy,2020-12-29T17:43:54Z,The Icebrood Saga
 9779,Stylish Shoes,Armor,Basic,Light,2020-12-29T17:43:54Z,The Icebrood Saga
+9789,Tempest Gaze,Armor,Basic,Heavy,2021-01-05T18:58:01Z,The Icebrood Saga
+9790,Tempest Gaze,Armor,Basic,Medium,2021-01-05T18:58:44Z,The Icebrood Saga
+9792,Tempest Gaze,Armor,Basic,Light,2021-01-05T18:59:26Z,The Icebrood Saga
 9791,Dragon Spirit Focus,Weapon,Basic,,2021-01-12T17:11:40Z,The Icebrood Saga
+9831,Ice Reaver Greaves,Armor,Basic,Medium,2021-01-19T18:55:28Z,The Icebrood Saga
+9823,Ice Reaver Greaves,Armor,Basic,Heavy,2021-01-19T18:55:31Z,The Icebrood Saga
+9794,Ice Reaver Greaves,Armor,Basic,Light,2021-01-19T18:55:35Z,The Icebrood Saga
 9812,Azure Dragon Slayer Axe,Weapon,Basic,,2021-01-20T01:58:42Z,The Icebrood Saga
 9811,Azure Dragon Slayer Dagger,Weapon,Basic,,2021-01-20T02:04:51Z,The Icebrood Saga
 9819,Azure Dragon Slayer Focus,Weapon,Basic,,2021-01-20T16:18:07Z,The Icebrood Saga
@@ -5488,6 +5644,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9830,Crimson Dragon Slayer Sword,Weapon,Basic,,2021-01-20T16:30:38Z,The Icebrood Saga
 9825,Crimson Dragon Slayer Torch,Weapon,Basic,,2021-01-20T16:30:43Z,The Icebrood Saga
 9806,Crimson Dragon Slayer Warhorn,Weapon,Basic,,2021-01-20T16:30:51Z,The Icebrood Saga
+9796,Dusk and Dawn Shoulders,Armor,Basic,Heavy,2021-01-26T18:15:56Z,The Icebrood Saga
+9817,Dusk and Dawn Shoulders,Armor,Basic,Light,2021-01-26T18:16:32Z,The Icebrood Saga
+9820,Dusk and Dawn Shoulders,Armor,Basic,Medium,2021-01-26T18:17:07Z,The Icebrood Saga
 9838,Lucky Great Ox Lantern,Back,Exotic,,2021-02-02T21:16:09Z,The Icebrood Saga
 9883,Lucky Ox Lantern,Back,Rare,,2021-02-02T22:33:48Z,The Icebrood Saga
 9876,Lunar-Enchanted Feathered Gloves,Armor,Basic,Light,2021-02-02T22:45:58Z,The Icebrood Saga
@@ -5546,6 +5705,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9851,Infused Katana,Weapon,Basic,,2021-02-17T00:55:41Z,The Icebrood Saga
 9842,Infused Wakizashi,Weapon,Basic,,2021-02-17T00:58:49Z,The Icebrood Saga
 9892,Ravensoul Dagger,Weapon,Basic,,2021-02-23T19:36:56Z,The Icebrood Saga
+9894,Seven Reapers Pauldrons,Armor,Basic,Medium,2021-02-23T19:46:11Z,The Icebrood Saga
+9891,Seven Reapers Pauldrons,Armor,Basic,Light,2021-02-23T19:46:15Z,The Icebrood Saga
+9890,Seven Reapers Pauldrons,Armor,Basic,Heavy,2021-02-23T19:46:18Z,The Icebrood Saga
 9671,Volcanic Backpack,Back,Basic,,2021-02-25T03:44:17Z,The Icebrood Saga
 9893,Eternal Mandala Backpack,Back,Basic,,2021-03-03T13:16:53Z,The Icebrood Saga
 9912,Tengu Axe,Weapon,Basic,,2021-03-10T00:20:42Z,The Icebrood Saga
@@ -5639,7 +5801,16 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 9969,Giant Shuriken Backpack,Back,Basic,,2021-04-21T15:41:54Z,The Icebrood Saga
 9995,Spellfire Torch,Weapon,Basic,,2021-04-27T22:16:24Z,The Icebrood Saga
 9992,Seraph Wings Backpack,Back,Basic,,2021-04-28T00:57:39Z,The Icebrood Saga
+9989,Ice Reaver Helm,Armor,Basic,Medium,2021-05-04T23:22:21Z,The Icebrood Saga
+9996,Ice Reaver Helm,Armor,Basic,Light,2021-05-04T23:22:59Z,The Icebrood Saga
+9997,Ice Reaver Helm,Armor,Basic,Heavy,2021-05-04T23:23:19Z,The Icebrood Saga
 9999,Cute Demon Wings Backpack,Back,Basic,,2021-05-11T17:25:14Z,The Icebrood Saga
+10001,Ice Reaver Legguards,Armor,Basic,Light,2021-05-18T22:01:04Z,The Icebrood Saga
+10003,Ice Reaver Legguards,Armor,Basic,Medium,2021-05-18T22:02:12Z,The Icebrood Saga
+10000,Ice Reaver Legguards,Armor,Basic,Heavy,2021-05-18T22:02:16Z,The Icebrood Saga
+9998,Ice Reaver Chestguard,Armor,Basic,Heavy,2021-05-18T22:07:20Z,The Icebrood Saga
+10002,Ice Reaver Chestguard,Armor,Basic,Medium,2021-05-18T22:07:22Z,The Icebrood Saga
+10004,Ice Reaver Chestguard,Armor,Basic,Light,2021-05-18T22:07:25Z,The Icebrood Saga
 10005,Starborn Cape,Back,Masterwork,,2021-05-25T18:29:28Z,The Icebrood Saga
 10006,Shatterspark Shoulders,Armor,Basic,Heavy,2021-06-02T00:01:40Z,The Icebrood Saga
 10007,Shatterspark Shoulders,Armor,Basic,Medium,2021-06-02T00:01:40Z,The Icebrood Saga
@@ -5665,6 +5836,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10030,Maguuma Dagger,Weapon,Basic,,2021-06-22T21:58:55Z,The Icebrood Saga
 10037,Maguuma Axe,Weapon,Basic,,2021-06-22T21:59:16Z,The Icebrood Saga
 10014,Maguuma Short Bow,Weapon,Basic,,2021-06-22T21:59:37Z,The Icebrood Saga
+10038,Pyre Horns,Armor,Basic,Light,2021-06-24T14:12:38Z,The Icebrood Saga
+10020,Pyre Horns,Armor,Basic,Medium,2021-06-24T14:12:41Z,The Icebrood Saga
+10019,Pyre Horns,Armor,Basic,Heavy,2021-06-24T14:12:43Z,The Icebrood Saga
 10021,Holographic Dragon Gloves,Armor,Basic,Medium,2021-06-25T20:57:02Z,The Icebrood Saga
 10026,Holographic Dragon Gloves,Armor,Basic,Heavy,2021-06-25T20:57:02Z,The Icebrood Saga
 10028,Holographic Dragon Gloves,Armor,Basic,Light,2021-06-25T20:57:02Z,The Icebrood Saga
@@ -5673,6 +5847,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10031,Shatterspark Gloves,Armor,Basic,Light,2021-06-29T16:51:59Z,The Icebrood Saga
 10012,Dreamwalker Longbow,Weapon,Basic,,2021-07-06T17:49:12Z,The Icebrood Saga
 10045,Archdemon Wings Backpack,Back,Basic,,2021-07-13T18:59:39Z,The Icebrood Saga
+10043,Ghost of the Deep Spaulders,Armor,Basic,Heavy,2021-07-13T20:53:35Z,The Icebrood Saga
+10046,Ghost of the Deep Spaulders,Armor,Basic,Medium,2021-07-13T20:53:37Z,The Icebrood Saga
+10044,Ghost of the Deep Spaulders,Armor,Basic,Light,2021-07-13T20:53:39Z,The Icebrood Saga
 10042,Devil-Rending Axe,Weapon,Basic,,2021-07-20T19:14:03Z,The Icebrood Saga
 10084,Aurene Logo Cape,Back,Masterwork,,2021-07-30T02:06:25Z,The Icebrood Saga
 10052,Swaggering Boots,Armor,Basic,Light,2021-08-03T19:10:43Z,The Icebrood Saga
@@ -5700,6 +5877,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10078,Vermilion Longbow,Weapon,Basic,,2021-08-18T11:13:20Z,The Icebrood Saga
 10088,Dragon Emblem Cape,Back,Masterwork,,2021-08-24T04:29:49Z,The Icebrood Saga
 10077,Baleful Dragon Pistol,Weapon,Basic,,2021-08-25T11:04:37Z,The Icebrood Saga
+10081,Immortal Fire Nimbus,Armor,Basic,Heavy,2021-08-25T11:13:09Z,The Icebrood Saga
+10074,Immortal Fire Nimbus,Armor,Basic,Medium,2021-08-25T11:13:14Z,The Icebrood Saga
+10097,Immortal Fire Nimbus,Armor,Basic,Light,2021-08-25T11:13:17Z,The Icebrood Saga
+10094,Immortal Light Nimbus,Armor,Basic,Light,2021-08-25T11:18:21Z,The Icebrood Saga
+10080,Immortal Light Nimbus,Armor,Basic,Medium,2021-08-25T11:18:23Z,The Icebrood Saga
+10086,Immortal Light Nimbus,Armor,Basic,Heavy,2021-08-25T11:18:25Z,The Icebrood Saga
 10104,Tempest Cape,Back,Masterwork,,2021-08-31T20:40:40Z,The Icebrood Saga
 10099,Plate-Winged Scarab,Weapon,Basic,,2021-08-31T21:04:05Z,The Icebrood Saga
 10108,Sea Night's Flame,Weapon,Basic,,2021-08-31T21:09:39Z,The Icebrood Saga
@@ -5707,14 +5890,32 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10102,Zephyrite Traveling Boots,Armor,Basic,Medium,2021-08-31T21:32:44Z,The Icebrood Saga
 10103,Zephyrite Traveling Boots,Armor,Basic,Light,2021-08-31T21:32:44Z,The Icebrood Saga
 10107,Zephyrite Traveling Boots,Armor,Basic,Heavy,2021-08-31T21:32:44Z,The Icebrood Saga
+10100,Seven Reapers Greaves,Armor,Basic,Light,2021-08-31T23:14:54Z,The Icebrood Saga
+10098,Seven Reapers Greaves,Armor,Basic,Medium,2021-08-31T23:15:34Z,The Icebrood Saga
+10106,Seven Reapers Greaves,Armor,Basic,Heavy,2021-08-31T23:16:09Z,The Icebrood Saga
 10105,Sylph Wings Backpack,Back,Basic,,2021-09-14T20:59:38Z,The Icebrood Saga
 10113,Comet Hammer,Weapon,Basic,,2021-09-21T22:25:30Z,The Icebrood Saga
+10117,Immortal Fire Ring,Armor,Basic,Heavy,2021-09-28T20:56:25Z,The Icebrood Saga
+10115,Immortal Fire Ring,Armor,Basic,Medium,2021-09-28T20:57:13Z,The Icebrood Saga
+10116,Immortal Fire Ring,Armor,Basic,Light,2021-09-28T20:57:43Z,The Icebrood Saga
+10112,Immortal Light Ring,Armor,Basic,Heavy,2021-09-28T21:02:12Z,The Icebrood Saga
+10109,Immortal Light Ring,Armor,Basic,Medium,2021-09-28T21:02:48Z,The Icebrood Saga
+10111,Immortal Light Ring,Armor,Basic,Light,2021-09-29T00:44:27Z,The Icebrood Saga
+10131,Seven Reapers Helm,Armor,Basic,Heavy,2021-10-05T22:30:06Z,The Icebrood Saga
+10129,Seven Reapers Helm,Armor,Basic,Medium,2021-10-05T22:30:33Z,The Icebrood Saga
+10124,Seven Reapers Helm,Armor,Basic,Light,2021-10-05T22:31:04Z,The Icebrood Saga
 10122,Grasping Gaze Shoulders,Armor,Basic,Heavy,2021-10-05T22:52:03Z,The Icebrood Saga
 10128,Grasping Gaze Shoulders,Armor,Basic,Medium,2021-10-05T22:52:03Z,The Icebrood Saga
 10134,Grasping Gaze Shoulders,Armor,Basic,Light,2021-10-05T22:52:03Z,The Icebrood Saga
 10121,Corroding Abyss,Weapon,Basic,,2021-10-05T23:24:45Z,The Icebrood Saga
 10132,Luminous Wings,Weapon,Basic,,2021-10-05T23:24:48Z,The Icebrood Saga
 10130,Barbed Refuge,Weapon,Basic,,2021-10-05T23:25:21Z,The Icebrood Saga
+10133,Foefire Legwraps,Armor,Basic,Heavy,2021-10-12T20:10:38Z,The Icebrood Saga
+10127,Foefire Legwraps,Armor,Basic,Medium,2021-10-12T20:10:45Z,The Icebrood Saga
+10120,Foefire Legwraps,Armor,Basic,Light,2021-10-12T20:10:50Z,The Icebrood Saga
+10126,Foefire Chestguard,Armor,Basic,Heavy,2021-10-12T20:16:26Z,The Icebrood Saga
+10123,Foefire Chestguard,Armor,Basic,Medium,2021-10-12T20:16:33Z,The Icebrood Saga
+10125,Foefire Chestguard,Armor,Basic,Light,2021-10-12T20:16:42Z,The Icebrood Saga
 10149,Venombite Wings Backpack,Back,Basic,,2021-10-26T20:59:15Z,The Icebrood Saga
 10152,Venombite Warhorn,Weapon,Basic,,2021-10-26T21:06:28Z,The Icebrood Saga
 10142,Venombite Torch,Weapon,Basic,,2021-10-26T21:13:28Z,The Icebrood Saga
@@ -5737,6 +5938,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10156,Forest Archer Cape,Back,Masterwork,,2021-11-16T17:35:05Z,The Icebrood Saga
 10161,Forest Scout Cape,Back,Masterwork,,2021-11-16T17:37:02Z,The Icebrood Saga
 10159,Forest Archer Quiver,Back,Masterwork,,2021-11-16T17:38:08Z,The Icebrood Saga
+10155,Pyre Circlet,Armor,Basic,Heavy,2021-11-18T19:49:15Z,The Icebrood Saga
+10160,Pyre Circlet,Armor,Basic,Medium,2021-11-18T19:49:18Z,The Icebrood Saga
+10157,Pyre Circlet,Armor,Basic,Light,2021-11-18T19:49:21Z,The Icebrood Saga
 10158,Teatime,Weapon,Basic,,2021-11-23T17:21:24Z,The Icebrood Saga
 10164,Wandering Weapon Master Cape,Back,Masterwork,,2021-12-07T19:20:34Z,The Icebrood Saga
 10218,Embellished Wintersday Gift Bag,Back,Basic,,2021-12-14T20:46:44Z,The Icebrood Saga
@@ -5744,6 +5948,7 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10185,Dwayna's Promise,Weapon,Basic,,2021-12-14T21:08:39Z,The Icebrood Saga
 10217,Custom Candy Cane Hammer,Weapon,Basic,,2021-12-14T21:09:59Z,The Icebrood Saga
 10187,Abyss Stalker Sword,Weapon,Basic,,2021-12-14T21:21:07Z,The Icebrood Saga
+10201,Icy Demon Horns,Armor,Basic,Heavy,2021-12-14T21:31:48Z,The Icebrood Saga
 10219,Lunar Backpack,Back,Basic,,2021-12-14T21:52:27Z,The Icebrood Saga
 10222,Abyss Stalker Axe,Weapon,Basic,,2021-12-14T23:31:03Z,The Icebrood Saga
 10210,Abyss Stalker Dagger,Weapon,Basic,,2021-12-14T23:31:14Z,The Icebrood Saga
@@ -5760,12 +5965,17 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10224,Abyss Stalker Staff,Weapon,Basic,,2021-12-14T23:36:31Z,The Icebrood Saga
 10196,Abyss Stalker Torch,Weapon,Basic,,2021-12-14T23:37:35Z,The Icebrood Saga
 10180,Abyss Stalker Warhorn,Weapon,Basic,,2021-12-14T23:38:17Z,The Icebrood Saga
+10214,Icy Demon Horns,Armor,Basic,Medium,2021-12-14T23:41:35Z,The Icebrood Saga
+10173,Icy Demon Horns,Armor,Basic,Light,2021-12-14T23:42:03Z,The Icebrood Saga
 10194,Wintergreen Custom Candy Cane Hammer,Weapon,Basic,,2021-12-14T23:43:16Z,The Icebrood Saga
 10206,Lucky Tiger Lantern,Back,Rare,,2021-12-19T14:55:42Z,The Icebrood Saga
 8769,Crescent Steel,Weapon,Basic,,2021-12-19T14:58:13Z,The Icebrood Saga
 10183,Lucky Great Tiger Lantern,Back,Exotic,,2021-12-19T15:01:36Z,The Icebrood Saga
 10195,Gatherer's Fortune,Weapon,Basic,,2021-12-19T15:03:16Z,The Icebrood Saga
 10226,Inherited Flame,Weapon,Basic,,2021-12-19T15:10:05Z,The Icebrood Saga
+10182,Foefire Mask,Armor,Basic,Heavy,2021-12-21T23:27:30Z,The Icebrood Saga
+10211,Foefire Mask,Armor,Basic,Medium,2021-12-21T23:28:27Z,The Icebrood Saga
+10198,Foefire Mask,Armor,Basic,Light,2021-12-21T23:31:30Z,The Icebrood Saga
 10200,Aurene Wings Backpack,Back,Basic,,2021-12-30T13:16:06Z,The Icebrood Saga
 10192,Shatterspark Cape,Back,Masterwork,,2022-01-11T17:47:45Z,The Icebrood Saga
 10223,Shatterspark Sword,Weapon,Basic,,2022-01-11T18:44:58Z,The Icebrood Saga
@@ -5841,6 +6051,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10456,Ancient Canthan Medium Shoulderpads,Armor,Basic,Medium,2022-03-05T17:52:30Z,End of Dragons
 10518,Ancient Canthan Medium Helm,Armor,Basic,Medium,2022-03-06T16:29:35Z,End of Dragons
 10757,Ancient Canthan Medium Boots,Armor,Basic,Medium,2022-03-07T20:31:32Z,End of Dragons
+10255,Angler Hat,Armor,Basic,Heavy,2022-03-08T03:36:27Z,End of Dragons
+10312,Angler Hat,Armor,Basic,Medium,2022-03-08T03:36:28Z,End of Dragons
+10377,Angler Hat,Armor,Basic,Light,2022-03-08T03:36:32Z,End of Dragons
+10484,Angler Vest,Armor,Basic,Heavy,2022-03-08T03:40:23Z,End of Dragons
+10291,Angler Vest,Armor,Basic,Medium,2022-03-08T03:40:28Z,End of Dragons
+10643,Angler Vest,Armor,Basic,Light,2022-03-08T03:40:32Z,End of Dragons
 10638,Gold Essence Axe,Weapon,Basic,,2022-03-10T20:32:06Z,End of Dragons
 10743,Ancient Canthan Light Helm,Armor,Basic,Light,2022-03-11T13:55:11Z,End of Dragons
 10644,Ancient Canthan Helm,Armor,Basic,Heavy,2022-03-11T13:57:44Z,End of Dragons
@@ -5854,6 +6070,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10330,Aetherblade Blindfold,Armor,Basic,Medium,2022-03-11T17:37:47Z,End of Dragons
 10357,Aetherblade Blindfold,Armor,Basic,Light,2022-03-11T17:37:47Z,End of Dragons
 10471,Aetherblade Blindfold,Armor,Basic,Heavy,2022-03-11T17:37:47Z,End of Dragons
+10631,Left Oni Arm,Armor,Basic,Light,2022-03-11T20:17:02Z,End of Dragons
+10230,Left Oni Arm,Armor,Basic,Heavy,2022-03-11T20:17:07Z,End of Dragons
+10594,Left Oni Arm,Armor,Basic,Medium,2022-03-11T20:17:08Z,End of Dragons
 10256,Ancient Ritualist Cowl,Armor,Basic,Light,2022-03-11T20:23:41Z,End of Dragons
 10658,Ancient Ritualist Vestments,Armor,Basic,Light,2022-03-11T20:27:48Z,End of Dragons
 10508,Ancient Ritualist Gloves,Armor,Basic,Light,2022-03-11T20:29:34Z,End of Dragons
@@ -5943,6 +6162,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10374,Jade Tech Light Boots,Armor,Basic,Light,2022-03-15T23:51:33Z,End of Dragons
 10612,Jade Tech Masque,Armor,Basic,Light,2022-03-15T23:53:47Z,End of Dragons
 10763,Prayer Strip,Weapon,Basic,,2022-03-24T14:48:24Z,End of Dragons
+10765,Canthan Sun Hat,Armor,Basic,Heavy,2022-03-24T20:57:22Z,End of Dragons
+10761,Canthan Sun Hat,Armor,Basic,Medium,2022-03-24T20:58:10Z,End of Dragons
+10764,Canthan Sun Hat,Armor,Basic,Light,2022-03-24T20:58:36Z,End of Dragons
+10454,Prayer Bead Wraps,Armor,Basic,Heavy,2022-03-25T21:32:29Z,End of Dragons
+10641,Prayer Bead Wraps,Armor,Basic,Medium,2022-03-25T21:33:03Z,End of Dragons
+10584,Prayer Bead Wraps,Armor,Basic,Light,2022-03-25T21:33:16Z,End of Dragons
 10790,Reality Rig Mk1,Armor,Basic,Medium,2022-03-29T18:19:46Z,End of Dragons
 10795,Reality Rig Mk1,Armor,Basic,Light,2022-03-29T18:19:46Z,End of Dragons
 10797,Reality Rig Mk1,Armor,Basic,Heavy,2022-03-29T18:19:46Z,End of Dragons
@@ -6041,6 +6266,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10838,Vermilion Vambraces,Armor,Basic,Heavy,2022-06-08T01:56:08Z,End of Dragons
 10839,Vermilion Vambraces,Armor,Basic,Medium,2022-06-08T01:56:08Z,End of Dragons
 10840,Vermilion Vambraces,Armor,Basic,Light,2022-06-08T01:56:08Z,End of Dragons
+10849,Mystical Dragon Horns,Armor,Basic,Heavy,2022-06-08T03:16:09Z,End of Dragons
+10867,Mystical Dragon Horns,Armor,Basic,Light,2022-06-08T12:32:46Z,End of Dragons
+10847,Mystical Dragon Horns,Armor,Basic,Medium,2022-06-08T12:32:51Z,End of Dragons
 9457,Holographic Dragon Shoulders,Armor,Basic,Light,2022-06-08T12:45:32Z,End of Dragons
 9460,Holographic Dragon Shoulders,Armor,Basic,Medium,2022-06-08T12:45:32Z,End of Dragons
 9472,Holographic Dragon Shoulders,Armor,Basic,Heavy,2022-06-08T12:45:32Z,End of Dragons
@@ -6048,6 +6276,7 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10866,Holographic Dragon Greaves,Armor,Basic,Light,2022-06-08T12:46:39Z,End of Dragons
 10875,Holographic Dragon Greaves,Armor,Basic,Heavy,2022-06-08T12:46:39Z,End of Dragons
 8759,Leech,Weapon,Basic,,2022-06-12T21:08:34Z,End of Dragons
+10852,Unicorn Horn,Armor,Basic,Heavy,2022-06-24T20:36:39Z,End of Dragons
 10537,Mordremoth's Scale,Weapon,Legendary,,2022-06-28T22:22:00Z,End of Dragons
 10415,Mordremoth's Voice,Weapon,Legendary,,2022-06-28T22:29:58Z,End of Dragons
 10499,Mordremoth's Rending,Weapon,Legendary,,2022-06-28T22:43:50Z,End of Dragons
@@ -6081,7 +6310,15 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10892,Fox Fire Pistol,Weapon,Basic,,2022-06-30T00:38:45Z,End of Dragons
 10884,Fox Fire Greatsword,Weapon,Basic,,2022-06-30T00:41:14Z,End of Dragons
 10893,Fox Fire Dagger,Weapon,Basic,,2022-06-30T00:45:03Z,End of Dragons
+10897,Jade Prosthesis Gauntlet,Armor,Basic,Heavy,2022-06-30T09:30:00Z,End of Dragons
+10880,Jade Prosthesis Gauntlet,Armor,Basic,Medium,2022-06-30T09:30:52Z,End of Dragons
+10896,Jade Prosthesis Gauntlet,Armor,Basic,Light,2022-06-30T09:31:19Z,End of Dragons
 10888,New Kaineng Cape,Back,Basic,,2022-07-05T21:18:35Z,End of Dragons
+10853,Unicorn Horn,Armor,Basic,Medium,2022-07-08T15:36:02Z,End of Dragons
+10846,Unicorn Horn,Armor,Basic,Light,2022-07-08T15:36:35Z,End of Dragons
+10865,Magical Unicorn Horn,Armor,Basic,Heavy,2022-07-08T15:38:05Z,End of Dragons
+10862,Magical Unicorn Horn,Armor,Basic,Medium,2022-07-08T15:38:38Z,End of Dragons
+10854,Magical Unicorn Horn,Armor,Basic,Light,2022-07-08T15:39:10Z,End of Dragons
 10886,Red Crane Fishing Rod,Gathering,Basic,,2022-07-12T17:23:52Z,End of Dragons
 10902,Tropical Feathered Cape,Back,Masterwork,,2022-07-19T18:24:05Z,End of Dragons
 10927,Water Dragon Greaves,Armor,Basic,Heavy,2022-08-02T18:01:15Z,End of Dragons
@@ -6139,6 +6376,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10961,Water Dragon Spear,Weapon,Basic,,2022-08-09T17:10:57Z,End of Dragons
 10912,Water Dragon Wings Backpack,Back,Basic,,2022-08-09T17:24:43Z,End of Dragons
 10881,Holographic Koi,Back,Basic,,2022-08-11T21:27:01Z,End of Dragons
+10906,Water Dragon Pauldrons,Armor,Basic,Light,2022-08-13T17:48:48Z,End of Dragons
+10916,Water Dragon Pauldrons,Armor,Basic,Medium,2022-08-13T17:48:49Z,End of Dragons
+10925,Water Dragon Pauldrons,Armor,Basic,Heavy,2022-08-13T17:48:51Z,End of Dragons
+10924,Water Dragon Helm,Armor,Basic,Heavy,2022-08-13T17:51:17Z,End of Dragons
+10918,Water Dragon Helm,Armor,Basic,Medium,2022-08-13T17:51:19Z,End of Dragons
+10967,Water Dragon Helm,Armor,Basic,Light,2022-08-13T17:51:20Z,End of Dragons
 10957,Geomantic Fishing Rod,Gathering,Basic,,2022-08-16T19:06:04Z,End of Dragons
 10908,Dragon Decade Staff,Weapon,Basic,,2022-08-22T20:24:32Z,End of Dragons
 10936,Dragon Decade Greatsword,Weapon,Basic,,2022-08-22T20:26:38Z,End of Dragons
@@ -6158,16 +6401,46 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10933,Dragon Decade Short Bow,Weapon,Basic,,2022-08-23T09:14:27Z,End of Dragons
 11027,Decade's War,Back,Basic,,2022-08-24T00:05:26Z,End of Dragons
 11025,Decade's Guild,Back,Basic,,2022-08-24T00:28:21Z,End of Dragons
+10981,Decade's Reach,Armor,Basic,Heavy,2022-08-24T16:24:06Z,End of Dragons
+11005,Decade's Reach,Armor,Basic,Medium,2022-08-24T16:24:09Z,End of Dragons
+10974,Decade's Reach,Armor,Basic,Light,2022-08-24T16:24:12Z,End of Dragons
+10976,Decade's Path,Armor,Basic,Heavy,2022-08-24T16:30:26Z,End of Dragons
+10994,Decade's Path,Armor,Basic,Medium,2022-08-24T16:30:28Z,End of Dragons
+10978,Decade's Path,Armor,Basic,Light,2022-08-24T16:30:30Z,End of Dragons
+10982,Decade's Saga,Armor,Basic,Heavy,2022-08-24T16:37:20Z,End of Dragons
+11026,Decade's Saga,Armor,Basic,Medium,2022-08-24T16:37:22Z,End of Dragons
+10995,Decade's Saga,Armor,Basic,Light,2022-08-24T16:37:24Z,End of Dragons
+11018,Decade's End,Armor,Basic,Heavy,2022-08-24T16:40:37Z,End of Dragons
+10991,Decade's End,Armor,Basic,Medium,2022-08-24T16:40:39Z,End of Dragons
+11012,Decade's End,Armor,Basic,Light,2022-08-24T16:40:40Z,End of Dragons
+10996,Decade's Heart,Armor,Basic,Heavy,2022-08-24T16:45:14Z,End of Dragons
+10986,Decade's Heart,Armor,Basic,Medium,2022-08-24T16:45:15Z,End of Dragons
+11031,Decade's Heart,Armor,Basic,Light,2022-08-24T16:45:17Z,End of Dragons
+11009,Decade's Star,Armor,Basic,Heavy,2022-08-24T16:49:02Z,End of Dragons
+11008,Decade's Star,Armor,Basic,Medium,2022-08-24T16:49:04Z,End of Dragons
+11028,Decade's Star,Armor,Basic,Light,2022-08-24T16:49:05Z,End of Dragons
 11001,Etherbound Legguard,Armor,Basic,Light,2022-08-30T17:48:35Z,End of Dragons
 11010,Etherbound Legguard,Armor,Basic,Medium,2022-08-30T17:48:35Z,End of Dragons
 11011,Etherbound Legguard,Armor,Basic,Heavy,2022-08-30T17:48:35Z,End of Dragons
 10980,Etherbound Chestplate,Armor,Basic,Medium,2022-08-30T18:05:03Z,End of Dragons
 11029,Etherbound Chestplate,Armor,Basic,Heavy,2022-08-30T18:05:03Z,End of Dragons
 11030,Etherbound Chestplate,Armor,Basic,Light,2022-08-30T18:05:03Z,End of Dragons
+10969,Water Dragon Crest,Armor,Basic,Heavy,2022-09-06T22:32:10Z,End of Dragons
+10992,Water Dragon Crest,Armor,Basic,Medium,2022-09-06T22:33:54Z,End of Dragons
+10993,Water Dragon Crest,Armor,Basic,Light,2022-09-06T22:34:30Z,End of Dragons
 10990,New Kaineng Greatsword,Weapon,Basic,,2022-09-08T00:53:56Z,End of Dragons
 10970,War Machine Shield,Weapon,Basic,,2022-09-08T02:54:17Z,End of Dragons
 11036,Devil-Rending Greataxe Hammer,Weapon,Basic,,2022-09-14T07:54:43Z,End of Dragons
 11033,Shrine Guardian Fishing Rod,Gathering,Basic,,2022-09-20T19:09:45Z,End of Dragons
+11044,Royal Pointed Ears,Armor,Basic,Heavy,2022-09-20T20:36:43Z,End of Dragons
+11045,Royal Pointed Ears,Armor,Basic,Medium,2022-09-20T20:39:37Z,End of Dragons
+11039,Royal Pointed Ears,Armor,Basic,Light,2022-09-20T20:39:39Z,End of Dragons
+11038,Noble Pointed Ears,Armor,Basic,Heavy,2022-09-20T20:44:04Z,End of Dragons
+11041,Noble Pointed Ears,Armor,Basic,Medium,2022-09-20T20:44:08Z,End of Dragons
+11040,Noble Pointed Ears,Armor,Basic,Light,2022-09-20T20:44:13Z,End of Dragons
+11047,Pointed Ears,Armor,Basic,Light,2022-09-20T20:48:31Z,End of Dragons
+11032,Pointed Ears,Armor,Basic,Medium,2022-09-20T20:48:33Z,End of Dragons
+11035,Pointed Ears,Armor,Basic,Heavy,2022-09-20T20:48:52Z,End of Dragons
 11042,Frostblossom,Weapon,Basic,,2022-09-27T17:35:59Z,End of Dragons
 11004,New Kaineng Sword,Weapon,Basic,,2022-10-04T19:12:08Z,End of Dragons
 10975,New Kaineng Scepter,Weapon,Basic,,2022-10-04T19:25:43Z,End of Dragons
@@ -6203,6 +6476,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11055,Pale Light's Companions,Weapon,Basic,,2022-10-18T19:55:21Z,End of Dragons
 11071,Harvest's Grin,Weapon,Basic,,2022-10-18T19:56:09Z,End of Dragons
 11062,Nightmare Splitter,Weapon,Basic,,2022-10-18T19:56:41Z,End of Dragons
+11080,Seven Reapers Legguards,Armor,Basic,Light,2022-10-18T21:41:06Z,End of Dragons
+11059,Seven Reapers Legguards,Armor,Basic,Heavy,2022-10-18T21:42:07Z,End of Dragons
+11068,Seven Reapers Legguards,Armor,Basic,Medium,2022-10-18T21:42:41Z,End of Dragons
 11082,Chained Axe,Weapon,Basic,,2022-10-19T09:19:11Z,End of Dragons
 11094,Chained Shield,Weapon,Basic,,2022-10-19T09:24:48Z,End of Dragons
 11054,Chained Scepter,Weapon,Basic,,2022-10-19T09:26:29Z,End of Dragons
@@ -6235,6 +6511,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11095,Dokkaebi Longbow,Weapon,Basic,,2022-10-19T10:53:55Z,End of Dragons
 11091,Dokkaebi Short Bow,Weapon,Basic,,2022-10-19T10:54:56Z,End of Dragons
 11081,Dokkaebi Shield,Weapon,Basic,,2022-10-19T10:55:52Z,End of Dragons
+11069,Clawing Shadow Gloves,Armor,Basic,Light,2022-10-19T11:10:14Z,End of Dragons
+11053,Clawing Shadow Gloves,Armor,Basic,Medium,2022-10-19T11:10:52Z,End of Dragons
+11065,Clawing Shadow Gloves,Armor,Basic,Heavy,2022-10-19T11:11:14Z,End of Dragons
 10999,War Machine Axe,Weapon,Basic,,2022-10-20T09:53:31Z,End of Dragons
 11020,War Machine Staff,Weapon,Basic,,2022-10-20T09:55:33Z,End of Dragons
 11017,War Machine Scepter,Weapon,Basic,,2022-10-20T09:56:44Z,End of Dragons
@@ -6257,6 +6536,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11097,Rift Warden Helm,Armor,Basic,Medium,2022-11-01T17:50:29Z,End of Dragons
 11116,Divine Conqueror Cape,Back,Masterwork,,2022-11-09T02:46:53Z,End of Dragons
 11118,Lion Captain's Cape,Back,Basic,,2022-11-09T15:44:39Z,End of Dragons
+11110,Seven Reapers Breastplate,Armor,Basic,Light,2022-11-09T20:56:28Z,End of Dragons
+11134,Seven Reapers Breastplate,Armor,Basic,Medium,2022-11-09T20:58:13Z,End of Dragons
+11113,Seven Reapers Breastplate,Armor,Basic,Heavy,2022-11-09T21:01:05Z,End of Dragons
 11140,Aetherized Arsenite Greatsword,Weapon,Basic,,2022-11-12T08:41:59Z,End of Dragons
 11130,Aetherized Vermilion Greatsword,Weapon,Basic,,2022-11-12T08:42:57Z,End of Dragons
 11107,Aetherized Indigo Greatsword,Weapon,Basic,,2022-11-12T08:43:22Z,End of Dragons
@@ -6267,6 +6549,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11114,Aetherized Arsenite Hammer,Weapon,Basic,,2022-11-12T08:48:28Z,End of Dragons
 11131,Aetherized Indigo Hammer,Weapon,Basic,,2022-11-12T08:48:58Z,End of Dragons
 11125,Lightning Wings Backpack,Back,Basic,,2022-11-15T20:17:21Z,End of Dragons
+11142,Savage Scale Loincloth,Armor,Basic,Heavy,2022-11-23T15:13:25Z,End of Dragons
+11124,Savage Scale Loincloth,Armor,Basic,Medium,2022-11-23T15:13:50Z,End of Dragons
+11100,Savage Scale Loincloth,Armor,Basic,Light,2022-11-23T15:14:23Z,End of Dragons
+11133,Savage Scale Chest,Armor,Basic,Heavy,2022-11-23T23:10:51Z,End of Dragons
+11129,Savage Scale Chest,Armor,Basic,Medium,2022-11-23T23:11:20Z,End of Dragons
+11106,Savage Scale Chest,Armor,Basic,Light,2022-11-23T23:11:45Z,End of Dragons
 10696,Primordus's Rending,Weapon,Legendary,,2022-11-29T21:59:41Z,End of Dragons
 10491,Primordus's Flight,Weapon,Legendary,,2022-11-29T22:00:48Z,End of Dragons
 10287,Primordus's Wing,Weapon,Legendary,,2022-11-29T22:02:00Z,End of Dragons
@@ -6323,7 +6611,19 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11194,Snowdrift Torch,Weapon,Basic,,2022-12-13T18:32:08Z,End of Dragons
 11178,Snowdrift Warhorn,Weapon,Basic,,2022-12-13T18:32:22Z,End of Dragons
 11177,Call of Cheer,Weapon,Basic,,2022-12-13T18:33:28Z,End of Dragons
+11171,Wintersday Snow Boots,Armor,Basic,Heavy,2022-12-13T19:31:12Z,End of Dragons
+11179,Wintersday Snow Boots,Armor,Basic,Medium,2022-12-13T19:31:37Z,End of Dragons
+11184,Wintersday Snow Boots,Armor,Basic,Light,2022-12-13T19:36:03Z,End of Dragons
+11158,Lambent Battlelord's Hood Helm,Armor,Basic,Heavy,2022-12-13T20:41:33Z,End of Dragons
+11143,Lambent Battlelord's Hood Helm,Armor,Basic,Medium,2022-12-13T20:41:37Z,End of Dragons
+11150,Lambent Battlelord's Hood Helm,Armor,Basic,Light,2022-12-13T20:41:40Z,End of Dragons
+11162,Battlelord's Hood Helm,Armor,Basic,Medium,2022-12-13T20:43:01Z,End of Dragons
+11167,Battlelord's Hood Helm,Armor,Basic,Heavy,2022-12-13T20:43:05Z,End of Dragons
+11151,Battlelord's Hood Helm,Armor,Basic,Light,2022-12-13T20:43:09Z,End of Dragons
 11187,Crescent Moon Scepter,Weapon,Basic,,2022-12-21T11:12:01Z,End of Dragons
+11188,Aurene's Crystalline Pauldrons,Armor,Basic,Heavy,2022-12-27T17:40:48Z,End of Dragons
+11182,Aurene's Crystalline Pauldrons,Armor,Basic,Medium,2022-12-27T17:41:37Z,End of Dragons
+11192,Aurene's Crystalline Pauldrons,Armor,Basic,Light,2022-12-27T17:41:59Z,End of Dragons
 10987,Etherbound Helm,Armor,Basic,Heavy,2022-12-27T17:50:41Z,End of Dragons
 10997,Etherbound Helm,Armor,Basic,Medium,2022-12-27T17:50:41Z,End of Dragons
 11000,Etherbound Helm,Armor,Basic,Light,2022-12-27T17:50:41Z,End of Dragons
@@ -6351,6 +6651,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11202,Firework Short Bow,Weapon,Basic,,2023-01-10T20:27:39Z,End of Dragons
 11225,Firework Staff,Weapon,Basic,,2023-01-10T20:28:03Z,End of Dragons
 11210,Fortunate Blossom Fishing Rod,Gathering,Basic,,2023-01-11T12:00:12Z,End of Dragons
+11216,Lunar Rabbit Helm,Armor,Basic,Heavy,2023-01-11T14:40:15Z,End of Dragons
+11231,Lunar Rabbit Helm,Armor,Basic,Medium,2023-01-11T14:40:20Z,End of Dragons
+11221,Lunar Rabbit Helm,Armor,Basic,Light,2023-01-11T14:40:23Z,End of Dragons
+11200,Lunar Rabbit Stompers,Armor,Basic,Heavy,2023-01-11T14:52:12Z,End of Dragons
+11228,Lunar Rabbit Stompers,Armor,Basic,Medium,2023-01-11T14:52:16Z,End of Dragons
+11224,Lunar Rabbit Stompers,Armor,Basic,Light,2023-01-11T14:52:18Z,End of Dragons
 11086,Magmatic Torch,Weapon,Basic,,2023-01-17T17:35:26Z,End of Dragons
 11204,Soul River Hound,Weapon,Basic,,2023-01-25T22:29:03Z,End of Dragons
 11199,Elegant Silk Scarf,Armor,Basic,Light,2023-01-26T17:51:55Z,End of Dragons
@@ -6386,6 +6692,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 10623,Soo-Won's Rending,Weapon,Legendary,,2023-03-01T03:46:44Z,End of Dragons
 10448,Soo-Won's Argument,Weapon,Legendary,,2023-03-01T05:18:55Z,End of Dragons
 10550,Soo-Won's Claw,Weapon,Legendary,,2023-03-01T07:16:12Z,End of Dragons
+11326,Processing Line Control Bracers,Armor,Basic,Heavy,2023-03-01T14:02:46Z,End of Dragons
+11317,Processing Line Control Bracers,Armor,Basic,Medium,2023-03-01T14:02:47Z,End of Dragons
+11275,Processing Line Control Bracers,Armor,Basic,Light,2023-03-01T14:02:48Z,End of Dragons
 11261,Minister's Hat,Armor,Basic,Light,2023-03-01T17:39:16Z,End of Dragons
 11276,Minister's Hat,Armor,Basic,Heavy,2023-03-01T17:39:16Z,End of Dragons
 11343,Minister's Hat,Armor,Basic,Medium,2023-03-01T17:39:16Z,End of Dragons
@@ -6406,6 +6715,24 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11266,Grinning Tahkayun Mask,Armor,Basic,Light,2023-03-02T14:54:51Z,End of Dragons
 11290,Grinning Tahkayun Mask,Armor,Basic,Heavy,2023-03-02T14:54:51Z,End of Dragons
 11323,Grinning Tahkayun Mask,Armor,Basic,Medium,2023-03-02T14:54:51Z,End of Dragons
+11291,Serpentine Tattoo Legs,Armor,Basic,Light,2023-03-07T21:33:37Z,End of Dragons
+11307,Serpentine Tattoo Legs,Armor,Basic,Medium,2023-03-07T21:33:39Z,End of Dragons
+11305,Serpentine Tattoo Legs,Armor,Basic,Heavy,2023-03-07T21:33:40Z,End of Dragons
+11304,Bestial Tides Tattoo Chest,Armor,Basic,Light,2023-03-07T21:35:53Z,End of Dragons
+11346,Bestial Tides Tattoo Chest,Armor,Basic,Medium,2023-03-07T21:35:58Z,End of Dragons
+11286,Bestial Tides Tattoo Chest,Armor,Basic,Heavy,2023-03-07T21:36:04Z,End of Dragons
+11267,Serpentine Tattoo Chest,Armor,Basic,Heavy,2023-03-07T21:37:59Z,End of Dragons
+11308,Serpentine Tattoo Chest,Armor,Basic,Medium,2023-03-07T21:38:04Z,End of Dragons
+11349,Serpentine Tattoo Chest,Armor,Basic,Light,2023-03-07T21:38:07Z,End of Dragons
+11279,Bestial Tides Tattoo Legs,Armor,Basic,Heavy,2023-03-07T21:39:41Z,End of Dragons
+11336,Bestial Tides Tattoo Legs,Armor,Basic,Medium,2023-03-07T21:39:46Z,End of Dragons
+11258,Bestial Tides Tattoo Legs,Armor,Basic,Light,2023-03-07T21:39:51Z,End of Dragons
+11259,Fire Bloom Tattoo Legs,Armor,Basic,Heavy,2023-03-07T21:41:26Z,End of Dragons
+11328,Fire Bloom Tattoo Legs,Armor,Basic,Medium,2023-03-07T21:41:31Z,End of Dragons
+11302,Fire Bloom Tattoo Legs,Armor,Basic,Light,2023-03-07T21:41:36Z,End of Dragons
+11331,Fire Bloom Tattoo Chest,Armor,Basic,Heavy,2023-03-07T21:42:58Z,End of Dragons
+11270,Fire Bloom Tattoo Chest,Armor,Basic,Medium,2023-03-07T21:43:04Z,End of Dragons
+11314,Fire Bloom Tattoo Chest,Armor,Basic,Light,2023-03-07T21:43:08Z,End of Dragons
 11359,Etched Porcelain Greatsword,Weapon,Basic,,2023-03-21T16:03:06Z,End of Dragons
 11361,Voidflame Assassin Dagger,Weapon,Basic,,2023-03-21T17:53:14Z,End of Dragons
 11376,Retro-Forged Dagger,Weapon,Basic,,2023-03-28T17:22:29Z,End of Dragons
@@ -6453,15 +6780,30 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11371,Powered Right Glove,Armor,Basic,Light,2023-04-01T18:48:20Z,End of Dragons
 11374,Powered Right Glove,Armor,Basic,Medium,2023-04-01T18:48:20Z,End of Dragons
 11379,Powered Right Glove,Armor,Basic,Heavy,2023-04-01T18:48:20Z,End of Dragons
+11350,Rebel Short Boots,Armor,Basic,Heavy,2023-04-04T17:43:34Z,End of Dragons
+11355,Rebel Short Boots,Armor,Basic,Medium,2023-04-04T17:44:16Z,End of Dragons
+11360,Rebel Short Boots,Armor,Basic,Light,2023-04-04T17:45:11Z,End of Dragons
+11354,Rebel Long Boots,Armor,Basic,Heavy,2023-04-05T11:24:09Z,End of Dragons
+11363,Rebel Long Boots,Armor,Basic,Medium,2023-04-05T11:24:58Z,End of Dragons
+11357,Rebel Long Boots,Armor,Basic,Light,2023-04-05T11:25:32Z,End of Dragons
 11412,Herald of Aurene Logging Tool,Gathering,Basic,,2023-04-18T16:58:04Z,End of Dragons
 11414,Herald of Aurene Mining Tool,Gathering,Basic,,2023-04-18T16:59:12Z,End of Dragons
 11410,Herald of Aurene Harvesting Tool,Gathering,Basic,,2023-04-18T17:00:02Z,End of Dragons
+11411,Scrivener's Knowledge Shoulders,Armor,Basic,Heavy,2023-04-20T21:41:30Z,End of Dragons
+11413,Scrivener's Knowledge Shoulders,Armor,Basic,Medium,2023-04-20T21:42:17Z,End of Dragons
+11409,Scrivener's Knowledge Shoulders,Armor,Basic,Light,2023-04-20T21:42:50Z,End of Dragons
 11428,Cuddly Cat Backpack,Back,Basic,,2023-05-02T19:06:46Z,End of Dragons
 11415,Exo-Sword,Weapon,Basic,,2023-05-09T17:03:27Z,End of Dragons
 11435,Artisan Zharra's Cape,Back,Masterwork,,2023-05-16T21:30:46Z,End of Dragons
+11431,Artisan Zharra's Hood,Armor,Basic,Heavy,2023-05-16T21:32:32Z,End of Dragons
+11418,Artisan Zharra's Hood,Armor,Basic,Medium,2023-05-16T21:33:44Z,End of Dragons
+11419,Artisan Zharra's Hood,Armor,Basic,Light,2023-05-16T21:35:36Z,End of Dragons
 11421,Paladin's Decree Focus,Weapon,Basic,,2023-05-23T16:31:41Z,End of Dragons
 11268,Hazard Response Pack,Back,Basic,,2023-05-23T22:21:33Z,End of Dragons
 11449,Ebonhawke Crossbow Rifle,Weapon,Basic,,2023-05-24T23:47:16Z,End of Dragons
+11294,Special Ops Captain's Helmet,Armor,Basic,Heavy,2023-05-25T03:24:16Z,End of Dragons
+11319,Special Ops Captain's Helmet,Armor,Basic,Medium,2023-05-25T03:25:58Z,End of Dragons
+11342,Special Ops Captain's Helmet,Armor,Basic,Light,2023-05-25T03:27:01Z,End of Dragons
 11425,Paladin's Decree Axe,Weapon,Basic,,2023-05-26T13:42:08Z,End of Dragons
 11434,Paladin's Decree Dagger,Weapon,Basic,,2023-05-26T13:42:35Z,End of Dragons
 11426,Paladin's Decree Mace,Weapon,Basic,,2023-05-26T13:42:51Z,End of Dragons
@@ -6518,7 +6860,13 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11509,Officer's Remnant Pistol,Weapon,Basic,,2023-06-09T21:22:10Z,End of Dragons
 11470,Officer's Remnant Torch,Weapon,Basic,,2023-06-09T21:23:07Z,End of Dragons
 11489,Officer's Remnant Focus,Weapon,Basic,,2023-06-09T21:23:56Z,End of Dragons
+11499,Brawler's Silk Jacket,Armor,Basic,Heavy,2023-06-20T18:45:38Z,End of Dragons
+11505,Brawler's Silk Jacket,Armor,Basic,Medium,2023-06-20T18:46:22Z,End of Dragons
+11479,Brawler's Silk Jacket,Armor,Basic,Light,2023-06-20T18:47:19Z,End of Dragons
 11537,Last Words,Weapon,Basic,,2023-06-28T00:12:25Z,End of Dragons
+11534,Arcane Spellweaver's Hat,Armor,Basic,Heavy,2023-06-28T13:01:04Z,End of Dragons
+11540,Arcane Spellweaver's Hat,Armor,Basic,Light,2023-06-28T13:01:37Z,End of Dragons
+11532,Arcane Spellweaver's Hat,Armor,Basic,Medium,2023-06-28T13:01:56Z,End of Dragons
 11533,Eagle Eye Axe,Weapon,Basic,,2023-06-28T13:11:20Z,End of Dragons
 11526,Eagle Eye Longbow,Weapon,Basic,,2023-06-28T13:26:51Z,End of Dragons
 11528,Eagle Eye Short Bow,Weapon,Basic,,2023-06-28T13:27:25Z,End of Dragons
@@ -6540,6 +6888,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11559,Zephyrite Headband,Armor,Basic,Heavy,2023-07-18T21:33:14Z,End of Dragons
 11562,Zephyrite Headband,Armor,Basic,Light,2023-07-18T21:33:14Z,End of Dragons
 11567,Zephyrite Headband,Armor,Basic,Medium,2023-07-18T21:33:14Z,End of Dragons
+11560,Infused Aurora Chestguard,Armor,Basic,Heavy,2023-07-18T21:46:18Z,End of Dragons
+11564,Infused Aurora Chestguard,Armor,Basic,Medium,2023-07-18T21:46:51Z,End of Dragons
+11561,Infused Aurora Chestguard,Armor,Basic,Light,2023-07-18T21:47:11Z,End of Dragons
 11555,Sun-Grown Pistol,Weapon,Basic,,2023-07-18T22:05:31Z,End of Dragons
 11558,Sun-Grown Short Bow,Weapon,Basic,,2023-07-18T22:11:31Z,End of Dragons
 11553,Sun-Grown Torch,Weapon,Basic,,2023-07-18T22:15:43Z,End of Dragons
@@ -6558,6 +6909,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11554,Suncatcher's Trident,Weapon,Basic,,2023-07-19T06:21:29Z,End of Dragons
 11568,Suncatcher's Torch,Weapon,Basic,,2023-07-19T06:23:19Z,End of Dragons
 11546,Suncatcher's Axe,Weapon,Basic,,2023-07-19T06:25:08Z,End of Dragons
+11523,Leather Straps Chestpiece,Armor,Basic,Heavy,2023-08-09T16:21:01Z,End of Dragons
+11539,Leather Straps Chestpiece,Armor,Basic,Medium,2023-08-09T23:37:35Z,End of Dragons
+11530,Leather Straps Chestpiece,Armor,Basic,Light,2023-08-09T23:39:19Z,End of Dragons
+11541,Leather Straps Cingulum,Armor,Basic,Heavy,2023-08-11T16:53:55Z,End of Dragons
+11522,Leather Straps Cingulum,Armor,Basic,Medium,2023-08-11T16:54:29Z,End of Dragons
+11529,Leather Straps Cingulum,Armor,Basic,Light,2023-08-11T16:54:56Z,End of Dragons
 11753,Skyforged Warhorn,Weapon,Basic,,2023-08-24T12:40:50Z,Secrets of the Obscure
 11774,Skyforged Torch,Weapon,Basic,,2023-08-24T12:40:55Z,Secrets of the Obscure
 11794,Skyforged Sword,Weapon,Basic,,2023-08-24T12:40:58Z,Secrets of the Obscure
@@ -6590,8 +6947,14 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11679,Sanctified Rifle,Weapon,Basic,,2023-08-24T19:32:50Z,Secrets of the Obscure
 11810,Sanctified Short Bow,Weapon,Basic,,2023-08-24T19:35:28Z,Secrets of the Obscure
 11736,Sanctified Staff,Weapon,Basic,,2023-08-24T19:35:48Z,Secrets of the Obscure
+11767,Sanctified Gloves,Armor,Basic,Heavy,2023-08-25T05:29:40Z,Secrets of the Obscure
+11796,Sanctified Gloves,Armor,Basic,Medium,2023-08-25T05:30:24Z,Secrets of the Obscure
+11643,Sanctified Gloves,Armor,Basic,Light,2023-08-25T05:30:53Z,Secrets of the Obscure
 11780,Infernal Envoy Backpack,Back,Basic,,2023-08-25T10:26:39Z,Secrets of the Obscure
 11571,Infernal Envoy Staff,Weapon,Basic,,2023-08-25T10:27:27Z,Secrets of the Obscure
+11777,Sanctified Boots,Armor,Basic,Medium,2023-08-25T12:25:29Z,Secrets of the Obscure
+11713,Sanctified Boots,Armor,Basic,Light,2023-08-25T12:26:06Z,Secrets of the Obscure
+11654,Sanctified Boots,Armor,Basic,Heavy,2023-08-25T12:29:45Z,Secrets of the Obscure
 11772,Stormforged Focus,Weapon,Basic,,2023-08-27T12:50:51Z,Secrets of the Obscure
 11639,Stormforged Scepter,Weapon,Basic,,2023-08-27T12:51:41Z,Secrets of the Obscure
 11648,Stormforged Staff,Weapon,Basic,,2023-08-27T12:52:13Z,Secrets of the Obscure
@@ -6627,6 +6990,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11720,Vermilion Mining Tool,Gathering,Basic,,2023-08-29T19:01:15Z,Secrets of the Obscure
 11597,Vermilion Logging Tool,Gathering,Basic,,2023-08-29T19:01:39Z,Secrets of the Obscure
 11802,Vermilion Harvesting Tool,Gathering,Basic,,2023-08-29T19:02:04Z,Secrets of the Obscure
+11768,Infused Aurora Gloves,Armor,Basic,Heavy,2023-09-04T17:48:54Z,Secrets of the Obscure
+11725,Infused Aurora Gloves,Armor,Basic,Medium,2023-09-04T17:50:08Z,Secrets of the Obscure
+11728,Infused Aurora Gloves,Armor,Basic,Light,2023-09-04T17:51:19Z,Secrets of the Obscure
 11716,Sorcerer's Cape,Back,Basic,,2023-09-05T16:52:23Z,Secrets of the Obscure
 11600,Shattered Hammer,Weapon,Basic,,2023-09-07T08:12:19Z,Secrets of the Obscure
 11590,Shattered Longbow,Weapon,Basic,,2023-09-07T08:13:44Z,Secrets of the Obscure
@@ -6662,12 +7028,16 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11829,Vinelord Edgebloom Torch,Weapon,Basic,,2023-09-15T13:41:48Z,Secrets of the Obscure
 11841,Traveler's Staff,Weapon,Basic,,2023-10-03T20:30:36Z,Secrets of the Obscure
 7303,Relic of Dwayna,Back,Basic,,2023-10-08T13:28:49Z,Secrets of the Obscure
+11843,Side-Lace Pants,Armor,Basic,Heavy,2023-10-11T19:38:40Z,Secrets of the Obscure
+11842,Side-Lace Pants,Armor,Basic,Medium,2023-10-11T19:40:21Z,Secrets of the Obscure
+11845,Side-Lace Pants,Armor,Basic,Light,2023-10-11T19:40:50Z,Secrets of the Obscure
 11847,Grim Machine Staff,Weapon,Basic,,2023-10-18T01:31:25Z,Secrets of the Obscure
 11861,Grim Machine Sword,Weapon,Basic,,2023-10-18T01:44:14Z,Secrets of the Obscure
 11870,Grim Machine Scepter,Weapon,Basic,,2023-10-18T01:48:33Z,Secrets of the Obscure
 11862,Guided Executioner,Weapon,Basic,,2023-10-18T02:27:10Z,Secrets of the Obscure
 11858,Sanctioned Executioner,Weapon,Basic,,2023-10-18T02:28:40Z,Secrets of the Obscure
 11850,Heralded Executioner,Weapon,Basic,,2023-10-18T02:29:27Z,Secrets of the Obscure
+1244,Paper Bag Helm (Sad),Armor,Basic,Heavy,2023-10-18T13:23:11Z,Secrets of the Obscure
 11853,Grim Machine Axe,Weapon,Basic,,2023-10-18T17:07:15Z,Secrets of the Obscure
 11851,Grim Machine Dagger,Weapon,Basic,,2023-10-18T17:25:10Z,Secrets of the Obscure
 11854,Grim Machine Focus,Weapon,Basic,,2023-10-18T17:28:27Z,Secrets of the Obscure
@@ -6681,7 +7051,24 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11869,Grim Machine Short Bow,Weapon,Basic,,2023-10-18T17:46:25Z,Secrets of the Obscure
 11868,Grim Machine Torch,Weapon,Basic,,2023-10-18T19:48:49Z,Secrets of the Obscure
 11859,Grim Machine Warhorn,Weapon,Basic,,2023-10-18T19:50:08Z,Secrets of the Obscure
+11857,Clawing Shadow Greaves,Armor,Basic,Light,2023-10-18T21:14:17Z,Secrets of the Obscure
+11867,Clawing Shadow Greaves,Armor,Basic,Medium,2023-10-18T21:14:54Z,Secrets of the Obscure
+11865,Clawing Shadow Greaves,Armor,Basic,Heavy,2023-10-18T21:15:30Z,Secrets of the Obscure
+1246,Paper Bag Helm (Sad),Armor,Basic,Medium,2023-10-22T21:49:51Z,Secrets of the Obscure
+1245,Paper Bag Helm (Sad),Armor,Basic,Light,2023-10-22T21:50:15Z,Secrets of the Obscure
+1235,Paper Bag Helm (Blush),Armor,Basic,Heavy,2023-10-23T12:23:42Z,Secrets of the Obscure
+1238,Paper Bag Helm (Angry),Armor,Basic,Heavy,2023-10-23T17:54:22Z,Secrets of the Obscure
+1240,Paper Bag Helm (Angry),Armor,Basic,Medium,2023-10-23T17:55:06Z,Secrets of the Obscure
+1239,Paper Bag Helm (Angry),Armor,Basic,Light,2023-10-23T17:55:46Z,Secrets of the Obscure
+1237,Paper Bag Helm (Blush),Armor,Basic,Medium,2023-10-23T18:02:13Z,Secrets of the Obscure
+1236,Paper Bag Helm (Blush),Armor,Basic,Light,2023-10-23T18:02:48Z,Secrets of the Obscure
+1241,Paper Bag Helm (Happy),Armor,Basic,Heavy,2023-10-23T18:06:44Z,Secrets of the Obscure
+1243,Paper Bag Helm (Happy),Armor,Basic,Medium,2023-10-23T18:07:21Z,Secrets of the Obscure
+1242,Paper Bag Helm (Happy),Armor,Basic,Light,2023-10-23T18:09:01Z,Secrets of the Obscure
 11871,Soulfire Lantern Torch,Weapon,Basic,,2023-10-25T22:40:50Z,Secrets of the Obscure
+11849,Krytan Rogue Chestpiece,Armor,Basic,Heavy,2023-11-01T13:34:06Z,Secrets of the Obscure
+11863,Krytan Rogue Chestpiece,Armor,Basic,Medium,2023-11-01T13:36:45Z,Secrets of the Obscure
+11864,Krytan Rogue Chestpiece,Armor,Basic,Light,2023-11-01T13:37:02Z,Secrets of the Obscure
 11903,Sanctified Cape,Back,Basic,,2023-11-07T23:43:38Z,Secrets of the Obscure
 11910,Exalted Mining Tool,Gathering,Basic,,2023-11-09T17:04:32Z,Secrets of the Obscure
 11822,Dark Tyrant Axe,Weapon,Basic,,2023-11-10T00:54:59Z,Secrets of the Obscure
@@ -6701,6 +7088,8 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11918,Dark Sanctified Pistol,Weapon,Basic,,2023-11-10T02:44:08Z,Secrets of the Obscure
 11889,Dark Sanctified Sword,Weapon,Basic,,2023-11-10T02:45:12Z,Secrets of the Obscure
 11902,Dark Sanctified Short Bow,Weapon,Basic,,2023-11-10T02:45:50Z,Secrets of the Obscure
+11793,Sanctified Coat,Armor,Basic,Light,2023-11-10T11:31:28Z,Secrets of the Obscure
+11578,Sanctified Leggings,Armor,Basic,Light,2023-11-10T11:37:02Z,Secrets of the Obscure
 11881,Consecrated Saryx Axe,Weapon,Basic,,2023-11-10T18:37:14Z,Secrets of the Obscure
 11923,Consecrated Saryx Dagger,Weapon,Basic,,2023-11-10T19:22:35Z,Secrets of the Obscure
 11924,Consecrated Saryx Focus,Weapon,Basic,,2023-11-10T19:23:33Z,Secrets of the Obscure
@@ -6736,6 +7125,13 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11737,Abomination Sword,Weapon,Basic,,2023-11-11T13:11:39Z,Secrets of the Obscure
 11610,Abomination Scepter,Weapon,Basic,,2023-11-11T13:13:38Z,Secrets of the Obscure
 11805,Abomination Rifle,Weapon,Basic,,2023-11-11T13:14:18Z,Secrets of the Obscure
+11709,Sanctified Helm,Armor,Basic,Heavy,2023-11-13T17:58:35Z,Secrets of the Obscure
+11629,Sanctified Helm,Armor,Basic,Medium,2023-11-13T17:59:09Z,Secrets of the Obscure
+11764,Sanctified Helm,Armor,Basic,Light,2023-11-13T17:59:43Z,Secrets of the Obscure
+11611,Sanctified Coat,Armor,Basic,Heavy,2023-11-13T18:03:51Z,Secrets of the Obscure
+11682,Sanctified Coat,Armor,Basic,Medium,2023-11-13T18:04:13Z,Secrets of the Obscure
+11689,Sanctified Leggings,Armor,Basic,Heavy,2023-11-13T18:07:07Z,Secrets of the Obscure
+11752,Sanctified Leggings,Armor,Basic,Medium,2023-11-13T18:07:24Z,Secrets of the Obscure
 11932,Colossal Greatsword,Weapon,Basic,,2023-11-14T19:13:43Z,Secrets of the Obscure
 11779,Abomination Axe,Weapon,Basic,,2023-11-14T22:11:53Z,Secrets of the Obscure
 11584,Abomination Dagger,Weapon,Basic,,2023-11-14T22:14:41Z,Secrets of the Obscure
@@ -6773,6 +7169,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11942,Sacred Solstice Sword,Weapon,Basic,,2023-12-12T20:41:27Z,Secrets of the Obscure
 11967,Sacred Solstice Torch,Weapon,Basic,,2023-12-12T20:42:20Z,Secrets of the Obscure
 11954,Sacred Solstice Warhorn,Weapon,Basic,,2023-12-12T20:43:17Z,Secrets of the Obscure
+11952,Winter Fur Shoulders,Armor,Basic,Medium,2023-12-13T01:15:26Z,Secrets of the Obscure
+11961,Winter Fur Shoulders,Armor,Basic,Heavy,2023-12-13T01:17:48Z,Secrets of the Obscure
+11957,Winter Fur Shoulders,Armor,Basic,Light,2023-12-13T01:18:48Z,Secrets of the Obscure
 11970,Thundercrag Axe,Weapon,Basic,,2023-12-13T16:14:47Z,Secrets of the Obscure
 11943,Thundercrag Dagger,Weapon,Basic,,2023-12-13T19:53:39Z,Secrets of the Obscure
 11974,Thundercrag Focus,Weapon,Basic,,2023-12-13T19:55:48Z,Secrets of the Obscure
@@ -6790,6 +7189,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 11946,Thundercrag Short Bow,Weapon,Basic,,2023-12-13T20:10:20Z,Secrets of the Obscure
 11962,Thundercrag Staff,Weapon,Basic,,2023-12-13T20:11:15Z,Secrets of the Obscure
 11966,Heretical Scholar's Cape,Back,Masterwork,,2023-12-19T21:46:03Z,Secrets of the Obscure
+11936,Heretical Scholar's Hood,Armor,Basic,Heavy,2023-12-20T17:56:59Z,Secrets of the Obscure
+11977,Heretical Scholar's Hood,Armor,Basic,Medium,2023-12-20T17:57:54Z,Secrets of the Obscure
+11956,Heretical Scholar's Hood,Armor,Basic,Light,2023-12-20T17:58:13Z,Secrets of the Obscure
 11941,Giant Folding Fan Backpack,Back,Basic,,2023-12-26T18:20:44Z,Secrets of the Obscure
 11982,Arcane Sigil Backpack,Back,Basic,,2024-01-10T15:23:07Z,Secrets of the Obscure
 11979,Heretical Scholar's Staff,Weapon,Basic,,2024-01-17T17:06:50Z,Secrets of the Obscure
@@ -6855,7 +7257,25 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12096,Necrotic Essence Dagger,Weapon,Basic,,2024-03-01T13:02:32Z,Secrets of the Obscure
 12061,Necrotic Essence Scepter,Weapon,Basic,,2024-03-01T13:03:08Z,Secrets of the Obscure
 12085,Necrotic Essence Rifle,Weapon,Basic,,2024-03-02T17:19:09Z,Secrets of the Obscure
+12029,Skysage's Boots,Armor,Basic,Light,2024-03-03T13:55:26Z,Secrets of the Obscure
+12054,Skysage's Boots,Armor,Basic,Medium,2024-03-03T13:55:47Z,Secrets of the Obscure
+12091,Skysage's Boots,Armor,Basic,Heavy,2024-03-03T13:56:12Z,Secrets of the Obscure
+12036,Skysage's Gloves,Armor,Basic,Light,2024-03-03T14:00:34Z,Secrets of the Obscure
+12076,Skysage's Gloves,Armor,Basic,Medium,2024-03-03T14:00:41Z,Secrets of the Obscure
+12094,Skysage's Gloves,Armor,Basic,Heavy,2024-03-03T14:00:45Z,Secrets of the Obscure
+12095,Skysage's Helm,Armor,Basic,Medium,2024-03-03T14:04:34Z,Secrets of the Obscure
+12017,Skysage's Helm,Armor,Basic,Heavy,2024-03-03T14:04:37Z,Secrets of the Obscure
+12062,Skysage's Helm,Armor,Basic,Light,2024-03-03T14:04:38Z,Secrets of the Obscure
+12092,Skysage's Spectacles,Armor,Basic,Heavy,2024-03-03T14:06:26Z,Secrets of the Obscure
+12066,Skysage's Spectacles,Armor,Basic,Medium,2024-03-03T14:07:01Z,Secrets of the Obscure
+12016,Skysage's Spectacles,Armor,Basic,Light,2024-03-03T14:07:31Z,Secrets of the Obscure
 12099,Trapper's Fur Cape,Back,Masterwork,,2024-03-05T16:55:53Z,Secrets of the Obscure
+12052,Fashionable Kilt,Armor,Basic,Heavy,2024-03-05T17:11:27Z,Secrets of the Obscure
+12087,Fashionable Kilt,Armor,Basic,Medium,2024-03-05T17:12:31Z,Secrets of the Obscure
+12020,Fashionable Kilt,Armor,Basic,Light,2024-03-05T17:12:48Z,Secrets of the Obscure
+12012,Baggy Cargo Pants,Armor,Basic,Heavy,2024-03-13T13:41:53Z,Secrets of the Obscure
+12072,Baggy Cargo Pants,Armor,Basic,Medium,2024-03-13T13:42:26Z,Secrets of the Obscure
+12037,Baggy Cargo Pants,Armor,Basic,Light,2024-03-13T13:42:41Z,Secrets of the Obscure
 12101,Synergetics Energized Shield,Weapon,Basic,,2024-03-20T18:32:14Z,Secrets of the Obscure
 12103,Shattered Stone Wings Backpack,Back,Basic,,2024-03-26T21:36:41Z,Secrets of the Obscure
 12100,Invisible Cat Cape,Back,Basic,,2024-04-01T17:21:46Z,Secrets of the Obscure
@@ -6885,12 +7305,24 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12117,Powered Shoulders,Armor,Basic,Heavy,2024-04-16T16:50:27Z,Secrets of the Obscure
 12113,Abyss Hunter Cape,Back,Basic,,2024-04-16T17:03:42Z,Secrets of the Obscure
 11824,Dark Tyrant Sword,Weapon,Basic,,2024-04-29T03:11:44Z,Secrets of the Obscure
+12105,Raven Greaves,Armor,Basic,Heavy,2024-05-01T15:57:34Z,Secrets of the Obscure
+12127,Raven Greaves,Armor,Basic,Medium,2024-05-01T15:58:23Z,Secrets of the Obscure
+12118,Raven Greaves,Armor,Basic,Light,2024-05-01T15:58:46Z,Secrets of the Obscure
 12119,Delicate Lace Cape,Back,Masterwork,,2024-05-07T19:32:58Z,Secrets of the Obscure
 12104,Gilded Stratus Longbow,Weapon,Basic,,2024-05-07T19:56:20Z,Secrets of the Obscure
+12044,Skysage's Leggings,Armor,Basic,Light,2024-05-22T12:32:42Z,Secrets of the Obscure
+12079,Skysage's Leggings,Armor,Basic,Medium,2024-05-22T12:33:49Z,Secrets of the Obscure
+12050,Skysage's Leggings,Armor,Basic,Heavy,2024-05-22T12:34:43Z,Secrets of the Obscure
 12195,Lunar Astrolabe Mace,Weapon,Basic,,2024-05-22T14:14:57Z,Secrets of the Obscure
 12192,Eparch's Sword,Weapon,Basic,,2024-05-23T21:17:42Z,Secrets of the Obscure
 12187,Eparch's Greatsword,Weapon,Basic,,2024-05-23T21:18:54Z,Secrets of the Obscure
 12209,Skysage's Cape,Back,Basic,,2024-05-24T12:10:43Z,Secrets of the Obscure
+12013,Skysage's Coat,Armor,Basic,Heavy,2024-05-24T12:14:32Z,Secrets of the Obscure
+12074,Skysage's Coat,Armor,Basic,Medium,2024-05-24T12:15:19Z,Secrets of the Obscure
+12075,Skysage's Coat,Armor,Basic,Light,2024-05-24T12:16:38Z,Secrets of the Obscure
+12088,Skysage's Shoulders,Armor,Basic,Heavy,2024-05-24T12:28:12Z,Secrets of the Obscure
+12018,Skysage's Shoulders,Armor,Basic,Medium,2024-05-24T12:28:52Z,Secrets of the Obscure
+12014,Skysage's Shoulders,Armor,Basic,Light,2024-05-24T12:29:43Z,Secrets of the Obscure
 12179,Shadow Chevalier Hammer,Weapon,Basic,,2024-05-25T03:29:33Z,Secrets of the Obscure
 12150,Shadow Chevalier Axe,Weapon,Basic,,2024-05-27T17:25:34Z,Secrets of the Obscure
 12157,Shadow Chevalier Dagger,Weapon,Basic,,2024-05-27T17:25:59Z,Secrets of the Obscure
@@ -6907,6 +7339,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12138,Shadow Chevalier Longbow,Weapon,Basic,,2024-05-27T17:34:43Z,Secrets of the Obscure
 12149,Shadow Chevalier Short Bow,Weapon,Basic,,2024-05-27T17:38:09Z,Secrets of the Obscure
 12160,Shadow Chevalier Greatsword,Weapon,Basic,,2024-05-27T17:40:20Z,Secrets of the Obscure
+12170,Raven Leggings,Armor,Basic,Heavy,2024-05-29T20:42:02Z,Secrets of the Obscure
+12148,Raven Leggings,Armor,Basic,Medium,2024-05-29T20:42:37Z,Secrets of the Obscure
+12191,Raven Leggings,Armor,Basic,Light,2024-05-29T20:43:15Z,Secrets of the Obscure
+12193,Raven Vest,Armor,Basic,Heavy,2024-05-29T21:19:44Z,Secrets of the Obscure
+12181,Raven Vest,Armor,Basic,Medium,2024-05-29T21:20:15Z,Secrets of the Obscure
+12194,Raven Vest,Armor,Basic,Light,2024-05-29T21:20:40Z,Secrets of the Obscure
 12206,Lunar Astrolabe Shield,Weapon,Basic,,2024-05-31T13:06:38Z,Secrets of the Obscure
 12189,Lunar Astrolabe Longbow,Weapon,Basic,,2024-05-31T13:07:29Z,Secrets of the Obscure
 12153,Lunar Astrolabe Scepter,Weapon,Basic,,2024-05-31T13:07:52Z,Secrets of the Obscure
@@ -6946,6 +7384,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12271,Sacred Crystal Sword,Weapon,Basic,,2024-06-05T12:03:01Z,Secrets of the Obscure
 12267,Sacred Crystal Torch,Weapon,Basic,,2024-06-05T12:03:18Z,Secrets of the Obscure
 12274,Sacred Crystal Warhorn,Weapon,Basic,,2024-06-05T12:03:41Z,Secrets of the Obscure
+12252,Whispering Serpents Pauldrons,Armor,Basic,Heavy,2024-06-05T20:12:21Z,Secrets of the Obscure
+12276,Whispering Serpents Pauldrons,Armor,Basic,Medium,2024-06-05T20:13:03Z,Secrets of the Obscure
+12256,Whispering Serpents Pauldrons,Armor,Basic,Light,2024-06-05T20:13:26Z,Secrets of the Obscure
 12259,Serpent's Wrath Staff,Weapon,Basic,,2024-06-06T14:26:24Z,Secrets of the Obscure
 12265,Serpent's Wrath Greatsword,Weapon,Basic,,2024-06-06T14:28:21Z,Secrets of the Obscure
 12226,Flowing Scaled Cape,Back,Masterwork,,2024-06-06T22:40:39Z,Secrets of the Obscure
@@ -6983,6 +7424,30 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12218,Chromatic Assassin Short Bow,Weapon,Basic,,2024-06-12T22:50:52Z,Secrets of the Obscure
 12229,Chromatic Assassin Staff,Weapon,Basic,,2024-06-12T22:51:32Z,Secrets of the Obscure
 12253,Chromatic Assassin Spear,Weapon,Basic,,2024-06-12T22:52:08Z,Secrets of the Obscure
+12301,Neon Demon Mask,Armor,Basic,Heavy,2024-06-25T17:48:30Z,Secrets of the Obscure
+12287,Neon Demon Mask,Armor,Basic,Medium,2024-06-25T17:49:34Z,Secrets of the Obscure
+12299,Neon Demon Mask,Armor,Basic,Light,2024-06-25T17:50:13Z,Secrets of the Obscure
+12305,Tropical Chest,Armor,Basic,Light,2024-06-26T02:00:56Z,Secrets of the Obscure
+12303,Tropical Chest,Armor,Basic,Medium,2024-06-26T02:15:58Z,Secrets of the Obscure
+12296,Tropical Chest,Armor,Basic,Heavy,2024-06-26T02:16:21Z,Secrets of the Obscure
+12294,Beach Sandals,Armor,Basic,Light,2024-06-26T02:22:10Z,Secrets of the Obscure
+12283,Beach Sandals,Armor,Basic,Medium,2024-06-26T02:23:16Z,Secrets of the Obscure
+12285,Beach Sandals,Armor,Basic,Heavy,2024-06-26T02:23:33Z,Secrets of the Obscure
+12292,Beach Hat,Armor,Basic,Light,2024-06-26T07:02:00Z,Secrets of the Obscure
+12308,Beach Hat,Armor,Basic,Medium,2024-06-26T07:02:51Z,Secrets of the Obscure
+12290,Beach Hat,Armor,Basic,Heavy,2024-06-26T07:03:34Z,Secrets of the Obscure
+12307,Tropical Legwear,Armor,Basic,Heavy,2024-06-26T19:04:13Z,Secrets of the Obscure
+12291,Tropical Legwear,Armor,Basic,Medium,2024-06-26T19:04:47Z,Secrets of the Obscure
+12298,Tropical Legwear,Armor,Basic,Light,2024-06-26T19:05:05Z,Secrets of the Obscure
+12300,Beach Bracelet,Armor,Basic,Heavy,2024-06-26T19:16:30Z,Secrets of the Obscure
+12281,Beach Bracelet,Armor,Basic,Medium,2024-06-26T19:16:57Z,Secrets of the Obscure
+12289,Beach Bracelet,Armor,Basic,Light,2024-06-26T19:17:18Z,Secrets of the Obscure
+12293,Breezy Swim Bottoms,Armor,Basic,Heavy,2024-06-26T19:24:33Z,Secrets of the Obscure
+12295,Breezy Swim Bottoms,Armor,Basic,Medium,2024-06-26T19:24:55Z,Secrets of the Obscure
+12282,Breezy Swim Bottoms,Armor,Basic,Light,2024-06-26T19:25:10Z,Secrets of the Obscure
+12288,Breezy Swim Top,Armor,Basic,Heavy,2024-06-26T19:27:34Z,Secrets of the Obscure
+12297,Breezy Swim Top,Armor,Basic,Medium,2024-06-26T19:28:16Z,Secrets of the Obscure
+12304,Breezy Swim Top,Armor,Basic,Light,2024-06-26T19:28:34Z,Secrets of the Obscure
 4854,Worn Voltaic Spear,Weapon,Basic,,2024-07-02T16:34:44Z,Secrets of the Obscure
 12284,Disguised Fan Shield,Weapon,Basic,,2024-07-02T17:23:17Z,Secrets of the Obscure
 8854,Zephyrite Short Bow,Weapon,Basic,,2024-07-16T20:25:03Z,Secrets of the Obscure
@@ -7094,6 +7559,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12428,Full Moon Warhorn,Weapon,Basic,,2024-08-24T02:03:55Z,Janthir Wilds
 12360,Void Corrupted Rifle,Weapon,Basic,,2024-08-24T15:05:25Z,Janthir Wilds
 12461,Onyx Spider's Short Bow,Weapon,Basic,,2024-08-24T15:15:24Z,Janthir Wilds
+12400,Rot Stalker Shoulders,Armor,Basic,Light,2024-08-24T15:21:05Z,Janthir Wilds
+12366,Rot Stalker Shoulders,Armor,Basic,Medium,2024-08-24T15:23:50Z,Janthir Wilds
+12401,Rot Stalker Shoulders,Armor,Basic,Heavy,2024-08-24T15:26:14Z,Janthir Wilds
 12570,Void Corrupted Sword,Weapon,Basic,,2024-08-24T15:49:36Z,Janthir Wilds
 12452,Onyx Spider's Warhorn,Weapon,Basic,,2024-08-24T15:51:22Z,Janthir Wilds
 12368,Void Corrupted Shield,Weapon,Basic,,2024-08-24T16:10:41Z,Janthir Wilds
@@ -7131,13 +7599,31 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12439,Bearkin War Helm,Armor,Basic,Medium,2024-08-26T18:29:14Z,Janthir Wilds
 12501,Bearkin War Helm,Armor,Basic,Heavy,2024-08-26T18:29:14Z,Janthir Wilds
 12574,Bearkin War Helm,Armor,Basic,Light,2024-08-26T18:29:14Z,Janthir Wilds
+12455,Flower Diadem,Armor,Basic,Heavy,2024-09-03T18:11:26Z,Janthir Wilds
+12419,Flower Diadem,Armor,Basic,Light,2024-09-03T18:11:59Z,Janthir Wilds
+12495,Flower Diadem,Armor,Basic,Medium,2024-09-03T18:12:33Z,Janthir Wilds
+12546,Rot Stalker Helm,Armor,Basic,Heavy,2024-09-04T11:44:39Z,Janthir Wilds
+12525,Rot Stalker Helm,Armor,Basic,Medium,2024-09-04T11:46:00Z,Janthir Wilds
+12377,Rot Stalker Helm,Armor,Basic,Light,2024-09-04T11:46:36Z,Janthir Wilds
+12381,Rot Stalker Gloves,Armor,Basic,Heavy,2024-09-04T11:50:13Z,Janthir Wilds
+12511,Rot Stalker Gloves,Armor,Basic,Medium,2024-09-04T11:50:55Z,Janthir Wilds
+12460,Rot Stalker Gloves,Armor,Basic,Light,2024-09-04T11:51:42Z,Janthir Wilds
 12598,Luminous Partisan,Weapon,Basic,,2024-09-10T16:58:40Z,Janthir Wilds
 12589,Dragon Decade Spear,Weapon,Basic,,2024-09-10T21:26:18Z,Janthir Wilds
+12583,Acclaimed Militia Chestpiece,Armor,Basic,Heavy,2024-09-11T00:05:34Z,Janthir Wilds
+12596,Acclaimed Militia Chestpiece,Armor,Basic,Medium,2024-09-11T00:06:07Z,Janthir Wilds
+12587,Acclaimed Militia Chestpiece,Armor,Basic,Light,2024-09-11T00:06:29Z,Janthir Wilds
 12586,Holy Barrage Mining Tool,Gathering,Basic,,2024-09-25T13:14:45Z,Janthir Wilds
 12592,Holy Barrage Harvesting Tool,Gathering,Basic,,2024-09-25T13:22:19Z,Janthir Wilds
 12588,Holy Barrage Logging Tool,Gathering,Basic,,2024-09-25T13:29:30Z,Janthir Wilds
 7888,Darkspear,Weapon,Basic,,2024-10-01T19:34:00Z,Janthir Wilds
 12594,Darkspear,Weapon,Basic,,2024-10-01T19:34:00Z,Janthir Wilds
+12584,Blissful Boots,Armor,Basic,Heavy,2024-10-01T21:32:46Z,Janthir Wilds
+12597,Blissful Boots,Armor,Basic,Medium,2024-10-01T21:33:43Z,Janthir Wilds
+12582,Blissful Boots,Armor,Basic,Light,2024-10-01T21:34:05Z,Janthir Wilds
+12585,Blissful Skirt,Armor,Basic,Heavy,2024-10-01T21:35:17Z,Janthir Wilds
+12593,Blissful Skirt,Armor,Basic,Medium,2024-10-01T21:35:45Z,Janthir Wilds
+12591,Blissful Skirt,Armor,Basic,Light,2024-10-01T21:36:28Z,Janthir Wilds
 12629,Mystical Beast Axe,Weapon,Basic,,2024-10-08T22:50:30Z,Janthir Wilds
 12613,Sanguine Focus,Weapon,Basic,,2024-10-09T00:45:48Z,Janthir Wilds
 12614,Sanguine Staff,Weapon,Basic,,2024-10-09T00:49:30Z,Janthir Wilds
@@ -7198,6 +7684,15 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12655,Foefire Short Bow,Weapon,Basic,,2024-11-08T14:17:19Z,Janthir Wilds
 12670,Foefire Staff,Weapon,Basic,,2024-11-08T14:17:35Z,Janthir Wilds
 12649,Foefire Spear,Weapon,Basic,,2024-11-08T14:17:54Z,Janthir Wilds
+12647,Dapper Wingtips,Armor,Basic,Light,2024-11-13T19:51:46Z,Janthir Wilds
+12648,Dapper Wingtips,Armor,Basic,Medium,2024-11-13T19:52:00Z,Janthir Wilds
+12659,Dapper Wingtips,Armor,Basic,Heavy,2024-11-13T19:52:15Z,Janthir Wilds
+12652,Dapper Coat,Armor,Basic,Light,2024-11-13T20:04:23Z,Janthir Wilds
+12664,Dapper Coat,Armor,Basic,Medium,2024-11-13T20:04:37Z,Janthir Wilds
+12657,Dapper Coat,Armor,Basic,Heavy,2024-11-13T20:04:48Z,Janthir Wilds
+12656,Dapper Pants,Armor,Basic,Heavy,2024-11-13T20:07:15Z,Janthir Wilds
+12651,Dapper Pants,Armor,Basic,Medium,2024-11-13T20:07:29Z,Janthir Wilds
+12660,Dapper Pants,Armor,Basic,Light,2024-11-13T20:08:01Z,Janthir Wilds
 12698,Alabaster Spider's Staff,Weapon,Basic,,2024-11-20T15:01:19Z,Janthir Wilds
 12740,Alabaster Spider's Spear,Weapon,Basic,,2024-11-20T15:06:32Z,Janthir Wilds
 12688,Alabaster Spider's Hammer,Weapon,Basic,,2024-11-21T08:39:30Z,Janthir Wilds
@@ -7222,6 +7717,15 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12730,Klobjarne Frakka,Weapon,Legendary,,2024-11-23T17:06:28Z,Janthir Wilds
 12708,Klobjarne Hler,Weapon,Legendary,,2024-11-23T17:07:53Z,Janthir Wilds
 12692,Naga Spirit Backpack,Back,Basic,,2024-11-26T20:09:14Z,Janthir Wilds
+12499,Rot Stalker Coat,Armor,Basic,Heavy,2024-12-02T12:23:19Z,Janthir Wilds
+12502,Rot Stalker Coat,Armor,Basic,Medium,2024-12-02T12:24:26Z,Janthir Wilds
+12399,Rot Stalker Coat,Armor,Basic,Light,2024-12-02T12:25:23Z,Janthir Wilds
+12389,Rot Stalker Leggings,Armor,Basic,Heavy,2024-12-02T12:29:21Z,Janthir Wilds
+12471,Rot Stalker Leggings,Armor,Basic,Medium,2024-12-02T12:29:25Z,Janthir Wilds
+12519,Rot Stalker Leggings,Armor,Basic,Light,2024-12-02T12:29:28Z,Janthir Wilds
+12498,Rot Stalker Boots,Armor,Basic,Heavy,2024-12-02T12:33:02Z,Janthir Wilds
+12540,Rot Stalker Boots,Armor,Basic,Medium,2024-12-02T12:33:06Z,Janthir Wilds
+12463,Rot Stalker Boots,Armor,Basic,Light,2024-12-02T12:33:09Z,Janthir Wilds
 12764,Plush Warhorn,Weapon,Basic,,2024-12-11T00:46:49Z,Janthir Wilds
 12794,Plush Staff,Weapon,Basic,,2024-12-11T05:30:02Z,Janthir Wilds
 12771,Gingerbread Rifle,Weapon,Basic,,2024-12-11T13:55:46Z,Janthir Wilds
@@ -7260,11 +7764,26 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12783,Dragon Essence Short Bow,Weapon,Basic,,2024-12-12T12:46:58Z,Janthir Wilds
 12793,Dragon Essence Staff,Weapon,Basic,,2024-12-12T12:47:54Z,Janthir Wilds
 12777,Dragon Essence Spear,Weapon,Basic,,2024-12-12T12:49:07Z,Janthir Wilds
+12788,Tiny Royal Crown,Armor,Basic,Heavy,2024-12-24T20:39:59Z,Janthir Wilds
+12775,Tiny Royal Crown,Armor,Basic,Medium,2024-12-24T20:41:10Z,Janthir Wilds
+12787,Tiny Royal Crown,Armor,Basic,Light,2024-12-24T20:42:01Z,Janthir Wilds
 12768,Nothorium Hammer Mace,Weapon,Basic,,2024-12-31T16:45:58Z,Janthir Wilds
 12753,Diabolic Pitchfork Spear,Weapon,Basic,,2025-01-07T17:48:52Z,Janthir Wilds
 12630,Graceful Bladed Left Wing Backpack,Back,Basic,,2025-01-08T22:17:04Z,Janthir Wilds
 12644,Graceful Bladed Wings Backpack,Back,Basic,,2025-01-08T22:32:03Z,Janthir Wilds
 12804,Vagabond's Cape,Back,Masterwork,,2025-01-14T19:57:27Z,Janthir Wilds
+12803,Vagabond's Shoulders,Armor,Basic,Heavy,2025-01-14T20:07:54Z,Janthir Wilds
+12801,Vagabond's Shoulders,Armor,Basic,Medium,2025-01-14T20:08:40Z,Janthir Wilds
+12797,Vagabond's Shoulders,Armor,Basic,Light,2025-01-14T20:09:11Z,Janthir Wilds
+12806,Vagabond's Hood,Armor,Basic,Heavy,2025-01-14T20:12:50Z,Janthir Wilds
+12796,Vagabond's Hood,Armor,Basic,Medium,2025-01-14T20:13:29Z,Janthir Wilds
+12808,Vagabond's Hood,Armor,Basic,Light,2025-01-14T20:13:50Z,Janthir Wilds
+12807,Hooded Windbreaker (Up),Armor,Basic,Light,2025-01-14T23:50:29Z,Janthir Wilds
+12799,Hooded Windbreaker (Up),Armor,Basic,Medium,2025-01-14T23:50:59Z,Janthir Wilds
+12805,Hooded Windbreaker (Up),Armor,Basic,Heavy,2025-01-14T23:51:15Z,Janthir Wilds
+12802,Hooded Windbreaker (Down),Armor,Basic,Light,2025-01-14T23:53:44Z,Janthir Wilds
+12800,Hooded Windbreaker (Down),Armor,Basic,Medium,2025-01-14T23:54:15Z,Janthir Wilds
+12798,Hooded Windbreaker (Down),Armor,Basic,Heavy,2025-01-14T23:54:29Z,Janthir Wilds
 12821,Lucky Snake Lantern,Back,Rare,,2025-01-28T18:30:23Z,Janthir Wilds
 12831,Jade Serpent Spear,Weapon,Basic,,2025-01-28T18:35:34Z,Janthir Wilds
 12824,Jade Serpent Dagger,Weapon,Basic,,2025-01-28T18:38:00Z,Janthir Wilds
@@ -7328,6 +7847,18 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12863,Scavenged Obsidian Torch,Weapon,Basic,,2025-03-12T22:05:25Z,Janthir Wilds
 12901,Scavenged Obsidian Warhorn,Weapon,Basic,,2025-03-12T22:07:02Z,Janthir Wilds
 12928,Shimmering Aurora Spear,Weapon,Basic,,2025-03-13T10:25:06Z,Janthir Wilds
+12896,Infused Aurora Leggings,Armor,Basic,Heavy,2025-03-13T11:30:35Z,Janthir Wilds
+12932,Infused Aurora Leggings,Armor,Basic,Medium,2025-03-13T11:31:16Z,Janthir Wilds
+12861,Infused Aurora Leggings,Armor,Basic,Light,2025-03-13T11:31:40Z,Janthir Wilds
+12918,Ward Knight's Shoulders,Armor,Basic,Heavy,2025-03-14T10:35:14Z,Janthir Wilds
+12903,Ward Knight's Shoulders,Armor,Basic,Medium,2025-03-14T10:38:44Z,Janthir Wilds
+12914,Ward Knight's Shoulders,Armor,Basic,Light,2025-03-14T10:41:50Z,Janthir Wilds
+12938,Ward Knight's Gloves,Armor,Basic,Heavy,2025-03-14T10:45:29Z,Janthir Wilds
+12870,Ward Knight's Gloves,Armor,Basic,Medium,2025-03-14T10:46:38Z,Janthir Wilds
+12936,Ward Knight's Gloves,Armor,Basic,Light,2025-03-14T10:47:17Z,Janthir Wilds
+12917,Ward Knight's Boots,Armor,Basic,Heavy,2025-03-14T10:53:38Z,Janthir Wilds
+12888,Ward Knight's Boots,Armor,Basic,Medium,2025-03-14T10:54:07Z,Janthir Wilds
+12892,Ward Knight's Boots,Armor,Basic,Light,2025-03-14T10:54:32Z,Janthir Wilds
 12866,Old-Growth Dagger,Weapon,Basic,,2025-03-14T12:09:04Z,Janthir Wilds
 12876,Old-Growth Axe,Weapon,Basic,,2025-03-14T12:12:02Z,Janthir Wilds
 12857,Old-Growth Focus,Weapon,Basic,,2025-03-14T12:13:31Z,Janthir Wilds
@@ -7345,6 +7876,18 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12885,Old-Growth Sword,Weapon,Basic,,2025-03-14T12:34:32Z,Janthir Wilds
 12912,Old-Growth Torch,Weapon,Basic,,2025-03-14T12:37:03Z,Janthir Wilds
 12864,Old-Growth Warhorn,Weapon,Basic,,2025-03-14T12:38:20Z,Janthir Wilds
+12974,Cloaked Cat Mantle,Armor,Basic,Heavy,2025-03-25T17:35:51Z,Janthir Wilds
+12960,Cloaked Cat Mantle,Armor,Basic,Light,2025-03-25T17:37:22Z,Janthir Wilds
+12968,Cloaked Cat Mantle,Armor,Basic,Medium,2025-03-25T17:38:38Z,Janthir Wilds
+12969,Avian Aspect Helm,Armor,Basic,Heavy,2025-03-25T18:24:54Z,Janthir Wilds
+12956,Avian Aspect Helm,Armor,Basic,Light,2025-03-25T18:25:27Z,Janthir Wilds
+12967,Avian Aspect Helm,Armor,Basic,Medium,2025-03-25T18:25:42Z,Janthir Wilds
+12953,Synergetics Headset (Up),Armor,Basic,Heavy,2025-03-25T19:16:49Z,Janthir Wilds
+12973,Synergetics Headset (Up),Armor,Basic,Medium,2025-03-25T19:17:42Z,Janthir Wilds
+12972,Synergetics Headset (Up),Armor,Basic,Light,2025-03-25T19:17:49Z,Janthir Wilds
+12959,Synergetics Headset (Down),Armor,Basic,Heavy,2025-03-25T19:20:08Z,Janthir Wilds
+12944,Synergetics Headset (Down),Armor,Basic,Medium,2025-03-25T19:20:29Z,Janthir Wilds
+12952,Synergetics Headset (Down),Armor,Basic,Light,2025-03-25T19:20:48Z,Janthir Wilds
 12964,Kurzick Tree Singer's Shield,Weapon,Basic,,2025-03-25T21:57:57Z,Janthir Wilds
 12970,Kurzick Tree Singer's Axe,Weapon,Basic,,2025-03-26T07:20:24Z,Janthir Wilds
 12949,Kurzick Tree Singer's Dagger,Weapon,Basic,,2025-03-26T07:22:15Z,Janthir Wilds
@@ -7388,6 +7931,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 12992,Super Rainbow Cloud Staff,Weapon,Basic,,2025-04-15T23:44:31Z,Janthir Wilds
 12979,Super Rainbow Cloud Spear,Weapon,Basic,,2025-04-15T23:46:50Z,Janthir Wilds
 13008,Aquarium Greatsword,Weapon,Basic,,2025-05-06T20:50:41Z,Janthir Wilds
+13002,Patterned Racing Scarf,Armor,Basic,Light,2025-05-13T20:28:13Z,Janthir Wilds
+13001,Patterned Racing Scarf,Armor,Basic,Medium,2025-05-13T20:29:07Z,Janthir Wilds
+13009,Patterned Racing Scarf,Armor,Basic,Heavy,2025-05-13T20:29:25Z,Janthir Wilds
+13005,Rebel Jacket,Armor,Basic,Light,2025-05-27T19:34:47Z,Janthir Wilds
+13006,Rebel Jacket,Armor,Basic,Medium,2025-05-27T19:35:21Z,Janthir Wilds
+13010,Rebel Jacket,Armor,Basic,Heavy,2025-05-27T19:35:57Z,Janthir Wilds
 13046,Visage of the Mists,Weapon,Basic,,2025-06-04T03:30:28Z,Janthir Wilds
 13054,Fox Fire Spear,Weapon,Basic,,2025-06-04T08:50:50Z,Janthir Wilds
 13031,Uncrowned Legend's Warhorn,Weapon,Basic,,2025-06-04T13:44:29Z,Janthir Wilds
@@ -7409,11 +7958,23 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13089,Stone-Growth Torch,Weapon,Basic,,2025-06-04T21:51:08Z,Janthir Wilds
 13074,Stone-Growth Warhorn,Weapon,Basic,,2025-06-04T21:52:08Z,Janthir Wilds
 12942,Ward Knight's Cape,Back,Basic,,2025-06-05T16:05:47Z,Janthir Wilds
+12869,Ward Knight's Coat,Armor,Basic,Light,2025-06-05T16:14:09Z,Janthir Wilds
+12924,Ward Knight's Coat,Armor,Basic,Medium,2025-06-05T16:15:20Z,Janthir Wilds
+12910,Ward Knight's Coat,Armor,Basic,Heavy,2025-06-05T16:16:10Z,Janthir Wilds
+12880,Ward Knight's Helm,Armor,Basic,Light,2025-06-05T16:19:34Z,Janthir Wilds
+12862,Ward Knight's Helm,Armor,Basic,Medium,2025-06-05T16:20:18Z,Janthir Wilds
+12941,Ward Knight's Helm,Armor,Basic,Heavy,2025-06-05T16:20:49Z,Janthir Wilds
+12878,Ward Knight's Leggings,Armor,Basic,Light,2025-06-05T16:23:32Z,Janthir Wilds
+12884,Ward Knight's Leggings,Armor,Basic,Medium,2025-06-05T16:24:09Z,Janthir Wilds
+12902,Ward Knight's Leggings,Armor,Basic,Heavy,2025-06-05T16:24:35Z,Janthir Wilds
 13029,Uncrowned Legend's Greatsword,Weapon,Basic,,2025-06-06T16:00:11Z,Janthir Wilds
 13040,Stellar Dragon Wings Backpack,Back,Basic,,2025-06-09T08:25:49Z,Janthir Wilds
 12579,Shocking Prod Spear,Weapon,Basic,,2025-06-10T11:27:01Z,Janthir Wilds
 12842,Seimur's Butterknife Spear,Weapon,Basic,,2025-06-11T05:22:03Z,Janthir Wilds
 13079,Uncrowned Legend's Trident,Weapon,Basic,,2025-06-17T17:23:43Z,Janthir Wilds
+13064,Raven-Blessed Visage,Armor,Basic,Light,2025-06-17T18:39:54Z,Janthir Wilds
+13069,Raven-Blessed Visage,Armor,Basic,Medium,2025-06-17T18:50:29Z,Janthir Wilds
+13051,Raven-Blessed Visage,Armor,Basic,Heavy,2025-06-17T18:53:07Z,Janthir Wilds
 13053,Sacred Raven's Axe,Weapon,Basic,,2025-06-17T19:01:13Z,Janthir Wilds
 13084,Sacred Raven's Dagger,Weapon,Basic,,2025-06-17T19:07:43Z,Janthir Wilds
 13043,Sacred Raven's Focus,Weapon,Basic,,2025-06-17T19:12:38Z,Janthir Wilds
@@ -7433,8 +7994,50 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13088,Sacred Raven's Warhorn,Weapon,Basic,,2025-06-17T19:37:52Z,Janthir Wilds
 12919,Abyss Stalker Spear,Weapon,Basic,,2025-06-24T18:23:44Z,Janthir Wilds
 13112,Seven Reapers Spear,Weapon,Basic,,2025-06-24T18:26:44Z,Janthir Wilds
+13123,Fresh Swim Top,Armor,Basic,Light,2025-06-24T20:14:51Z,Janthir Wilds
+13102,Fresh Swim Top,Armor,Basic,Medium,2025-06-24T20:15:37Z,Janthir Wilds
+13116,Fresh Swim Top,Armor,Basic,Heavy,2025-06-24T20:16:10Z,Janthir Wilds
+13114,Fresh Swim Bottoms,Armor,Basic,Light,2025-06-24T20:18:24Z,Janthir Wilds
+13107,Fresh Swim Bottoms,Armor,Basic,Medium,2025-06-24T20:18:49Z,Janthir Wilds
+13118,Fresh Swim Bottoms,Armor,Basic,Heavy,2025-06-24T20:19:16Z,Janthir Wilds
+13133,Snorkel Mask,Armor,Basic,Light,2025-06-24T20:22:19Z,Janthir Wilds
+13105,Snorkel Mask,Armor,Basic,Medium,2025-06-24T20:22:44Z,Janthir Wilds
+13122,Snorkel Mask,Armor,Basic,Heavy,2025-06-24T20:23:06Z,Janthir Wilds
+13104,Buoyant Chestpiece,Armor,Basic,Light,2025-06-24T20:24:27Z,Janthir Wilds
+13113,Buoyant Chestpiece,Armor,Basic,Medium,2025-06-24T20:24:49Z,Janthir Wilds
+13101,Buoyant Chestpiece,Armor,Basic,Heavy,2025-06-24T20:25:16Z,Janthir Wilds
+13115,Sunshine Flower Headpiece,Armor,Basic,Light,2025-06-24T20:27:43Z,Janthir Wilds
+13100,Sunshine Flower Headpiece,Armor,Basic,Medium,2025-06-24T20:28:13Z,Janthir Wilds
+13131,Sunshine Flower Headpiece,Armor,Basic,Heavy,2025-06-24T20:28:32Z,Janthir Wilds
+13099,Sunshine Shirt,Armor,Basic,Light,2025-06-24T20:29:34Z,Janthir Wilds
+13121,Sunshine Shirt,Armor,Basic,Medium,2025-06-24T20:29:57Z,Janthir Wilds
+13108,Sunshine Shirt,Armor,Basic,Heavy,2025-06-24T20:30:20Z,Janthir Wilds
+13129,Sunshine Bracelet,Armor,Basic,Light,2025-06-24T20:31:27Z,Janthir Wilds
+13103,Sunshine Bracelet,Armor,Basic,Medium,2025-06-24T20:31:45Z,Janthir Wilds
+13119,Sunshine Bracelet,Armor,Basic,Heavy,2025-06-24T20:32:06Z,Janthir Wilds
+13125,Sunshine Shorts,Armor,Basic,Light,2025-06-24T20:33:35Z,Janthir Wilds
+13117,Sunshine Shorts,Armor,Basic,Medium,2025-06-24T20:33:55Z,Janthir Wilds
+13130,Sunshine Shorts,Armor,Basic,Heavy,2025-06-24T20:34:24Z,Janthir Wilds
+13110,Sunshine Sandals,Armor,Basic,Light,2025-06-24T20:35:25Z,Janthir Wilds
+13106,Sunshine Sandals,Armor,Basic,Medium,2025-06-24T20:35:47Z,Janthir Wilds
+13127,Sunshine Sandals,Armor,Basic,Heavy,2025-06-24T20:36:19Z,Janthir Wilds
+13111,Valkyrie's Champion Helm,Armor,Basic,Light,2025-06-24T21:12:51Z,Janthir Wilds
+13120,Valkyrie's Champion Helm,Armor,Basic,Medium,2025-06-24T21:13:21Z,Janthir Wilds
+13124,Valkyrie's Champion Helm,Armor,Basic,Heavy,2025-06-24T21:13:52Z,Janthir Wilds
 13128,Villainous Cape,Back,Masterwork,,2025-07-01T19:55:40Z,Janthir Wilds
+13132,Villainous Hood,Armor,Basic,Light,2025-07-01T20:02:59Z,Janthir Wilds
+13126,Villainous Hood,Armor,Basic,Medium,2025-07-01T20:03:28Z,Janthir Wilds
+13109,Villainous Hood,Armor,Basic,Heavy,2025-07-01T20:03:49Z,Janthir Wilds
 13139,Collapsing Star Spear,Weapon,Basic,,2025-07-16T10:34:38Z,Janthir Wilds
+13180,Round Boatsman Hat,Armor,Basic,Light,2025-07-16T11:33:36Z,Janthir Wilds
+13171,Round Boatsman Hat,Armor,Basic,Medium,2025-07-16T11:34:50Z,Janthir Wilds
+13136,Round Boatsman Hat,Armor,Basic,Heavy,2025-07-16T11:35:16Z,Janthir Wilds
+13144,Flat Boatsman Hat,Armor,Basic,Light,2025-07-16T11:44:06Z,Janthir Wilds
+13141,Flat Boatsman Hat,Armor,Basic,Medium,2025-07-16T11:46:08Z,Janthir Wilds
+13151,Flat Boatsman Hat,Armor,Basic,Heavy,2025-07-16T11:46:17Z,Janthir Wilds
+13183,Plumed Commodore's Hat,Armor,Basic,Light,2025-07-16T11:53:10Z,Janthir Wilds
+13173,Plumed Commodore's Hat,Armor,Basic,Medium,2025-07-16T11:53:39Z,Janthir Wilds
+13148,Plumed Commodore's Hat,Armor,Basic,Heavy,2025-07-16T11:54:05Z,Janthir Wilds
 13137,Seashell Shield,Weapon,Basic,,2025-07-19T18:55:18Z,Janthir Wilds
 13149,Seashell Focus,Weapon,Basic,,2025-07-19T19:01:58Z,Janthir Wilds
 13138,Seashell Staff,Weapon,Basic,,2025-07-19T19:15:25Z,Janthir Wilds
@@ -7455,6 +8058,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13147,Leviathan Bone Short Bow,Weapon,Basic,,2025-08-05T19:51:24Z,Janthir Wilds
 13192,Leviathan Bone Staff,Weapon,Basic,,2025-08-05T19:52:44Z,Janthir Wilds
 13165,Leviathan Bone Spear,Weapon,Basic,,2025-08-05T19:54:00Z,Janthir Wilds
+13150,Explosive Turbo Greaves,Armor,Basic,Light,2025-08-05T22:43:47Z,Janthir Wilds
+13193,Explosive Turbo Greaves,Armor,Basic,Medium,2025-08-05T22:44:13Z,Janthir Wilds
+13154,Explosive Turbo Greaves,Armor,Basic,Heavy,2025-08-05T22:44:49Z,Janthir Wilds
 13169,Cloud Cuirass,Armor,Basic,Heavy,2025-08-05T22:51:04Z,Janthir Wilds
 13177,Cloud Cuirass,Armor,Basic,Light,2025-08-05T22:51:04Z,Janthir Wilds
 13186,Cloud Cuirass,Armor,Basic,Medium,2025-08-05T22:51:04Z,Janthir Wilds
@@ -7488,6 +8094,9 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13224,"Eikasia, Mists-Grasper",Armor,Basic,Light,2025-09-22T22:51:32Z,Janthir Wilds
 13230,"Eikasia, Mists-Grasper",Armor,Basic,Heavy,2025-09-22T22:51:32Z,Janthir Wilds
 13215,Traveling Knight's Cape,Back,Masterwork,,2025-09-30T16:30:36Z,Janthir Wilds
+13213,Traveling Knight's Hooded Helm,Armor,Basic,Light,2025-09-30T16:37:40Z,Janthir Wilds
+13208,Traveling Knight's Hooded Helm,Armor,Basic,Medium,2025-09-30T16:38:43Z,Janthir Wilds
+13226,Traveling Knight's Hooded Helm,Armor,Basic,Heavy,2025-09-30T16:39:17Z,Janthir Wilds
 13256,Chained Spear,Weapon,Basic,,2025-10-07T17:27:49Z,Janthir Wilds
 13258,Unchained Longbow,Weapon,Basic,,2025-10-07T17:35:55Z,Janthir Wilds
 13248,Unchained Sword,Weapon,Basic,,2025-10-07T17:40:18Z,Janthir Wilds
@@ -7507,6 +8116,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13255,Plush Zhaia Backpack,Back,Exotic,,2025-10-07T18:25:29Z,Janthir Wilds
 13252,Unchained Focus,Weapon,Basic,,2025-10-07T18:30:33Z,Janthir Wilds
 13259,Unchained Short Bow,Weapon,Basic,,2025-10-07T18:30:42Z,Janthir Wilds
+13242,Lunatic Jester's Trousers,Armor,Basic,Light,2025-10-07T20:29:21Z,Janthir Wilds
+13260,Lunatic Jester's Trousers,Armor,Basic,Medium,2025-10-07T20:31:51Z,Janthir Wilds
+13234,Lunatic Jester's Trousers,Armor,Basic,Heavy,2025-10-07T20:33:29Z,Janthir Wilds
+13244,Vigilant Physician's Mask,Armor,Basic,Light,2025-10-21T19:39:22Z,Janthir Wilds
+13254,Vigilant Physician's Mask,Armor,Basic,Medium,2025-10-21T19:39:48Z,Janthir Wilds
+13250,Vigilant Physician's Mask,Armor,Basic,Heavy,2025-10-21T19:40:05Z,Janthir Wilds
 13382,Mystic Bident,Weapon,Basic,,2025-10-31T06:35:52Z,Visions of Eternity
 13574,Bronze Javelin,Weapon,Basic,,2025-10-31T10:18:06Z,Visions of Eternity
 13569,Darksteel Javelin,Weapon,Basic,,2025-10-31T10:20:00Z,Visions of Eternity
@@ -7538,6 +8153,18 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13516,Pearlshell Staff,Weapon,Basic,,2025-11-08T01:39:08Z,Visions of Eternity
 13620,Pearlshell Spear,Weapon,Basic,,2025-11-08T01:40:08Z,Visions of Eternity
 13548,Painter's Brilliance Backpack,Back,Basic,,2025-11-08T21:27:53Z,Visions of Eternity
+13504,Feathered Inquest Leggings,Armor,Basic,Light,2025-11-12T15:26:21Z,Visions of Eternity
+13359,Feathered Inquest Leggings,Armor,Basic,Medium,2025-11-12T15:26:57Z,Visions of Eternity
+13570,Feathered Inquest Leggings,Armor,Basic,Heavy,2025-11-12T15:27:12Z,Visions of Eternity
+13390,Feathered Inquest Mantle,Armor,Basic,Light,2025-11-12T15:47:35Z,Visions of Eternity
+13487,Feathered Inquest Mantle,Armor,Basic,Medium,2025-11-12T15:49:12Z,Visions of Eternity
+13405,Feathered Inquest Mantle,Armor,Basic,Heavy,2025-11-12T15:50:33Z,Visions of Eternity
+13365,Feathered Inquest Breastplate,Armor,Basic,Light,2025-11-12T16:00:14Z,Visions of Eternity
+13469,Feathered Inquest Breastplate,Armor,Basic,Medium,2025-11-12T16:01:56Z,Visions of Eternity
+13476,Feathered Inquest Breastplate,Armor,Basic,Heavy,2025-11-12T16:02:34Z,Visions of Eternity
+13532,Feathered Inquest Helm,Armor,Basic,Light,2025-11-12T16:12:49Z,Visions of Eternity
+13583,Feathered Inquest Helm,Armor,Basic,Medium,2025-11-12T16:13:24Z,Visions of Eternity
+13434,Feathered Inquest Helm,Armor,Basic,Heavy,2025-11-12T16:14:10Z,Visions of Eternity
 13475,Calligrapher's Longbow,Weapon,Basic,,2025-11-18T18:39:14Z,Visions of Eternity
 13626,Calligrapher's Staff,Weapon,Basic,,2025-11-18T18:42:51Z,Visions of Eternity
 13529,Calligrapher's Axe,Weapon,Basic,,2025-11-18T19:01:43Z,Visions of Eternity
@@ -7555,6 +8182,27 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13575,Calligrapher's Rifle,Weapon,Basic,,2025-11-18T19:22:33Z,Visions of Eternity
 13379,Calligrapher's Short Bow,Weapon,Basic,,2025-11-18T19:24:09Z,Visions of Eternity
 13458,Calligrapher's Spear,Weapon,Basic,,2025-11-18T19:25:19Z,Visions of Eternity
+13631,Seaside Scholar's Hat,Armor,Basic,Light,2025-11-23T10:25:43Z,Visions of Eternity
+13621,Seaside Scholar's Hat,Armor,Basic,Medium,2025-11-23T10:26:28Z,Visions of Eternity
+13283,Seaside Scholar's Hat,Armor,Basic,Heavy,2025-11-23T10:27:01Z,Visions of Eternity
+13317,Seaside Scholar's Sandals,Armor,Basic,Light,2025-11-23T11:09:21Z,Visions of Eternity
+13377,Seaside Scholar's Sandals,Armor,Basic,Medium,2025-11-23T11:09:51Z,Visions of Eternity
+13618,Seaside Scholar's Sandals,Armor,Basic,Heavy,2025-11-23T11:10:19Z,Visions of Eternity
+13610,Seaside Scholar's Shorts,Armor,Basic,Light,2025-11-23T11:11:14Z,Visions of Eternity
+13314,Seaside Scholar's Shorts,Armor,Basic,Medium,2025-11-23T11:11:44Z,Visions of Eternity
+13531,Seaside Scholar's Shorts,Armor,Basic,Heavy,2025-11-23T11:12:08Z,Visions of Eternity
+13641,Party Hat,Armor,Basic,Light,2025-11-24T18:03:16Z,Visions of Eternity
+13637,Party Hat,Armor,Basic,Medium,2025-11-24T18:03:27Z,Visions of Eternity
+13639,Party Hat,Armor,Basic,Heavy,2025-11-24T18:03:38Z,Visions of Eternity
+13638,Metrica Sports T-Shirt,Armor,Basic,Light,2025-11-25T23:02:37Z,Visions of Eternity
+13643,Metrica Sports T-Shirt,Armor,Basic,Medium,2025-11-25T23:03:00Z,Visions of Eternity
+13640,Metrica Sports T-Shirt,Armor,Basic,Heavy,2025-11-25T23:03:20Z,Visions of Eternity
+13644,Janthir Outdoors T-Shirt,Armor,Basic,Light,2025-11-25T23:26:11Z,Visions of Eternity
+13645,Janthir Outdoors T-Shirt,Armor,Basic,Medium,2025-11-25T23:26:13Z,Visions of Eternity
+13648,Janthir Outdoors T-Shirt,Armor,Basic,Heavy,2025-11-25T23:26:16Z,Visions of Eternity
+13646,Southsun Waves T-Shirt,Armor,Basic,Light,2025-11-25T23:29:00Z,Visions of Eternity
+13647,Southsun Waves T-Shirt,Armor,Basic,Medium,2025-11-25T23:29:02Z,Visions of Eternity
+13642,Southsun Waves T-Shirt,Armor,Basic,Heavy,2025-11-25T23:29:05Z,Visions of Eternity
 13243,Plush Jorms Backpack,Back,Exotic,,2025-12-10T00:50:55Z,Visions of Eternity
 13667,Snowdrift Spear,Weapon,Basic,,2025-12-10T06:59:03Z,Visions of Eternity
 13669,Winter Snow Goggles,Armor,Basic,Heavy,2025-12-10T15:36:40Z,Visions of Eternity
@@ -7577,10 +8225,19 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13654,Sugardrift Short Bow,Weapon,Basic,,2025-12-10T19:39:37Z,Visions of Eternity
 13677,Sugardrift Staff,Weapon,Basic,,2025-12-10T19:40:15Z,Visions of Eternity
 13651,Sugardrift Spear,Weapon,Basic,,2025-12-10T19:40:51Z,Visions of Eternity
+13657,Steam-Powered Legwear (Right),Armor,Basic,Light,2025-12-10T21:46:19Z,Visions of Eternity
+13656,Steam-Powered Legwear (Right),Armor,Basic,Medium,2025-12-10T21:48:25Z,Visions of Eternity
+13672,Steam-Powered Legwear (Right),Armor,Basic,Heavy,2025-12-10T21:48:26Z,Visions of Eternity
+13650,Steam-Powered Legwear (Left),Armor,Basic,Heavy,2025-12-10T21:49:33Z,Visions of Eternity
+13676,Steam-Powered Legwear (Left),Armor,Basic,Medium,2025-12-10T21:49:34Z,Visions of Eternity
+13663,Steam-Powered Legwear (Left),Armor,Basic,Light,2025-12-10T21:49:36Z,Visions of Eternity
 13668,Metal Legion Logging Tool,Gathering,Basic,,2025-12-16T17:25:52Z,Visions of Eternity
 13679,Metal Legion Harvesting Tool,Gathering,Basic,,2025-12-16T17:31:08Z,Visions of Eternity
 13675,Metal Legion Mining Tool,Gathering,Basic,,2025-12-16T17:31:09Z,Visions of Eternity
 13681,Vermilion Staff Skin,Weapon,Basic,,2026-01-13T17:53:47Z,Visions of Eternity
+13682,Classic Leather Boots,Armor,Basic,Light,2026-01-27T18:16:03Z,Visions of Eternity
+13680,Classic Leather Boots,Armor,Basic,Medium,2026-01-27T18:16:33Z,Visions of Eternity
+13683,Classic Leather Boots,Armor,Basic,Heavy,2026-01-27T18:16:58Z,Visions of Eternity
 13257,Plush Mordy Backpack,Back,Exotic,,2026-02-03T18:18:14Z,Visions of Eternity
 13726,Painter's Brilliance Axe,Weapon,Basic,,2026-02-03T22:45:17Z,Visions of Eternity
 13753,Painter's Brilliance Dagger,Weapon,Basic,,2026-02-03T22:48:09Z,Visions of Eternity
@@ -7603,9 +8260,18 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13373,Orrian Glaive,Weapon,Basic,,2026-02-04T10:00:44Z,Visions of Eternity
 13364,Pearl Halberd,Weapon,Basic,,2026-02-04T10:07:01Z,Visions of Eternity
 13526,Tribal Bident,Weapon,Basic,,2026-02-04T10:12:16Z,Visions of Eternity
+13564,Seaside Scholar's Bracelets,Armor,Basic,Light,2026-02-04T10:17:04Z,Visions of Eternity
 13619,Peacemaker's Javelin,Weapon,Basic,,2026-02-04T10:17:10Z,Visions of Eternity
+13613,Seaside Scholar's Bracelets,Armor,Basic,Medium,2026-02-04T10:17:56Z,Visions of Eternity
+13285,Seaside Scholar's Bracelets,Armor,Basic,Heavy,2026-02-04T10:18:49Z,Visions of Eternity
+13561,Seaside Scholar's Robes,Armor,Basic,Light,2026-02-04T10:21:32Z,Visions of Eternity
+13307,Seaside Scholar's Robes,Armor,Basic,Medium,2026-02-04T10:22:03Z,Visions of Eternity
 13571,"Pirate ""Fork""",Weapon,Basic,,2026-02-04T10:22:27Z,Visions of Eternity
+13540,Seaside Scholar's Robes,Armor,Basic,Heavy,2026-02-04T10:22:32Z,Visions of Eternity
 13354,Verdant Glaive,Weapon,Basic,,2026-02-04T10:24:57Z,Visions of Eternity
+13562,Seaside Scholar's Sash,Armor,Basic,Light,2026-02-04T10:26:28Z,Visions of Eternity
+13530,Seaside Scholar's Sash,Armor,Basic,Medium,2026-02-04T10:27:01Z,Visions of Eternity
+13442,Seaside Scholar's Sash,Armor,Basic,Heavy,2026-02-04T10:27:37Z,Visions of Eternity
 13406,Warden Pike,Weapon,Basic,,2026-02-04T10:32:38Z,Visions of Eternity
 13758,Toxinshell Axe,Weapon,Basic,,2026-02-04T10:43:49Z,Visions of Eternity
 13685,Toxinshell Dagger,Weapon,Basic,,2026-02-04T10:45:49Z,Visions of Eternity
@@ -7625,6 +8291,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13776,Toxinshell Staff,Weapon,Basic,,2026-02-04T11:02:19Z,Visions of Eternity
 13706,Toxinshell Spear,Weapon,Basic,,2026-02-04T11:03:38Z,Visions of Eternity
 13788,Tropical Leaf Cape,Back,Basic,,2026-02-04T12:10:24Z,Visions of Eternity
+13697,Tropical Leaf Shoulders,Armor,Basic,Light,2026-02-04T12:12:14Z,Visions of Eternity
+13736,Tropical Leaf Shoulders,Armor,Basic,Medium,2026-02-04T12:12:43Z,Visions of Eternity
+13740,Tropical Leaf Shoulders,Armor,Basic,Heavy,2026-02-04T12:13:03Z,Visions of Eternity
+13691,Hoofed Shoes,Armor,Basic,Light,2026-02-04T19:43:41Z,Visions of Eternity
+13724,Hoofed Shoes,Armor,Basic,Medium,2026-02-04T19:45:59Z,Visions of Eternity
+13705,Hoofed Shoes,Armor,Basic,Heavy,2026-02-04T19:47:41Z,Visions of Eternity
 13766,Firework Spear,Weapon,Basic,,2026-02-04T19:55:58Z,Visions of Eternity
 13725,Lucky Great Horse Lantern,Back,Exotic,,2026-02-04T20:04:29Z,Visions of Eternity
 13704,Celestial's Firework Axe,Weapon,Basic,,2026-02-05T10:12:35Z,Visions of Eternity
@@ -7644,9 +8316,33 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13708,Celestial's Firework Pistol,Weapon,Basic,,2026-02-05T10:47:48Z,Visions of Eternity
 13739,Celestial's Firework Dagger,Weapon,Basic,,2026-02-05T11:01:16Z,Visions of Eternity
 13749,Celestial's Firework Staff,Weapon,Basic,,2026-02-05T11:05:03Z,Visions of Eternity
+13768,Spiked Inquest Helm,Armor,Basic,Light,2026-02-05T19:12:57Z,Visions of Eternity
+13775,Spiked Inquest Helm,Armor,Basic,Medium,2026-02-05T19:13:42Z,Visions of Eternity
+13760,Spiked Inquest Helm,Armor,Basic,Heavy,2026-02-05T19:14:16Z,Visions of Eternity
+13714,Spiked Inquest Greaves,Armor,Basic,Light,2026-02-05T19:19:10Z,Visions of Eternity
+13780,Spiked Inquest Greaves,Armor,Basic,Medium,2026-02-05T19:20:34Z,Visions of Eternity
+13782,Spiked Inquest Greaves,Armor,Basic,Heavy,2026-02-05T19:21:17Z,Visions of Eternity
+13711,Spiked Inquest Gloves,Armor,Basic,Light,2026-02-05T19:25:01Z,Visions of Eternity
+13759,Spiked Inquest Gloves,Armor,Basic,Medium,2026-02-05T19:26:56Z,Visions of Eternity
+13702,Spiked Inquest Gloves,Armor,Basic,Heavy,2026-02-05T19:27:40Z,Visions of Eternity
+13793,Acclaimed Militia Leggings,Armor,Basic,Heavy,2026-02-24T22:51:40Z,Visions of Eternity
+13792,Acclaimed Militia Leggings,Armor,Basic,Medium,2026-02-24T22:51:45Z,Visions of Eternity
+13789,Acclaimed Militia Leggings,Armor,Basic,Light,2026-02-24T22:51:53Z,Visions of Eternity
+13436,Seaside Scholar's Tank Top,Armor,Basic,Light,2026-02-26T08:17:16Z,Visions of Eternity
+13602,Seaside Scholar's Tank Top,Armor,Basic,Medium,2026-02-26T08:18:26Z,Visions of Eternity
+13480,Seaside Scholar's Tank Top,Armor,Basic,Heavy,2026-02-26T08:19:03Z,Visions of Eternity
 13790,Inverted Blade Wings Backpack,Back,Basic,,2026-03-03T17:42:14Z,Visions of Eternity
 13797,Portable Portal Backpack Skin,Back,Basic,,2026-03-18T17:58:24Z,Visions of Eternity
+13810,Flower Eyepatch,Armor,Basic,Light,2026-03-18T20:57:20Z,Visions of Eternity
+13809,Flower Eyepatch,Armor,Basic,Medium,2026-03-18T20:57:54Z,Visions of Eternity
+13796,Flower Eyepatch,Armor,Basic,Heavy,2026-03-18T20:57:55Z,Visions of Eternity
+13804,Flower Corsage Shoulder,Armor,Basic,Light,2026-03-18T21:01:32Z,Visions of Eternity
+13798,Flower Corsage Shoulder,Armor,Basic,Medium,2026-03-18T21:01:33Z,Visions of Eternity
+13799,Flower Corsage Shoulder,Armor,Basic,Heavy,2026-03-18T21:01:35Z,Visions of Eternity
 13807,Dynamics Hoverboard Backpack,Back,Basic,,2026-03-24T20:00:41Z,Visions of Eternity
+13806,Masked Cat Hat,Armor,Basic,Heavy,2026-03-31T17:37:06Z,Visions of Eternity
+13802,Masked Cat Hat,Armor,Basic,Light,2026-03-31T17:43:15Z,Visions of Eternity
+13805,Masked Cat Hat,Armor,Basic,Medium,2026-03-31T17:43:16Z,Visions of Eternity
 13838,Retro-Forged Focus,Weapon,Basic,,2026-04-14T21:42:24Z,Visions of Eternity
 13823,Retro-Forged Greatsword,Weapon,Basic,,2026-04-14T21:45:23Z,Visions of Eternity
 13837,Retro-Forged Longbow,Weapon,Basic,,2026-04-14T21:46:55Z,Visions of Eternity
@@ -7675,6 +8371,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13840,Dynamics Extractor Logging Tool,Gathering,Basic,,2026-04-14T22:47:36Z,Visions of Eternity
 13847,Dynamics Extractor Mining Tool,Gathering,Basic,,2026-04-14T22:52:39Z,Visions of Eternity
 13820,Dynamics Extractor Harvesting Tool,Gathering,Basic,,2026-04-14T22:56:25Z,Visions of Eternity
+13816,Plaid Shirt (Closed),Armor,Basic,Heavy,2026-04-28T16:54:31Z,Visions of Eternity
+13848,Plaid Shirt (Closed),Armor,Basic,Medium,2026-04-28T16:54:39Z,Visions of Eternity
+13845,Plaid Shirt (Closed),Armor,Basic,Light,2026-04-28T16:54:42Z,Visions of Eternity
+13815,Plaid Shirt (Open),Armor,Basic,Light,2026-04-28T16:59:42Z,Visions of Eternity
+13828,Plaid Shirt (Open),Armor,Basic,Medium,2026-04-28T16:59:44Z,Visions of Eternity
+13822,Plaid Shirt (Open),Armor,Basic,Heavy,2026-04-28T16:59:45Z,Visions of Eternity
 13814,Salvaged Dredge Backpack,Back,Exotic,,2026-05-03T12:59:00Z,Visions of Eternity
 13824,Salvaged Dredge Inferno Backpack,Back,Ascended,,2026-05-03T22:15:42Z,Visions of Eternity
 13935,Gwyl Monarch's Axe,Weapon,Basic,,2026-05-13T10:05:15Z,Visions of Eternity
@@ -7694,6 +8396,15 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13872,Gwyl Monarch's Sword,Weapon,Basic,,2026-05-13T10:21:50Z,Visions of Eternity
 13898,Gwyl Monarch's Torch,Weapon,Basic,,2026-05-13T10:22:41Z,Visions of Eternity
 13893,Gwyl Monarch's Warhorn,Weapon,Basic,,2026-05-13T10:23:33Z,Visions of Eternity
+13875,Ward Hunter's Boots,Armor,Basic,Light,2026-05-13T10:38:34Z,Visions of Eternity
+13920,Ward Hunter's Boots,Armor,Basic,Medium,2026-05-13T10:39:15Z,Visions of Eternity
+13972,Ward Hunter's Boots,Armor,Basic,Heavy,2026-05-13T10:39:54Z,Visions of Eternity
+13915,Ward Hunter's Gloves,Armor,Basic,Light,2026-05-13T10:42:15Z,Visions of Eternity
+13871,Ward Hunter's Gloves,Armor,Basic,Medium,2026-05-13T10:42:55Z,Visions of Eternity
+13881,Ward Hunter's Gloves,Armor,Basic,Heavy,2026-05-13T10:43:25Z,Visions of Eternity
+13869,Ward Hunter's Shoulders,Armor,Basic,Light,2026-05-13T10:45:20Z,Visions of Eternity
+13942,Ward Hunter's Shoulders,Armor,Basic,Medium,2026-05-13T10:48:26Z,Visions of Eternity
+13931,Ward Hunter's Shoulders,Armor,Basic,Heavy,2026-05-13T10:50:44Z,Visions of Eternity
 13779,Heavy Inquest Aquabreather,Armor,Exotic,Heavy,2026-05-14T12:27:41Z,Visions of Eternity
 13976,Synergetics Axe,Weapon,Basic,,2026-05-14T14:04:50Z,Visions of Eternity
 13965,Synergetics Dagger,Weapon,Basic,,2026-05-14T14:10:10Z,Visions of Eternity
@@ -7732,9 +8443,15 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 7113,Spire of Samarog,Weapon,Basic,,2026-05-17T19:27:06Z,Visions of Eternity
 13420,Spire of Samarog,Weapon,Basic,,2026-05-17T19:27:06Z,Visions of Eternity
 13914,Devil-Rending Staff,Weapon,Basic,,2026-05-19T16:41:06Z,Visions of Eternity
+14002,Guild Warrior Shoulders,Armor,Basic,Heavy,2026-06-02T17:27:10Z,Visions of Eternity
+14015,Guild Warrior Shoulders,Armor,Basic,Medium,2026-06-02T17:27:12Z,Visions of Eternity
+14020,Guild Warrior Shoulders,Armor,Basic,Light,2026-06-02T17:27:14Z,Visions of Eternity
 14017,Guild Warrior Cape,Back,Basic,,2026-06-02T17:32:08Z,Visions of Eternity
 13241,Plush Primo Backpack,Back,Exotic,,2026-06-02T17:52:53Z,Visions of Eternity
 14026,Dragonbone Spear,Weapon,Basic,,2026-06-03T07:53:30Z,Visions of Eternity
+14001,Bear-Blessed Visage,Armor,Basic,Medium,2026-06-03T09:54:03Z,Visions of Eternity
+14013,Bear-Blessed Visage,Armor,Basic,Heavy,2026-06-03T09:56:53Z,Visions of Eternity
+14011,Bear-Blessed Visage,Armor,Basic,Light,2026-06-03T09:57:16Z,Visions of Eternity
 14029,Icebone Warhorn,Weapon,Basic,,2026-06-03T10:21:50Z,Visions of Eternity
 14030,Icebone Torch,Weapon,Basic,,2026-06-03T10:24:40Z,Visions of Eternity
 14016,Icebone Sword,Weapon,Basic,,2026-06-03T10:25:04Z,Visions of Eternity
@@ -7752,11 +8469,59 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 14024,Icebone Focus,Weapon,Basic,,2026-06-03T10:31:51Z,Visions of Eternity
 14003,Icebone Dagger,Weapon,Basic,,2026-06-03T10:32:09Z,Visions of Eternity
 14021,Icebone Axe,Weapon,Basic,,2026-06-03T10:32:26Z,Visions of Eternity
+14009,Summer T-Shirt,Armor,Basic,Light,2026-06-06T10:23:27Z,Visions of Eternity
+14012,Summer T-Shirt,Armor,Basic,Medium,2026-06-06T10:23:53Z,Visions of Eternity
+14018,Summer T-Shirt,Armor,Basic,Heavy,2026-06-06T10:24:30Z,Visions of Eternity
+14004,Gradient Glasses (Down),Armor,Basic,Medium,2026-06-17T05:37:16Z,Visions of Eternity
+13998,Gradient Glasses (Down),Armor,Basic,Heavy,2026-06-17T05:37:19Z,Visions of Eternity
+14010,Gradient Glasses (Down),Armor,Basic,Light,2026-06-17T05:37:22Z,Visions of Eternity
+14006,Gradient Glasses (Up),Armor,Basic,Heavy,2026-06-17T05:41:23Z,Visions of Eternity
+14027,Gradient Glasses (Up),Armor,Basic,Medium,2026-06-17T05:41:25Z,Visions of Eternity
+14023,Gradient Glasses (Up),Armor,Basic,Light,2026-06-17T05:41:27Z,Visions of Eternity
 14046,Boosted Jetpack Backpack,Back,Basic,,2026-06-23T17:40:37Z,Visions of Eternity
+14039,Sleeveless Wetsuit Bottoms,Armor,Basic,Light,2026-06-23T18:33:17Z,Visions of Eternity
+14053,Sleeveless Wetsuit Bottoms,Armor,Basic,Medium,2026-06-23T18:34:09Z,Visions of Eternity
+14050,Sleeveless Wetsuit Bottoms,Armor,Basic,Heavy,2026-06-23T18:34:17Z,Visions of Eternity
+14045,Sleeveless Wetsuit Top,Armor,Basic,Heavy,2026-06-23T18:38:21Z,Visions of Eternity
+14058,Sleeveless Wetsuit Top,Armor,Basic,Medium,2026-06-23T18:38:23Z,Visions of Eternity
+14043,Sleeveless Wetsuit Top,Armor,Basic,Light,2026-06-23T18:38:24Z,Visions of Eternity
+14035,Summer Runner Visor,Armor,Basic,Light,2026-06-23T19:11:42Z,Visions of Eternity
+14042,Summer Runner Visor,Armor,Basic,Medium,2026-06-23T19:11:48Z,Visions of Eternity
+14060,Summer Runner Visor,Armor,Basic,Heavy,2026-06-23T19:11:50Z,Visions of Eternity
+14040,Summer Runner Gaiter,Armor,Basic,Heavy,2026-06-23T19:14:40Z,Visions of Eternity
+14044,Summer Runner Gaiter,Armor,Basic,Light,2026-06-23T19:14:42Z,Visions of Eternity
+14055,Summer Runner Gaiter,Armor,Basic,Medium,2026-06-23T19:14:43Z,Visions of Eternity
+14041,Summer Runner Vest,Armor,Basic,Heavy,2026-06-23T19:17:05Z,Visions of Eternity
+14032,Summer Runner Vest,Armor,Basic,Medium,2026-06-23T19:17:06Z,Visions of Eternity
+14036,Summer Runner Vest,Armor,Basic,Light,2026-06-23T19:17:07Z,Visions of Eternity
+14049,Summer Runner Bracelets,Armor,Basic,Light,2026-06-23T19:18:39Z,Visions of Eternity
+14056,Summer Runner Bracelets,Armor,Basic,Medium,2026-06-23T19:18:41Z,Visions of Eternity
+14048,Summer Runner Bracelets,Armor,Basic,Heavy,2026-06-23T19:18:43Z,Visions of Eternity
+14047,Summer Runner Shorts,Armor,Basic,Heavy,2026-06-23T19:20:39Z,Visions of Eternity
+14059,Summer Runner Shorts,Armor,Basic,Medium,2026-06-23T19:20:40Z,Visions of Eternity
+14054,Summer Runner Shorts,Armor,Basic,Light,2026-06-23T19:20:41Z,Visions of Eternity
+14038,Summer Runner Shoes,Armor,Basic,Heavy,2026-06-23T19:22:47Z,Visions of Eternity
+14037,Summer Runner Shoes,Armor,Basic,Medium,2026-06-23T19:22:49Z,Visions of Eternity
+14057,Summer Runner Shoes,Armor,Basic,Light,2026-06-23T19:22:51Z,Visions of Eternity
+14069,Plaid Shorts (Short),Armor,Basic,Heavy,2026-07-15T17:06:29Z,Visions of Eternity
+14074,Plaid Shorts (Short),Armor,Basic,Medium,2026-07-15T17:06:30Z,Visions of Eternity
+14061,Plaid Shorts (Short),Armor,Basic,Light,2026-07-15T17:06:32Z,Visions of Eternity
+14076,Plaid Shorts (Long),Armor,Basic,Heavy,2026-07-15T17:08:14Z,Visions of Eternity
+14067,Plaid Shorts (Long),Armor,Basic,Medium,2026-07-15T17:08:15Z,Visions of Eternity
+14064,Plaid Shorts (Long),Armor,Basic,Light,2026-07-15T17:08:17Z,Visions of Eternity
 14070,Bubble Wand Dagger,Weapon,Basic,,2026-07-15T18:02:09Z,Visions of Eternity
 14072,Bubble Wand Sword,Weapon,Basic,,2026-07-15T18:04:18Z,Visions of Eternity
+14062,Cartwheel Hat,Armor,Basic,Light,2026-07-21T18:48:19Z,Visions of Eternity
+14065,Cartwheel Hat,Armor,Basic,Heavy,2026-07-21T18:49:03Z,Visions of Eternity
+14073,Cartwheel Hat,Armor,Basic,Medium,2026-07-21T18:49:18Z,Visions of Eternity
+14066,Bucket Hat,Armor,Basic,Light,2026-07-21T18:50:24Z,Visions of Eternity
+14071,Bucket Hat,Armor,Basic,Medium,2026-07-21T18:50:27Z,Visions of Eternity
+14075,Bucket Hat,Armor,Basic,Heavy,2026-07-21T18:50:30Z,Visions of Eternity
 14063,Embroidered Shoulder Cape,Back,Masterwork,,2026-07-28T17:28:24Z,Visions of Eternity
 14068,Extravagant Shoulder Cape,Back,Masterwork,,2026-07-28T17:32:24Z,Visions of Eternity
+14097,Rose Monarch's Crown,Armor,Basic,Heavy,2026-08-11T16:57:13Z,Visions of Eternity
+14112,Rose Monarch's Crown,Armor,Basic,Medium,2026-08-11T16:57:15Z,Visions of Eternity
+14099,Rose Monarch's Crown,Armor,Basic,Light,2026-08-11T16:57:16Z,Visions of Eternity
 14101,Primeval Sword,Weapon,Basic,,2026-08-11T17:16:07Z,Visions of Eternity
 14091,Primeval Axe,Weapon,Basic,,2026-08-11T17:23:36Z,Visions of Eternity
 14108,Primeval Scepter,Weapon,Basic,,2026-08-11T17:25:11Z,Visions of Eternity
@@ -7799,6 +8564,12 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 14087,Piñata Mining Tool,Gathering,Basic,,2026-08-25T16:49:05Z,Visions of Eternity
 14121,Piñata Logging Tool,Gathering,Basic,,2026-08-25T16:49:57Z,Visions of Eternity
 14115,Piñata Harvesting Tool,Gathering,Basic,,2026-08-25T16:51:36Z,Visions of Eternity
+14081,Pyre Boots,Armor,Basic,Light,2026-09-01T17:17:21Z,Visions of Eternity
+14094,Pyre Boots,Armor,Basic,Medium,2026-09-01T17:17:24Z,Visions of Eternity
+14114,Pyre Boots,Armor,Basic,Heavy,2026-09-01T17:17:27Z,Visions of Eternity
+13903,Arcane Occultist's Hat,Armor,Basic,Heavy,2026-09-10T16:29:54Z,Visions of Eternity
+13992,Arcane Occultist's Hat,Armor,Basic,Medium,2026-09-10T16:30:26Z,Visions of Eternity
+13887,Arcane Occultist's Hat,Armor,Basic,Light,2026-09-10T16:31:05Z,Visions of Eternity
 14153,Explorer's Kukri,Weapon,Basic,,2026-09-15T23:49:09Z,Visions of Eternity
 681,,Armor,Basic,Medium,,unknown (no wiki page found)
 1042,,Armor,Basic,Clothing,,unknown (no wiki page found)
@@ -7941,233 +8712,20 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 7700,,Armor,Basic,Clothing,,unknown (no wiki page found)
 8355,,Weapon,Basic,,,unknown (no wiki page found)
 8433,,Armor,Rare,Light,,unknown (no wiki page found)
-7309,Abaddon's Mask,Armor,Basic,Medium,,unknown (no wiki page found)
-7326,Abaddon's Mask,Armor,Basic,Heavy,,unknown (no wiki page found)
-7336,Abaddon's Mask,Armor,Basic,Light,,unknown (no wiki page found)
-12583,Acclaimed Militia Chestpiece,Armor,Basic,Heavy,,unknown (no wiki page found)
-12587,Acclaimed Militia Chestpiece,Armor,Basic,Light,,unknown (no wiki page found)
-12596,Acclaimed Militia Chestpiece,Armor,Basic,Medium,,unknown (no wiki page found)
-13789,Acclaimed Militia Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-13792,Acclaimed Militia Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
-13793,Acclaimed Militia Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
-2021,Air-Filtration Device,Armor,Basic,Heavy,,unknown (no wiki page found)
-2022,Air-Filtration Device,Armor,Basic,Medium,,unknown (no wiki page found)
-2023,Air-Filtration Device,Armor,Basic,Light,,unknown (no wiki page found)
-10255,Angler Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-10312,Angler Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-10377,Angler Hat,Armor,Basic,Light,,unknown (no wiki page found)
-10291,Angler Vest,Armor,Basic,Medium,,unknown (no wiki page found)
-10484,Angler Vest,Armor,Basic,Heavy,,unknown (no wiki page found)
-10643,Angler Vest,Armor,Basic,Light,,unknown (no wiki page found)
-13887,Arcane Occultist's Hat,Armor,Basic,Light,,unknown (no wiki page found)
-13903,Arcane Occultist's Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-13992,Arcane Occultist's Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-11532,Arcane Spellweaver's Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-11534,Arcane Spellweaver's Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-11540,Arcane Spellweaver's Hat,Armor,Basic,Light,,unknown (no wiki page found)
-11418,Artisan Zharra's Hood,Armor,Basic,Medium,,unknown (no wiki page found)
-11419,Artisan Zharra's Hood,Armor,Basic,Light,,unknown (no wiki page found)
-11431,Artisan Zharra's Hood,Armor,Basic,Heavy,,unknown (no wiki page found)
 13489,Aureate Partisan,Weapon,Basic,,,unknown (no wiki page found)
-9452,Aurene's Crystalline Diadem,Armor,Basic,Light,,unknown (no wiki page found)
-9458,Aurene's Crystalline Diadem,Armor,Basic,Medium,,unknown (no wiki page found)
-9464,Aurene's Crystalline Diadem,Armor,Basic,Heavy,,unknown (no wiki page found)
-11182,Aurene's Crystalline Pauldrons,Armor,Basic,Medium,,unknown (no wiki page found)
-11188,Aurene's Crystalline Pauldrons,Armor,Basic,Heavy,,unknown (no wiki page found)
-11192,Aurene's Crystalline Pauldrons,Armor,Basic,Light,,unknown (no wiki page found)
-12956,Avian Aspect Helm,Armor,Basic,Light,,unknown (no wiki page found)
-12967,Avian Aspect Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-12969,Avian Aspect Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
 14193,Backbone Breaker Spear,Weapon,Basic,,,unknown (no wiki page found)
-12012,Baggy Cargo Pants,Armor,Basic,Heavy,,unknown (no wiki page found)
-12037,Baggy Cargo Pants,Armor,Basic,Light,,unknown (no wiki page found)
-12072,Baggy Cargo Pants,Armor,Basic,Medium,,unknown (no wiki page found)
-11151,Battlelord's Hood Helm,Armor,Basic,Light,,unknown (no wiki page found)
-11162,Battlelord's Hood Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-11167,Battlelord's Hood Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-12281,Beach Bracelet,Armor,Basic,Medium,,unknown (no wiki page found)
-12289,Beach Bracelet,Armor,Basic,Light,,unknown (no wiki page found)
-12300,Beach Bracelet,Armor,Basic,Heavy,,unknown (no wiki page found)
-12290,Beach Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-12292,Beach Hat,Armor,Basic,Light,,unknown (no wiki page found)
-12308,Beach Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-12283,Beach Sandals,Armor,Basic,Medium,,unknown (no wiki page found)
-12285,Beach Sandals,Armor,Basic,Heavy,,unknown (no wiki page found)
-12294,Beach Sandals,Armor,Basic,Light,,unknown (no wiki page found)
 13311,Beaded Spear,Weapon,Basic,,,unknown (no wiki page found)
-14001,Bear-Blessed Visage,Armor,Basic,Medium,,unknown (no wiki page found)
-14011,Bear-Blessed Visage,Armor,Basic,Light,,unknown (no wiki page found)
-14013,Bear-Blessed Visage,Armor,Basic,Heavy,,unknown (no wiki page found)
-11286,Bestial Tides Tattoo Chest,Armor,Basic,Heavy,,unknown (no wiki page found)
-11304,Bestial Tides Tattoo Chest,Armor,Basic,Light,,unknown (no wiki page found)
-11346,Bestial Tides Tattoo Chest,Armor,Basic,Medium,,unknown (no wiki page found)
-11258,Bestial Tides Tattoo Legs,Armor,Basic,Light,,unknown (no wiki page found)
-11279,Bestial Tides Tattoo Legs,Armor,Basic,Heavy,,unknown (no wiki page found)
-11336,Bestial Tides Tattoo Legs,Armor,Basic,Medium,,unknown (no wiki page found)
-12582,Blissful Boots,Armor,Basic,Light,,unknown (no wiki page found)
-12584,Blissful Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-12597,Blissful Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-12585,Blissful Skirt,Armor,Basic,Heavy,,unknown (no wiki page found)
-12591,Blissful Skirt,Armor,Basic,Light,,unknown (no wiki page found)
-12593,Blissful Skirt,Armor,Basic,Medium,,unknown (no wiki page found)
-9429,Blood Legion Soldier Helm,Armor,Basic,Light,,unknown (no wiki page found)
-9436,Blood Legion Soldier Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-9439,Blood Legion Soldier Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-11479,Brawler's Silk Jacket,Armor,Basic,Light,,unknown (no wiki page found)
-11499,Brawler's Silk Jacket,Armor,Basic,Heavy,,unknown (no wiki page found)
-11505,Brawler's Silk Jacket,Armor,Basic,Medium,,unknown (no wiki page found)
-12282,Breezy Swim Bottoms,Armor,Basic,Light,,unknown (no wiki page found)
-12293,Breezy Swim Bottoms,Armor,Basic,Heavy,,unknown (no wiki page found)
-12295,Breezy Swim Bottoms,Armor,Basic,Medium,,unknown (no wiki page found)
-12288,Breezy Swim Top,Armor,Basic,Heavy,,unknown (no wiki page found)
-12297,Breezy Swim Top,Armor,Basic,Medium,,unknown (no wiki page found)
-12304,Breezy Swim Top,Armor,Basic,Light,,unknown (no wiki page found)
-14066,Bucket Hat,Armor,Basic,Light,,unknown (no wiki page found)
-14071,Bucket Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-14075,Bucket Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-13101,Buoyant Chestpiece,Armor,Basic,Heavy,,unknown (no wiki page found)
-13104,Buoyant Chestpiece,Armor,Basic,Light,,unknown (no wiki page found)
-13113,Buoyant Chestpiece,Armor,Basic,Medium,,unknown (no wiki page found)
-10761,Canthan Sun Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-10764,Canthan Sun Hat,Armor,Basic,Light,,unknown (no wiki page found)
-10765,Canthan Sun Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-14062,Cartwheel Hat,Armor,Basic,Light,,unknown (no wiki page found)
-14065,Cartwheel Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-14073,Cartwheel Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-6700,Chaos Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-6727,Chaos Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-6732,Chaos Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-9421,Charr War Mask,Armor,Basic,Light,,unknown (no wiki page found)
-9428,Charr War Mask,Armor,Basic,Medium,,unknown (no wiki page found)
-9443,Charr War Mask,Armor,Basic,Heavy,,unknown (no wiki page found)
-13680,Classic Leather Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-13682,Classic Leather Boots,Armor,Basic,Light,,unknown (no wiki page found)
-13683,Classic Leather Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-11053,Clawing Shadow Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-11065,Clawing Shadow Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-11069,Clawing Shadow Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-11857,Clawing Shadow Greaves,Armor,Basic,Light,,unknown (no wiki page found)
-11865,Clawing Shadow Greaves,Armor,Basic,Heavy,,unknown (no wiki page found)
-11867,Clawing Shadow Greaves,Armor,Basic,Medium,,unknown (no wiki page found)
-12960,Cloaked Cat Mantle,Armor,Basic,Light,,unknown (no wiki page found)
-12968,Cloaked Cat Mantle,Armor,Basic,Medium,,unknown (no wiki page found)
-12974,Cloaked Cat Mantle,Armor,Basic,Heavy,,unknown (no wiki page found)
-9695,Conjured Starlight Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-9699,Conjured Starlight Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-9707,Conjured Starlight Hat,Armor,Basic,Light,,unknown (no wiki page found)
 7004,Crystalline Wings Backpack,Back,Basic,,,unknown (no wiki page found)
-12652,Dapper Coat,Armor,Basic,Light,,unknown (no wiki page found)
-12657,Dapper Coat,Armor,Basic,Heavy,,unknown (no wiki page found)
-12664,Dapper Coat,Armor,Basic,Medium,,unknown (no wiki page found)
-12651,Dapper Pants,Armor,Basic,Medium,,unknown (no wiki page found)
-12656,Dapper Pants,Armor,Basic,Heavy,,unknown (no wiki page found)
-12660,Dapper Pants,Armor,Basic,Light,,unknown (no wiki page found)
-12647,Dapper Wingtips,Armor,Basic,Light,,unknown (no wiki page found)
-12648,Dapper Wingtips,Armor,Basic,Medium,,unknown (no wiki page found)
-12659,Dapper Wingtips,Armor,Basic,Heavy,,unknown (no wiki page found)
-10991,Decade's End,Armor,Basic,Medium,,unknown (no wiki page found)
-11012,Decade's End,Armor,Basic,Light,,unknown (no wiki page found)
-11018,Decade's End,Armor,Basic,Heavy,,unknown (no wiki page found)
-10986,Decade's Heart,Armor,Basic,Medium,,unknown (no wiki page found)
-10996,Decade's Heart,Armor,Basic,Heavy,,unknown (no wiki page found)
-11031,Decade's Heart,Armor,Basic,Light,,unknown (no wiki page found)
-10976,Decade's Path,Armor,Basic,Heavy,,unknown (no wiki page found)
-10978,Decade's Path,Armor,Basic,Light,,unknown (no wiki page found)
-10994,Decade's Path,Armor,Basic,Medium,,unknown (no wiki page found)
-10974,Decade's Reach,Armor,Basic,Light,,unknown (no wiki page found)
-10981,Decade's Reach,Armor,Basic,Heavy,,unknown (no wiki page found)
-11005,Decade's Reach,Armor,Basic,Medium,,unknown (no wiki page found)
-10982,Decade's Saga,Armor,Basic,Heavy,,unknown (no wiki page found)
-10995,Decade's Saga,Armor,Basic,Light,,unknown (no wiki page found)
-11026,Decade's Saga,Armor,Basic,Medium,,unknown (no wiki page found)
-11008,Decade's Star,Armor,Basic,Medium,,unknown (no wiki page found)
-11009,Decade's Star,Armor,Basic,Heavy,,unknown (no wiki page found)
-11028,Decade's Star,Armor,Basic,Light,,unknown (no wiki page found)
 12712,Decima's Manica,Armor,Basic,Heavy,,unknown (no wiki page found)
 12726,Decima's Manica,Armor,Basic,Medium,,unknown (no wiki page found)
 12728,Decima's Manica,Armor,Basic,Light,,unknown (no wiki page found)
-9503,Dominion Tribune Manica,Armor,Basic,Medium,,unknown (no wiki page found)
-9523,Dominion Tribune Manica,Armor,Basic,Heavy,,unknown (no wiki page found)
-9526,Dominion Tribune Manica,Armor,Basic,Light,,unknown (no wiki page found)
-5850,Dragon's Mask,Armor,Basic,Light,,unknown (no wiki page found)
-5852,Dragon's Mask,Armor,Basic,Heavy,,unknown (no wiki page found)
-5853,Dragon's Mask,Armor,Basic,Medium,,unknown (no wiki page found)
 13440,Dredge Halberd,Weapon,Basic,,,unknown (no wiki page found)
-9796,Dusk and Dawn Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-9817,Dusk and Dawn Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-9820,Dusk and Dawn Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
 7021,Eir's Legacy Longbow,Weapon,Basic,,,unknown (no wiki page found)
 13007,Enduring Fiery Dragon Sword,Weapon,Basic,,,unknown (no wiki page found)
 13003,Enduring Icy Dragon Sword,Weapon,Basic,,,unknown (no wiki page found)
 13004,Enduring Infinite Light,Weapon,Basic,,,unknown (no wiki page found)
-8617,Exalted Shoulders,Armor,Rare,Medium,,unknown (no wiki page found)
-8618,Exalted Shoulders,Armor,Rare,Light,,unknown (no wiki page found)
-8621,Exalted Shoulders,Armor,Rare,Heavy,,unknown (no wiki page found)
-13150,Explosive Turbo Greaves,Armor,Basic,Light,,unknown (no wiki page found)
-13154,Explosive Turbo Greaves,Armor,Basic,Heavy,,unknown (no wiki page found)
-13193,Explosive Turbo Greaves,Armor,Basic,Medium,,unknown (no wiki page found)
-12020,Fashionable Kilt,Armor,Basic,Light,,unknown (no wiki page found)
-12052,Fashionable Kilt,Armor,Basic,Heavy,,unknown (no wiki page found)
-12087,Fashionable Kilt,Armor,Basic,Medium,,unknown (no wiki page found)
-13365,Feathered Inquest Breastplate,Armor,Basic,Light,,unknown (no wiki page found)
-13469,Feathered Inquest Breastplate,Armor,Basic,Medium,,unknown (no wiki page found)
-13476,Feathered Inquest Breastplate,Armor,Basic,Heavy,,unknown (no wiki page found)
-13434,Feathered Inquest Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-13532,Feathered Inquest Helm,Armor,Basic,Light,,unknown (no wiki page found)
-13583,Feathered Inquest Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-13359,Feathered Inquest Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
-13504,Feathered Inquest Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-13570,Feathered Inquest Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
-13390,Feathered Inquest Mantle,Armor,Basic,Light,,unknown (no wiki page found)
-13405,Feathered Inquest Mantle,Armor,Basic,Heavy,,unknown (no wiki page found)
-13487,Feathered Inquest Mantle,Armor,Basic,Medium,,unknown (no wiki page found)
-11270,Fire Bloom Tattoo Chest,Armor,Basic,Medium,,unknown (no wiki page found)
-11314,Fire Bloom Tattoo Chest,Armor,Basic,Light,,unknown (no wiki page found)
-11331,Fire Bloom Tattoo Chest,Armor,Basic,Heavy,,unknown (no wiki page found)
-11259,Fire Bloom Tattoo Legs,Armor,Basic,Heavy,,unknown (no wiki page found)
-11302,Fire Bloom Tattoo Legs,Armor,Basic,Light,,unknown (no wiki page found)
-11328,Fire Bloom Tattoo Legs,Armor,Basic,Medium,,unknown (no wiki page found)
 10440,Fishing Bait,Gathering,Basic,,,unknown (no wiki page found)
-13141,Flat Boatsman Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-13144,Flat Boatsman Hat,Armor,Basic,Light,,unknown (no wiki page found)
-13151,Flat Boatsman Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-13798,Flower Corsage Shoulder,Armor,Basic,Medium,,unknown (no wiki page found)
-13799,Flower Corsage Shoulder,Armor,Basic,Heavy,,unknown (no wiki page found)
-13804,Flower Corsage Shoulder,Armor,Basic,Light,,unknown (no wiki page found)
-12419,Flower Diadem,Armor,Basic,Light,,unknown (no wiki page found)
-12455,Flower Diadem,Armor,Basic,Heavy,,unknown (no wiki page found)
-12495,Flower Diadem,Armor,Basic,Medium,,unknown (no wiki page found)
-13796,Flower Eyepatch,Armor,Basic,Heavy,,unknown (no wiki page found)
-13809,Flower Eyepatch,Armor,Basic,Medium,,unknown (no wiki page found)
-13810,Flower Eyepatch,Armor,Basic,Light,,unknown (no wiki page found)
-10123,Foefire Chestguard,Armor,Basic,Medium,,unknown (no wiki page found)
-10125,Foefire Chestguard,Armor,Basic,Light,,unknown (no wiki page found)
-10126,Foefire Chestguard,Armor,Basic,Heavy,,unknown (no wiki page found)
-10120,Foefire Legwraps,Armor,Basic,Light,,unknown (no wiki page found)
-10127,Foefire Legwraps,Armor,Basic,Medium,,unknown (no wiki page found)
-10133,Foefire Legwraps,Armor,Basic,Heavy,,unknown (no wiki page found)
-10182,Foefire Mask,Armor,Basic,Heavy,,unknown (no wiki page found)
-10198,Foefire Mask,Armor,Basic,Light,,unknown (no wiki page found)
-10211,Foefire Mask,Armor,Basic,Medium,,unknown (no wiki page found)
-13107,Fresh Swim Bottoms,Armor,Basic,Medium,,unknown (no wiki page found)
-13114,Fresh Swim Bottoms,Armor,Basic,Light,,unknown (no wiki page found)
-13118,Fresh Swim Bottoms,Armor,Basic,Heavy,,unknown (no wiki page found)
-13102,Fresh Swim Top,Armor,Basic,Medium,,unknown (no wiki page found)
-13116,Fresh Swim Top,Armor,Basic,Heavy,,unknown (no wiki page found)
-13123,Fresh Swim Top,Armor,Basic,Light,,unknown (no wiki page found)
-10043,Ghost of the Deep Spaulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-10044,Ghost of the Deep Spaulders,Armor,Basic,Light,,unknown (no wiki page found)
-10046,Ghost of the Deep Spaulders,Armor,Basic,Medium,,unknown (no wiki page found)
 13596,Glyphic Javelin,Weapon,Basic,,,unknown (no wiki page found)
-13998,Gradient Glasses (Down),Armor,Basic,Heavy,,unknown (no wiki page found)
-14004,Gradient Glasses (Down),Armor,Basic,Medium,,unknown (no wiki page found)
-14010,Gradient Glasses (Down),Armor,Basic,Light,,unknown (no wiki page found)
-14006,Gradient Glasses (Up),Armor,Basic,Heavy,,unknown (no wiki page found)
-14023,Gradient Glasses (Up),Armor,Basic,Light,,unknown (no wiki page found)
-14027,Gradient Glasses (Up),Armor,Basic,Medium,,unknown (no wiki page found)
-14002,Guild Warrior Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-14015,Guild Warrior Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-14020,Guild Warrior Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
 14250,Gwyl Knight's Axe,Weapon,Basic,,,unknown (no wiki page found)
 14206,Gwyl Knight's Dagger,Weapon,Basic,,,unknown (no wiki page found)
 14133,Gwyl Knight's Focus,Weapon,Basic,,,unknown (no wiki page found)
@@ -8185,402 +8743,21 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 14225,Gwyl Knight's Sword,Weapon,Basic,,,unknown (no wiki page found)
 14222,Gwyl Knight's Torch,Weapon,Basic,,,unknown (no wiki page found)
 14240,Gwyl Knight's Warhorn,Weapon,Basic,,,unknown (no wiki page found)
-769,Hellfire Greaves,Armor,Basic,Light,,unknown (no wiki page found)
-774,Hellfire Greaves,Armor,Basic,Medium,,unknown (no wiki page found)
-777,Hellfire Greaves,Armor,Basic,Heavy,,unknown (no wiki page found)
-768,Hellfire Mantle,Armor,Basic,Heavy,,unknown (no wiki page found)
-775,Hellfire Mantle,Armor,Basic,Light,,unknown (no wiki page found)
-779,Hellfire Mantle,Armor,Basic,Medium,,unknown (no wiki page found)
-771,Hellfire Vambraces,Armor,Basic,Heavy,,unknown (no wiki page found)
-772,Hellfire Vambraces,Armor,Basic,Light,,unknown (no wiki page found)
-778,Hellfire Vambraces,Armor,Basic,Medium,,unknown (no wiki page found)
-770,Hellfire Warhelm,Armor,Basic,Heavy,,unknown (no wiki page found)
-773,Hellfire Warhelm,Armor,Basic,Light,,unknown (no wiki page found)
-776,Hellfire Warhelm,Armor,Basic,Medium,,unknown (no wiki page found)
-11936,Heretical Scholar's Hood,Armor,Basic,Heavy,,unknown (no wiki page found)
-11956,Heretical Scholar's Hood,Armor,Basic,Light,,unknown (no wiki page found)
-11977,Heretical Scholar's Hood,Armor,Basic,Medium,,unknown (no wiki page found)
-12798,Hooded Windbreaker (Down),Armor,Basic,Heavy,,unknown (no wiki page found)
-12800,Hooded Windbreaker (Down),Armor,Basic,Medium,,unknown (no wiki page found)
-12802,Hooded Windbreaker (Down),Armor,Basic,Light,,unknown (no wiki page found)
-12799,Hooded Windbreaker (Up),Armor,Basic,Medium,,unknown (no wiki page found)
-12805,Hooded Windbreaker (Up),Armor,Basic,Heavy,,unknown (no wiki page found)
-12807,Hooded Windbreaker (Up),Armor,Basic,Light,,unknown (no wiki page found)
-13691,Hoofed Shoes,Armor,Basic,Light,,unknown (no wiki page found)
-13705,Hoofed Shoes,Armor,Basic,Heavy,,unknown (no wiki page found)
-13724,Hoofed Shoes,Armor,Basic,Medium,,unknown (no wiki page found)
-9998,Ice Reaver Chestguard,Armor,Basic,Heavy,,unknown (no wiki page found)
-10002,Ice Reaver Chestguard,Armor,Basic,Medium,,unknown (no wiki page found)
-10004,Ice Reaver Chestguard,Armor,Basic,Light,,unknown (no wiki page found)
-9794,Ice Reaver Greaves,Armor,Basic,Light,,unknown (no wiki page found)
-9823,Ice Reaver Greaves,Armor,Basic,Heavy,,unknown (no wiki page found)
-9831,Ice Reaver Greaves,Armor,Basic,Medium,,unknown (no wiki page found)
-9989,Ice Reaver Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-9996,Ice Reaver Helm,Armor,Basic,Light,,unknown (no wiki page found)
-9997,Ice Reaver Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-10000,Ice Reaver Legguards,Armor,Basic,Heavy,,unknown (no wiki page found)
-10001,Ice Reaver Legguards,Armor,Basic,Light,,unknown (no wiki page found)
-10003,Ice Reaver Legguards,Armor,Basic,Medium,,unknown (no wiki page found)
-9551,Ice Reaver Pauldrons,Armor,Basic,Medium,,unknown (no wiki page found)
-9554,Ice Reaver Pauldrons,Armor,Basic,Light,,unknown (no wiki page found)
-9559,Ice Reaver Pauldrons,Armor,Basic,Heavy,,unknown (no wiki page found)
-10173,Icy Demon Horns,Armor,Basic,Light,,unknown (no wiki page found)
-10201,Icy Demon Horns,Armor,Basic,Heavy,,unknown (no wiki page found)
-10214,Icy Demon Horns,Armor,Basic,Medium,,unknown (no wiki page found)
-10074,Immortal Fire Nimbus,Armor,Basic,Medium,,unknown (no wiki page found)
-10081,Immortal Fire Nimbus,Armor,Basic,Heavy,,unknown (no wiki page found)
-10097,Immortal Fire Nimbus,Armor,Basic,Light,,unknown (no wiki page found)
-10115,Immortal Fire Ring,Armor,Basic,Medium,,unknown (no wiki page found)
-10116,Immortal Fire Ring,Armor,Basic,Light,,unknown (no wiki page found)
-10117,Immortal Fire Ring,Armor,Basic,Heavy,,unknown (no wiki page found)
-10080,Immortal Light Nimbus,Armor,Basic,Medium,,unknown (no wiki page found)
-10086,Immortal Light Nimbus,Armor,Basic,Heavy,,unknown (no wiki page found)
-10094,Immortal Light Nimbus,Armor,Basic,Light,,unknown (no wiki page found)
-10109,Immortal Light Ring,Armor,Basic,Medium,,unknown (no wiki page found)
-10111,Immortal Light Ring,Armor,Basic,Light,,unknown (no wiki page found)
-10112,Immortal Light Ring,Armor,Basic,Heavy,,unknown (no wiki page found)
-11560,Infused Aurora Chestguard,Armor,Basic,Heavy,,unknown (no wiki page found)
-11561,Infused Aurora Chestguard,Armor,Basic,Light,,unknown (no wiki page found)
-11564,Infused Aurora Chestguard,Armor,Basic,Medium,,unknown (no wiki page found)
-11725,Infused Aurora Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-11728,Infused Aurora Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-11768,Infused Aurora Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-12861,Infused Aurora Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-12896,Infused Aurora Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
-12932,Infused Aurora Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
 14218,Inquest Rifleblade Greatsword,Weapon,Basic,,,unknown (no wiki page found)
-10880,Jade Prosthesis Gauntlet,Armor,Basic,Medium,,unknown (no wiki page found)
-10896,Jade Prosthesis Gauntlet,Armor,Basic,Light,,unknown (no wiki page found)
-10897,Jade Prosthesis Gauntlet,Armor,Basic,Heavy,,unknown (no wiki page found)
-13644,Janthir Outdoors T-Shirt,Armor,Basic,Light,,unknown (no wiki page found)
-13645,Janthir Outdoors T-Shirt,Armor,Basic,Medium,,unknown (no wiki page found)
-13648,Janthir Outdoors T-Shirt,Armor,Basic,Heavy,,unknown (no wiki page found)
 2361,King Toad Backpack Cover,Back,Basic,,,unknown (no wiki page found)
-11849,Krytan Rogue Chestpiece,Armor,Basic,Heavy,,unknown (no wiki page found)
-11863,Krytan Rogue Chestpiece,Armor,Basic,Medium,,unknown (no wiki page found)
-11864,Krytan Rogue Chestpiece,Armor,Basic,Light,,unknown (no wiki page found)
-11143,Lambent Battlelord's Hood Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-11150,Lambent Battlelord's Hood Helm,Armor,Basic,Light,,unknown (no wiki page found)
-11158,Lambent Battlelord's Hood Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-1361,Lawless Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-1369,Lawless Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-1370,Lawless Boots,Armor,Basic,Light,,unknown (no wiki page found)
-1366,Lawless Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-1372,Lawless Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-1373,Lawless Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-1364,Lawless Helmet,Armor,Basic,Medium,,unknown (no wiki page found)
-1365,Lawless Helmet,Armor,Basic,Light,,unknown (no wiki page found)
-1367,Lawless Helmet,Armor,Basic,Heavy,,unknown (no wiki page found)
-1362,Lawless Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-1368,Lawless Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-1371,Lawless Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-11523,Leather Straps Chestpiece,Armor,Basic,Heavy,,unknown (no wiki page found)
-11530,Leather Straps Chestpiece,Armor,Basic,Light,,unknown (no wiki page found)
-11539,Leather Straps Chestpiece,Armor,Basic,Medium,,unknown (no wiki page found)
-11522,Leather Straps Cingulum,Armor,Basic,Medium,,unknown (no wiki page found)
-11529,Leather Straps Cingulum,Armor,Basic,Light,,unknown (no wiki page found)
-11541,Leather Straps Cingulum,Armor,Basic,Heavy,,unknown (no wiki page found)
-10230,Left Oni Arm,Armor,Basic,Heavy,,unknown (no wiki page found)
-10594,Left Oni Arm,Armor,Basic,Medium,,unknown (no wiki page found)
-10631,Left Oni Arm,Armor,Basic,Light,,unknown (no wiki page found)
-5851,Lion's Mask,Armor,Basic,Medium,,unknown (no wiki page found)
-5854,Lion's Mask,Armor,Basic,Heavy,,unknown (no wiki page found)
-5855,Lion's Mask,Armor,Basic,Light,,unknown (no wiki page found)
-11216,Lunar Rabbit Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-11221,Lunar Rabbit Helm,Armor,Basic,Light,,unknown (no wiki page found)
-11231,Lunar Rabbit Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-11200,Lunar Rabbit Stompers,Armor,Basic,Heavy,,unknown (no wiki page found)
-11224,Lunar Rabbit Stompers,Armor,Basic,Light,,unknown (no wiki page found)
-11228,Lunar Rabbit Stompers,Armor,Basic,Medium,,unknown (no wiki page found)
-13234,Lunatic Jester's Trousers,Armor,Basic,Heavy,,unknown (no wiki page found)
-13242,Lunatic Jester's Trousers,Armor,Basic,Light,,unknown (no wiki page found)
-13260,Lunatic Jester's Trousers,Armor,Basic,Medium,,unknown (no wiki page found)
-10854,Magical Unicorn Horn,Armor,Basic,Light,,unknown (no wiki page found)
-10862,Magical Unicorn Horn,Armor,Basic,Medium,,unknown (no wiki page found)
-10865,Magical Unicorn Horn,Armor,Basic,Heavy,,unknown (no wiki page found)
-833,Magnus's Left Eye Patch,Armor,Basic,Light,,unknown (no wiki page found)
-839,Magnus's Left Eye Patch,Armor,Basic,Heavy,,unknown (no wiki page found)
-841,Magnus's Left Eye Patch,Armor,Basic,Medium,,unknown (no wiki page found)
-840,Magnus's Right Eye Patch,Armor,Basic,Light,,unknown (no wiki page found)
-842,Magnus's Right Eye Patch,Armor,Basic,Medium,,unknown (no wiki page found)
-843,Magnus's Right Eye Patch,Armor,Basic,Heavy,,unknown (no wiki page found)
-9219,Maguuma's Grasp,Armor,Basic,Heavy,,unknown (no wiki page found)
-9228,Maguuma's Grasp,Armor,Basic,Light,,unknown (no wiki page found)
-9239,Maguuma's Grasp,Armor,Basic,Medium,,unknown (no wiki page found)
-9222,Maguuma's Mantle,Armor,Basic,Light,,unknown (no wiki page found)
-9224,Maguuma's Mantle,Armor,Basic,Medium,,unknown (no wiki page found)
-9226,Maguuma's Mantle,Armor,Basic,Heavy,,unknown (no wiki page found)
-9339,Maguuma's Treads,Armor,Basic,Medium,,unknown (no wiki page found)
-9343,Maguuma's Treads,Armor,Basic,Heavy,,unknown (no wiki page found)
-9350,Maguuma's Treads,Armor,Basic,Light,,unknown (no wiki page found)
-1190,Mask of the Crown,Armor,Basic,Light,,unknown (no wiki page found)
-1191,Mask of the Crown,Armor,Basic,Medium,,unknown (no wiki page found)
-1192,Mask of the Crown,Armor,Basic,Heavy,,unknown (no wiki page found)
-1184,Mask of the Jubilee,Armor,Basic,Light,,unknown (no wiki page found)
-1185,Mask of the Jubilee,Armor,Basic,Medium,,unknown (no wiki page found)
-1186,Mask of the Jubilee,Armor,Basic,Heavy,,unknown (no wiki page found)
-2027,Mask of the Night,Armor,Basic,Medium,,unknown (no wiki page found)
-2028,Mask of the Night,Armor,Basic,Light,,unknown (no wiki page found)
-2029,Mask of the Night,Armor,Basic,Heavy,,unknown (no wiki page found)
-1187,Mask of the Queen,Armor,Basic,Light,,unknown (no wiki page found)
-1188,Mask of the Queen,Armor,Basic,Medium,,unknown (no wiki page found)
-1189,Mask of the Queen,Armor,Basic,Heavy,,unknown (no wiki page found)
-1049,Mask of the Silent,Armor,Basic,Heavy,,unknown (no wiki page found)
-1050,Mask of the Silent,Armor,Basic,Medium,,unknown (no wiki page found)
-1051,Mask of the Silent,Armor,Basic,Light,,unknown (no wiki page found)
-1250,Mask of the Wanderer,Armor,Basic,Medium,,unknown (no wiki page found)
-1251,Mask of the Wanderer,Armor,Basic,Light,,unknown (no wiki page found)
-1252,Mask of the Wanderer,Armor,Basic,Heavy,,unknown (no wiki page found)
-13802,Masked Cat Hat,Armor,Basic,Light,,unknown (no wiki page found)
-13805,Masked Cat Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-13806,Masked Cat Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-13638,Metrica Sports T-Shirt,Armor,Basic,Light,,unknown (no wiki page found)
-13640,Metrica Sports T-Shirt,Armor,Basic,Heavy,,unknown (no wiki page found)
-13643,Metrica Sports T-Shirt,Armor,Basic,Medium,,unknown (no wiki page found)
 13212,Mists-Grasper Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
 13227,Mists-Grasper Gloves,Armor,Basic,Light,,unknown (no wiki page found)
 13228,Mists-Grasper Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-10847,Mystical Dragon Horns,Armor,Basic,Medium,,unknown (no wiki page found)
-10849,Mystical Dragon Horns,Armor,Basic,Heavy,,unknown (no wiki page found)
-10867,Mystical Dragon Horns,Armor,Basic,Light,,unknown (no wiki page found)
-12287,Neon Demon Mask,Armor,Basic,Medium,,unknown (no wiki page found)
-12299,Neon Demon Mask,Armor,Basic,Light,,unknown (no wiki page found)
-12301,Neon Demon Mask,Armor,Basic,Heavy,,unknown (no wiki page found)
-11038,Noble Pointed Ears,Armor,Basic,Heavy,,unknown (no wiki page found)
-11040,Noble Pointed Ears,Armor,Basic,Light,,unknown (no wiki page found)
-11041,Noble Pointed Ears,Armor,Basic,Medium,,unknown (no wiki page found)
-1238,Paper Bag Helm (Angry),Armor,Basic,Heavy,,unknown (no wiki page found)
-1239,Paper Bag Helm (Angry),Armor,Basic,Light,,unknown (no wiki page found)
-1240,Paper Bag Helm (Angry),Armor,Basic,Medium,,unknown (no wiki page found)
-1235,Paper Bag Helm (Blush),Armor,Basic,Heavy,,unknown (no wiki page found)
-1236,Paper Bag Helm (Blush),Armor,Basic,Light,,unknown (no wiki page found)
-1237,Paper Bag Helm (Blush),Armor,Basic,Medium,,unknown (no wiki page found)
-1241,Paper Bag Helm (Happy),Armor,Basic,Heavy,,unknown (no wiki page found)
-1242,Paper Bag Helm (Happy),Armor,Basic,Light,,unknown (no wiki page found)
-1243,Paper Bag Helm (Happy),Armor,Basic,Medium,,unknown (no wiki page found)
-1244,Paper Bag Helm (Sad),Armor,Basic,Heavy,,unknown (no wiki page found)
-1245,Paper Bag Helm (Sad),Armor,Basic,Light,,unknown (no wiki page found)
-1246,Paper Bag Helm (Sad),Armor,Basic,Medium,,unknown (no wiki page found)
-13637,Party Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-13639,Party Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-13641,Party Hat,Armor,Basic,Light,,unknown (no wiki page found)
-13001,Patterned Racing Scarf,Armor,Basic,Medium,,unknown (no wiki page found)
-13002,Patterned Racing Scarf,Armor,Basic,Light,,unknown (no wiki page found)
-13009,Patterned Racing Scarf,Armor,Basic,Heavy,,unknown (no wiki page found)
-6905,Peg-Leg Boots,Armor,Basic,Light,,unknown (no wiki page found)
-6909,Peg-Leg Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-6916,Peg-Leg Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-6914,Pirate Corsair Hat,Armor,Basic,Light,,unknown (no wiki page found)
-6915,Pirate Corsair Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-6931,Pirate Corsair Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-6903,Pirate Hook,Armor,Basic,Medium,,unknown (no wiki page found)
-6910,Pirate Hook,Armor,Basic,Light,,unknown (no wiki page found)
-6943,Pirate Hook,Armor,Basic,Heavy,,unknown (no wiki page found)
-13816,Plaid Shirt (Closed),Armor,Basic,Heavy,,unknown (no wiki page found)
-13845,Plaid Shirt (Closed),Armor,Basic,Light,,unknown (no wiki page found)
-13848,Plaid Shirt (Closed),Armor,Basic,Medium,,unknown (no wiki page found)
-13815,Plaid Shirt (Open),Armor,Basic,Light,,unknown (no wiki page found)
-13822,Plaid Shirt (Open),Armor,Basic,Heavy,,unknown (no wiki page found)
-13828,Plaid Shirt (Open),Armor,Basic,Medium,,unknown (no wiki page found)
-14064,Plaid Shorts (Long),Armor,Basic,Light,,unknown (no wiki page found)
-14067,Plaid Shorts (Long),Armor,Basic,Medium,,unknown (no wiki page found)
-14076,Plaid Shorts (Long),Armor,Basic,Heavy,,unknown (no wiki page found)
-14061,Plaid Shorts (Short),Armor,Basic,Light,,unknown (no wiki page found)
-14069,Plaid Shorts (Short),Armor,Basic,Heavy,,unknown (no wiki page found)
-14074,Plaid Shorts (Short),Armor,Basic,Medium,,unknown (no wiki page found)
-13148,Plumed Commodore's Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-13173,Plumed Commodore's Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-13183,Plumed Commodore's Hat,Armor,Basic,Light,,unknown (no wiki page found)
-11032,Pointed Ears,Armor,Basic,Medium,,unknown (no wiki page found)
-11035,Pointed Ears,Armor,Basic,Heavy,,unknown (no wiki page found)
-11047,Pointed Ears,Armor,Basic,Light,,unknown (no wiki page found)
 12988,Powered Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
 12993,Powered Boots,Armor,Basic,Light,,unknown (no wiki page found)
 12996,Powered Boots,Armor,Basic,Medium,,unknown (no wiki page found)
 13821,Powered Vest,Armor,Basic,Heavy,,unknown (no wiki page found)
 13833,Powered Vest,Armor,Basic,Medium,,unknown (no wiki page found)
 13835,Powered Vest,Armor,Basic,Light,,unknown (no wiki page found)
-10454,Prayer Bead Wraps,Armor,Basic,Heavy,,unknown (no wiki page found)
-10584,Prayer Bead Wraps,Armor,Basic,Light,,unknown (no wiki page found)
-10641,Prayer Bead Wraps,Armor,Basic,Medium,,unknown (no wiki page found)
-11275,Processing Line Control Bracers,Armor,Basic,Light,,unknown (no wiki page found)
-11317,Processing Line Control Bracers,Armor,Basic,Medium,,unknown (no wiki page found)
-11326,Processing Line Control Bracers,Armor,Basic,Heavy,,unknown (no wiki page found)
-14081,Pyre Boots,Armor,Basic,Light,,unknown (no wiki page found)
-14094,Pyre Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-14114,Pyre Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-10155,Pyre Circlet,Armor,Basic,Heavy,,unknown (no wiki page found)
-10157,Pyre Circlet,Armor,Basic,Light,,unknown (no wiki page found)
-10160,Pyre Circlet,Armor,Basic,Medium,,unknown (no wiki page found)
-10019,Pyre Horns,Armor,Basic,Heavy,,unknown (no wiki page found)
-10020,Pyre Horns,Armor,Basic,Medium,,unknown (no wiki page found)
-10038,Pyre Horns,Armor,Basic,Light,,unknown (no wiki page found)
-757,Radiant Greaves,Armor,Basic,Heavy,,unknown (no wiki page found)
-760,Radiant Greaves,Armor,Basic,Medium,,unknown (no wiki page found)
-764,Radiant Greaves,Armor,Basic,Light,,unknown (no wiki page found)
-756,Radiant Mantle,Armor,Basic,Heavy,,unknown (no wiki page found)
-763,Radiant Mantle,Armor,Basic,Light,,unknown (no wiki page found)
-767,Radiant Mantle,Armor,Basic,Medium,,unknown (no wiki page found)
-759,Radiant Vambraces,Armor,Basic,Heavy,,unknown (no wiki page found)
-761,Radiant Vambraces,Armor,Basic,Light,,unknown (no wiki page found)
-766,Radiant Vambraces,Armor,Basic,Medium,,unknown (no wiki page found)
-758,Radiant Warhelm,Armor,Basic,Heavy,,unknown (no wiki page found)
-762,Radiant Warhelm,Armor,Basic,Light,,unknown (no wiki page found)
-765,Radiant Warhelm,Armor,Basic,Medium,,unknown (no wiki page found)
-12105,Raven Greaves,Armor,Basic,Heavy,,unknown (no wiki page found)
-12118,Raven Greaves,Armor,Basic,Light,,unknown (no wiki page found)
-12127,Raven Greaves,Armor,Basic,Medium,,unknown (no wiki page found)
-12148,Raven Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
-12170,Raven Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
-12191,Raven Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-12181,Raven Vest,Armor,Basic,Medium,,unknown (no wiki page found)
-12193,Raven Vest,Armor,Basic,Heavy,,unknown (no wiki page found)
-12194,Raven Vest,Armor,Basic,Light,,unknown (no wiki page found)
-13051,Raven-Blessed Visage,Armor,Basic,Heavy,,unknown (no wiki page found)
-13064,Raven-Blessed Visage,Armor,Basic,Light,,unknown (no wiki page found)
-13069,Raven-Blessed Visage,Armor,Basic,Medium,,unknown (no wiki page found)
-13005,Rebel Jacket,Armor,Basic,Light,,unknown (no wiki page found)
-13006,Rebel Jacket,Armor,Basic,Medium,,unknown (no wiki page found)
-13010,Rebel Jacket,Armor,Basic,Heavy,,unknown (no wiki page found)
-11354,Rebel Long Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-11357,Rebel Long Boots,Armor,Basic,Light,,unknown (no wiki page found)
-11363,Rebel Long Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-11350,Rebel Short Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-11355,Rebel Short Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-11360,Rebel Short Boots,Armor,Basic,Light,,unknown (no wiki page found)
-14097,Rose Monarch's Crown,Armor,Basic,Heavy,,unknown (no wiki page found)
-14099,Rose Monarch's Crown,Armor,Basic,Light,,unknown (no wiki page found)
-14112,Rose Monarch's Crown,Armor,Basic,Medium,,unknown (no wiki page found)
-12463,Rot Stalker Boots,Armor,Basic,Light,,unknown (no wiki page found)
-12498,Rot Stalker Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-12540,Rot Stalker Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-12399,Rot Stalker Coat,Armor,Basic,Light,,unknown (no wiki page found)
-12499,Rot Stalker Coat,Armor,Basic,Heavy,,unknown (no wiki page found)
-12502,Rot Stalker Coat,Armor,Basic,Medium,,unknown (no wiki page found)
-12381,Rot Stalker Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-12460,Rot Stalker Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-12511,Rot Stalker Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-12377,Rot Stalker Helm,Armor,Basic,Light,,unknown (no wiki page found)
-12525,Rot Stalker Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-12546,Rot Stalker Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-12389,Rot Stalker Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
-12471,Rot Stalker Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
-12519,Rot Stalker Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-12366,Rot Stalker Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-12400,Rot Stalker Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-12401,Rot Stalker Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-13136,Round Boatsman Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-13171,Round Boatsman Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-13180,Round Boatsman Hat,Armor,Basic,Light,,unknown (no wiki page found)
-11039,Royal Pointed Ears,Armor,Basic,Light,,unknown (no wiki page found)
-11044,Royal Pointed Ears,Armor,Basic,Heavy,,unknown (no wiki page found)
-11045,Royal Pointed Ears,Armor,Basic,Medium,,unknown (no wiki page found)
-11654,Sanctified Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-11713,Sanctified Boots,Armor,Basic,Light,,unknown (no wiki page found)
-11777,Sanctified Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-11611,Sanctified Coat,Armor,Basic,Heavy,,unknown (no wiki page found)
-11682,Sanctified Coat,Armor,Basic,Medium,,unknown (no wiki page found)
-11793,Sanctified Coat,Armor,Basic,Light,,unknown (no wiki page found)
-11643,Sanctified Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-11767,Sanctified Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-11796,Sanctified Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-11629,Sanctified Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-11709,Sanctified Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-11764,Sanctified Helm,Armor,Basic,Light,,unknown (no wiki page found)
-11578,Sanctified Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-11689,Sanctified Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
-11752,Sanctified Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
 11667,Sanctified Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
 11727,Sanctified Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
 11749,Sanctified Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-11106,Savage Scale Chest,Armor,Basic,Light,,unknown (no wiki page found)
-11129,Savage Scale Chest,Armor,Basic,Medium,,unknown (no wiki page found)
-11133,Savage Scale Chest,Armor,Basic,Heavy,,unknown (no wiki page found)
-11100,Savage Scale Loincloth,Armor,Basic,Light,,unknown (no wiki page found)
-11124,Savage Scale Loincloth,Armor,Basic,Medium,,unknown (no wiki page found)
-11142,Savage Scale Loincloth,Armor,Basic,Heavy,,unknown (no wiki page found)
-827,Scarlet's Veil,Armor,Basic,Medium,,unknown (no wiki page found)
-830,Scarlet's Veil,Armor,Basic,Light,,unknown (no wiki page found)
-838,Scarlet's Veil,Armor,Basic,Heavy,,unknown (no wiki page found)
-11409,Scrivener's Knowledge Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-11411,Scrivener's Knowledge Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-11413,Scrivener's Knowledge Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-13285,Seaside Scholar's Bracelets,Armor,Basic,Heavy,,unknown (no wiki page found)
-13564,Seaside Scholar's Bracelets,Armor,Basic,Light,,unknown (no wiki page found)
-13613,Seaside Scholar's Bracelets,Armor,Basic,Medium,,unknown (no wiki page found)
-13283,Seaside Scholar's Hat,Armor,Basic,Heavy,,unknown (no wiki page found)
-13621,Seaside Scholar's Hat,Armor,Basic,Medium,,unknown (no wiki page found)
-13631,Seaside Scholar's Hat,Armor,Basic,Light,,unknown (no wiki page found)
-13307,Seaside Scholar's Robes,Armor,Basic,Medium,,unknown (no wiki page found)
-13540,Seaside Scholar's Robes,Armor,Basic,Heavy,,unknown (no wiki page found)
-13561,Seaside Scholar's Robes,Armor,Basic,Light,,unknown (no wiki page found)
-13317,Seaside Scholar's Sandals,Armor,Basic,Light,,unknown (no wiki page found)
-13377,Seaside Scholar's Sandals,Armor,Basic,Medium,,unknown (no wiki page found)
-13618,Seaside Scholar's Sandals,Armor,Basic,Heavy,,unknown (no wiki page found)
-13442,Seaside Scholar's Sash,Armor,Basic,Heavy,,unknown (no wiki page found)
-13530,Seaside Scholar's Sash,Armor,Basic,Medium,,unknown (no wiki page found)
-13562,Seaside Scholar's Sash,Armor,Basic,Light,,unknown (no wiki page found)
-13314,Seaside Scholar's Shorts,Armor,Basic,Medium,,unknown (no wiki page found)
-13531,Seaside Scholar's Shorts,Armor,Basic,Heavy,,unknown (no wiki page found)
-13610,Seaside Scholar's Shorts,Armor,Basic,Light,,unknown (no wiki page found)
-13436,Seaside Scholar's Tank Top,Armor,Basic,Light,,unknown (no wiki page found)
-13480,Seaside Scholar's Tank Top,Armor,Basic,Heavy,,unknown (no wiki page found)
-13602,Seaside Scholar's Tank Top,Armor,Basic,Medium,,unknown (no wiki page found)
-11267,Serpentine Tattoo Chest,Armor,Basic,Heavy,,unknown (no wiki page found)
-11308,Serpentine Tattoo Chest,Armor,Basic,Medium,,unknown (no wiki page found)
-11349,Serpentine Tattoo Chest,Armor,Basic,Light,,unknown (no wiki page found)
-11291,Serpentine Tattoo Legs,Armor,Basic,Light,,unknown (no wiki page found)
-11305,Serpentine Tattoo Legs,Armor,Basic,Heavy,,unknown (no wiki page found)
-11307,Serpentine Tattoo Legs,Armor,Basic,Medium,,unknown (no wiki page found)
-11110,Seven Reapers Breastplate,Armor,Basic,Light,,unknown (no wiki page found)
-11113,Seven Reapers Breastplate,Armor,Basic,Heavy,,unknown (no wiki page found)
-11134,Seven Reapers Breastplate,Armor,Basic,Medium,,unknown (no wiki page found)
-10098,Seven Reapers Greaves,Armor,Basic,Medium,,unknown (no wiki page found)
-10100,Seven Reapers Greaves,Armor,Basic,Light,,unknown (no wiki page found)
-10106,Seven Reapers Greaves,Armor,Basic,Heavy,,unknown (no wiki page found)
-10124,Seven Reapers Helm,Armor,Basic,Light,,unknown (no wiki page found)
-10129,Seven Reapers Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-10131,Seven Reapers Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-11059,Seven Reapers Legguards,Armor,Basic,Heavy,,unknown (no wiki page found)
-11068,Seven Reapers Legguards,Armor,Basic,Medium,,unknown (no wiki page found)
-11080,Seven Reapers Legguards,Armor,Basic,Light,,unknown (no wiki page found)
-9890,Seven Reapers Pauldrons,Armor,Basic,Heavy,,unknown (no wiki page found)
-9891,Seven Reapers Pauldrons,Armor,Basic,Light,,unknown (no wiki page found)
-9894,Seven Reapers Pauldrons,Armor,Basic,Medium,,unknown (no wiki page found)
 6072,Shadow Assassin Short Bow,Weapon,Basic,,,unknown (no wiki page found)
-5815,Shadow of the Dragon Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-5816,Shadow of the Dragon Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-5820,Shadow of the Dragon Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-11842,Side-Lace Pants,Armor,Basic,Medium,,unknown (no wiki page found)
-11843,Side-Lace Pants,Armor,Basic,Heavy,,unknown (no wiki page found)
-11845,Side-Lace Pants,Armor,Basic,Light,,unknown (no wiki page found)
-12029,Skysage's Boots,Armor,Basic,Light,,unknown (no wiki page found)
-12054,Skysage's Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-12091,Skysage's Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-12013,Skysage's Coat,Armor,Basic,Heavy,,unknown (no wiki page found)
-12074,Skysage's Coat,Armor,Basic,Medium,,unknown (no wiki page found)
-12075,Skysage's Coat,Armor,Basic,Light,,unknown (no wiki page found)
-12036,Skysage's Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-12076,Skysage's Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-12094,Skysage's Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-12017,Skysage's Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-12062,Skysage's Helm,Armor,Basic,Light,,unknown (no wiki page found)
-12095,Skysage's Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-12044,Skysage's Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-12050,Skysage's Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
-12079,Skysage's Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
-12014,Skysage's Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-12018,Skysage's Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-12088,Skysage's Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-12016,Skysage's Spectacles,Armor,Basic,Light,,unknown (no wiki page found)
-12066,Skysage's Spectacles,Armor,Basic,Medium,,unknown (no wiki page found)
-12092,Skysage's Spectacles,Armor,Basic,Heavy,,unknown (no wiki page found)
-14039,Sleeveless Wetsuit Bottoms,Armor,Basic,Light,,unknown (no wiki page found)
-14050,Sleeveless Wetsuit Bottoms,Armor,Basic,Heavy,,unknown (no wiki page found)
-14053,Sleeveless Wetsuit Bottoms,Armor,Basic,Medium,,unknown (no wiki page found)
-14043,Sleeveless Wetsuit Top,Armor,Basic,Light,,unknown (no wiki page found)
-14045,Sleeveless Wetsuit Top,Armor,Basic,Heavy,,unknown (no wiki page found)
-14058,Sleeveless Wetsuit Top,Armor,Basic,Medium,,unknown (no wiki page found)
 8329,Slumbering Mistforged Obsidian Axe,Weapon,Basic,,,unknown (no wiki page found)
 7926,Slumbering Mistforged Obsidian Dagger,Weapon,Basic,,,unknown (no wiki page found)
 8129,Slumbering Mistforged Obsidian Focus,Weapon,Basic,,,unknown (no wiki page found)
@@ -8613,88 +8790,7 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 7992,Slumbering Obsidian Sword,Weapon,Basic,,,unknown (no wiki page found)
 7971,Slumbering Obsidian Torch,Weapon,Basic,,,unknown (no wiki page found)
 8304,Slumbering Obsidian Warhorn,Weapon,Basic,,,unknown (no wiki page found)
-13105,Snorkel Mask,Armor,Basic,Medium,,unknown (no wiki page found)
-13122,Snorkel Mask,Armor,Basic,Heavy,,unknown (no wiki page found)
-13133,Snorkel Mask,Armor,Basic,Light,,unknown (no wiki page found)
-13642,Southsun Waves T-Shirt,Armor,Basic,Heavy,,unknown (no wiki page found)
-13646,Southsun Waves T-Shirt,Armor,Basic,Light,,unknown (no wiki page found)
-13647,Southsun Waves T-Shirt,Armor,Basic,Medium,,unknown (no wiki page found)
-11294,Special Ops Captain's Helmet,Armor,Basic,Heavy,,unknown (no wiki page found)
-11319,Special Ops Captain's Helmet,Armor,Basic,Medium,,unknown (no wiki page found)
-11342,Special Ops Captain's Helmet,Armor,Basic,Light,,unknown (no wiki page found)
-13702,Spiked Inquest Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-13711,Spiked Inquest Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-13759,Spiked Inquest Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-13714,Spiked Inquest Greaves,Armor,Basic,Light,,unknown (no wiki page found)
-13780,Spiked Inquest Greaves,Armor,Basic,Medium,,unknown (no wiki page found)
-13782,Spiked Inquest Greaves,Armor,Basic,Heavy,,unknown (no wiki page found)
-13760,Spiked Inquest Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-13768,Spiked Inquest Helm,Armor,Basic,Light,,unknown (no wiki page found)
-13775,Spiked Inquest Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-13650,Steam-Powered Legwear (Left),Armor,Basic,Heavy,,unknown (no wiki page found)
-13663,Steam-Powered Legwear (Left),Armor,Basic,Light,,unknown (no wiki page found)
-13676,Steam-Powered Legwear (Left),Armor,Basic,Medium,,unknown (no wiki page found)
-13656,Steam-Powered Legwear (Right),Armor,Basic,Medium,,unknown (no wiki page found)
-13657,Steam-Powered Legwear (Right),Armor,Basic,Light,,unknown (no wiki page found)
-13672,Steam-Powered Legwear (Right),Armor,Basic,Heavy,,unknown (no wiki page found)
-9307,Stone Summit Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-9316,Stone Summit Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-9327,Stone Summit Boots,Armor,Basic,Light,,unknown (no wiki page found)
-9262,Stone Summit Gauntlets,Armor,Basic,Light,,unknown (no wiki page found)
-9276,Stone Summit Gauntlets,Armor,Basic,Heavy,,unknown (no wiki page found)
-9279,Stone Summit Gauntlets,Armor,Basic,Medium,,unknown (no wiki page found)
-9248,Stone Summit Helmet,Armor,Basic,Heavy,,unknown (no wiki page found)
-9258,Stone Summit Helmet,Armor,Basic,Light,,unknown (no wiki page found)
-9277,Stone Summit Helmet,Armor,Basic,Medium,,unknown (no wiki page found)
-9259,Stone Summit Pauldrons,Armor,Basic,Heavy,,unknown (no wiki page found)
-9284,Stone Summit Pauldrons,Armor,Basic,Light,,unknown (no wiki page found)
-9311,Stone Summit Pauldrons,Armor,Basic,Medium,,unknown (no wiki page found)
-14048,Summer Runner Bracelets,Armor,Basic,Heavy,,unknown (no wiki page found)
-14049,Summer Runner Bracelets,Armor,Basic,Light,,unknown (no wiki page found)
-14056,Summer Runner Bracelets,Armor,Basic,Medium,,unknown (no wiki page found)
-14040,Summer Runner Gaiter,Armor,Basic,Heavy,,unknown (no wiki page found)
-14044,Summer Runner Gaiter,Armor,Basic,Light,,unknown (no wiki page found)
-14055,Summer Runner Gaiter,Armor,Basic,Medium,,unknown (no wiki page found)
-14037,Summer Runner Shoes,Armor,Basic,Medium,,unknown (no wiki page found)
-14038,Summer Runner Shoes,Armor,Basic,Heavy,,unknown (no wiki page found)
-14057,Summer Runner Shoes,Armor,Basic,Light,,unknown (no wiki page found)
-14047,Summer Runner Shorts,Armor,Basic,Heavy,,unknown (no wiki page found)
-14054,Summer Runner Shorts,Armor,Basic,Light,,unknown (no wiki page found)
-14059,Summer Runner Shorts,Armor,Basic,Medium,,unknown (no wiki page found)
-14032,Summer Runner Vest,Armor,Basic,Medium,,unknown (no wiki page found)
-14036,Summer Runner Vest,Armor,Basic,Light,,unknown (no wiki page found)
-14041,Summer Runner Vest,Armor,Basic,Heavy,,unknown (no wiki page found)
-14035,Summer Runner Visor,Armor,Basic,Light,,unknown (no wiki page found)
-14042,Summer Runner Visor,Armor,Basic,Medium,,unknown (no wiki page found)
-14060,Summer Runner Visor,Armor,Basic,Heavy,,unknown (no wiki page found)
-14009,Summer T-Shirt,Armor,Basic,Light,,unknown (no wiki page found)
-14012,Summer T-Shirt,Armor,Basic,Medium,,unknown (no wiki page found)
-14018,Summer T-Shirt,Armor,Basic,Heavy,,unknown (no wiki page found)
-13103,Sunshine Bracelet,Armor,Basic,Medium,,unknown (no wiki page found)
-13119,Sunshine Bracelet,Armor,Basic,Heavy,,unknown (no wiki page found)
-13129,Sunshine Bracelet,Armor,Basic,Light,,unknown (no wiki page found)
-13100,Sunshine Flower Headpiece,Armor,Basic,Medium,,unknown (no wiki page found)
-13115,Sunshine Flower Headpiece,Armor,Basic,Light,,unknown (no wiki page found)
-13131,Sunshine Flower Headpiece,Armor,Basic,Heavy,,unknown (no wiki page found)
-13106,Sunshine Sandals,Armor,Basic,Medium,,unknown (no wiki page found)
-13110,Sunshine Sandals,Armor,Basic,Light,,unknown (no wiki page found)
-13127,Sunshine Sandals,Armor,Basic,Heavy,,unknown (no wiki page found)
-13099,Sunshine Shirt,Armor,Basic,Light,,unknown (no wiki page found)
-13108,Sunshine Shirt,Armor,Basic,Heavy,,unknown (no wiki page found)
-13121,Sunshine Shirt,Armor,Basic,Medium,,unknown (no wiki page found)
-13117,Sunshine Shorts,Armor,Basic,Medium,,unknown (no wiki page found)
-13125,Sunshine Shorts,Armor,Basic,Light,,unknown (no wiki page found)
-13130,Sunshine Shorts,Armor,Basic,Heavy,,unknown (no wiki page found)
-12944,Synergetics Headset (Down),Armor,Basic,Medium,,unknown (no wiki page found)
-12952,Synergetics Headset (Down),Armor,Basic,Light,,unknown (no wiki page found)
-12959,Synergetics Headset (Down),Armor,Basic,Heavy,,unknown (no wiki page found)
-12953,Synergetics Headset (Up),Armor,Basic,Heavy,,unknown (no wiki page found)
-12972,Synergetics Headset (Up),Armor,Basic,Light,,unknown (no wiki page found)
-12973,Synergetics Headset (Up),Armor,Basic,Medium,,unknown (no wiki page found)
 11340,Tahkayun's Reverse-Grip Edge,Weapon,Basic,,,unknown (no wiki page found)
-9789,Tempest Gaze,Armor,Basic,Heavy,,unknown (no wiki page found)
-9790,Tempest Gaze,Armor,Basic,Medium,,unknown (no wiki page found)
-9792,Tempest Gaze,Armor,Basic,Light,,unknown (no wiki page found)
 14183,Tenebral Ward Heavy Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
 14194,Tenebral Ward Heavy Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
 14175,Tenebral Ward Heavy Helmet,Armor,Basic,Heavy,,unknown (no wiki page found)
@@ -8712,124 +8808,28 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 14142,Tenebral Ward Medium Pauldrons,Armor,Basic,Medium,,unknown (no wiki page found)
 14192,The Tyrant's Justification,Weapon,Basic,,,unknown (no wiki page found)
 14134,The Tyrant's Selection Process,Weapon,Basic,,,unknown (no wiki page found)
-12775,Tiny Royal Crown,Armor,Basic,Medium,,unknown (no wiki page found)
-12787,Tiny Royal Crown,Armor,Basic,Light,,unknown (no wiki page found)
-12788,Tiny Royal Crown,Armor,Basic,Heavy,,unknown (no wiki page found)
 14169,Torrs Calare Greatsword,Weapon,Basic,,,unknown (no wiki page found)
-13208,Traveling Knight's Hooded Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-13213,Traveling Knight's Hooded Helm,Armor,Basic,Light,,unknown (no wiki page found)
-13226,Traveling Knight's Hooded Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-12296,Tropical Chest,Armor,Basic,Heavy,,unknown (no wiki page found)
-12303,Tropical Chest,Armor,Basic,Medium,,unknown (no wiki page found)
-12305,Tropical Chest,Armor,Basic,Light,,unknown (no wiki page found)
-13697,Tropical Leaf Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-13736,Tropical Leaf Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-13740,Tropical Leaf Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-12291,Tropical Legwear,Armor,Basic,Medium,,unknown (no wiki page found)
-12298,Tropical Legwear,Armor,Basic,Light,,unknown (no wiki page found)
-12307,Tropical Legwear,Armor,Basic,Heavy,,unknown (no wiki page found)
 14089,Unclouded Cuirass,Armor,Basic,Heavy,,unknown (no wiki page found)
 14096,Unclouded Cuirass,Armor,Basic,Light,,unknown (no wiki page found)
 14119,Unclouded Cuirass,Armor,Basic,Medium,,unknown (no wiki page found)
 14095,Unclouded Pteruges,Armor,Basic,Light,,unknown (no wiki page found)
 14104,Unclouded Pteruges,Armor,Basic,Medium,,unknown (no wiki page found)
 14106,Unclouded Pteruges,Armor,Basic,Heavy,,unknown (no wiki page found)
-10846,Unicorn Horn,Armor,Basic,Light,,unknown (no wiki page found)
-10852,Unicorn Horn,Armor,Basic,Heavy,,unknown (no wiki page found)
-10853,Unicorn Horn,Armor,Basic,Medium,,unknown (no wiki page found)
-12796,Vagabond's Hood,Armor,Basic,Medium,,unknown (no wiki page found)
-12806,Vagabond's Hood,Armor,Basic,Heavy,,unknown (no wiki page found)
-12808,Vagabond's Hood,Armor,Basic,Light,,unknown (no wiki page found)
-12797,Vagabond's Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-12801,Vagabond's Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-12803,Vagabond's Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-13111,Valkyrie's Champion Helm,Armor,Basic,Light,,unknown (no wiki page found)
-13120,Valkyrie's Champion Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-13124,Valkyrie's Champion Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
 12749,Vengeful Wolf Rider Helm,Armor,Basic,Medium,,unknown (no wiki page found)
 12752,Vengeful Wolf Rider Helm,Armor,Basic,Light,,unknown (no wiki page found)
 12784,Vengeful Wolf Rider Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
 13019,Vibrant Wings Backpack,Back,Basic,,,unknown (no wiki page found)
-1404,Vigil's Honor Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-1407,Vigil's Honor Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-13244,Vigilant Physician's Mask,Armor,Basic,Light,,unknown (no wiki page found)
-13250,Vigilant Physician's Mask,Armor,Basic,Heavy,,unknown (no wiki page found)
-13254,Vigilant Physician's Mask,Armor,Basic,Medium,,unknown (no wiki page found)
-13109,Villainous Hood,Armor,Basic,Heavy,,unknown (no wiki page found)
-13126,Villainous Hood,Armor,Basic,Medium,,unknown (no wiki page found)
-13132,Villainous Hood,Armor,Basic,Light,,unknown (no wiki page found)
-13875,Ward Hunter's Boots,Armor,Basic,Light,,unknown (no wiki page found)
-13920,Ward Hunter's Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-13972,Ward Hunter's Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
 13952,Ward Hunter's Cape,Back,Basic,,,unknown (no wiki page found)
 13891,Ward Hunter's Coat,Armor,Basic,Medium,,unknown (no wiki page found)
 13951,Ward Hunter's Coat,Armor,Basic,Light,,unknown (no wiki page found)
 13995,Ward Hunter's Coat,Armor,Basic,Heavy,,unknown (no wiki page found)
-13871,Ward Hunter's Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-13881,Ward Hunter's Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-13915,Ward Hunter's Gloves,Armor,Basic,Light,,unknown (no wiki page found)
 13882,Ward Hunter's Leggings,Armor,Basic,Light,,unknown (no wiki page found)
 13923,Ward Hunter's Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
 13948,Ward Hunter's Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
 13897,Ward Hunter's Mask,Armor,Basic,Light,,unknown (no wiki page found)
 13918,Ward Hunter's Mask,Armor,Basic,Medium,,unknown (no wiki page found)
 13988,Ward Hunter's Mask,Armor,Basic,Heavy,,unknown (no wiki page found)
-13869,Ward Hunter's Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-13931,Ward Hunter's Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-13942,Ward Hunter's Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-12888,Ward Knight's Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-12892,Ward Knight's Boots,Armor,Basic,Light,,unknown (no wiki page found)
-12917,Ward Knight's Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-12869,Ward Knight's Coat,Armor,Basic,Light,,unknown (no wiki page found)
-12910,Ward Knight's Coat,Armor,Basic,Heavy,,unknown (no wiki page found)
-12924,Ward Knight's Coat,Armor,Basic,Medium,,unknown (no wiki page found)
-12870,Ward Knight's Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-12936,Ward Knight's Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-12938,Ward Knight's Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-12862,Ward Knight's Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-12880,Ward Knight's Helm,Armor,Basic,Light,,unknown (no wiki page found)
-12941,Ward Knight's Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-12878,Ward Knight's Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-12884,Ward Knight's Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
-12902,Ward Knight's Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
-12903,Ward Knight's Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-12914,Ward Knight's Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-12918,Ward Knight's Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
-10969,Water Dragon Crest,Armor,Basic,Heavy,,unknown (no wiki page found)
-10992,Water Dragon Crest,Armor,Basic,Medium,,unknown (no wiki page found)
-10993,Water Dragon Crest,Armor,Basic,Light,,unknown (no wiki page found)
-10918,Water Dragon Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-10924,Water Dragon Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-10967,Water Dragon Helm,Armor,Basic,Light,,unknown (no wiki page found)
-10906,Water Dragon Pauldrons,Armor,Basic,Light,,unknown (no wiki page found)
-10916,Water Dragon Pauldrons,Armor,Basic,Medium,,unknown (no wiki page found)
-10925,Water Dragon Pauldrons,Armor,Basic,Heavy,,unknown (no wiki page found)
-1420,Whisper's Secret Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-1423,Whisper's Secret Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-1418,Whisper's Secret Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-1425,Whisper's Secret Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
-12252,Whispering Serpents Pauldrons,Armor,Basic,Heavy,,unknown (no wiki page found)
-12256,Whispering Serpents Pauldrons,Armor,Basic,Light,,unknown (no wiki page found)
-12276,Whispering Serpents Pauldrons,Armor,Basic,Medium,,unknown (no wiki page found)
 6805,White Mantle Sledge,Weapon,Basic,,,unknown (no wiki page found)
-982,Wide-Rim Glasses,Armor,Basic,Medium,,unknown (no wiki page found)
-986,Wide-Rim Glasses,Armor,Basic,Light,,unknown (no wiki page found)
-987,Wide-Rim Glasses,Armor,Basic,Heavy,,unknown (no wiki page found)
-11952,Winter Fur Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
-11957,Winter Fur Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
-11961,Winter Fur Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
 12748,Winter Mittens,Armor,Basic,Heavy,,unknown (no wiki page found)
 12765,Winter Mittens,Armor,Basic,Light,,unknown (no wiki page found)
 12786,Winter Mittens,Armor,Basic,Medium,,unknown (no wiki page found)
-11171,Wintersday Snow Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-11179,Wintersday Snow Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-11184,Wintersday Snow Boots,Armor,Basic,Light,,unknown (no wiki page found)
-1208,Zephyrite Lightning Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-1209,Zephyrite Lightning Helm,Armor,Basic,Light,,unknown (no wiki page found)
-1210,Zephyrite Lightning Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-1205,Zephyrite Sun Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-1206,Zephyrite Sun Helm,Armor,Basic,Light,,unknown (no wiki page found)
-1207,Zephyrite Sun Helm,Armor,Basic,Medium,,unknown (no wiki page found)
-1202,Zephyrite Wind Helm,Armor,Basic,Heavy,,unknown (no wiki page found)
-1203,Zephyrite Wind Helm,Armor,Basic,Light,,unknown (no wiki page found)
-1204,Zephyrite Wind Helm,Armor,Basic,Medium,,unknown (no wiki page found)

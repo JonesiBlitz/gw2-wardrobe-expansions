@@ -1,0 +1,1947 @@
+{
+  "generatedAt": "2026-10-19T22:45:17.406Z",
+  "seeds": [
+    "Category:Halloween",
+    "Category:Gem Store Halloween items",
+    "Category:Shadow of the Mad King",
+    "Category:Blood and Madness",
+    "Category:Lunatic armor",
+    "Category:Halloween armor",
+    "Category:Halloween weapons"
+  ],
+  "skins": [
+    {
+      "id": 7802,
+      "name": "Antonina",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/925E286ED3BFC3251EEF7643B6497FBBF6DDAD94/1862055.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 4686,
+      "name": "Arachnophobia",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/21520F6DD5227CEFD1CBB5487A0C194756C99778/499380.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 10130,
+      "name": "Barbed Refuge",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/BE5F4B3F08D0AB42175BBE1652AE15EC599AF4A9/2498631.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 6412,
+      "name": "Bat Wings Backpack",
+      "type": "Back",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/BD2FA14B122CB7EB2205D016F9B07D4F1FC90ED2/1203275.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 3816,
+      "name": "Bloody Prince Staff",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/DCAA16650655B79ADDAD02B44B590EA9397AD3DE/648159.png",
+      "cats": [
+        "Blood and Madness weapon skins"
+      ]
+    },
+    {
+      "id": 2398,
+      "name": "Bone Pick",
+      "type": "Gathering",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/9827C507181C6B305EA026C2F1EB7448AA390CD5/638367.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 983,
+      "name": "Bunny Ears",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/AFBE55FC08ABD32007F3EA0F77F14306AC07283D/499490.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 984,
+      "name": "Bunny Ears",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/AFBE55FC08ABD32007F3EA0F77F14306AC07283D/499490.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 985,
+      "name": "Bunny Ears",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/AFBE55FC08ABD32007F3EA0F77F14306AC07283D/499490.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 1181,
+      "name": "Bunny Ears",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Clothing",
+      "icon": "https://render.guildwars2.com/file/AFBE55FC08ABD32007F3EA0F77F14306AC07283D/499490.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 8999,
+      "name": "Carapace of Chaos",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/730F06F12C7BE2559A03992894B4FA3594D857C5/2212697.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 3696,
+      "name": "Chain Sword",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/959F043BDE7D62EA5B1D0D1ABE31AAE3516B06FB/499466.png",
+      "cats": [
+        "Shadow of the Mad King weapon skins"
+      ]
+    },
+    {
+      "id": 10121,
+      "name": "Corroding Abyss",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/AF4A0C6C92B696E591C22D1767B7995FEB05219D/2498603.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 1121,
+      "name": "Deathly Avian Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/340F26CF50A5A5595E3DFF9D699B54F865CE7A52/499476.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 1116,
+      "name": "Deathly Avian Pauldrons",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/340F26CF50A5A5595E3DFF9D699B54F865CE7A52/499476.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 1128,
+      "name": "Deathly Avian Shoulderpads",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/340F26CF50A5A5595E3DFF9D699B54F865CE7A52/499476.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 1123,
+      "name": "Deathly Bull's Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/48B2D9B505D2AAF124256C54B341EFECE06CBA06/499477.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 1119,
+      "name": "Deathly Bull's Pauldrons",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/48B2D9B505D2AAF124256C54B341EFECE06CBA06/499477.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 1131,
+      "name": "Deathly Bull's Shoulderpads",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/48B2D9B505D2AAF124256C54B341EFECE06CBA06/499477.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 1126,
+      "name": "Deathly Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/C40623F844125E074C04C509217D0803747804C4/499475.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 1120,
+      "name": "Deathly Pauldrons",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/C40623F844125E074C04C509217D0803747804C4/499475.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 1136,
+      "name": "Deathly Shoulderpads",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/C40623F844125E074C04C509217D0803747804C4/499475.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 999,
+      "name": "Devil Horns",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/926298A2090B76A42DBBDBA36E46707B016AF39B/499491.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 1000,
+      "name": "Devil Horns",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/926298A2090B76A42DBBDBA36E46707B016AF39B/499491.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 1027,
+      "name": "Devil Horns",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/926298A2090B76A42DBBDBA36E46707B016AF39B/499491.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 10123,
+      "name": "Foefire Chestguard",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/AC4A567D7859FC3A1D505C7EFAD748BB1B565AE9/2498622.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 10125,
+      "name": "Foefire Chestguard",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/AC4A567D7859FC3A1D505C7EFAD748BB1B565AE9/2498622.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 10126,
+      "name": "Foefire Chestguard",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/AC4A567D7859FC3A1D505C7EFAD748BB1B565AE9/2498622.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 7725,
+      "name": "Foefire Greaves",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/3D76270102CEBD21A30F4622DB533AECF00B6191/1822767.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 7726,
+      "name": "Foefire Greaves",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/3D76270102CEBD21A30F4622DB533AECF00B6191/1822767.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 7748,
+      "name": "Foefire Greaves",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/3D76270102CEBD21A30F4622DB533AECF00B6191/1822767.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 10120,
+      "name": "Foefire Legwraps",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/A8761EBAEB065821E8B6BF56E41A912C4F1DE00A/2498623.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 10127,
+      "name": "Foefire Legwraps",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/A8761EBAEB065821E8B6BF56E41A912C4F1DE00A/2498623.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 10133,
+      "name": "Foefire Legwraps",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/A8761EBAEB065821E8B6BF56E41A912C4F1DE00A/2498623.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 7258,
+      "name": "Foefire Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/4D70987D039E181BD2FCF8635FDF3E4AF4EFDA20/1701167.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 7263,
+      "name": "Foefire Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/4D70987D039E181BD2FCF8635FDF3E4AF4EFDA20/1701167.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 7267,
+      "name": "Foefire Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/4D70987D039E181BD2FCF8635FDF3E4AF4EFDA20/1701167.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 7251,
+      "name": "Foefire Wraps",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/F5B7DBB86C0AADD8C970A812045D1E0E3E2CED0B/1701166.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 7262,
+      "name": "Foefire Wraps",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/F5B7DBB86C0AADD8C970A812045D1E0E3E2CED0B/1701166.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 7275,
+      "name": "Foefire Wraps",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/F5B7DBB86C0AADD8C970A812045D1E0E3E2CED0B/1701166.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 6972,
+      "name": "Furrocious Cat Ears",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/BDE329E2E9A27D0AA27C369BD25017B60B18A79A/1504162.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 6974,
+      "name": "Furrocious Cat Ears",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/BDE329E2E9A27D0AA27C369BD25017B60B18A79A/1504162.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 6975,
+      "name": "Furrocious Cat Ears",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/BDE329E2E9A27D0AA27C369BD25017B60B18A79A/1504162.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 3693,
+      "name": "Ghastly Grinning Shield",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/90DEDF5658F1E008224AC0535C2CE85B732902F0/499465.png",
+      "cats": [
+        "Shadow of the Mad King weapon skins"
+      ]
+    },
+    {
+      "id": 6431,
+      "name": "Ghoul Backpack",
+      "type": "Back",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/75985817F910CB485F390F305FED43C3C2306E0A/1200504.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 3687,
+      "name": "Greatsaw",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/F3DD14464C5F1A92592101950F16B60DA52B5695/499467.png",
+      "cats": [
+        "Shadow of the Mad King weapon skins"
+      ]
+    },
+    {
+      "id": 1222,
+      "name": "Grenth Hood",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/BDA5603EA1C3FF412AC8520E76D42CA56D549B37/681054.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 1223,
+      "name": "Grenth Hood",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/BDA5603EA1C3FF412AC8520E76D42CA56D549B37/681054.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 1224,
+      "name": "Grenth Hood",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/BDA5603EA1C3FF412AC8520E76D42CA56D549B37/681054.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 6994,
+      "name": "Grim Pact",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/9541E7CE05AC135415CA290AD15C619AFBC51F6B/1507960.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 4694,
+      "name": "Grinning Gourd Rifle",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/65EB690AD503F5BC35D438A8E5475D3FCA7C05A0/499457.png",
+      "cats": [
+        "Shadow of the Mad King weapon skins"
+      ]
+    },
+    {
+      "id": 11862,
+      "name": "Guided Executioner",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/1BF92CF70234B1FEB7144FBABC01C26962E162B6/3171959.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 11071,
+      "name": "Harvest's Grin",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/7745012474E571E41342732D5D61B23AB19FF62D/2752717.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 11850,
+      "name": "Heralded Executioner",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/E84AAF1D2B02340543D6C2A29D7900CF365D5A98/3171978.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 8103,
+      "name": "Jack-in-the-Box Scythe",
+      "type": "Gathering",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/B8FAB3CF449D4BF50BD29AEA7B1A753F7E5CE792/643281.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 6977,
+      "name": "Jailbroken",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/F65FF91EFDA6F6A44E98DD62422E1FBC59A96A40/1507990.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 6217,
+      "name": "Karka Helm",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/B9F4A85C1DD60E497A914542689DF90777189741/1010525.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 6249,
+      "name": "Karka Helm",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/B9F4A85C1DD60E497A914542689DF90777189741/1010525.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 6493,
+      "name": "Karka Helm",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/B9F4A85C1DD60E497A914542689DF90777189741/1010525.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 10132,
+      "name": "Luminous Wings",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/04A57C0CF92704FFEBE8066F5D0A0A37AF0642AA/2498613.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 7793,
+      "name": "Lunatic Acolyte Boots",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/29F1CB92253FF39AE9F228CAB5369C999FD8A1CB/1862066.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7759,
+      "name": "Lunatic Acolyte Coat",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/A720B809736E4508047416A77A0B64F9ADEF054D/1862067.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7792,
+      "name": "Lunatic Acolyte Gloves",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/7174380D677293E14B68014C65DA387F35B6DD28/1862068.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7763,
+      "name": "Lunatic Acolyte Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/037027F3B76FEA5A211711FF01DC76E04F0F340E/1862071.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7776,
+      "name": "Lunatic Acolyte Mask",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/945D2CABAEF56034A776974B66CB58A2CB1C65F8/1862070.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7780,
+      "name": "Lunatic Acolyte Pants",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/95430A9D0EE04F7369999E540A487161F307019F/1862069.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7803,
+      "name": "Lunatic Noble Boots",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/E45349D1EA3C7634AC5E63997FC5CEAD0A96A127/1862072.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7781,
+      "name": "Lunatic Noble Coat",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/61F398F95503F527CA0A721C25013812B0115899/1862073.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7799,
+      "name": "Lunatic Noble Gloves",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/5CA1C4969AE6FFD3297FB5D6A69DEE03BD70E655/1862075.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7770,
+      "name": "Lunatic Noble Mask",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/0436D34ADDB5DD694FCD92D4200D90D81F0827DA/1862077.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7774,
+      "name": "Lunatic Noble Pants",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/056BDEF4FD68137318B692D0CA42FD382E4CCF6E/1862076.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7796,
+      "name": "Lunatic Noble Shoulders",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/01647E68B414B390E757249AF90B5F020DCF2D03/1862079.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7789,
+      "name": "Lunatic Templar Breastplate",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/13256737A8F85F3BA73C05FEDE5A239568C4151A/1862061.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7757,
+      "name": "Lunatic Templar Gauntlets",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/AE347268F3C2F0169EC0314D6ADC9A032EA30AEA/1862062.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7766,
+      "name": "Lunatic Templar Greaves",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/080CA51BBE5C4E66487208F6505C290A64E1F6B3/1862060.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7773,
+      "name": "Lunatic Templar Helm",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/E77713BAC7E26F0005FCD7F7E1F6326A4C4F9A7A/1862063.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7771,
+      "name": "Lunatic Templar Pauldrons",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/460576944A5106037E99AD39255E5DFF400E03A8/1862065.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 7768,
+      "name": "Lunatic Templar Tassets",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/9E47FFF501CC800BB10BDE44F22B0E38D54114E8/1862064.png",
+      "cats": [
+        "Lunatic armor"
+      ]
+    },
+    {
+      "id": 2336,
+      "name": "Mad Memoires",
+      "type": "Back",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/2D9C6A207995189C51E70AB4304BA1342A0A480F/499505.png",
+      "cats": [
+        "Halloween"
+      ]
+    },
+    {
+      "id": 2338,
+      "name": "Mad Memoires: Complete Edition",
+      "type": "Back",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/F6D6A2A4095D46CB5C963E780E007D9FD173D8FA/499511.png",
+      "cats": [
+        "Halloween"
+      ]
+    },
+    {
+      "id": 7775,
+      "name": "Mad Memoires: Complete Ignition",
+      "type": "Back",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/19340BA647A31D575BE8A919BB0CE1B7000D6B3C/1862035.png",
+      "cats": [
+        "Halloween",
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 7760,
+      "name": "Mad Memoires: Complete Superstition",
+      "type": "Back",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/AC90294E304242612E0301B259AC7A71304CC2BB/1862034.png",
+      "cats": [
+        "Halloween",
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 9219,
+      "name": "Maguuma's Grasp",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/41152BF05BC00F0D0FAC545A9708EAC6E13E1CF0/2261375.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 9228,
+      "name": "Maguuma's Grasp",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/41152BF05BC00F0D0FAC545A9708EAC6E13E1CF0/2261375.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 9239,
+      "name": "Maguuma's Grasp",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/41152BF05BC00F0D0FAC545A9708EAC6E13E1CF0/2261375.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 9222,
+      "name": "Maguuma's Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/3D1FBB3E91BF6B116205DFF311D03BB62FE0F101/2261376.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 9224,
+      "name": "Maguuma's Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/3D1FBB3E91BF6B116205DFF311D03BB62FE0F101/2261376.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 9226,
+      "name": "Maguuma's Mantle",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/3D1FBB3E91BF6B116205DFF311D03BB62FE0F101/2261376.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 2027,
+      "name": "Mask of the Night",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/930CF14A18969776A109302241F00C9708EE7F32/648169.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 2028,
+      "name": "Mask of the Night",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/930CF14A18969776A109302241F00C9708EE7F32/648169.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 2029,
+      "name": "Mask of the Night",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/930CF14A18969776A109302241F00C9708EE7F32/648169.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 6152,
+      "name": "Nest",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/05C757AD9FECB54A31376EE55E1206EB6EE20F3E/1203504.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 6161,
+      "name": "Nightfury",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/F2114BC02354A8B302CCF49AF5F42EFBD5135563/223945.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 6252,
+      "name": "Nightfury",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/F2114BC02354A8B302CCF49AF5F42EFBD5135563/223945.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 6306,
+      "name": "Nightfury",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/F2114BC02354A8B302CCF49AF5F42EFBD5135563/223945.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 11062,
+      "name": "Nightmare Splitter",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/5DAF8098F0D6E067E3A3A502F8D8C745E491AEB1/2752581.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 6216,
+      "name": "Nightwing",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/0FB13F4CBDF607466E7737A13934A03158794F91/1203495.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 6991,
+      "name": "Onus",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/C07FA6B24FF4CA90CAB9DFC7E4B46238E993D206/1508024.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 11055,
+      "name": "Pale Light's Companions",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/4C142E64616E480464187FF5C27EEA1560EB5319/2752725.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 995,
+      "name": "Phantom's Hood",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/39961BC2BC1A3090BA9BE1FD54473B2F034BB10F/499492.png",
+      "cats": [
+        "Halloween",
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 1025,
+      "name": "Phantom's Hood",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/39961BC2BC1A3090BA9BE1FD54473B2F034BB10F/499492.png",
+      "cats": [
+        "Halloween",
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 1026,
+      "name": "Phantom's Hood",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/39961BC2BC1A3090BA9BE1FD54473B2F034BB10F/499492.png",
+      "cats": [
+        "Halloween",
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 8441,
+      "name": "Revenge",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/001B19373E2E466600B779C7AAAFC06C7580AC59/2056173.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 11858,
+      "name": "Sanctioned Executioner",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/FC615CA41FB11DC9447FF9040977D45CFFD47C98/3171969.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 12613,
+      "name": "Sanguine Focus",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/B7D3AF024D55D5BA0009E5ED2E59527FB0EA3853/3429473.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 12600,
+      "name": "Sanguine Shield",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/9651F70AFA68CBFD440BB6A39CC507A16DD9FD59/3429483.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 12614,
+      "name": "Sanguine Staff",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/F6120917CA63E9069C154408C73D3A9A0C7A767C/3429491.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 3711,
+      "name": "Scythe Staff",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/99304429A83E297B101CD94AAC6564BCC1AC2ADC/499474.png",
+      "cats": [
+        "Shadow of the Mad King weapon skins"
+      ]
+    },
+    {
+      "id": 3825,
+      "name": "Severed Dagger",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/6FAADCFAE377FBF836771C0FFF73AF02057A55FE/499468.png",
+      "cats": [
+        "Shadow of the Mad King weapon skins"
+      ]
+    },
+    {
+      "id": 6273,
+      "name": "Shackles of Madness",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Light",
+      "icon": "https://render.guildwars2.com/file/552933BC0B7925F54903FAB115504AD76A5A68D3/1223683.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 6414,
+      "name": "Shackles of Madness",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Heavy",
+      "icon": "https://render.guildwars2.com/file/552933BC0B7925F54903FAB115504AD76A5A68D3/1223683.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 6487,
+      "name": "Shackles of Madness",
+      "type": "Armor",
+      "rarity": "Basic",
+      "weight_class": "Medium",
+      "icon": "https://render.guildwars2.com/file/552933BC0B7925F54903FAB115504AD76A5A68D3/1223683.png",
+      "cats": [
+        "Halloween armor skins"
+      ]
+    },
+    {
+      "id": 7778,
+      "name": "Sikandar",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/0839DFA41B2CF8DA980EE6640535660D451BAC75/1862054.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 3831,
+      "name": "Silly Scimitar",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/EFC55FBAC84B30F5231C41F94C2C5E1F1A6A74AA/648207.png",
+      "cats": [
+        "Blood and Madness weapon skins"
+      ]
+    },
+    {
+      "id": 8979,
+      "name": "Skeletal Wings Backpack",
+      "type": "Back",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/EAF624CC9C0819400F9402A7B794B997532A57E4/2212741.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 8440,
+      "name": "Soul Conductor",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/D0E4B220546A70E5591B9BFCD9FE7DAA925F1BB7/2056201.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 4692,
+      "name": "The Crossing",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/A8EE08C70274DCE7965BEE05F1F6CFA01DC0552A/499401.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 8435,
+      "name": "The Cure",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/C8681D1E654CE7C92C159E4D71D34F20C3AFCB23/2056188.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 4688,
+      "name": "The Mad Moon",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/29706FC1D52EE30736F929FA91E73D78EF400756/499394.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 8091,
+      "name": "Tireless Harvesting Minion",
+      "type": "Gathering",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/66A0544916B86F1E00F173ABB9555FC6FDCECBE0/882264.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 8108,
+      "name": "Tireless Logging Minion",
+      "type": "Gathering",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/20A17F9B7356EE37FEB1003B66D46DBF755B4D91/882250.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 8454,
+      "name": "Touch of Fog",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/1503779228D9FAC105DB29DD950226B51DAA5369/2056202.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 7787,
+      "name": "Touch of Madness",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/B4740EF370AF2D2C54A25F2C27D506D508D40C4C/1862057.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    },
+    {
+      "id": 6312,
+      "name": "Vassago",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/E432275E3ED7054016E819962E0DF1FB04D2801B/1203481.png",
+      "cats": [
+        "Halloween weapons"
+      ]
+    }
+  ],
+  "minis": [
+    {
+      "id": 787,
+      "name": "Mini Altosius the Flame Raven",
+      "icon": "https://render.guildwars2.com/file/12FAB19B2D07AC2D730402FB016A772E2D165B05/2212736.png",
+      "item_id": 92110,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Mini Assassin Trick-or-Treater",
+      "icon": "https://render.guildwars2.com/file/03A3AE19E10D31BE487D62F9CF680B3C4E222891/648153.png",
+      "item_id": 48754,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Mini Aviator Trick-or-Treater",
+      "icon": "https://render.guildwars2.com/file/457952177815AE2F35A2136F95089C74C2E5FCC1/648154.png",
+      "item_id": 48755,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 876,
+      "name": "Mini Black Labrador",
+      "icon": "https://render.guildwars2.com/file/BAA828F90B1FD9E93D4DFD277E0BED0692634C32/2752880.png",
+      "item_id": 99066,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Mini Bloody Prince Thorn",
+      "icon": "https://render.guildwars2.com/file/0C045C44140E0A6A980A08EDD801C39064034E39/648145.png",
+      "item_id": 48740,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 600,
+      "name": "Mini Bradford the Skeleton Ghost",
+      "icon": "https://render.guildwars2.com/file/EDB0D03B702932CD632B9167C004E0449DA29045/1862115.png",
+      "item_id": 85499,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 982,
+      "name": "Mini Candy Core Golem",
+      "icon": "https://render.guildwars2.com/file/3B0691E9BBA8955EB3D9B72F3846572C052A6657/3695519.png",
+      "item_id": 105354,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Mini Candy Corn Ghoulemental",
+      "icon": "https://render.guildwars2.com/file/F802E135B5CDAA09927FD00EFC59CD3C59BB339C/888382.png",
+      "item_id": 67384,
+      "cats": [
+        "Blood and Madness",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Mini Candy Corn Skritt",
+      "icon": "https://render.guildwars2.com/file/0C75C0EB3AADFC0174DD07A1D4FCC1FE9865F3DD/882244.png",
+      "item_id": 67023,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Mini Candy-Corn Elemental",
+      "icon": "https://render.guildwars2.com/file/0FEAFFEFE90F79B6964262D63464592079B0E96F/648147.png",
+      "item_id": 48742,
+      "cats": [
+        "Blood and Madness",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Mini Chainsaw the Skeleton",
+      "icon": "https://render.guildwars2.com/file/B1B72521A6EDF44B03A2DEE8A762C2BA083C4D5F/499450.png",
+      "item_id": 36323,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 417,
+      "name": "Mini Charles the Hellfire Skeleton",
+      "icon": "https://render.guildwars2.com/file/0A3FF84B151E1C7802012F4635FF6936023A46CD/1507925.png",
+      "item_id": 79684,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 604,
+      "name": "Mini Choya Pumpkin Gang",
+      "icon": "https://render.guildwars2.com/file/FE0F5362485BE257D71A43CCB505BC480E1A4DEC/1861571.png",
+      "item_id": 85481,
+      "cats": [
+        "Gem Store Halloween items",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 910,
+      "name": "Mini Derlitz the Candy Raven",
+      "icon": "https://render.guildwars2.com/file/40D39177AD493BC1D75A9DAFDC4A62F64D0B01A3/3172356.png",
+      "item_id": 101088,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 356,
+      "name": "Mini Devil Dog",
+      "icon": "https://render.guildwars2.com/file/B3F7CD9B64CF750C742E33D17B9071B5940D79BF/1193550.png",
+      "item_id": 76569,
+      "cats": [
+        "Halloween",
+        "Shadow of the Mad King",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 613,
+      "name": "Mini Elonian Familiar",
+      "icon": "https://render.guildwars2.com/file/4C0BD629B4020EB5AFA13EF1445C5DDD4FD3FE3E/1861701.png",
+      "item_id": 85506,
+      "cats": [
+        "Gem Store Halloween items",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 607,
+      "name": "Mini Failed Attempt",
+      "icon": "https://render.guildwars2.com/file/DAEFABF8B922BE23BEA10AA509D0F2BDF635D306/1862114.png",
+      "item_id": 85511,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 419,
+      "name": "Mini Feline Familiar",
+      "icon": "https://render.guildwars2.com/file/C258CD5414990CD795E5E397485E2BE0F9DB0D48/1507863.png",
+      "item_id": 79651,
+      "cats": [
+        "Gem Store Halloween items",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 874,
+      "name": "Mini Fluffy Black Cat",
+      "icon": "https://render.guildwars2.com/file/173C23B5DD7E09AE92FD92C220E2F32EAFE8092D/2752879.png",
+      "item_id": 99072,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Mini Ghost Carlotta",
+      "icon": "https://render.guildwars2.com/file/CD96DD28C950AE6F67496A152AB5C0F9BA5F6AF7/648146.png",
+      "item_id": 48741,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 342,
+      "name": "Mini Ghoul Legs",
+      "icon": "https://render.guildwars2.com/file/9C5FF553B69418EBA7ADACDEFA2D246D1E92A105/1191899.png",
+      "item_id": 73815,
+      "cats": [
+        "Gem Store Halloween items",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Mini Glowing Bat",
+      "icon": "https://render.guildwars2.com/file/21D1C424BA0DD345D00252D7DC489145B31BA1A0/882245.png",
+      "item_id": 67024,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 614,
+      "name": "Mini Gustav the Caramel Corn Elemental",
+      "icon": "https://render.guildwars2.com/file/202148A5EF72DC0EC29517D6764315573B922C57/1862112.png",
+      "item_id": 85450,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Mini Gwynefyrdd",
+      "icon": "https://render.guildwars2.com/file/93180A1D3C93750C5BF20DA16F6E030891E9DAB9/888370.png",
+      "item_id": 67364,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 603,
+      "name": "Mini Halloween Gourdon",
+      "icon": "https://render.guildwars2.com/file/C9136EAB981D5134C6DD47DE51B4A82C6AC6C698/1861570.png",
+      "item_id": 85399,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 730,
+      "name": "Mini Haunted Candle",
+      "icon": "https://render.guildwars2.com/file/71C2FF4DF2ADABEF04B4E4635FA592A7B847175B/2056207.png",
+      "item_id": 89023,
+      "cats": [
+        "Halloween",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Mini Husk-o-Lantern",
+      "icon": "https://render.guildwars2.com/file/B73960AEE42A56B9E09E78545A043707A4EDA604/1191959.png",
+      "item_id": 72115,
+      "cats": [
+        "Halloween",
+        "Shadow of the Mad King",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 1038,
+      "name": "Mini Longhaired Black Cat",
+      "icon": "https://render.guildwars2.com/file/1106B86D5716F4E33A43020E337C0F2710233C20/3827325.png",
+      "item_id": 110279,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 608,
+      "name": "Mini Lord Humphrey Faren",
+      "icon": "https://render.guildwars2.com/file/D07E0C710AAA3AB0330113966EFF47B9E3BEA955/1862113.png",
+      "item_id": 85469,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 299,
+      "name": "Mini Mad King Head",
+      "icon": "https://render.guildwars2.com/file/9EAD66957DDC510D0B05BB28D3AEECB702C30C36/882246.png",
+      "item_id": 67026,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 783,
+      "name": "Mini Mad Memoires",
+      "icon": "https://render.guildwars2.com/file/0A0C32D090BEE7B60CE15B5A16323F1897F6C4F1/2212738.png",
+      "item_id": 92150,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 784,
+      "name": "Mini Mad Memories: Complete Edition",
+      "icon": "https://render.guildwars2.com/file/70C873689C47E2B84A4604C94B06730F4F4F3D09/2212737.png",
+      "item_id": 92111,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 786,
+      "name": "Mini Mad Memories: Complete Ignition",
+      "icon": "https://render.guildwars2.com/file/902DD7FBA7FEFA3E486CE51F7DC4C2D20B6ACAC2/2212739.png",
+      "item_id": 92146,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 833,
+      "name": "Mini Madam Cookie",
+      "icon": "https://render.guildwars2.com/file/3D19CC4EE351CF47367AA4142EDE96249D6B3753/2498716.png",
+      "item_id": 95384,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 418,
+      "name": "Mini Oxidecimus the Shadow Raven",
+      "icon": "https://render.guildwars2.com/file/E12D0A03FFB09891A5D66F3475A01844E5597D24/1507927.png",
+      "item_id": 79654,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 936,
+      "name": "Mini Pummel Spider",
+      "icon": "https://render.guildwars2.com/file/E4DC9AC9A53A4BD4A7BAEFA871799E94D196FFE9/3429043.png",
+      "item_id": 103647,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 733,
+      "name": "Mini Pumpkin Jack",
+      "icon": "https://render.guildwars2.com/file/574C7553C35EEB1A76ECFE3959D2F13AEE28C1AB/2056206.png",
+      "item_id": 88998,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 729,
+      "name": "Mini Pumpkin Jack O'",
+      "icon": "https://render.guildwars2.com/file/4A55A7B900C395425A9F507EFEFF3C5D3A94D711/2056205.png",
+      "item_id": 89064,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 732,
+      "name": "Mini Pumpkin Jack O' Lantern",
+      "icon": "https://render.guildwars2.com/file/0514B9C75E096E77E06C6C5B0ED3D25657F1011E/2056204.png",
+      "item_id": 89045,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Mini Quaggan Ghost Trick-or-Treater",
+      "icon": "https://render.guildwars2.com/file/60F3076540ACEF04A9C850FB707B0FD5583CA74E/648152.png",
+      "item_id": 48753,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 834,
+      "name": "Mini Spectral Palawa Joko",
+      "icon": "https://render.guildwars2.com/file/3F77135092F16E03A83072750E07B3F7B8A476EB/2498717.png",
+      "item_id": 95316,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Mini Spooky Ghost",
+      "icon": "https://render.guildwars2.com/file/CA35F7D73917D80B582AEE63DFC6EA2336924CE6/499439.png",
+      "item_id": 36317,
+      "cats": [
+        "Shadow of the Mad King",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 353,
+      "name": "Mini Spooky Moa",
+      "icon": "https://render.guildwars2.com/file/BF1EF0F59E75EB7F33A9132C0D244B0E9B2ABDC0/1193808.png",
+      "item_id": 73858,
+      "cats": [
+        "Shadow of the Mad King",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Mini Spooky Skeleton",
+      "icon": "https://render.guildwars2.com/file/DBD5E9A718DD143DC8F89304B87DB4A84AB2051B/499443.png",
+      "item_id": 36321,
+      "cats": [
+        "Halloween",
+        "Shadow of the Mad King",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Mini Spooky Spider",
+      "icon": "https://render.guildwars2.com/file/CC2FA04E06D91DE05E02099EB6A9D164D6C75DF4/499441.png",
+      "item_id": 36319,
+      "cats": [
+        "Halloween",
+        "Shadow of the Mad King",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 731,
+      "name": "Mini Svelicht the Fog Raven",
+      "icon": "https://render.guildwars2.com/file/D057E1075A7A17F429DAFFEA035EB2096430E81D/2056203.png",
+      "item_id": 89083,
+      "cats": [
+        "Halloween",
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 416,
+      "name": "Mini Thailog the Gargoyle",
+      "icon": "https://render.guildwars2.com/file/5CF004F3F8D3F762A953679861C507DEA823BC59/1507926.png",
+      "item_id": 79672,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Mini Zuzu, Cat of Darkness",
+      "icon": "https://render.guildwars2.com/file/266B5D67A4E3D754297F9C64B562C5426FFCDCD9/888371.png",
+      "item_id": 67365,
+      "cats": [
+        "Halloween miniatures"
+      ]
+    }
+  ],
+  "novelties": [
+    {
+      "id": 144,
+      "name": "Bloody Prince's Staff Toy",
+      "slot": "Miscellaneous",
+      "icon": "https://render.guildwars2.com/file/DCAA16650655B79ADDAD02B44B590EA9397AD3DE/648159.png",
+      "cats": [
+        "Gem Store Halloween items",
+        "Blood and Madness"
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Enchanted Broom",
+      "slot": "Miscellaneous",
+      "icon": "https://render.guildwars2.com/file/306AC2AA3648170B137FFF57030C5AD550F2615F/499494.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Endless Gargoyle Tonic",
+      "slot": "Tonic",
+      "icon": "https://render.guildwars2.com/file/32745BB40F0A3D37C0A14403A6B6C463107A0372/1507921.png",
+      "cats": [
+        "Halloween"
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Endless Halloween Tonic",
+      "slot": "Tonic",
+      "icon": "https://render.guildwars2.com/file/3313DA0547A14A1AC5BE4076FEFD275519E8DF0E/499418.png",
+      "cats": [
+        "Halloween"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Endless Hellfire Skeleton Tonic",
+      "slot": "Tonic",
+      "icon": "https://render.guildwars2.com/file/5C30077E079C6D562C007F9DEE015277C97A4FBD/1507923.png",
+      "cats": [
+        "Halloween"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Endless Shadow Raven Tonic",
+      "slot": "Tonic",
+      "icon": "https://render.guildwars2.com/file/E11CFF002B2C7E440E5EA8543E0F35C42CF54716/1507922.png",
+      "cats": [
+        "Halloween"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Executioner Axe Toy",
+      "slot": "Miscellaneous",
+      "icon": "https://render.guildwars2.com/file/42A058A4DEBDDC980D9666E07B1E779839EFE32E/648165.png",
+      "cats": [
+        "Gem Store Halloween items",
+        "Blood and Madness"
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Festive Harvest Chair",
+      "slot": "Chair",
+      "icon": "https://render.guildwars2.com/file/AFD0F3D1F36D40D95919B8547A9B3557992F070A/2056226.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Haunted Gramophone",
+      "slot": "Music",
+      "icon": "https://render.guildwars2.com/file/0706600765442A452029B5A01896502B97493BEA/888386.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Hovering Mad Mirror",
+      "slot": "Miscellaneous",
+      "icon": "https://render.guildwars2.com/file/0AD19423CF30E2707DF0E9F93F9504AC55AF1DA2/1507918.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Riding Broom",
+      "slot": "Miscellaneous",
+      "icon": "https://render.guildwars2.com/file/0B041363F2E8D23B9CF828C51A77B81F303626BA/534228.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Scepter of Thorn",
+      "slot": "Miscellaneous",
+      "icon": "https://render.guildwars2.com/file/30A2EE0E7D03796A4628FC00D00E43B6A20D223A/499478.png",
+      "cats": [
+        "Gem Store Halloween items"
+      ]
+    }
+  ]
+}

@@ -21,6 +21,7 @@
     "wiki-category": "source-wiki-category",
     "date-inferred": "source-date-inferred",
     unknown: "source-unknown",
+    event: "source-event",
   };
 
   const state = {
@@ -30,8 +31,17 @@
     source: "",
     unlock: "all",
     visible: PAGE_SIZE,
-    unlockedIds: null, // null = no wardrobe synced; else Set<number>
+    unlockedIds: null, // null = no wardrobe synced; else Set<number> of skin ids
+    unlockedMinis: null, // Set<number> of mini ids, or null if unavailable
+    unlockedNovelties: null, // Set<number> of novelty ids, or null if unavailable
   };
+
+  // true/false once the relevant unlock list is known, null if it isn't.
+  function isUnlocked(item) {
+    const set =
+      item.kind === "mini" ? state.unlockedMinis : item.kind === "novelty" ? state.unlockedNovelties : state.unlockedIds;
+    return set ? set.has(item.id) : null;
+  }
 
   const els = {
     tabs: document.getElementById("tabs"),
@@ -74,6 +84,7 @@
   }
 
   function fmtRange(w) {
+    if (w.note) return w.note;
     if (!w.from && !w.to) return "No date range (skins the wiki gave us no way to date)";
     const from = w.from ?? "–";
     const to = w.to ?? "present";
@@ -102,10 +113,12 @@
       const q = state.search.toLowerCase();
       if (!skin.name.toLowerCase().includes(q)) return false;
     }
-    if (state.unlock !== "all" && state.unlockedIds) {
-      const unlocked = state.unlockedIds.has(skin.id);
-      if (state.unlock === "unlocked" && !unlocked) return false;
-      if (state.unlock === "locked" && unlocked) return false;
+    if (state.unlock !== "all") {
+      const unlocked = isUnlocked(skin);
+      if (unlocked !== null) {
+        if (state.unlock === "unlocked" && !unlocked) return false;
+        if (state.unlock === "locked" && unlocked) return false;
+      }
     }
     return true;
   }
@@ -164,12 +177,18 @@
     const sourceBadge = document.createElement("span");
     sourceBadge.className = "source-badge " + (SOURCE_CLASS[skin.source] || "source-unknown");
     const seen = fmtDate(skin.wikiFirstSeen);
-    sourceBadge.textContent = seen ? `wiki: ${seen}` : skin.source === "wiki-category" ? "expansion content" : "undated";
+    sourceBadge.textContent = seen
+      ? `wiki: ${seen}`
+      : skin.source === "wiki-category"
+        ? "expansion content"
+        : skin.source === "event"
+          ? "halloween"
+          : "undated";
     sourceBadge.title = skin.sourceLabel;
     meta.appendChild(sourceBadge);
 
-    if (state.unlockedIds) {
-      const unlocked = state.unlockedIds.has(skin.id);
+    const unlocked = isUnlocked(skin);
+    if (unlocked !== null) {
       div.classList.toggle("is-locked", !unlocked);
       const unlockBadge = document.createElement("span");
       unlockBadge.className = "unlock-badge " + (unlocked ? "unlocked" : "locked");
@@ -191,6 +210,11 @@
     const hasWardrobe = !!state.unlockedIds;
     els.unlockFilter.style.display = hasWardrobe ? "" : "none";
     els.unlockHintBtn.style.display = hasWardrobe ? "none" : "";
+    els.sourceFilter.style.display = win.event ? "none" : "";
+    if (win.event && state.source) {
+      state.source = "";
+      els.sourceFilter.value = "";
+    }
 
     const filtered = win.skins.filter(matchesFilters);
     els.resultCount.textContent = `${filtered.length.toLocaleString()} of ${win.count.toLocaleString()} shown`;
@@ -310,22 +334,33 @@
   async function syncWardrobe(key, { silent } = {}) {
     if (!silent) setStatus("Fetching your unlocked wardrobe…", "pending");
     try {
-      const [skinIds, account] = await Promise.all([
-        fetchJson(`${GW2_API}/account/skins?access_token=${encodeURIComponent(key)}`),
-        fetchJson(`${GW2_API}/account?access_token=${encodeURIComponent(key)}`).catch(() => null),
+      const tokenQs = `access_token=${encodeURIComponent(key)}`;
+      const [skinIds, account, miniIds, noveltyIds] = await Promise.all([
+        fetchJson(`${GW2_API}/account/skins?${tokenQs}`),
+        fetchJson(`${GW2_API}/account?${tokenQs}`).catch(() => null),
+        fetchJson(`${GW2_API}/account/minis?${tokenQs}`).catch(() => null),
+        fetchJson(`${GW2_API}/account/novelties?${tokenQs}`).catch(() => null),
       ]);
       state.unlockedIds = new Set(skinIds);
+      state.unlockedMinis = miniIds ? new Set(miniIds) : null;
+      state.unlockedNovelties = noveltyIds ? new Set(noveltyIds) : null;
       state.visible = PAGE_SIZE;
 
       const who = account && account.name ? ` as ${account.name}` : "";
-      setStatus(`✓ Synced${who} — ${skinIds.length.toLocaleString()} skins unlocked.`, "success");
+      const counts =
+        `${skinIds.length.toLocaleString()} skins` +
+        (miniIds ? `, ${miniIds.length.toLocaleString()} minis` : "") +
+        (noveltyIds ? `, ${noveltyIds.length.toLocaleString()} novelties` : "");
+      setStatus(`✓ Synced${who} — ${counts} unlocked.`, "success");
       els.wardrobeSyncLine.style.display = "";
-      els.wardrobeSyncLine.textContent = `🔑 Wardrobe synced${who}: ${skinIds.length.toLocaleString()} skins unlocked.`;
+      els.wardrobeSyncLine.textContent = `🔑 Wardrobe synced${who}: ${counts} unlocked.`;
       updateKeyButtons(true);
       render();
       return true;
     } catch (err) {
       state.unlockedIds = null;
+      state.unlockedMinis = null;
+      state.unlockedNovelties = null;
       setStatus(`Couldn't sync: ${err.message || err}`, "error");
       els.wardrobeSyncLine.style.display = "none";
       render();
@@ -374,6 +409,8 @@
     setStoredKey("");
     els.apiKeyInput.value = "";
     state.unlockedIds = null;
+    state.unlockedMinis = null;
+    state.unlockedNovelties = null;
     state.unlock = "all";
     els.unlockFilter.value = "all";
     updateKeyButtons(false);
@@ -391,7 +428,7 @@
   }
 
   els.totalSkins.textContent = DATA.totalSkins.toLocaleString();
-  els.totalWindows.textContent = DATA.windows.length;
+  els.totalWindows.textContent = DATA.windows.filter((w) => !w.event).length;
 
   applyStoredTheme();
   render();

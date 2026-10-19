@@ -40,6 +40,19 @@ Unlocked only / Locked only" filter, with a lock/unlock badge on every card.
   to delete it from `localStorage` immediately.
 - Matching is by skin **id** (not name), so it's exact - no ambiguity from
   the weight-class ("Angler Vest") issue described below.
+- The same key also syncs `/v2/account/minis` and `/v2/account/novelties`
+  (same **unlocks** permission), used by the Halloween tab below.
+
+### Halloween event tab
+
+A separate **Halloween event** tab lists skins, minis and novelties tied to
+Shadow of the Mad King / Blood and Madness, with the same unlocked/locked
+filter. `src/fetchHalloween.mjs` crawls the wiki's Halloween categories
+(`Halloween`, `Gem Store Halloween items`, `Lunatic armor`, ...) to depth 3
+and matches article titles against API skin, mini and novelty names
+(novelties also by their unlock item's name). Currently 124 skins, 48 minis
+and 12 novelties. It's name-matched, so treat it as best-effort: anything
+the wiki doesn't categorize under Halloween won't show up.
 
 ## Why this needs two data sources
 

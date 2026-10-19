@@ -307,6 +307,7 @@ header.hero p {
 .source-wiki-category { background: var(--badge-wiki-category); }
 .source-date-inferred { background: var(--badge-date-inferred); color: #2a2200; }
 .source-unknown { background: var(--badge-unknown); color: #1c1b18; }
+.source-event { background: #e8890c; color: #2a1400; }
 
 .card.is-locked { opacity: 0.5; }
 .unlock-badge {

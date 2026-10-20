@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:55:55.376Z",
+  "generatedAt": "2026-10-20T21:33:53.951Z",
   "festivals": [
     {
       "key": "lunar-new-year",
@@ -3538,8 +3538,8 @@
       ]
     },
     {
-      "key": "super-adventure-festival",
-      "label": "Super Adventure Festival",
+      "key": "super-adventure-box",
+      "label": "Super Adventure Box",
       "emoji": "🕹️",
       "page": "Super Adventure Box",
       "skins": [
@@ -3552,7 +3552,17 @@
           "icon": "https://render.guildwars2.com/file/34A40504D30935A1706417AC030AA246C80920C6/1664031.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7198,
@@ -3563,7 +3573,17 @@
           "icon": "https://render.guildwars2.com/file/9F9CB4E80228FE640BE030B705202E3334E65226/1664037.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7184,
@@ -3574,7 +3594,17 @@
           "icon": "https://render.guildwars2.com/file/0105267F0AD8EFAB6C40215CE13215EA2999DAA9/1664039.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "8 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7188,
@@ -3585,7 +3615,17 @@
           "icon": "https://render.guildwars2.com/file/07594EC42AFB5BD6ADEA2E48E4BB0C11024FBC79/1664043.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7196,
@@ -3596,7 +3636,17 @@
           "icon": "https://render.guildwars2.com/file/04BB0BFCFD289238D70E09E2B77A36937CFEF22D/1664045.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7170,
@@ -3607,7 +3657,17 @@
           "icon": "https://render.guildwars2.com/file/3208B5682631C7A1FE27EE55C1036A69C9B0BC15/1664035.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7182,
@@ -3618,7 +3678,17 @@
           "icon": "https://render.guildwars2.com/file/6818018023051C46387664ECECDFB7B42FBCEBC3/1664047.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7176,
@@ -3629,7 +3699,17 @@
           "icon": "https://render.guildwars2.com/file/04E7760B640948609F63D247C72890A849F8EF2B/1664049.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7173,
@@ -3640,7 +3720,17 @@
           "icon": "https://render.guildwars2.com/file/BBDE0E10D8C99924096B7F04D63AE50B0BF411E6/1664051.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7172,
@@ -3651,7 +3741,17 @@
           "icon": "https://render.guildwars2.com/file/266A55D1BDB1F90359F23D6E53567F4B425F2907/1664055.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7169,
@@ -3662,7 +3762,17 @@
           "icon": "https://render.guildwars2.com/file/1E94A4021A3A37BA7FBBA0DD594217D57BEBC805/1664057.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "8 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7185,
@@ -3673,7 +3783,17 @@
           "icon": "https://render.guildwars2.com/file/F9A72B0DE64B6BE63D34E91D562FAB6896282061/1664059.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7194,
@@ -3684,7 +3804,17 @@
           "icon": "https://render.guildwars2.com/file/C64390F2F75079A150EC485C1D675B551CCFDABE/1664061.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7187,
@@ -3695,7 +3825,17 @@
           "icon": "https://render.guildwars2.com/file/43A0F40B25F6039CC266F70D50110F1D4831044D/1664063.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7167,
@@ -3706,7 +3846,17 @@
           "icon": "https://render.guildwars2.com/file/A7D6B3479F5F1D90E1D4584E05CA223580C6FE6C/1664065.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "8 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 7166,
@@ -3717,9 +3867,21 @@
           "icon": "https://render.guildwars2.com/file/4250AAC3BAA3513D15D70E645144270D3C26A50A/1664067.png",
           "cats": [
             "Crimson Assassin weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "8 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9967,
           "name": "Crimson Vanquisher Axe",
           "type": "Weapon",
@@ -3728,9 +3890,21 @@
           "icon": "https://render.guildwars2.com/file/F729A2514E953F927808C3A639BB6DB869BECBE7/2423962.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9972,
           "name": "Crimson Vanquisher Dagger",
           "type": "Weapon",
@@ -3739,9 +3913,21 @@
           "icon": "https://render.guildwars2.com/file/A6C54B3FA22E5419571D747AE15B7A4A27BF1379/2423970.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9973,
           "name": "Crimson Vanquisher Focus",
           "type": "Weapon",
@@ -3750,9 +3936,21 @@
           "icon": "https://render.guildwars2.com/file/A9D3619435B1DACF4CDC0972EE64DF2EAB500508/2423972.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9982,
           "name": "Crimson Vanquisher Greatsword",
           "type": "Weapon",
@@ -3761,9 +3959,21 @@
           "icon": "https://render.guildwars2.com/file/CFFD3A160A3301B020096F9A974CAB78D649925B/2423975.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9976,
           "name": "Crimson Vanquisher Hammer",
           "type": "Weapon",
@@ -3772,9 +3982,21 @@
           "icon": "https://render.guildwars2.com/file/E64C4444D03D797C2DC83C4AAE64ABEB031B8058/2423978.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9970,
           "name": "Crimson Vanquisher Longbow",
           "type": "Weapon",
@@ -3783,9 +4005,21 @@
           "icon": "https://render.guildwars2.com/file/E693684A14663063C3F4FD4643DB42383793A002/2423968.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9983,
           "name": "Crimson Vanquisher Mace",
           "type": "Weapon",
@@ -3794,9 +4028,21 @@
           "icon": "https://render.guildwars2.com/file/7E6604E5E9F5505CEE37EBB11FC1AA1A693608D4/2423980.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9988,
           "name": "Crimson Vanquisher Pistol",
           "type": "Weapon",
@@ -3805,9 +4051,21 @@
           "icon": "https://render.guildwars2.com/file/032F1E6FC0C8E7CB2A98950E42614119C934640D/2423982.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9968,
           "name": "Crimson Vanquisher Rifle",
           "type": "Weapon",
@@ -3816,9 +4074,21 @@
           "icon": "https://render.guildwars2.com/file/40BC52F35ED4D474E1EE619C747B3AAAC79A0E67/2423984.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9987,
           "name": "Crimson Vanquisher Scepter",
           "type": "Weapon",
@@ -3827,9 +4097,21 @@
           "icon": "https://render.guildwars2.com/file/F83B092E943FE0B3624A14189FFBEDB420DAE091/2423986.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9986,
           "name": "Crimson Vanquisher Shield",
           "type": "Weapon",
@@ -3838,9 +4120,21 @@
           "icon": "https://render.guildwars2.com/file/BE12FB7D565D6E7002F53D0A7BE4EB7A6D3D035C/2423990.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9984,
           "name": "Crimson Vanquisher Short Bow",
           "type": "Weapon",
@@ -3849,9 +4143,21 @@
           "icon": "https://render.guildwars2.com/file/F0229AD6F10672A591769EF04D794B37C311DC92/2423992.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9978,
           "name": "Crimson Vanquisher Staff",
           "type": "Weapon",
@@ -3860,9 +4166,21 @@
           "icon": "https://render.guildwars2.com/file/FD63DD67A0C0B4E0ABE02AE9AC5D4491501B4512/2423994.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9980,
           "name": "Crimson Vanquisher Sword",
           "type": "Weapon",
@@ -3871,9 +4189,21 @@
           "icon": "https://render.guildwars2.com/file/F0D314DA22CBC6904E6A46BE74529E11C405259D/2423996.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9979,
           "name": "Crimson Vanquisher Torch",
           "type": "Weapon",
@@ -3882,9 +4212,21 @@
           "icon": "https://render.guildwars2.com/file/9740DA714E070C4F43EC00254A91C57FCEAEFBD9/2423999.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9977,
           "name": "Crimson Vanquisher Warhorn",
           "type": "Weapon",
@@ -3893,9 +4235,21 @@
           "icon": "https://render.guildwars2.com/file/03EB2FE1C84C353DF83D784C013FCC100E4126A0/2424001.png",
           "cats": [
             "Crimson Vanquisher weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13836,
           "name": "Forged-Light Axe",
           "type": "Weapon",
@@ -3904,9 +4258,15 @@
           "icon": "https://render.guildwars2.com/file/921C682E2A40EA27901A07F5C9B8445770AFC243/3762375.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13813,
           "name": "Forged-Light Dagger",
           "type": "Weapon",
@@ -3915,9 +4275,15 @@
           "icon": "https://render.guildwars2.com/file/53D211031746500F400CE3DA7AF1FC910512B161/3762386.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13839,
           "name": "Forged-Light Focus",
           "type": "Weapon",
@@ -3926,9 +4292,15 @@
           "icon": "https://render.guildwars2.com/file/C5C6FF0EB7D97BBE7364086B239F1F5E68CCC9BE/3762391.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13830,
           "name": "Forged-Light Greatsword",
           "type": "Weapon",
@@ -3937,9 +4309,15 @@
           "icon": "https://render.guildwars2.com/file/9F6024C76961EDE9A0A46D58DD6B0EB1DA7F080D/3762396.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13841,
           "name": "Forged-Light Hammer",
           "type": "Weapon",
@@ -3948,9 +4326,15 @@
           "icon": "https://render.guildwars2.com/file/40257EF11E09A2485FF5446B493B143A7A91B3CC/3762400.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13812,
           "name": "Forged-Light Longbow",
           "type": "Weapon",
@@ -3959,9 +4343,15 @@
           "icon": "https://render.guildwars2.com/file/D293500ED83619BE54A17E3729309FCED9391620/3762379.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13844,
           "name": "Forged-Light Mace",
           "type": "Weapon",
@@ -3970,9 +4360,15 @@
           "icon": "https://render.guildwars2.com/file/27641D24D03F185349670AE42E50BDA659E00160/3762405.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13819,
           "name": "Forged-Light Pistol",
           "type": "Weapon",
@@ -3981,9 +4377,15 @@
           "icon": "https://render.guildwars2.com/file/FB766CA89AF1601338B9AD76541D0C5035563AFB/3762412.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13832,
           "name": "Forged-Light Rifle",
           "type": "Weapon",
@@ -3992,9 +4394,15 @@
           "icon": "https://render.guildwars2.com/file/41DBA4FF6302F0DF7CCA9BE8C15906D956D47FE2/3762416.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13834,
           "name": "Forged-Light Scepter",
           "type": "Weapon",
@@ -4003,9 +4411,15 @@
           "icon": "https://render.guildwars2.com/file/46261DF92C11B990F9D2635EB209FFA04E00DC80/3762420.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13843,
           "name": "Forged-Light Shield",
           "type": "Weapon",
@@ -4014,9 +4428,15 @@
           "icon": "https://render.guildwars2.com/file/C8584C6DE9FB6C9412A109B49DA1FD65D81E6227/3762425.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13827,
           "name": "Forged-Light Short Bow",
           "type": "Weapon",
@@ -4025,9 +4445,15 @@
           "icon": "https://render.guildwars2.com/file/0F0A0E781120C636FD424D037DEDE8E94164E94D/3771012.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13826,
           "name": "Forged-Light Spear",
           "type": "Weapon",
@@ -4036,9 +4462,15 @@
           "icon": "https://render.guildwars2.com/file/CBA6C13DEF2939B09D526EC0727724041159519C/3762433.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13846,
           "name": "Forged-Light Staff",
           "type": "Weapon",
@@ -4047,9 +4479,15 @@
           "icon": "https://render.guildwars2.com/file/A13AC8093A0B9F05F620E24AD6B01CEB0B4D24C8/3762437.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13825,
           "name": "Forged-Light Sword",
           "type": "Weapon",
@@ -4058,9 +4496,15 @@
           "icon": "https://render.guildwars2.com/file/34FA4504A3A4103368990BCC2A731DB42A9FAE0C/3762441.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13811,
           "name": "Forged-Light Torch",
           "type": "Weapon",
@@ -4069,9 +4513,15 @@
           "icon": "https://render.guildwars2.com/file/7A2673439B7641FF15E603F2F57A91FFF7D7A5FA/3762446.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13829,
           "name": "Forged-Light Warhorn",
           "type": "Weapon",
@@ -4080,9 +4530,15 @@
           "icon": "https://render.guildwars2.com/file/BA272D3C12A0A4CFA7CCA26754EFD8A8D7943407/3762451.png",
           "cats": [
             "Forged-Light weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11377,
           "name": "Generation One Axe",
           "type": "Weapon",
@@ -4091,9 +4547,22 @@
           "icon": "https://render.guildwars2.com/file/B0C954B1767B533BE7951859225528D9180D73C9/3024154.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11396,
           "name": "Generation One Dagger",
           "type": "Weapon",
@@ -4102,9 +4571,22 @@
           "icon": "https://render.guildwars2.com/file/E727A826382E13D27C0AFE2BF4CB96F2190679A3/3024178.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11394,
           "name": "Generation One Focus",
           "type": "Weapon",
@@ -4113,9 +4595,22 @@
           "icon": "https://render.guildwars2.com/file/CF75C94238E81D47F5120740F77C5D0980D372E4/3024195.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11383,
           "name": "Generation One Greatsword",
           "type": "Weapon",
@@ -4124,9 +4619,22 @@
           "icon": "https://render.guildwars2.com/file/6B0ABD14E5B04A08C725DFCA0476AFE10EEE6C5A/3024207.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11386,
           "name": "Generation One Hammer",
           "type": "Weapon",
@@ -4135,9 +4643,22 @@
           "icon": "https://render.guildwars2.com/file/1AA6A054C59C11BA0EBC25D13112353F5C1FD905/3024220.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11366,
           "name": "Generation One Longbow",
           "type": "Weapon",
@@ -4146,9 +4667,22 @@
           "icon": "https://render.guildwars2.com/file/C36B2BF4C136120679E8F7214B0E5010C838E419/3024166.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11378,
           "name": "Generation One Mace",
           "type": "Weapon",
@@ -4157,9 +4691,22 @@
           "icon": "https://render.guildwars2.com/file/06951CC133AF9C1DF5F86DED9E935E55386BFCD4/3024232.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11364,
           "name": "Generation One Pistol",
           "type": "Weapon",
@@ -4168,9 +4715,22 @@
           "icon": "https://render.guildwars2.com/file/09043129EC2557C9D53DDEF0309ED2CA1DACCC1B/3024244.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11387,
           "name": "Generation One Rifle",
           "type": "Weapon",
@@ -4179,9 +4739,22 @@
           "icon": "https://render.guildwars2.com/file/620313FDA635C1B19DA954472310937CDACE0E51/3024256.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11388,
           "name": "Generation One Scepter",
           "type": "Weapon",
@@ -4190,9 +4763,22 @@
           "icon": "https://render.guildwars2.com/file/C89ED073FC1C0D9660AA0A2E679601C7D1096A6A/3024269.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11368,
           "name": "Generation One Shield",
           "type": "Weapon",
@@ -4201,9 +4787,22 @@
           "icon": "https://render.guildwars2.com/file/4A95C3DD670376D97BE0744B9C0102A9F23A17ED/3024281.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11375,
           "name": "Generation One Short Bow",
           "type": "Weapon",
@@ -4212,9 +4811,22 @@
           "icon": "https://render.guildwars2.com/file/93C76B4D1DC72A343CE516F808C071593A05030E/3024293.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11385,
           "name": "Generation One Staff",
           "type": "Weapon",
@@ -4223,9 +4835,22 @@
           "icon": "https://render.guildwars2.com/file/E60C51371196323433D52959C8B5A761CF203EC4/3024307.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11372,
           "name": "Generation One Sword",
           "type": "Weapon",
@@ -4234,9 +4859,22 @@
           "icon": "https://render.guildwars2.com/file/4696720533B9680F50C119ED38E8E197E3D6AF3B/3024319.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11401,
           "name": "Generation One Torch",
           "type": "Weapon",
@@ -4245,9 +4883,22 @@
           "icon": "https://render.guildwars2.com/file/3F66741128D6694D1947171D6253BC0C709A3C02/3024331.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11402,
           "name": "Generation One Warhorn",
           "type": "Weapon",
@@ -4256,9 +4907,22 @@
           "icon": "https://render.guildwars2.com/file/025A3DA42B60682215921CB10841D2BE2A149B2F/3024343.png",
           "cats": [
             "Generation One weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9340,
           "name": "Glitched Adventure Axe",
           "type": "Weapon",
@@ -4267,9 +4931,21 @@
           "icon": "https://render.guildwars2.com/file/6EFC9A56CD31656D027DD856BA6CF914319F942A/2281960.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9342,
           "name": "Glitched Adventure Dagger",
           "type": "Weapon",
@@ -4278,9 +4954,21 @@
           "icon": "https://render.guildwars2.com/file/7B7F789FFF530F360867A27462200F0A73215507/2281962.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9338,
           "name": "Glitched Adventure Focus",
           "type": "Weapon",
@@ -4289,9 +4977,21 @@
           "icon": "https://render.guildwars2.com/file/FD20F810C8F023E81D1BA765520E06190B56D180/2281963.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9353,
           "name": "Glitched Adventure Greatsword",
           "type": "Weapon",
@@ -4300,9 +5000,21 @@
           "icon": "https://render.guildwars2.com/file/7321B5E630F3C31CA6FB6315085FE73DA23C0EB3/2281964.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9360,
           "name": "Glitched Adventure Hammer",
           "type": "Weapon",
@@ -4311,9 +5023,21 @@
           "icon": "https://render.guildwars2.com/file/E2680633EE67C7699DF4D405E7B4DCDC39E69906/2281965.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9336,
           "name": "Glitched Adventure Longbow",
           "type": "Weapon",
@@ -4322,9 +5046,21 @@
           "icon": "https://render.guildwars2.com/file/9FD0F0B0B01EEB01715B72B59094CF0EF858405F/2281961.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9358,
           "name": "Glitched Adventure Mace",
           "type": "Weapon",
@@ -4333,9 +5069,21 @@
           "icon": "https://render.guildwars2.com/file/CDD6E001E3707EDF2BE73F3F579A0BF40E0BCAE3/2281966.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9344,
           "name": "Glitched Adventure Pistol",
           "type": "Weapon",
@@ -4344,9 +5092,21 @@
           "icon": "https://render.guildwars2.com/file/6DF206280304603D3AB3619BB4C33C3905ECB4EA/2281967.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9345,
           "name": "Glitched Adventure Rifle",
           "type": "Weapon",
@@ -4355,9 +5115,21 @@
           "icon": "https://render.guildwars2.com/file/EE7513CE0C0AD7B50F4DF7781326A26B348036CC/2281968.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9359,
           "name": "Glitched Adventure Scepter",
           "type": "Weapon",
@@ -4366,9 +5138,21 @@
           "icon": "https://render.guildwars2.com/file/9A24EC97081AA4AC62A70AC4DE2141F3640AFF7D/2281969.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9354,
           "name": "Glitched Adventure Shield",
           "type": "Weapon",
@@ -4377,9 +5161,21 @@
           "icon": "https://render.guildwars2.com/file/98EBF1BD1D29CAAF6B5BF74F639056EDEB27FCB0/2281970.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9356,
           "name": "Glitched Adventure Short Bow",
           "type": "Weapon",
@@ -4388,9 +5184,21 @@
           "icon": "https://render.guildwars2.com/file/117C07B205CF0C775F661FEC75E29B3598E81FB8/2281971.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9346,
           "name": "Glitched Adventure Staff",
           "type": "Weapon",
@@ -4399,9 +5207,21 @@
           "icon": "https://render.guildwars2.com/file/03C5FE0B7BBD2639F3A4110635733868DD6A154E/2281972.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9348,
           "name": "Glitched Adventure Sword",
           "type": "Weapon",
@@ -4410,9 +5230,21 @@
           "icon": "https://render.guildwars2.com/file/0A0F0561B10EF305D3DC2443074A7DC5727F090E/2281973.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9341,
           "name": "Glitched Adventure Torch",
           "type": "Weapon",
@@ -4421,9 +5253,21 @@
           "icon": "https://render.guildwars2.com/file/F808CCE0A17E0F076C23DDE5623275AC35B26232/2281974.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9351,
           "name": "Glitched Adventure Warhorn",
           "type": "Weapon",
@@ -4432,9 +5276,21 @@
           "icon": "https://render.guildwars2.com/file/37999B096D2096D4069C167B360C71B19B9CFBEE/2281975.png",
           "cats": [
             "Glitched Adventure weapons"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10774,
           "name": "Hardlight Axe",
           "type": "Weapon",
@@ -4446,6 +5302,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10772,
           "name": "Hardlight Dagger",
           "type": "Weapon",
@@ -4457,6 +5315,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10775,
           "name": "Hardlight Focus",
           "type": "Weapon",
@@ -4468,6 +5328,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10768,
           "name": "Hardlight Greatsword",
           "type": "Weapon",
@@ -4479,6 +5341,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10798,
           "name": "Hardlight Hammer",
           "type": "Weapon",
@@ -4490,6 +5354,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10787,
           "name": "Hardlight Longbow",
           "type": "Weapon",
@@ -4501,6 +5367,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10776,
           "name": "Hardlight Mace",
           "type": "Weapon",
@@ -4512,6 +5380,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10767,
           "name": "Hardlight Pistol",
           "type": "Weapon",
@@ -4523,6 +5393,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10771,
           "name": "Hardlight Rifle",
           "type": "Weapon",
@@ -4534,6 +5406,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10783,
           "name": "Hardlight Scepter",
           "type": "Weapon",
@@ -4545,6 +5419,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10794,
           "name": "Hardlight Shield",
           "type": "Weapon",
@@ -4556,6 +5432,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10773,
           "name": "Hardlight Short Bow",
           "type": "Weapon",
@@ -4567,6 +5445,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 13831,
           "name": "Hardlight Spear",
           "type": "Weapon",
@@ -4578,6 +5458,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10796,
           "name": "Hardlight Staff",
           "type": "Weapon",
@@ -4589,6 +5471,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10799,
           "name": "Hardlight Sword",
           "type": "Weapon",
@@ -4600,6 +5484,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10785,
           "name": "Hardlight Torch",
           "type": "Weapon",
@@ -4611,6 +5497,8 @@
           ]
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10788,
           "name": "Hardlight Warhorn",
           "type": "Weapon",
@@ -4622,6 +5510,8 @@
           ]
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6665,
           "name": "Kaiser Snake Axe",
           "type": "Weapon",
@@ -4630,9 +5520,22 @@
           "icon": "https://render.guildwars2.com/file/1D0517FA7C7B094DF7DD4B9EF7AC71B27C09DFB5/1418381.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6679,
           "name": "Kaiser Snake Dagger",
           "type": "Weapon",
@@ -4641,9 +5544,22 @@
           "icon": "https://render.guildwars2.com/file/B4C7310A0DD8BC6ACA506C5BDD01B3286651C9D6/1418391.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6678,
           "name": "Kaiser Snake Focus",
           "type": "Weapon",
@@ -4652,9 +5568,22 @@
           "icon": "https://render.guildwars2.com/file/027752D9C961FE516D80920859DB7F6D785E720C/1418394.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6677,
           "name": "Kaiser Snake Greatsword",
           "type": "Weapon",
@@ -4663,9 +5592,22 @@
           "icon": "https://render.guildwars2.com/file/5BA707E5EBB6D219B40BAA5AD002A6B74AB7C3DE/1418397.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6672,
           "name": "Kaiser Snake Hammer",
           "type": "Weapon",
@@ -4674,9 +5616,22 @@
           "icon": "https://render.guildwars2.com/file/9A45CFB0A5A09BDDD704DB190EC4B009D04A47D4/1418400.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6669,
           "name": "Kaiser Snake Longbow",
           "type": "Weapon",
@@ -4685,9 +5640,22 @@
           "icon": "https://render.guildwars2.com/file/CD4B33E8FE186436076D5B1C0D2A49E7BBE7BD59/1418388.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6675,
           "name": "Kaiser Snake Mace",
           "type": "Weapon",
@@ -4696,9 +5664,22 @@
           "icon": "https://render.guildwars2.com/file/33630E54C26C0F793B062B60F6EFF4DB7FA778A8/1418403.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6666,
           "name": "Kaiser Snake Pistol",
           "type": "Weapon",
@@ -4707,9 +5688,22 @@
           "icon": "https://render.guildwars2.com/file/560CE8C90193E5389F2C2CAD00DAD59504049BCF/1418406.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6667,
           "name": "Kaiser Snake Rifle",
           "type": "Weapon",
@@ -4718,9 +5712,22 @@
           "icon": "https://render.guildwars2.com/file/2B759D39B332F6CF04D62BC0761814EA014CEECF/1418409.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6663,
           "name": "Kaiser Snake Scepter",
           "type": "Weapon",
@@ -4729,9 +5736,22 @@
           "icon": "https://render.guildwars2.com/file/DB520C5022E722AD7AF310571B0B0B72E3183EC3/1418414.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6664,
           "name": "Kaiser Snake Shield",
           "type": "Weapon",
@@ -4740,9 +5760,22 @@
           "icon": "https://render.guildwars2.com/file/5166671F31BDDA44E171B32535BC03A8140141B9/1418419.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6676,
           "name": "Kaiser Snake Short Bow",
           "type": "Weapon",
@@ -4751,9 +5784,22 @@
           "icon": "https://render.guildwars2.com/file/E538AE07DADBD0CFF90D17B1E9BCBE7F0996B8FD/1418423.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6674,
           "name": "Kaiser Snake Staff",
           "type": "Weapon",
@@ -4762,9 +5808,22 @@
           "icon": "https://render.guildwars2.com/file/6B54E202F0C9C753546FC2136FD860BFA1563B28/1418426.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6673,
           "name": "Kaiser Snake Sword",
           "type": "Weapon",
@@ -4773,9 +5832,22 @@
           "icon": "https://render.guildwars2.com/file/256D5D7C060E276C73999A5D0456C0B9BAB9E132/1418429.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6670,
           "name": "Kaiser Snake Torch",
           "type": "Weapon",
@@ -4784,9 +5856,22 @@
           "icon": "https://render.guildwars2.com/file/5B587D6527DC6FEFFFFEC430D648E7E1AA1F7BA3/1418432.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6671,
           "name": "Kaiser Snake Warhorn",
           "type": "Weapon",
@@ -4795,7 +5880,18 @@
           "icon": "https://render.guildwars2.com/file/66F9CC0F1BDF556B05029D0A25B605C3D09395FB/1418435.png",
           "cats": [
             "Kaiser Snake weapons"
-          ]
+          ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5281,
@@ -4974,6 +6070,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12975,
           "name": "Retro-Forged Axe",
           "type": "Weapon",
@@ -4985,6 +6083,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 11376,
           "name": "Retro-Forged Dagger",
           "type": "Weapon",
@@ -4996,6 +6096,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 13838,
           "name": "Retro-Forged Focus",
           "type": "Weapon",
@@ -5007,6 +6109,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 13823,
           "name": "Retro-Forged Greatsword",
           "type": "Weapon",
@@ -5018,6 +6122,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 10793,
           "name": "Retro-Forged Hammer",
           "type": "Weapon",
@@ -5029,6 +6135,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 13837,
           "name": "Retro-Forged Longbow",
           "type": "Weapon",
@@ -5040,6 +6148,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 11370,
           "name": "Retro-Forged Mace",
           "type": "Weapon",
@@ -5051,6 +6161,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12129,
           "name": "Retro-Forged Pistol",
           "type": "Weapon",
@@ -5062,6 +6174,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 11405,
           "name": "Retro-Forged Rifle",
           "type": "Weapon",
@@ -5073,6 +6187,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12107,
           "name": "Retro-Forged Scepter",
           "type": "Weapon",
@@ -5084,6 +6200,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 10769,
           "name": "Retro-Forged Short Bow",
           "type": "Weapon",
@@ -5095,6 +6213,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12134,
           "name": "Retro-Forged Spear",
           "type": "Weapon",
@@ -5106,6 +6226,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 10784,
           "name": "Retro-Forged Speargun",
           "type": "Weapon",
@@ -5117,6 +6239,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12132,
           "name": "Retro-Forged Sword",
           "type": "Weapon",
@@ -5128,6 +6252,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12981,
           "name": "Retro-Forged Torch",
           "type": "Weapon",
@@ -5139,6 +6265,8 @@
           ]
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12978,
           "name": "Retro-Forged Trident",
           "type": "Weapon",
@@ -5356,7 +6484,17 @@
           "icon": "https://render.guildwars2.com/file/2DCCD5D535D449DA5F105D4F08DE240F2DD626FA/631292.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 2362,
@@ -5367,7 +6505,17 @@
           "icon": "https://render.guildwars2.com/file/A7494F0B62E89A09D00A5EADB73D4132C6A4FE2A/561942.png",
           "cats": [
             "Super Adventure Box items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5324,
@@ -5378,7 +6526,17 @@
           "icon": "https://render.guildwars2.com/file/B8694196EE00F9D01D95040D40FF4D5C34661496/631310.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5274,
@@ -5389,7 +6547,17 @@
           "icon": "https://render.guildwars2.com/file/BEF5074698D2F12250B1FC10693DFE47C6D7E607/631298.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5308,
@@ -5400,7 +6568,17 @@
           "icon": "https://render.guildwars2.com/file/4C3E0A59661727BC3E275B46CFAA0BAC7E52BD0D/561922.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5325,
@@ -5411,7 +6589,17 @@
           "icon": "https://render.guildwars2.com/file/9CFD2E4B5AAE001AC5AB2F5F7550D56C77A7A7C7/631313.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5284,
@@ -5422,7 +6610,17 @@
           "icon": "https://render.guildwars2.com/file/4E280CADCE1D7F699FA350FF0D3CE5FC0D950F5B/561939.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5292,
@@ -5433,7 +6631,17 @@
           "icon": "https://render.guildwars2.com/file/4E26B3B60C2342AA0C90ABB85974BD79B44F641A/631285.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5279,
@@ -5444,9 +6652,21 @@
           "icon": "https://render.guildwars2.com/file/F08073280C14D0A9640A0124467A073C52061345/631304.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12986,
           "name": "Super Rainbow Cloud Axe",
           "type": "Weapon",
@@ -5455,9 +6675,15 @@
           "icon": "https://render.guildwars2.com/file/56272D68652408271F53AB214A7859BCFAACA055/3612716.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12987,
           "name": "Super Rainbow Cloud Dagger",
           "type": "Weapon",
@@ -5466,9 +6692,15 @@
           "icon": "https://render.guildwars2.com/file/DC22AACA6C0351E357E1CAB3C6F714EEA95CCFF2/3612744.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12999,
           "name": "Super Rainbow Cloud Focus",
           "type": "Weapon",
@@ -5477,9 +6709,15 @@
           "icon": "https://render.guildwars2.com/file/652F47C8505F0A289EE20EBE0D26B8F230D0D20E/3612749.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12998,
           "name": "Super Rainbow Cloud Greatsword",
           "type": "Weapon",
@@ -5488,9 +6726,15 @@
           "icon": "https://render.guildwars2.com/file/DBF2D5635DD392EF043BF2F24CCDBF290E4601AE/3612762.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12983,
           "name": "Super Rainbow Cloud Hammer",
           "type": "Weapon",
@@ -5499,9 +6743,15 @@
           "icon": "https://render.guildwars2.com/file/201DFDEE659C0DDE104BDA7FC33DB9E7369833B3/3612772.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12994,
           "name": "Super Rainbow Cloud Longbow",
           "type": "Weapon",
@@ -5510,9 +6760,15 @@
           "icon": "https://render.guildwars2.com/file/AB1E491ED2510E0A99656A65C5B9350996922D4D/3612731.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12989,
           "name": "Super Rainbow Cloud Mace",
           "type": "Weapon",
@@ -5521,9 +6777,15 @@
           "icon": "https://render.guildwars2.com/file/CA2B2E9C672A596336C57609E924FA201EC6CB73/3612785.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12990,
           "name": "Super Rainbow Cloud Pistol",
           "type": "Weapon",
@@ -5532,9 +6794,15 @@
           "icon": "https://render.guildwars2.com/file/62AC40FF70B85529DC4D97F22F3B64E533066FA2/3612798.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 13000,
           "name": "Super Rainbow Cloud Rifle",
           "type": "Weapon",
@@ -5543,9 +6811,15 @@
           "icon": "https://render.guildwars2.com/file/5ECA5FC451042E9817D146F0372AD8FC3A5A6869/3612810.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12984,
           "name": "Super Rainbow Cloud Scepter",
           "type": "Weapon",
@@ -5554,9 +6828,15 @@
           "icon": "https://render.guildwars2.com/file/4407180A076AC21C944F73057DC91AF3F2D54C30/3612823.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12995,
           "name": "Super Rainbow Cloud Shield",
           "type": "Weapon",
@@ -5565,9 +6845,15 @@
           "icon": "https://render.guildwars2.com/file/130ED669F527DB9036EB0AC195CFAE04B839BCD7/3612827.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12980,
           "name": "Super Rainbow Cloud Short Bow",
           "type": "Weapon",
@@ -5576,9 +6862,15 @@
           "icon": "https://render.guildwars2.com/file/43C326C797685259CEDBFDEF0FCE2BC09926FF48/3612837.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12979,
           "name": "Super Rainbow Cloud Spear",
           "type": "Weapon",
@@ -5587,9 +6879,15 @@
           "icon": "https://render.guildwars2.com/file/341A0A47091FE912A61AFB38564A412FCD76136E/3612850.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12992,
           "name": "Super Rainbow Cloud Staff",
           "type": "Weapon",
@@ -5598,9 +6896,15 @@
           "icon": "https://render.guildwars2.com/file/BEDDDA15CDB906E41BF4E91C69B9AB1608A506E2/3612864.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12976,
           "name": "Super Rainbow Cloud Sword",
           "type": "Weapon",
@@ -5609,9 +6913,15 @@
           "icon": "https://render.guildwars2.com/file/DB43A4FF366A7E3BCD21BF5F5BC2509C1EAE11DD/3612877.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12997,
           "name": "Super Rainbow Cloud Torch",
           "type": "Weapon",
@@ -5620,9 +6930,15 @@
           "icon": "https://render.guildwars2.com/file/9C284A0F0B2B3EBE25E0BE01DE717EF8C66DCA2B/3612890.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12977,
           "name": "Super Rainbow Cloud Warhorn",
           "type": "Weapon",
@@ -5631,7 +6947,11 @@
           "icon": "https://render.guildwars2.com/file/48D94DC6E3350E7556510BC69A6349DD59D8BE06/3612903.png",
           "cats": [
             "Super Rainbow Cloud weapons"
-          ]
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null
         },
         {
           "id": 5301,
@@ -5642,7 +6962,17 @@
           "icon": "https://render.guildwars2.com/file/FC1FFB50D8D4DAC1DC1409C87AC6EEF11BAFE9B2/631307.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5299,
@@ -5653,7 +6983,17 @@
           "icon": "https://render.guildwars2.com/file/D72648D553D5DF4F65DFFD51CEA772C40550F256/561925.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5311,
@@ -5664,7 +7004,17 @@
           "icon": "https://render.guildwars2.com/file/3599EC67DB9FB27FFF510500B5B74EC805493A7E/561933.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5258,
@@ -5675,7 +7025,17 @@
           "icon": "https://render.guildwars2.com/file/543AF471FAFA08B06251A26FEE1AE594CD21CFE8/561936.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5334,
@@ -5686,7 +7046,17 @@
           "icon": "https://render.guildwars2.com/file/44B395C4EDF397CE2EDBED901952FFB973FF0F49/561930.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5344,
@@ -5697,7 +7067,17 @@
           "icon": "https://render.guildwars2.com/file/445CB945AA53B8D3F0B998E0527D2FA71D595B1F/561906.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5251,
@@ -5708,7 +7088,17 @@
           "icon": "https://render.guildwars2.com/file/0CF3327705CBB580C676608015B0F55829C87904/631301.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 5261,
@@ -5719,7 +7109,17 @@
           "icon": "https://render.guildwars2.com/file/B2F0949E55F320D966DC3415960F3F0FD3C9BBEE/631295.png",
           "cats": [
             "Super weapon skins"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         }
       ],
       "minis": [
@@ -5730,7 +7130,17 @@
           "item_id": 99597,
           "cats": [
             "Super Adventure Box miniatures"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 887,
@@ -5748,7 +7158,17 @@
           "item_id": 46654,
           "cats": [
             "Super Adventure Box miniatures"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 20 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 184,
@@ -5757,7 +7177,17 @@
           "item_id": 46653,
           "cats": [
             "Super Adventure Box miniatures"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 749,
@@ -5766,7 +7196,17 @@
           "item_id": 90082,
           "cats": [
             "Super Adventure Box miniatures"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "5 Gold coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 675,
@@ -5811,7 +7251,17 @@
           "item_id": 93304,
           "cats": [
             "Super Adventure Box miniatures"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 678,
@@ -5829,7 +7279,17 @@
           "item_id": 93323,
           "cats": [
             "Super Adventure Box miniatures"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 456,
@@ -5966,7 +7426,17 @@
           "icon": "https://render.guildwars2.com/file/49126005BA2E197E5A60F9CFDA530EE432307776/1664072.png",
           "cats": [
             "Super Adventure Box items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 3,
@@ -5975,7 +7445,17 @@
           "icon": "https://render.guildwars2.com/file/49126005BA2E197E5A60F9CFDA530EE432307776/1664072.png",
           "cats": [
             "Super Adventure Box items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 25,
@@ -5984,7 +7464,17 @@
           "icon": "https://render.guildwars2.com/file/E4204EBD4499090B565665BA0D302F41A1914F7D/631273.png",
           "cats": [
             "Super Adventure Box items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         },
         {
           "id": 23,
@@ -5993,7 +7483,17 @@
           "icon": "https://render.guildwars2.com/file/46BDA56E18341E94706F4F0698FEA109B17C663B/631278.png",
           "cats": [
             "Super Adventure Box items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          }
         }
       ]
     },
@@ -10119,7 +11619,17 @@
           "icon": "https://render.guildwars2.com/file/5E5F20DAC74B7C050298F8336D01B99A322D6590/665774.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "1,600 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 2025,
@@ -10130,7 +11640,17 @@
           "icon": "https://render.guildwars2.com/file/5E5F20DAC74B7C050298F8336D01B99A322D6590/665774.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "1,600 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 2026,
@@ -10141,7 +11661,17 @@
           "icon": "https://render.guildwars2.com/file/5E5F20DAC74B7C050298F8336D01B99A322D6590/665774.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "1,600 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 8218,
@@ -10717,7 +12247,17 @@
           "icon": "https://render.guildwars2.com/file/930CF14A18969776A109302241F00C9708EE7F32/648169.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "400 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 2028,
@@ -10728,7 +12268,17 @@
           "icon": "https://render.guildwars2.com/file/930CF14A18969776A109302241F00C9708EE7F32/648169.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "400 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 2029,
@@ -10739,7 +12289,17 @@
           "icon": "https://render.guildwars2.com/file/930CF14A18969776A109302241F00C9708EE7F32/648169.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "400 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 2018,
@@ -11402,7 +12962,17 @@
           "icon": "https://render.guildwars2.com/file/335BC5CD660FBBB1970BAEC49D034DDD6669104C/619632.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5265,
@@ -11413,7 +12983,17 @@
           "icon": "https://render.guildwars2.com/file/64039B2FAA322E0F44045D7414CBED90E6E8E3C1/619609.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 5 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5244,
@@ -11424,7 +13004,17 @@
           "icon": "https://render.guildwars2.com/file/7214260C45D367753C1C46D84840A0310DDAC80D/619666.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 5 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5310,
@@ -11435,7 +13025,17 @@
           "icon": "https://render.guildwars2.com/file/43384D06A746CC03A3A36BE24C0B637FFFED7BF1/619601.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5248,
@@ -11446,7 +13046,17 @@
           "icon": "https://render.guildwars2.com/file/A5C536549EB50AF0336E06E03B5064AF6F45207A/619649.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5294,
@@ -11457,7 +13067,17 @@
           "icon": "https://render.guildwars2.com/file/421914A230A9155F5469AE4FE1EAE56B30DB27B5/619617.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5245,
@@ -11468,7 +13088,17 @@
           "icon": "https://render.guildwars2.com/file/CD6E5E69CDF903EC530D4D045A2035052B022E7D/619600.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5243,
@@ -11479,7 +13109,17 @@
           "icon": "https://render.guildwars2.com/file/120B9A3FC0AC3DE336D5C1142D5EBBBD0B6861DF/619631.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5267,
@@ -11490,7 +13130,17 @@
           "icon": "https://render.guildwars2.com/file/971B7FA0B904F0164AC9BBD3EE1AAB682246AEAD/619626.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5253,
@@ -11501,7 +13151,17 @@
           "icon": "https://render.guildwars2.com/file/AA0E1C132FA1AF1855CC46E271BBF180A7325E78/619674.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 5 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5326,
@@ -11512,7 +13172,17 @@
           "icon": "https://render.guildwars2.com/file/0631B976BEA59C71A0670CE1E548A49BDE2EDE12/619657.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5252,
@@ -11523,7 +13193,17 @@
           "icon": "https://render.guildwars2.com/file/5466A50C283FC6AD77C6D74C5F216B619AC1E40C/619648.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 5 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5246,
@@ -11534,7 +13214,17 @@
           "icon": "https://render.guildwars2.com/file/D17661BD03A67C0FBFDF14F0056A56E10DECC2F7/619630.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5280,
@@ -11545,7 +13235,17 @@
           "icon": "https://render.guildwars2.com/file/64FBF93B79E90B027C574BA8D30F6AEADDACE34E/619640.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5278,
@@ -11556,7 +13256,17 @@
           "icon": "https://render.guildwars2.com/file/BFB8C9D742967530A05A5C040630DE6BDFE7201E/619665.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "id": 5264,
@@ -11567,7 +13277,17 @@
           "icon": "https://render.guildwars2.com/file/DB170953798053E56BD8C796D298F563B3EF0C0C/619625.png",
           "cats": [
             "Festival of the Four Winds/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          }
         },
         {
           "set": "Spellwork weapons",
@@ -18186,7 +19906,17 @@
           "cats": [
             "Halloween armor skins",
             "Halloween/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor",
+            "cost": "6 Candy Corn Cob",
+            "item": null,
+            "limit": null,
+            "festival": "Halloween"
+          }
         },
         {
           "id": 6414,
@@ -18198,7 +19928,17 @@
           "cats": [
             "Halloween armor skins",
             "Halloween/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor",
+            "cost": "6 Candy Corn Cob",
+            "item": null,
+            "limit": null,
+            "festival": "Halloween"
+          }
         },
         {
           "id": 6487,
@@ -18210,7 +19950,17 @@
           "cats": [
             "Halloween armor skins",
             "Halloween/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor",
+            "cost": "6 Candy Corn Cob",
+            "item": null,
+            "limit": null,
+            "festival": "Halloween"
+          }
         },
         {
           "id": 7778,
@@ -19729,7 +21479,17 @@
           "icon": "https://render.guildwars2.com/file/5D9A0349AAE30B1DB8FD011A06A9DF79186493ED/526233.png",
           "cats": [
             "Wintersday/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          }
         },
         {
           "set": "Wintersday Weapon Chest weapons",
@@ -21079,7 +22839,17 @@
           "icon": "https://render.guildwars2.com/file/4EF13E3771E16C181C5B07FC907FBBF06B74F95E/526324.png",
           "cats": [
             "Wintersday/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          }
         },
         {
           "id": 5312,
@@ -21090,7 +22860,17 @@
           "icon": "https://render.guildwars2.com/file/54CE07DFC9C03F9A03ECF99098D25B0FE022F241/526329.png",
           "cats": [
             "Wintersday/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          }
         },
         {
           "id": 9063,
@@ -21890,7 +23670,17 @@
           "icon": "https://render.guildwars2.com/file/E7B03C0E6C57D5459BAF924F5D0932CF30DD0453/526328.png",
           "cats": [
             "Wintersday/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          }
         },
         {
           "set": "Snowdrift weapons",
@@ -22770,7 +24560,17 @@
           "icon": "https://render.guildwars2.com/file/C73C4F4A7BD150ACAEF79246497D53F6296C390D/526327.png",
           "cats": [
             "Wintersday/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          }
         },
         {
           "id": 5345,
@@ -22781,7 +24581,17 @@
           "icon": "https://render.guildwars2.com/file/0FBE52D49A6DBCB53AD40B4A0A02A6692E12D8EB/526322.png",
           "cats": [
             "Wintersday/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          }
         },
         {
           "id": 5347,
@@ -22792,7 +24602,17 @@
           "icon": "https://render.guildwars2.com/file/E24399CBFD53510CDB167AB9D10318D9540626DA/526323.png",
           "cats": [
             "Wintersday/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          }
         },
         {
           "id": 2375,
@@ -23211,7 +25031,17 @@
           "icon": "https://render.guildwars2.com/file/FC9C48649C03C6656401A35099CB0A474C37E03D/526325.png",
           "cats": [
             "Wintersday/items"
-          ]
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          }
         },
         {
           "set": "Wrapped weapons",

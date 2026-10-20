@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:56:43.847Z",
+  "generatedAt": "2026-10-20T21:34:10.873Z",
   "totalSkins": 10612,
   "windows": [
     {
@@ -142432,13 +142432,13 @@
       ]
     },
     {
-      "key": "festival-super-adventure-festival",
-      "label": "🕹️ Super Adventure Festival",
+      "key": "festival-super-adventure-box",
+      "label": "🕹️ Super Adventure Box",
       "from": null,
       "to": null,
       "event": true,
       "group": "festival",
-      "note": "Super Adventure Festival skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
+      "note": "Super Adventure Box skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
       "count": 228,
       "skins": [
         {
@@ -142451,9 +142451,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142466,9 +142476,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142481,9 +142501,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "8 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142496,9 +142526,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142511,9 +142551,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142526,9 +142576,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142541,9 +142601,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142556,9 +142626,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142571,9 +142651,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142586,9 +142676,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142601,9 +142701,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "8 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142616,9 +142726,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142631,9 +142751,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "16 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142646,9 +142776,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "12 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142661,9 +142801,19 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "8 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -142676,12 +142826,24 @@
           "cats": [
             "Crimson Assassin weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "8 Crimson Assassin Token",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Assassin weapon skins",
+          "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9967,
           "name": "Crimson Vanquisher Axe",
           "type": "Weapon",
@@ -142691,12 +142853,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9972,
           "name": "Crimson Vanquisher Dagger",
           "type": "Weapon",
@@ -142706,12 +142880,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9973,
           "name": "Crimson Vanquisher Focus",
           "type": "Weapon",
@@ -142721,12 +142907,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9982,
           "name": "Crimson Vanquisher Greatsword",
           "type": "Weapon",
@@ -142736,12 +142934,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9976,
           "name": "Crimson Vanquisher Hammer",
           "type": "Weapon",
@@ -142751,12 +142961,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9970,
           "name": "Crimson Vanquisher Longbow",
           "type": "Weapon",
@@ -142766,12 +142988,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9983,
           "name": "Crimson Vanquisher Mace",
           "type": "Weapon",
@@ -142781,12 +143015,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9988,
           "name": "Crimson Vanquisher Pistol",
           "type": "Weapon",
@@ -142796,12 +143042,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9968,
           "name": "Crimson Vanquisher Rifle",
           "type": "Weapon",
@@ -142811,12 +143069,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9987,
           "name": "Crimson Vanquisher Scepter",
           "type": "Weapon",
@@ -142826,12 +143096,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9986,
           "name": "Crimson Vanquisher Shield",
           "type": "Weapon",
@@ -142841,12 +143123,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9984,
           "name": "Crimson Vanquisher Short Bow",
           "type": "Weapon",
@@ -142856,12 +143150,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9978,
           "name": "Crimson Vanquisher Staff",
           "type": "Weapon",
@@ -142871,12 +143177,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9980,
           "name": "Crimson Vanquisher Sword",
           "type": "Weapon",
@@ -142886,12 +143204,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9979,
           "name": "Crimson Vanquisher Torch",
           "type": "Weapon",
@@ -142901,12 +143231,24 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Crimson Vanquisher weapons",
+          "released": "April 6, 2021",
           "id": 9977,
           "name": "Crimson Vanquisher Warhorn",
           "type": "Weapon",
@@ -142916,9 +143258,19 @@
           "cats": [
             "Crimson Vanquisher weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "2 Gold coin + 16 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Crimson Vanquisher weapons",
+          "sourceLabel": "Super Adventure Box: Crimson Vanquisher weapons",
           "wikiFirstSeen": null
         },
         {
@@ -142929,12 +143281,22 @@
           "cats": [
             "Super Adventure Box items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "novelty",
           "type": "Novelty",
           "rarity": null,
           "weight_class": "Music",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box items",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box items",
           "wikiFirstSeen": null
         },
         {
@@ -142945,15 +143307,27 @@
           "cats": [
             "Super Adventure Box items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "novelty",
           "type": "Novelty",
           "rarity": null,
           "weight_class": "Music",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box items",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box items",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13836,
           "name": "Forged-Light Axe",
           "type": "Weapon",
@@ -142963,12 +143337,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13813,
           "name": "Forged-Light Dagger",
           "type": "Weapon",
@@ -142978,12 +143358,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13839,
           "name": "Forged-Light Focus",
           "type": "Weapon",
@@ -142993,12 +143379,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13830,
           "name": "Forged-Light Greatsword",
           "type": "Weapon",
@@ -143008,12 +143400,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13841,
           "name": "Forged-Light Hammer",
           "type": "Weapon",
@@ -143023,12 +143421,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13812,
           "name": "Forged-Light Longbow",
           "type": "Weapon",
@@ -143038,12 +143442,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13844,
           "name": "Forged-Light Mace",
           "type": "Weapon",
@@ -143053,12 +143463,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13819,
           "name": "Forged-Light Pistol",
           "type": "Weapon",
@@ -143068,12 +143484,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13832,
           "name": "Forged-Light Rifle",
           "type": "Weapon",
@@ -143083,12 +143505,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13834,
           "name": "Forged-Light Scepter",
           "type": "Weapon",
@@ -143098,12 +143526,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13843,
           "name": "Forged-Light Shield",
           "type": "Weapon",
@@ -143113,12 +143547,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13827,
           "name": "Forged-Light Short Bow",
           "type": "Weapon",
@@ -143128,12 +143568,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13826,
           "name": "Forged-Light Spear",
           "type": "Weapon",
@@ -143143,12 +143589,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13846,
           "name": "Forged-Light Staff",
           "type": "Weapon",
@@ -143158,12 +143610,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13825,
           "name": "Forged-Light Sword",
           "type": "Weapon",
@@ -143173,12 +143631,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13811,
           "name": "Forged-Light Torch",
           "type": "Weapon",
@@ -143188,12 +143652,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Forged-Light weapons",
+          "released": "April 14, 2026",
           "id": 13829,
           "name": "Forged-Light Warhorn",
           "type": "Weapon",
@@ -143203,12 +143673,18 @@
           "cats": [
             "Forged-Light weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Forged-Light weapons",
+          "sourceLabel": "Super Adventure Box: Forged-Light weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11377,
           "name": "Generation One Axe",
           "type": "Weapon",
@@ -143218,12 +143694,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11396,
           "name": "Generation One Dagger",
           "type": "Weapon",
@@ -143233,12 +143722,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11394,
           "name": "Generation One Focus",
           "type": "Weapon",
@@ -143248,12 +143750,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11383,
           "name": "Generation One Greatsword",
           "type": "Weapon",
@@ -143263,12 +143778,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11386,
           "name": "Generation One Hammer",
           "type": "Weapon",
@@ -143278,12 +143806,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11366,
           "name": "Generation One Longbow",
           "type": "Weapon",
@@ -143293,12 +143834,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11378,
           "name": "Generation One Mace",
           "type": "Weapon",
@@ -143308,12 +143862,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11364,
           "name": "Generation One Pistol",
           "type": "Weapon",
@@ -143323,12 +143890,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11387,
           "name": "Generation One Rifle",
           "type": "Weapon",
@@ -143338,12 +143918,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11388,
           "name": "Generation One Scepter",
           "type": "Weapon",
@@ -143353,12 +143946,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11368,
           "name": "Generation One Shield",
           "type": "Weapon",
@@ -143368,12 +143974,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11375,
           "name": "Generation One Short Bow",
           "type": "Weapon",
@@ -143383,12 +144002,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11385,
           "name": "Generation One Staff",
           "type": "Weapon",
@@ -143398,12 +144030,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11372,
           "name": "Generation One Sword",
           "type": "Weapon",
@@ -143413,12 +144058,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11401,
           "name": "Generation One Torch",
           "type": "Weapon",
@@ -143428,12 +144086,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Generation One weapons",
+          "released": "March 28, 2023",
           "id": 11402,
           "name": "Generation One Warhorn",
           "type": "Weapon",
@@ -143443,12 +144114,25 @@
           "cats": [
             "Generation One weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weekly Trader",
+            "cost": "8 Gold coin + 16 Bauble Bubble",
+            "item": "Trader's Generation One Chest",
+            "limit": "1 per week",
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Generation One weapons",
+          "sourceLabel": "Super Adventure Box: Generation One weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9340,
           "name": "Glitched Adventure Axe",
           "type": "Weapon",
@@ -143458,12 +144142,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9342,
           "name": "Glitched Adventure Dagger",
           "type": "Weapon",
@@ -143473,12 +144169,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9338,
           "name": "Glitched Adventure Focus",
           "type": "Weapon",
@@ -143488,12 +144196,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9353,
           "name": "Glitched Adventure Greatsword",
           "type": "Weapon",
@@ -143503,12 +144223,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9360,
           "name": "Glitched Adventure Hammer",
           "type": "Weapon",
@@ -143518,12 +144250,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9336,
           "name": "Glitched Adventure Longbow",
           "type": "Weapon",
@@ -143533,12 +144277,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9358,
           "name": "Glitched Adventure Mace",
           "type": "Weapon",
@@ -143548,12 +144304,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9344,
           "name": "Glitched Adventure Pistol",
           "type": "Weapon",
@@ -143563,12 +144331,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9345,
           "name": "Glitched Adventure Rifle",
           "type": "Weapon",
@@ -143578,12 +144358,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9359,
           "name": "Glitched Adventure Scepter",
           "type": "Weapon",
@@ -143593,12 +144385,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9354,
           "name": "Glitched Adventure Shield",
           "type": "Weapon",
@@ -143608,12 +144412,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9356,
           "name": "Glitched Adventure Short Bow",
           "type": "Weapon",
@@ -143623,12 +144439,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9346,
           "name": "Glitched Adventure Staff",
           "type": "Weapon",
@@ -143638,12 +144466,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9348,
           "name": "Glitched Adventure Sword",
           "type": "Weapon",
@@ -143653,12 +144493,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9341,
           "name": "Glitched Adventure Torch",
           "type": "Weapon",
@@ -143668,12 +144520,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Glitched Adventure weapons",
+          "released": "April 14, 2020",
           "id": 9351,
           "name": "Glitched Adventure Warhorn",
           "type": "Weapon",
@@ -143683,12 +144547,24 @@
           "cats": [
             "Glitched Adventure weapons"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "10 Gold coin + 257 Bauble Bubble",
+            "item": "Glitched Weapon Box",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Glitched Adventure weapons",
+          "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10774,
           "name": "Hardlight Axe",
           "type": "Weapon",
@@ -143700,10 +144576,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10772,
           "name": "Hardlight Dagger",
           "type": "Weapon",
@@ -143715,10 +144593,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10775,
           "name": "Hardlight Focus",
           "type": "Weapon",
@@ -143730,10 +144610,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10768,
           "name": "Hardlight Greatsword",
           "type": "Weapon",
@@ -143745,10 +144627,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10798,
           "name": "Hardlight Hammer",
           "type": "Weapon",
@@ -143760,10 +144644,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10787,
           "name": "Hardlight Longbow",
           "type": "Weapon",
@@ -143775,10 +144661,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10776,
           "name": "Hardlight Mace",
           "type": "Weapon",
@@ -143790,10 +144678,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10767,
           "name": "Hardlight Pistol",
           "type": "Weapon",
@@ -143805,10 +144695,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10771,
           "name": "Hardlight Rifle",
           "type": "Weapon",
@@ -143820,10 +144712,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10783,
           "name": "Hardlight Scepter",
           "type": "Weapon",
@@ -143835,10 +144729,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10794,
           "name": "Hardlight Shield",
           "type": "Weapon",
@@ -143850,10 +144746,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10773,
           "name": "Hardlight Short Bow",
           "type": "Weapon",
@@ -143865,10 +144763,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 13831,
           "name": "Hardlight Spear",
           "type": "Weapon",
@@ -143880,10 +144780,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10796,
           "name": "Hardlight Staff",
           "type": "Weapon",
@@ -143895,10 +144797,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10799,
           "name": "Hardlight Sword",
           "type": "Weapon",
@@ -143910,10 +144814,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10785,
           "name": "Hardlight Torch",
           "type": "Weapon",
@@ -143925,10 +144831,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Hardlight weapons",
+          "released": "March 29, 2022",
           "id": 10788,
           "name": "Hardlight Warhorn",
           "type": "Weapon",
@@ -143940,10 +144848,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Hardlight weapons",
+          "sourceLabel": "Super Adventure Box: Hardlight weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6665,
           "name": "Kaiser Snake Axe",
           "type": "Weapon",
@@ -143953,12 +144863,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6679,
           "name": "Kaiser Snake Dagger",
           "type": "Weapon",
@@ -143968,12 +144891,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6678,
           "name": "Kaiser Snake Focus",
           "type": "Weapon",
@@ -143983,12 +144919,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6677,
           "name": "Kaiser Snake Greatsword",
           "type": "Weapon",
@@ -143998,12 +144947,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6672,
           "name": "Kaiser Snake Hammer",
           "type": "Weapon",
@@ -144013,12 +144975,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6669,
           "name": "Kaiser Snake Longbow",
           "type": "Weapon",
@@ -144028,12 +145003,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6675,
           "name": "Kaiser Snake Mace",
           "type": "Weapon",
@@ -144043,12 +145031,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6666,
           "name": "Kaiser Snake Pistol",
           "type": "Weapon",
@@ -144058,12 +145059,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6667,
           "name": "Kaiser Snake Rifle",
           "type": "Weapon",
@@ -144073,12 +145087,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6663,
           "name": "Kaiser Snake Scepter",
           "type": "Weapon",
@@ -144088,12 +145115,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6664,
           "name": "Kaiser Snake Shield",
           "type": "Weapon",
@@ -144103,12 +145143,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6676,
           "name": "Kaiser Snake Short Bow",
           "type": "Weapon",
@@ -144118,12 +145171,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6674,
           "name": "Kaiser Snake Staff",
           "type": "Weapon",
@@ -144133,12 +145199,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6673,
           "name": "Kaiser Snake Sword",
           "type": "Weapon",
@@ -144148,12 +145227,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6670,
           "name": "Kaiser Snake Torch",
           "type": "Weapon",
@@ -144163,12 +145255,25 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Kaiser Snake weapons",
+          "released": "March 31, 2016",
           "id": 6671,
           "name": "Kaiser Snake Warhorn",
           "type": "Weapon",
@@ -144178,9 +145283,20 @@
           "cats": [
             "Kaiser Snake weapons"
           ],
+          "acq": [
+            "achievement",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "64 Gold coin + 32 Glob of Ectoplasm + 32 Bauble Bubble",
+            "item": "Moto's Unstable Bauble Infusion: Blue",
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Kaiser Snake weapons",
+          "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
           "wikiFirstSeen": null
         },
         {
@@ -144195,7 +145311,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144210,7 +145326,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144225,7 +145341,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144240,7 +145356,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144255,7 +145371,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144270,7 +145386,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144285,7 +145401,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144300,7 +145416,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144315,7 +145431,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144330,7 +145446,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144345,7 +145461,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144360,7 +145476,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144375,7 +145491,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144390,7 +145506,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144405,7 +145521,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144420,7 +145536,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: King Toad's weapon skins",
+          "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -144431,12 +145547,22 @@
           "cats": [
             "Super Adventure Box miniatures"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144452,7 +145578,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144463,12 +145589,22 @@
           "cats": [
             "Super Adventure Box miniatures"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 20 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144479,12 +145615,22 @@
           "cats": [
             "Super Adventure Box miniatures"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144495,12 +145641,22 @@
           "cats": [
             "Super Adventure Box miniatures"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "5 Gold coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144516,7 +145672,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144532,7 +145688,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144548,7 +145704,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144564,7 +145720,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144575,12 +145731,22 @@
           "cats": [
             "Super Adventure Box miniatures"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144596,7 +145762,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144607,12 +145773,22 @@
           "cats": [
             "Super Adventure Box miniatures"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144628,7 +145804,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144644,7 +145820,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144660,7 +145836,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144676,7 +145852,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144692,7 +145868,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144708,7 +145884,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144724,7 +145900,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144740,7 +145916,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144756,7 +145932,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144772,7 +145948,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144788,7 +145964,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144804,7 +145980,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144820,7 +145996,7 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
@@ -144836,10 +146012,12 @@
           "rarity": null,
           "weight_class": null,
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box miniatures",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box miniatures",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12975,
           "name": "Retro-Forged Axe",
           "type": "Weapon",
@@ -144851,10 +146029,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 11376,
           "name": "Retro-Forged Dagger",
           "type": "Weapon",
@@ -144866,10 +146046,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 13838,
           "name": "Retro-Forged Focus",
           "type": "Weapon",
@@ -144881,10 +146063,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 13823,
           "name": "Retro-Forged Greatsword",
           "type": "Weapon",
@@ -144896,10 +146080,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 10793,
           "name": "Retro-Forged Hammer",
           "type": "Weapon",
@@ -144911,10 +146097,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 13837,
           "name": "Retro-Forged Longbow",
           "type": "Weapon",
@@ -144926,10 +146114,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 11370,
           "name": "Retro-Forged Mace",
           "type": "Weapon",
@@ -144941,10 +146131,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12129,
           "name": "Retro-Forged Pistol",
           "type": "Weapon",
@@ -144956,10 +146148,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 11405,
           "name": "Retro-Forged Rifle",
           "type": "Weapon",
@@ -144971,10 +146165,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12107,
           "name": "Retro-Forged Scepter",
           "type": "Weapon",
@@ -144986,10 +146182,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 10769,
           "name": "Retro-Forged Short Bow",
           "type": "Weapon",
@@ -145001,10 +146199,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12134,
           "name": "Retro-Forged Spear",
           "type": "Weapon",
@@ -145016,10 +146216,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 10784,
           "name": "Retro-Forged Speargun",
           "type": "Weapon",
@@ -145031,10 +146233,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12132,
           "name": "Retro-Forged Sword",
           "type": "Weapon",
@@ -145046,10 +146250,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12981,
           "name": "Retro-Forged Torch",
           "type": "Weapon",
@@ -145061,10 +146267,12 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Retro-Forged weapons",
+          "released": "March 29, 2022",
           "id": 12978,
           "name": "Retro-Forged Trident",
           "type": "Weapon",
@@ -145076,7 +146284,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Retro-Forged weapons",
+          "sourceLabel": "Super Adventure Box: Retro-Forged weapons",
           "wikiFirstSeen": null
         },
         {
@@ -145091,7 +146299,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box upgrades",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box upgrades",
           "wikiFirstSeen": null
         },
         {
@@ -145106,7 +146314,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box items",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box items",
           "wikiFirstSeen": null
         },
         {
@@ -145121,7 +146329,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145136,7 +146344,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145151,7 +146359,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145166,7 +146374,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145181,7 +146389,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145196,7 +146404,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145211,7 +146419,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145226,7 +146434,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145241,7 +146449,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145256,7 +146464,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145271,7 +146479,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145286,7 +146494,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145301,7 +146509,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145316,7 +146524,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145331,7 +146539,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145346,7 +146554,7 @@
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Storm Wizard's weapon skins",
+          "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145359,9 +146567,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145374,9 +146592,19 @@
           "cats": [
             "Super Adventure Box items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "50 Silver coin + 25 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box items",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box items",
           "wikiFirstSeen": null
         },
         {
@@ -145389,9 +146617,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145404,9 +146642,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145419,9 +146667,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145434,9 +146692,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145449,9 +146717,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145464,9 +146742,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145479,12 +146767,24 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12986,
           "name": "Super Rainbow Cloud Axe",
           "type": "Weapon",
@@ -145494,12 +146794,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12987,
           "name": "Super Rainbow Cloud Dagger",
           "type": "Weapon",
@@ -145509,12 +146815,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12999,
           "name": "Super Rainbow Cloud Focus",
           "type": "Weapon",
@@ -145524,12 +146836,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12998,
           "name": "Super Rainbow Cloud Greatsword",
           "type": "Weapon",
@@ -145539,12 +146857,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12983,
           "name": "Super Rainbow Cloud Hammer",
           "type": "Weapon",
@@ -145554,12 +146878,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12994,
           "name": "Super Rainbow Cloud Longbow",
           "type": "Weapon",
@@ -145569,12 +146899,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12989,
           "name": "Super Rainbow Cloud Mace",
           "type": "Weapon",
@@ -145584,12 +146920,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12990,
           "name": "Super Rainbow Cloud Pistol",
           "type": "Weapon",
@@ -145599,12 +146941,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 13000,
           "name": "Super Rainbow Cloud Rifle",
           "type": "Weapon",
@@ -145614,12 +146962,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12984,
           "name": "Super Rainbow Cloud Scepter",
           "type": "Weapon",
@@ -145629,12 +146983,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12995,
           "name": "Super Rainbow Cloud Shield",
           "type": "Weapon",
@@ -145644,12 +147004,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12980,
           "name": "Super Rainbow Cloud Short Bow",
           "type": "Weapon",
@@ -145659,12 +147025,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12979,
           "name": "Super Rainbow Cloud Spear",
           "type": "Weapon",
@@ -145674,12 +147046,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12992,
           "name": "Super Rainbow Cloud Staff",
           "type": "Weapon",
@@ -145689,12 +147067,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12976,
           "name": "Super Rainbow Cloud Sword",
           "type": "Weapon",
@@ -145704,12 +147088,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12997,
           "name": "Super Rainbow Cloud Torch",
           "type": "Weapon",
@@ -145719,12 +147109,18 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
+          "set": "Super Rainbow Cloud weapons",
+          "released": "April 15, 2025",
           "id": 12977,
           "name": "Super Rainbow Cloud Warhorn",
           "type": "Weapon",
@@ -145734,9 +147130,13 @@
           "cats": [
             "Super Rainbow Cloud weapons"
           ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Rainbow Cloud weapons",
+          "sourceLabel": "Super Adventure Box: Super Rainbow Cloud weapons",
           "wikiFirstSeen": null
         },
         {
@@ -145749,9 +147149,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145764,9 +147174,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145779,9 +147199,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145794,9 +147224,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145809,9 +147249,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145824,9 +147274,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145839,9 +147299,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145854,9 +147324,19 @@
           "cats": [
             "Super weapon skins"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Weaponsmith",
+            "cost": "1 Gold coin + 35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super weapon skins",
+          "sourceLabel": "Super Adventure Box: Super weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -145867,12 +147347,22 @@
           "cats": [
             "Super Adventure Box items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "novelty",
           "type": "Novelty",
           "rarity": null,
           "weight_class": "Music",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box items",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box items",
           "wikiFirstSeen": null
         },
         {
@@ -145883,12 +147373,22 @@
           "cats": [
             "Super Adventure Box items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Super Adventure Box Trader",
+            "cost": "35 Bauble Bubble",
+            "item": null,
+            "limit": null,
+            "festival": "Super Adventure Box"
+          },
           "kind": "novelty",
           "type": "Novelty",
           "rarity": null,
           "weight_class": "Music",
           "source": "event",
-          "sourceLabel": "Super Adventure Festival: Super Adventure Box items",
+          "sourceLabel": "Super Adventure Box: Super Adventure Box items",
           "wikiFirstSeen": null
         }
       ]
@@ -150910,6 +152410,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "1,600 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -150925,6 +152435,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "1,600 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -150940,6 +152460,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "1,600 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -151749,6 +153279,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "400 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -151764,6 +153304,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "400 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -151779,6 +153329,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Festival Rewards Vendor (Festival Rewards)",
+            "cost": "400 Festival Token",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153026,6 +154586,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153041,6 +154611,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 5 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153056,6 +154636,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 5 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153071,6 +154661,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153086,6 +154686,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153101,6 +154711,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153116,6 +154736,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153131,6 +154761,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153146,6 +154786,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153161,6 +154811,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 5 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153176,6 +154836,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153191,6 +154861,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 5 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153206,6 +154886,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153221,6 +154911,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153236,6 +154936,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 7 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -153251,6 +154961,16 @@
           "cats": [
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Sovereign Weapon Vendor",
+            "cost": "1 Favor of the Festival + 10 Gold coin",
+            "item": null,
+            "limit": null,
+            "festival": "Festival of the Four Winds"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Festival of the Four Winds: Festival of the Four Winds/items",
@@ -162048,6 +163768,16 @@
             "Halloween armor skins",
             "Halloween/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor",
+            "cost": "6 Candy Corn Cob",
+            "item": null,
+            "limit": null,
+            "festival": "Halloween"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween armor skins, Halloween/items",
@@ -162064,6 +163794,16 @@
             "Halloween armor skins",
             "Halloween/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor",
+            "cost": "6 Candy Corn Cob",
+            "item": null,
+            "limit": null,
+            "festival": "Halloween"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween armor skins, Halloween/items",
@@ -162080,6 +163820,16 @@
             "Halloween armor skins",
             "Halloween/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor",
+            "cost": "6 Candy Corn Cob",
+            "item": null,
+            "limit": null,
+            "festival": "Halloween"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween armor skins, Halloween/items",
@@ -162896,6 +164646,16 @@
           "cats": [
             "Wintersday/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -165655,6 +167415,16 @@
           "cats": [
             "Wintersday/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -165670,6 +167440,16 @@
           "cats": [
             "Wintersday/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -166634,6 +168414,16 @@
           "cats": [
             "Wintersday/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -167730,6 +169520,16 @@
           "cats": [
             "Wintersday/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -167745,6 +169545,16 @@
           "cats": [
             "Wintersday/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -167760,6 +169570,16 @@
           "cats": [
             "Wintersday/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -168323,6 +170143,16 @@
           "cats": [
             "Wintersday/items"
           ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Charity Corps Seraph (Wintersday Skins)",
+            "cost": "504 Karma",
+            "item": null,
+            "limit": null,
+            "festival": "Wintersday"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",

@@ -26,6 +26,7 @@
 
   const ACQ_LABEL = {
     vendor: "Festival vendor",
+    "vendor-past": "Past festival vendor",
     "trick-or-treat": "Trick-or-Treat bag",
     chest: "Courtly Weapon Chest",
     achievement: "Achievement chest",

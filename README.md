@@ -45,8 +45,8 @@ Unlocked only / Locked only" filter, with a lock/unlock badge on every card.
 
 ### Festival tabs
 
-A second tab row lists each festival - Lunar New Year, Super Adventure
-Festival, Dragon Bash, Festival of the Four Winds, Halloween and Wintersday -
+A second tab row lists each festival - Lunar New Year, Super Adventure Box,
+Dragon Bash, Festival of the Four Winds, Halloween and Wintersday -
 with its skins, minis and novelties and the same unlocked/locked filter. These
 span every year, so a festival skin also appears in its release-window tab.
 
@@ -58,14 +58,23 @@ span every year, so a festival skin also appears in its release-window tab.
    linked from its weapon, armor, mini and tonic sections, plus every full
    weapon set it lists (e.g. Halloween's Candy Core / Unchained sets, Dragon
    Bash's Sacred Crystal set), whose members come from `Category:<set>`.
-3. The festival's vendors (the "Vendors" section of its page): their item
-   tables give cost and weekly limits, both for single items and for the
-   "Trader's ... Chest (choice)" style chests that hold a whole set.
+3. The festival's vendors: the "Vendors" section of its page plus an
+   `extraVendors` list in `FESTIVALS` for merchants that section doesn't link,
+   found by diffing against the wiki's `Category:Festival Merchants` (e.g. the
+   Super Adventure Box Trader, Weaponsmith and Weekly Trader, the Four Winds
+   Bazaar merchants, Court Merchant, Lunatic Chef, Fortune Scrap Vendor).
+   Their item tables give cost and weekly limits, both for single items and
+   for the "Trader's ... Chest (choice)" style chests that hold a whole set.
+   Vendors whose title ends "(historical)" are tagged "past festival vendor"
+   instead of a current source.
 
 Everything is matched by name to the API's skins, minis and novelties
 (novelties also by their unlock item's name), so it is best-effort: anything
 the wiki doesn't link from those sources won't show up. Super Adventure Box
-has no `/items` page, so it comes from categories only (no vendor info).
+has no `/items` page, so its weapon sets are taken from its
+`Category:<Set> weapons` categories instead. April Fools' Vendor is in
+`Category:Festival Merchants` but sells Fool's tonics and cat armor boxes, not
+festival content, so it is left out.
 
 Weapons, minis and novelties also get an **acquisition** tag and a filter
 listing only the sources present in the tab: festival vendor (tooltip shows

@@ -22,21 +22,38 @@ const API = "https://api.guildwars2.com/v2";
 
 // In calendar order. `page` is the wiki article/category stem.
 const FESTIVALS = [
-  { key: "lunar-new-year", label: "Lunar New Year", emoji: "🧧", page: "Lunar New Year" },
+  // `extraVendors`: merchants the wiki files under Category:Festival Merchants
+  // (or the festival's own categories) that the festival page's "Vendors"
+  // section doesn't link. Titles containing "(historical)" are treated as
+  // vendors that no longer sell anything.
+  { key: "lunar-new-year", label: "Lunar New Year", emoji: "🧧", page: "Lunar New Year", extraVendors: ["Fortune Scrap Vendor"] },
   {
-    key: "super-adventure-festival",
-    label: "Super Adventure Festival",
+    key: "super-adventure-box",
+    label: "Super Adventure Box",
     emoji: "🕹️",
     page: "Super Adventure Box",
     seeds: ["Category:Super Adventure Box", "Category:Super Adventure Box miniatures", "Category:Super Adventure Box weapons"],
+    extraVendors: ["Super Adventure Box Trader", "Super Adventure Box Weaponsmith", "Super Adventure Box Weekly Trader"],
   },
-  { key: "dragon-bash", label: "Dragon Bash", emoji: "🐉", page: "Dragon Bash" },
+  { key: "dragon-bash", label: "Dragon Bash", emoji: "🐉", page: "Dragon Bash", extraVendors: ["Dragon Bash Vendor"] },
   {
     key: "four-winds",
     label: "Festival of the Four Winds",
     emoji: "🪁",
     page: "Festival of the Four Winds",
     seeds: ["Category:Bazaar of the Four Winds", "Category:Queen's Jubilee"],
+    extraVendors: [
+      "Four Winds Vendor",
+      "Andile",
+      "Haming",
+      "Lonan",
+      "Penna",
+      "Zalman",
+      "Bartender (Bazaar Docks)",
+      "Ebonhawke Emissary (historical)",
+      "Hoelbrak Emissary (historical)",
+      "Rata Sum Emissary (historical)",
+    ],
   },
   {
     key: "halloween",
@@ -53,8 +70,9 @@ const FESTIVALS = [
     // Item pages in this category carry per-weapon acquisition (mystic forge,
     // Trick-or-Treat bags, ...) not visible from vendor tables.
     weaponCategory: "Category:Halloween weapons",
+    extraVendors: ["Court Merchant", "Lunatic Chef"],
   },
-  { key: "wintersday", label: "Wintersday", emoji: "❄️", page: "Wintersday" },
+  { key: "wintersday", label: "Wintersday", emoji: "❄️", page: "Wintersday", extraVendors: ["Charity Corps Seraph (historical)"] },
 ];
 
 const MAX_DEPTH = 3;
@@ -140,7 +158,7 @@ async function crawlCategories(seeds, titles) {
     }
     frontier = next;
   }
-  return visited.size;
+  return visited;
 }
 
 // 2. The "<Festival>/items" index: candidate item titles and weapon-set pages.
@@ -174,15 +192,21 @@ function parseSalesTables(html, vendor, sales) {
       if (cells.length <= costIdx) continue;
       const raw = strip(cells[0]);
       const limit = raw.match(/\(([^)]*per (?:week|day|account)[^)]*)\)/i)?.[1] ?? null;
-      const item = raw.replace(/\s*\([^)]*\)\s*/g, " ").trim();
+      // Prefer the row's first link (the item's real title) over its text, which
+      // can carry notes like "(Requires ... or ...)".
+      const linked = cells[0].match(/<a href="\/wiki\/[^"#]+" title="([^"]+)"/)?.[1];
+      const item = normalizeTitle(linked ? decodeHtml(linked) : raw.replace(/\s*\([^)]*\)\s*/g, " ").trim());
       const cost = costText(cells[costIdx]);
       if (!item || !cost || cost === "…") continue;
-      if (!sales.has(item)) sales.set(item, { vendor, cost, limit });
+      const historical = /\(historical\)/i.test(vendor);
+      const existing = sales.get(item);
+      // A current vendor always wins over a historical one.
+      if (!existing || (existing.historical && !historical)) sales.set(item, { vendor, cost, limit, historical });
     }
   }
 }
 
-async function crawlVendorSales(page) {
+async function crawlVendorSales(page, extraVendors = []) {
   const main = (await parsePageHtml(page)) ?? "";
   const sec = main.indexOf('id="Vendors"');
   const vendors = new Set();
@@ -193,6 +217,7 @@ async function crawlVendorSales(page) {
       if (!/Black Lion|^Edit|^Category:/.test(t)) vendors.add(t);
     }
   }
+  extraVendors.forEach((v) => vendors.add(v));
   const sales = new Map();
   for (const vendor of vendors) {
     const html = await parsePageHtml(vendor);
@@ -234,7 +259,7 @@ async function crawlWeaponSets(setTitles, sales, festival, skinNames) {
       const discontinued = new RegExp(`${escapeRegExp(anchor)}\\s*\\([^)]*discontinued`, "i").test(acqText);
       const sale = sales.get(anchor);
       if (sale && !discontinued) {
-        acq.add("vendor");
+        acq.add(sale.historical ? "vendor-past" : "vendor");
         vendor ??= { name: sale.vendor, cost: sale.cost, item: anchor, limit: sale.limit, festival: festival.label };
         continue;
       }
@@ -315,11 +340,14 @@ async function main() {
     const titles = new Map();
     const seeds = f.seeds ?? [];
     const allSeeds = [`Category:${f.page}`, `Category:Gem Store ${f.page} items`, `Category:${f.page} miniatures`, ...seeds];
-    const cats = await crawlCategories(allSeeds, titles);
-    const { setTitles, added } = await crawlItemsPage(f.page, titles);
-    console.log(`  ${cats} categories, +${added} titles from ${f.page}/items, ${setTitles.length} weapon sets`);
+    const visited = await crawlCategories(allSeeds, titles);
+    const items = await crawlItemsPage(f.page, titles);
+    // Festivals without an /items page (Super Adventure Box) still have one
+    // "<Set> weapons" category per set; those categories are the set list.
+    const setTitles = [...new Set([...items.setTitles, ...[...visited].map((c) => c.replace(/^Category:/, "")).filter((n) => / weapons$/.test(n) && n !== `${f.page} weapons`)])];
+    console.log(`  ${visited.size} categories, +${items.added} titles from ${f.page}/items, ${setTitles.length} weapon sets`);
 
-    const { sales, vendorCount } = await crawlVendorSales(f.page);
+    const { sales, vendorCount } = await crawlVendorSales(f.page, f.extraVendors);
     console.log(`  ${sales.size} vendor sale rows from ${vendorCount} vendor pages`);
 
     const setAcq = await crawlWeaponSets(setTitles, sales, f, skinNames);
@@ -329,7 +357,7 @@ async function main() {
     const labelFor = (name) => [...(titles.get(name) ?? [])].slice(0, 4);
     const saleFor = (name) => {
       const s = sales.get(name);
-      return s ? { acq: ["vendor"], vendor: { name: s.vendor, cost: s.cost, item: null, limit: s.limit, festival: f.label } } : null;
+      return s ? { acq: [s.historical ? "vendor-past" : "vendor"], vendor: { name: s.vendor, cost: s.cost, item: null, limit: s.limit, festival: f.label } } : null;
     };
 
     const fSkins = skins

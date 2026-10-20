@@ -10,7 +10,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { getCategoryMembers } from "./wikiApi.mjs";
+import { getCategoryMembers, parsePageHtml } from "./wikiApi.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA = path.join(__dirname, "..", "data");
@@ -32,7 +32,74 @@ const SKIP_SUBCAT = /screenshot|events$|creatures|recipes|area maps/i;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 function normalizeTitle(title) {
-  return title.replace(/ \((light|medium|heavy) skin\)$/, "").replace(/ Skin$/, "");
+  return title
+    .replace(/ \((light|medium|heavy) skin\)$/, "")
+    .replace(/ \((weapon|masterwork)\)$/, "")
+    .replace(/ Skin$/, "");
+}
+
+const strip = (s) =>
+  s
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&#160;|&nbsp;|&#8201;/g, " ")
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, " ")
+    .trim();
+
+// Cost cells hold currency icons as <img alt="Candy Corn Cob">; keep the alt text.
+const costText = (cell) => strip(cell.replace(/<img[^>]*alt="([^"]*)"[^>]*>/g, " $1 ")).replace(/\s+\+\s+/g, " + ");
+
+// How a Halloween weapon is obtained, read from its wiki "Acquisition" section.
+// Keys: vendor (festival vendor, Halloween only), trick-or-treat, chest
+// (Courtly Weapon Chest), mystic-forge, collection (Mad Armory), drop.
+function classifyAcquisition(html) {
+  const a = html.indexOf('id="Acquisition"');
+  if (a < 0) return null;
+  let seg = html.slice(a);
+  const end = seg.search(/<h2/);
+  if (end > 0) seg = seg.slice(0, end);
+  const text = strip(seg);
+
+  const acq = new Set();
+  let vendor = null;
+
+  const soldAt = seg.indexOf('id="Sold_by"');
+  if (soldAt >= 0) {
+    let sold = seg.slice(soldAt);
+    const next = sold.slice(20).search(/<h3/);
+    if (next > 0) sold = sold.slice(0, next + 20);
+    for (const row of sold.match(/<tr>[\s\S]*?<\/tr>/g) ?? []) {
+      const cells = [...row.matchAll(/<td[^>]*>([\s\S]*?)<\/td>/g)].map((m) => m[1]);
+      if (cells.length < 5 || !/festival\s+Halloween/i.test(strip(cells[4]))) continue;
+      acq.add("vendor");
+      vendor = { name: strip(cells[0]), area: strip(cells[1]), zone: strip(cells[2]), cost: costText(cells[3]) };
+    }
+  }
+  if (/Trick-or-Treat Bag/.test(text)) acq.add("trick-or-treat");
+  if (/Courtly Weapon Chest/.test(text)) acq.add("chest");
+  if (/Source\s+Mystic Forge/.test(text)) acq.add("mystic-forge");
+  if (/Festival Collections/.test(text)) acq.add("collection");
+  if (/Drops from any Halloween creature/.test(text)) acq.add("drop");
+  return { acq, vendor };
+}
+
+async function crawlWeaponAcquisition() {
+  const pages = await getCategoryMembers("Category:Halloween weapons", { cmtype: "page" });
+  const byName = new Map();
+  for (const p of pages) {
+    if (p.title === "Halloween weapons") continue;
+    const html = await parsePageHtml(p.title);
+    await sleep(50);
+    const info = html && classifyAcquisition(html);
+    if (!info) continue;
+    const key = normalizeTitle(p.title);
+    const cur = byName.get(key) ?? { acq: new Set(), vendor: null };
+    info.acq.forEach((k) => cur.acq.add(k));
+    cur.vendor ??= info.vendor;
+    byName.set(key, cur);
+  }
+  console.log(`Classified acquisition for ${byName.size} Halloween weapons.`);
+  return byName;
 }
 
 async function fetchJson(url) {
@@ -83,18 +150,24 @@ async function main() {
   const titles = await crawlHalloween();
   const cats = (name) => [...(titles.get(name) ?? [])].slice(0, 4);
 
+  const weaponAcq = await crawlWeaponAcquisition();
+
   const skins = JSON.parse(await readFile(path.join(DATA, "skins.json"), "utf8"));
   const haloSkins = skins
     .filter((s) => titles.has(s.name))
-    .map((s) => ({
-      id: s.id,
-      name: s.name,
-      type: s.type,
-      rarity: s.rarity,
-      weight_class: s.details?.weight_class ?? null,
-      icon: s.icon ?? null,
-      cats: cats(s.name),
-    }));
+    .map((s) => {
+      const info = s.type === "Weapon" ? weaponAcq.get(s.name) : null;
+      return {
+        id: s.id,
+        name: s.name,
+        type: s.type,
+        rarity: s.rarity,
+        weight_class: s.details?.weight_class ?? null,
+        icon: s.icon ?? null,
+        cats: cats(s.name),
+        ...(info && info.acq.size ? { acq: [...info.acq], vendor: info.vendor } : {}),
+      };
+    });
 
   console.log("Fetching minis and novelties...");
   const miniIds = await fetchJson(`${API}/minis`);
@@ -129,6 +202,8 @@ async function main() {
   };
   await writeFile(path.join(DATA, "halloween.json"), JSON.stringify(out, null, 2));
   console.log(`Halloween: ${haloSkins.length} skins, ${haloMinis.length} minis, ${haloNovelties.length} novelties.`);
+  const vendorSkins = haloSkins.filter((s) => s.acq?.includes("vendor"));
+  console.log(`Sold by a Halloween-only festival vendor: ${vendorSkins.map((s) => s.name).join(", ")}`);
   console.log(`Wrote ${path.join(DATA, "halloween.json")}`);
 }
 

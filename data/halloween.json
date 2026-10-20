@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:45:17.406Z",
+  "generatedAt": "2026-10-20T20:43:33.734Z",
   "seeds": [
     "Category:Halloween",
     "Category:Gem Store Halloween items",
@@ -19,7 +19,11 @@
       "icon": "https://render.guildwars2.com/file/925E286ED3BFC3251EEF7643B6497FBBF6DDAD94/1862055.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "mystic-forge"
+      ],
+      "vendor": null
     },
     {
       "id": 4686,
@@ -30,7 +34,11 @@
       "icon": "https://render.guildwars2.com/file/21520F6DD5227CEFD1CBB5487A0C194756C99778/499380.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "mystic-forge"
+      ],
+      "vendor": null
     },
     {
       "id": 10130,
@@ -41,7 +49,17 @@
       "icon": "https://render.guildwars2.com/file/BE5F4B3F08D0AB42175BBE1652AE15EC599AF4A9/2498631.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 6412,
@@ -129,7 +147,11 @@
       "icon": "https://render.guildwars2.com/file/730F06F12C7BE2559A03992894B4FA3594D857C5/2212697.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "collection"
+      ],
+      "vendor": null
     },
     {
       "id": 3696,
@@ -151,7 +173,17 @@
       "icon": "https://render.guildwars2.com/file/AF4A0C6C92B696E591C22D1767B7995FEB05219D/2498603.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 1121,
@@ -558,7 +590,11 @@
       "icon": "https://render.guildwars2.com/file/9541E7CE05AC135415CA290AD15C619AFBC51F6B/1507960.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat"
+      ],
+      "vendor": null
     },
     {
       "id": 4694,
@@ -580,7 +616,17 @@
       "icon": "https://render.guildwars2.com/file/1BF92CF70234B1FEB7144FBABC01C26962E162B6/3171959.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 11071,
@@ -591,7 +637,17 @@
       "icon": "https://render.guildwars2.com/file/7745012474E571E41342732D5D61B23AB19FF62D/2752717.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 11850,
@@ -602,7 +658,17 @@
       "icon": "https://render.guildwars2.com/file/E84AAF1D2B02340543D6C2A29D7900CF365D5A98/3171978.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 8103,
@@ -624,7 +690,11 @@
       "icon": "https://render.guildwars2.com/file/F65FF91EFDA6F6A44E98DD62422E1FBC59A96A40/1507990.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat"
+      ],
+      "vendor": null
     },
     {
       "id": 6217,
@@ -660,6 +730,21 @@
       ]
     },
     {
+      "id": 8965,
+      "name": "Last Rites",
+      "type": "Weapon",
+      "rarity": "Basic",
+      "weight_class": null,
+      "icon": "https://render.guildwars2.com/file/09AF41200737DD173102E64B411C6272C51407E7/2212669.png",
+      "cats": [
+        "Halloween weapons"
+      ],
+      "acq": [
+        "collection"
+      ],
+      "vendor": null
+    },
+    {
       "id": 10132,
       "name": "Luminous Wings",
       "type": "Weapon",
@@ -668,7 +753,17 @@
       "icon": "https://render.guildwars2.com/file/04A57C0CF92704FFEBE8066F5D0A0A37AF0642AA/2498613.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 7793,
@@ -1022,7 +1117,11 @@
       "icon": "https://render.guildwars2.com/file/05C757AD9FECB54A31376EE55E1206EB6EE20F3E/1203504.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat"
+      ],
+      "vendor": null
     },
     {
       "id": 6161,
@@ -1066,7 +1165,17 @@
       "icon": "https://render.guildwars2.com/file/5DAF8098F0D6E067E3A3A502F8D8C745E491AEB1/2752581.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 6216,
@@ -1077,7 +1186,11 @@
       "icon": "https://render.guildwars2.com/file/0FB13F4CBDF607466E7737A13934A03158794F91/1203495.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat"
+      ],
+      "vendor": null
     },
     {
       "id": 6991,
@@ -1088,7 +1201,11 @@
       "icon": "https://render.guildwars2.com/file/C07FA6B24FF4CA90CAB9DFC7E4B46238E993D206/1508024.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat"
+      ],
+      "vendor": null
     },
     {
       "id": 11055,
@@ -1099,7 +1216,17 @@
       "icon": "https://render.guildwars2.com/file/4C142E64616E480464187FF5C27EEA1560EB5319/2752725.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 995,
@@ -1146,7 +1273,11 @@
       "icon": "https://render.guildwars2.com/file/001B19373E2E466600B779C7AAAFC06C7580AC59/2056173.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat"
+      ],
+      "vendor": null
     },
     {
       "id": 11858,
@@ -1157,7 +1288,17 @@
       "icon": "https://render.guildwars2.com/file/FC615CA41FB11DC9447FF9040977D45CFFD47C98/3171969.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 12613,
@@ -1168,7 +1309,17 @@
       "icon": "https://render.guildwars2.com/file/B7D3AF024D55D5BA0009E5ED2E59527FB0EA3853/3429473.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 12600,
@@ -1179,7 +1330,17 @@
       "icon": "https://render.guildwars2.com/file/9651F70AFA68CBFD440BB6A39CC507A16DD9FD59/3429483.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 12614,
@@ -1190,7 +1351,17 @@
       "icon": "https://render.guildwars2.com/file/F6120917CA63E9069C154408C73D3A9A0C7A767C/3429491.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "vendor",
+        "chest"
+      ],
+      "vendor": {
+        "name": "Sparking Stone",
+        "area": "Grand Piazza",
+        "zone": "Lion's Arch",
+        "cost": "15 Candy Corn Cob + 4 Gold coin"
+      }
     },
     {
       "id": 3711,
@@ -1256,7 +1427,11 @@
       "icon": "https://render.guildwars2.com/file/0839DFA41B2CF8DA980EE6640535660D451BAC75/1862054.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "mystic-forge"
+      ],
+      "vendor": null
     },
     {
       "id": 3831,
@@ -1289,7 +1464,11 @@
       "icon": "https://render.guildwars2.com/file/D0E4B220546A70E5591B9BFCD9FE7DAA925F1BB7/2056201.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat"
+      ],
+      "vendor": null
     },
     {
       "id": 4692,
@@ -1300,7 +1479,11 @@
       "icon": "https://render.guildwars2.com/file/A8EE08C70274DCE7965BEE05F1F6CFA01DC0552A/499401.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "mystic-forge"
+      ],
+      "vendor": null
     },
     {
       "id": 8435,
@@ -1311,7 +1494,11 @@
       "icon": "https://render.guildwars2.com/file/C8681D1E654CE7C92C159E4D71D34F20C3AFCB23/2056188.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat"
+      ],
+      "vendor": null
     },
     {
       "id": 4688,
@@ -1322,7 +1509,11 @@
       "icon": "https://render.guildwars2.com/file/29706FC1D52EE30736F929FA91E73D78EF400756/499394.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "mystic-forge"
+      ],
+      "vendor": null
     },
     {
       "id": 8091,
@@ -1355,7 +1546,11 @@
       "icon": "https://render.guildwars2.com/file/1503779228D9FAC105DB29DD950226B51DAA5369/2056202.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "mystic-forge"
+      ],
+      "vendor": null
     },
     {
       "id": 7787,
@@ -1366,7 +1561,11 @@
       "icon": "https://render.guildwars2.com/file/B4740EF370AF2D2C54A25F2C27D506D508D40C4C/1862057.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat"
+      ],
+      "vendor": null
     },
     {
       "id": 6312,
@@ -1377,7 +1576,12 @@
       "icon": "https://render.guildwars2.com/file/E432275E3ED7054016E819962E0DF1FB04D2801B/1203481.png",
       "cats": [
         "Halloween weapons"
-      ]
+      ],
+      "acq": [
+        "trick-or-treat",
+        "drop"
+      ],
+      "vendor": null
     }
   ],
   "minis": [

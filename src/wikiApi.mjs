@@ -35,6 +35,12 @@ export async function getCategoryMembers(categoryTitle, { cmtype = "page|subcat"
   return members;
 }
 
+/** Rendered HTML of a wiki article (needed for template-driven tables like "Sold by"). */
+export async function parsePageHtml(title) {
+  const json = await apiGet({ action: "parse", page: title, prop: "text", disablelimitreport: "1" });
+  return json?.parse?.text?.["*"] ?? null;
+}
+
 /**
  * For a list of article titles, returns a Map from title to
  * { missing: false, timestamp } (ISO timestamp of that page's first ever

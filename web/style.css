@@ -308,6 +308,7 @@ header.hero p {
 .source-date-inferred { background: var(--badge-date-inferred); color: #2a2200; }
 .source-unknown { background: var(--badge-unknown); color: #1c1b18; }
 .source-event { background: #e8890c; color: #2a1400; }
+.pill-vendor { border-color: #e8890c; color: #e8890c; font-weight: 600; }
 
 .card.is-locked { opacity: 0.5; }
 .unlock-badge {

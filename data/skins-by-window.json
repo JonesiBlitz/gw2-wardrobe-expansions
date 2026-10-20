@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:46:07.974Z",
+  "generatedAt": "2026-10-20T20:43:57.144Z",
   "totalSkins": 10612,
   "windows": [
     {
@@ -138037,7 +138037,7 @@
       "to": null,
       "event": true,
       "note": "Shadow of the Mad King / Blood and Madness skins, minis and novelties. These span every era - skins here also appear in their release-window tab.",
-      "count": 184,
+      "count": 185,
       "skins": [
         {
           "id": 7802,
@@ -138049,6 +138049,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "mystic-forge"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -138064,6 +138068,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "mystic-forge"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -138079,6 +138087,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -138216,6 +138234,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "collection"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -138246,6 +138268,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -138914,6 +138946,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -138944,6 +138980,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -138959,6 +139005,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -138990,6 +139046,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -139036,6 +139102,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -139087,6 +139157,25 @@
           "wikiFirstSeen": null
         },
         {
+          "id": 8965,
+          "name": "Last Rites",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/09AF41200737DD173102E64B411C6272C51407E7/2212669.png",
+          "cats": [
+            "Halloween weapons"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Halloween weapons",
+          "wikiFirstSeen": null
+        },
+        {
           "id": 10132,
           "name": "Luminous Wings",
           "type": "Weapon",
@@ -139096,6 +139185,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140364,6 +140463,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140424,6 +140527,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140439,6 +140552,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140454,6 +140571,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140469,6 +140590,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140532,6 +140663,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140563,6 +140698,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140578,6 +140723,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140593,6 +140748,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140608,6 +140773,16 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "vendor",
+            "chest"
+          ],
+          "vendor": {
+            "name": "Sparking Stone",
+            "area": "Grand Piazza",
+            "zone": "Lion's Arch",
+            "cost": "15 Candy Corn Cob + 4 Gold coin"
+          },
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140714,6 +140889,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "mystic-forge"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140759,6 +140938,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140774,6 +140957,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "mystic-forge"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140789,6 +140976,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140804,6 +140995,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "mystic-forge"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140849,6 +141044,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "mystic-forge"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140864,6 +141063,10 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
@@ -140879,6 +141082,11 @@
           "cats": [
             "Halloween weapons"
           ],
+          "acq": [
+            "trick-or-treat",
+            "drop"
+          ],
+          "vendor": null,
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",

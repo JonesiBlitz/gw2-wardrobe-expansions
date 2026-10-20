@@ -24,12 +24,26 @@
     event: "source-event",
   };
 
+  const ACQ_LABEL = {
+    vendor: "Halloween vendor",
+    "trick-or-treat": "Trick-or-Treat bag",
+    chest: "Courtly Weapon Chest",
+    "mystic-forge": "Mystic Forge",
+    collection: "Mad Armory collection",
+    drop: "Halloween drop",
+  };
+
+  function vendorTitle(v) {
+    return `Sold by ${v.name} (${v.area}, ${v.zone}) for ${v.cost} - only while the Halloween festival is running`;
+  }
+
   const state = {
     windowKey: DATA.windows[0].key,
     search: "",
     type: "",
     source: "",
     unlock: "all",
+    acq: "",
     visible: PAGE_SIZE,
     unlockedIds: null, // null = no wardrobe synced; else Set<number> of skin ids
     unlockedMinis: null, // Set<number> of mini ids, or null if unavailable
@@ -50,6 +64,7 @@
     typeFilter: document.getElementById("typeFilter"),
     sourceFilter: document.getElementById("sourceFilter"),
     unlockFilter: document.getElementById("unlockFilter"),
+    acqFilter: document.getElementById("acqFilter"),
     unlockHintBtn: document.getElementById("unlockHintBtn"),
     resultCount: document.getElementById("resultCount"),
     grid: document.getElementById("grid"),
@@ -113,6 +128,7 @@
       const q = state.search.toLowerCase();
       if (!skin.name.toLowerCase().includes(q)) return false;
     }
+    if (state.acq && !(skin.acq && skin.acq.includes(state.acq))) return false;
     if (state.unlock !== "all") {
       const unlocked = isUnlocked(skin);
       if (unlocked !== null) {
@@ -187,6 +203,14 @@
     sourceBadge.title = skin.sourceLabel;
     meta.appendChild(sourceBadge);
 
+    for (const key of skin.acq || []) {
+      const pill = document.createElement("span");
+      pill.className = "pill" + (key === "vendor" ? " pill-vendor" : "");
+      pill.textContent = ACQ_LABEL[key] || key;
+      if (key === "vendor" && skin.vendor) pill.title = vendorTitle(skin.vendor);
+      meta.appendChild(pill);
+    }
+
     const unlocked = isUnlocked(skin);
     if (unlocked !== null) {
       div.classList.toggle("is-locked", !unlocked);
@@ -211,9 +235,14 @@
     els.unlockFilter.style.display = hasWardrobe ? "" : "none";
     els.unlockHintBtn.style.display = hasWardrobe ? "none" : "";
     els.sourceFilter.style.display = win.event ? "none" : "";
+    els.acqFilter.style.display = win.event ? "" : "none";
     if (win.event && state.source) {
       state.source = "";
       els.sourceFilter.value = "";
+    }
+    if (!win.event && state.acq) {
+      state.acq = "";
+      els.acqFilter.value = "";
     }
 
     const filtered = win.skins.filter(matchesFilters);
@@ -254,6 +283,11 @@
   });
   els.sourceFilter.addEventListener("change", () => {
     state.source = els.sourceFilter.value;
+    state.visible = PAGE_SIZE;
+    render();
+  });
+  els.acqFilter.addEventListener("change", () => {
+    state.acq = els.acqFilter.value;
     state.visible = PAGE_SIZE;
     render();
   });

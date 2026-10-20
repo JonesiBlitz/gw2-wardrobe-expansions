@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:43:57.144Z",
+  "generatedAt": "2026-10-20T20:49:47.043Z",
   "totalSkins": 10612,
   "windows": [
     {
@@ -138037,7 +138037,7 @@
       "to": null,
       "event": true,
       "note": "Shadow of the Mad King / Blood and Madness skins, minis and novelties. These span every era - skins here also appear in their release-window tab.",
-      "count": 185,
+      "count": 300,
       "skins": [
         {
           "id": 7802,
@@ -138225,6 +138225,499 @@
           "wikiFirstSeen": null
         },
         {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12605,
+          "name": "Candy Core Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/02E9AF5B54089E452BC19A93BC100DFF1C3294E1/3429516.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12643,
+          "name": "Candy Core Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F045E66F27489C3BF70A2ECB12131F011CA7E3A1/3429549.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12610,
+          "name": "Candy Core Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F69EB56F799C00969DF1349A9C7CD9F93F7F7D02/3429564.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12624,
+          "name": "Candy Core Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/CCC20816101F007E49737D47702B416E600A6B62/3429583.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12633,
+          "name": "Candy Core Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/07EC6857A63A9276ADB2E47C3F49A1C6567164FC/3429600.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12634,
+          "name": "Candy Core Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/EFBD0EC06D9E8000036EF99DF7390DF492017DAF/3429532.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12606,
+          "name": "Candy Core Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0B062AE5BD7B320C4152C5250E13D05E113A33D2/3429616.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12640,
+          "name": "Candy Core Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/337DBAF31038CC49C1C7EEC22400CAE7C8C1F718/3429630.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12638,
+          "name": "Candy Core Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/CCD554D2BDD9330D050B251C0755359D43290F96/3429644.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12609,
+          "name": "Candy Core Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/3C06BB3F7DECD4E8624CDCADC815D9932609E870/3429660.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12622,
+          "name": "Candy Core Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A6C558589EAACE1C050609473508E4F6F221CA2F/3429676.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12635,
+          "name": "Candy Core Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/98FFB493FFB2D3DA7B1914089E352E0E17C13E05/3429692.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12607,
+          "name": "Candy Core Spear",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/53B462C2C17418C342D3A27E1A49CF4E06FF1449/3429708.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12619,
+          "name": "Candy Core Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7E6A94D6A6E079DEC2F6AEE6EBB212291941B098/3429725.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12641,
+          "name": "Candy Core Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F70CFE21969FBB2C56BFB3DA50E2D87C9B1CCDD2/3429743.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12608,
+          "name": "Candy Core Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/964196C0C39AE07F980F0D3B6B4C1E6F177E316C/3429758.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Candy Core weapons",
+          "released": "October 15, 2024",
+          "id": 12621,
+          "name": "Candy Core Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9E3E76E376A4EB3D4FC701A90FDF057C07334B6E/3429775.png",
+          "cats": [
+            "Candy Core weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Candy Core Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Candy Core weapons",
+          "wikiFirstSeen": null
+        },
+        {
           "id": 8999,
           "name": "Carapace of Chaos",
           "type": "Weapon",
@@ -138256,6 +138749,380 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Shadow of the Mad King weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11082,
+          "name": "Chained Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/6F16C42B4B76057E74C81A46BAD8751A08066292/2752589.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11064,
+          "name": "Chained Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C617E21904ACD8EFD203095D78EEC6D3CD68C5D3/2752608.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11084,
+          "name": "Chained Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C5B46801E4A0BF6D173F2E7D3AA9219823E7065C/2752616.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11067,
+          "name": "Chained Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E3FE6461F44FB575407BD8B0929AEFD6D496BB0E/2752624.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11061,
+          "name": "Chained Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/792AA3DB0E7111CD3810571676599CCBDEDD6F70/2752633.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11079,
+          "name": "Chained Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9D60AF4ED97CD5F798B52D589CD96F57C10F07BE/2752600.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11088,
+          "name": "Chained Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A03A56375B3EE821ECB8BDC979ADD6AE2FECF11C/2752641.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11085,
+          "name": "Chained Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/560EC56309B49DE3F05902C50C4F0A97A27E3B6B/2752650.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11089,
+          "name": "Chained Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0F726C739B1944EDD1CD7AB84CD4C6DF2916B96D/2752658.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11054,
+          "name": "Chained Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/AF5B663928D91306073C65F1063780CE5F1D460B/2752666.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11094,
+          "name": "Chained Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E4903BDA4CD670B50FC8F00352D8CEF727423DBD/2752674.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11090,
+          "name": "Chained Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D49A44A83BB7647FBC7D9636F473C66BE555D978/2752682.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 13256,
+          "name": "Chained Spear",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0169D2FE5AF5687F12C07AD798D0A626677700AD/3695593.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11073,
+          "name": "Chained Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/68DE390CCF67ECA741B830EA689FA971E7C7AA01/2752692.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11098,
+          "name": "Chained Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/08671012C566C5C2B53EB0DA5AA9B1A54CBD0656/2752693.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11093,
+          "name": "Chained Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7CEBF12A770653EF9E46CF5BBFE44F1D49069B67/2752708.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Chained weapons",
+          "released": "October 18, 2022",
+          "id": 11076,
+          "name": "Chained Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/04C1802939D11DC508A651069CB3035BFE4E0E39/2752716.png",
+          "cats": [
+            "Chained weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "prize-bag"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Chained weapons",
           "wikiFirstSeen": null
         },
         {
@@ -138416,6 +139283,454 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween armor skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9626,
+          "name": "Demon-Haunted Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B3C3953977D95498E93B30FA49C4B3DA79153EE1/2343679.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9641,
+          "name": "Demon-Haunted Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/417A1E174452BEB0C3034A725B06345A0B6FEFF3/2343734.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9648,
+          "name": "Demon-Haunted Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0BFCB40C473CC49CE27BC67363981A0B47DCFF15/2343744.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9619,
+          "name": "Demon-Haunted Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A05070F8C114B6E67C293F06B3C8551D9A72C173/2343748.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9642,
+          "name": "Demon-Haunted Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/1103060376AD02900163179A9F3FCC0E0FE56BF6/2343756.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9628,
+          "name": "Demon-Haunted Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/2DD903B049D76F5A4D0A791BDBDC031837719191/2343695.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9622,
+          "name": "Demon-Haunted Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/4010B0795FB4DE6F4B4C42E5FDD8136007D170A7/2343760.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9650,
+          "name": "Demon-Haunted Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/4314DA171F50E758FDAF90FAD6270DF7442166CD/2344154.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9639,
+          "name": "Demon-Haunted Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E3AC067AD63C547C0E75645495171898760B38F7/2344160.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9647,
+          "name": "Demon-Haunted Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/77361F390F6D91F643E35BCE71FE6249E0C271D9/2344164.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9620,
+          "name": "Demon-Haunted Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F3F16608FBF74E94C6B7FAECF4A64B0FF74434E4/2344170.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9652,
+          "name": "Demon-Haunted Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/38A9050D0CFA3505F51A7C371E557D0D04029A40/2343703.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9633,
+          "name": "Demon-Haunted Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/BC6CBD0C49DA290B02215DAB642A3C2E6B162A1D/2344172.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9632,
+          "name": "Demon-Haunted Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9CD709E355EF2E2603D57BE6716EB84ED8B0276C/2344174.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9631,
+          "name": "Demon-Haunted Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/94809D31D506F4CBA73AD61450F13D06D14A610D/2344176.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Demon-Haunted weapons",
+          "released": "October 13, 2020",
+          "id": 9644,
+          "name": "Demon-Haunted Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A0EE503AA73E68BAD7567398067A70A26F470F95/2344180.png",
+          "cats": [
+            "Demon-Haunted weapons"
+          ],
+          "acq": [
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Lunatic Weaponsmith Markham",
+            "area": "",
+            "zone": "",
+            "cost": "2 Gold coin + 4 Candy Corn Cob",
+            "item": null,
+            "limit": null
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Demon-Haunted weapons",
           "wikiFirstSeen": null
         },
         {
@@ -138937,6 +140252,470 @@
           "wikiFirstSeen": null
         },
         {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11853,
+          "name": "Grim Machine Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/1B49A9A2FA0404A678F595385B06060DD3E43911/3172000.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11851,
+          "name": "Grim Machine Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/91A7E20418C856A6B1C9C5CEFAD9A0A30F5CC520/3172022.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11854,
+          "name": "Grim Machine Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/79B4FC3AFA3BEF73310E1158A0BEF2E4E1099876/3172036.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11848,
+          "name": "Grim Machine Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5F0DA709080EB8044C930D28070DDFEBD02AD5F0/3172048.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11852,
+          "name": "Grim Machine Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/3EE8E0FB916B6B560D2299356F47934D9B47F934/3172059.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11855,
+          "name": "Grim Machine Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/38CD072AF39425E7722C583A7137B2489524C9D0/3172011.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11856,
+          "name": "Grim Machine Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/71B25734E0EE76FDCB01C3326180D608BE1C1F21/3172070.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11872,
+          "name": "Grim Machine Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B5240F533EC3E8D62C38D7190D5B272C06EDE0FA/3172082.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11860,
+          "name": "Grim Machine Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/EA55CEE4F31149D773A391017F499F0E9B15FA0F/3172093.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11870,
+          "name": "Grim Machine Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F9CE104CBCA44B6E4B354DC1B70BB100924A50FB/3172104.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11866,
+          "name": "Grim Machine Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/91C2457C020C0CE8EE0ABD7FEB1A04C9C92A20A7/3172115.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11869,
+          "name": "Grim Machine Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/FE2318BA4B7570ADE6445C093459D65707C97A49/3172126.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11847,
+          "name": "Grim Machine Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E07BEC0B55CC90F23F373EDF265EE028A9951DFA/3172140.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11861,
+          "name": "Grim Machine Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/13A49AEED83E5C533D296EBDF9AF6FFC70A4FE65/3172151.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11868,
+          "name": "Grim Machine Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B7AC3705AA265A0EB65E0E917B07150E3E7FC339/3172162.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Grim Machine weapons",
+          "released": "October 17, 2023",
+          "id": 11859,
+          "name": "Grim Machine Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7358CE0191AD717B44C0A23278D6B54FA1169F59/3172173.png",
+          "cats": [
+            "Grim Machine weapons"
+          ],
+          "acq": [
+            "achievement-past",
+            "vendor"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Grim Machine Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Grim Machine weapons",
+          "wikiFirstSeen": null
+        },
+        {
           "id": 6994,
           "name": "Grim Pact",
           "type": "Weapon",
@@ -139021,6 +140800,69 @@
           "wikiFirstSeen": null
         },
         {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7785,
+          "name": "Haunted Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E7FA94210F49E6064525506D4ED0F167B0C50806/1862080.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7791,
+          "name": "Haunted Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E6FF556438150FB4569146A45B77CAB1E35B4006/1862081.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7795,
+          "name": "Haunted Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/DD0A74A76C3951B407E629249D61DEE4BF69CC30/1862082.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
           "id": 6,
           "name": "Haunted Gramophone",
           "slot": "Music",
@@ -139034,6 +140876,279 @@
           "weight_class": "Music",
           "source": "event",
           "sourceLabel": "Halloween: Gem Store Halloween items",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7762,
+          "name": "Haunted Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/52540BF75ED9367AC856EDC804AB38F3C5C852BA/1862083.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7767,
+          "name": "Haunted Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/ECF73E3266780AD231CA21075A157FC1BCB69520/1862084.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7758,
+          "name": "Haunted Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/FBCD25DAF7637DB5E5C7061669FCC304D546767A/1862085.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7761,
+          "name": "Haunted Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/CF9DB4987EACA3D84F27D20732AEF20F03E54B7F/1862086.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7772,
+          "name": "Haunted Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A3F079F00EB5A4920F577E985D2E4BC6C06F2D1E/1862087.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7769,
+          "name": "Haunted Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/2E3B064C0DAAD9BE1CD1F4FC244ADB1CBC1C09FA/1862088.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7794,
+          "name": "Haunted Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/79B5FFEA0134DF93754DC25B3FAE19DEEEC5A1F3/1862089.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7786,
+          "name": "Haunted Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0BADB4D0C704F2981F5FB12050BABFDA1B0F0CAB/1862090.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7777,
+          "name": "Haunted Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/590BC1FC0507E9AFD367AD09CD08131A7B32F259/1862091.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7801,
+          "name": "Haunted Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D4B248160FABE1085E68C4025504531AFF3AB046/1862092.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7764,
+          "name": "Haunted Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7FF2F9BE56509AAF0471E2D7EB1D9C9A333F1723/1862093.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7788,
+          "name": "Haunted Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D8B10FC1291D51C8680C180FB06C55075A4D6CEB/1862094.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Haunted weapons",
+          "released": "October 17, 2017",
+          "id": 7779,
+          "name": "Haunted Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C9B1CF1199C49A3D61FCF95D6019B2340B6DA21F/1862095.png",
+          "cats": [
+            "Haunted weapons"
+          ],
+          "acq": [
+            "achievement"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Haunted weapons",
           "wikiFirstSeen": null
         },
         {
@@ -140689,6 +142804,358 @@
           "wikiFirstSeen": null
         },
         {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8996,
+          "name": "Royal Flame Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/74459725B41A01CFB51D76D691AA3DEB37E3A7D2/2212637.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8975,
+          "name": "Royal Flame Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/3AD837C7AAF109A77F6AAC4D9EFD17106D5D94BF/2212651.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8977,
+          "name": "Royal Flame Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5953DBB3672FEC7E18E1397336AF76D6517E9790/2212657.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8983,
+          "name": "Royal Flame Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7E03210E07F50CD70A5CCBB095DE37E9A976DC1C/2212663.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 9004,
+          "name": "Royal Flame Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/80DBF0D7AB619A18A90AE9C650E250F419400AEE/2212676.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 9001,
+          "name": "Royal Flame Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5D18EC1A412C26EE2E43396CFE7C1512BF0D725B/2212644.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8990,
+          "name": "Royal Flame Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/ABE462C5B2396657F4D230ACF40AA651F0E715E9/2212682.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8994,
+          "name": "Royal Flame Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D744BFAC30306FECAD174859ED7905B0A60712F3/2212688.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8998,
+          "name": "Royal Flame Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/599ECCCB0356524B02AD4FE9E3F2945706E8613E/2212690.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8973,
+          "name": "Royal Flame Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F1165D9258F69FC402FCCA56E30E925171945F30/2212696.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8992,
+          "name": "Royal Flame Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A55F55C14271FF7CE147F420274FC772A3EE7438/2212710.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 9003,
+          "name": "Royal Flame Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/CA015ACC3FF04C5645AED257D01C6FAED67D7AA2/2212643.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8976,
+          "name": "Royal Flame Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7A32E3034A20B229F4C841E1972B2A0262F2A654/2212716.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8980,
+          "name": "Royal Flame Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7DFBEC429951407E0D0BBD1ED2F133443449D659/2212722.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 9002,
+          "name": "Royal Flame Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7897760841606797F160C6690C689A3437234151/2212729.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Royal Flame weapons",
+          "released": "October 15, 2019",
+          "id": 8974,
+          "name": "Royal Flame Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B67AD8542D6F01C4CF4416130521F5D46EE57A62/2212735.png",
+          "cats": [
+            "Royal Flame weapons"
+          ],
+          "acq": [
+            "achievement",
+            "trick-or-treat"
+          ],
+          "vendor": null,
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Royal Flame weapons",
+          "wikiFirstSeen": null
+        },
+        {
           "id": 11858,
           "name": "Sanctioned Executioner",
           "type": "Weapon",
@@ -141070,6 +143537,499 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13235,
+          "name": "Unchained Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/99AF50B5040C4A64BBF704D95166003BE6FAC833/3695603.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13236,
+          "name": "Unchained Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/3B3394C8413BFFB8FF5872F1CD2B08B60214FDEF/3695619.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13252,
+          "name": "Unchained Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9069CBA5AF3EEDCEE069F1021FCD32DECC320F7A/3695627.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13245,
+          "name": "Unchained Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/03D3E4ADB4C5D9BB2261DAD048DA990700F99C1A/3695635.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13253,
+          "name": "Unchained Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/06450D1A09403728280F3FAAFEDA2496E2B52C77/3695643.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13258,
+          "name": "Unchained Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/DF5B80ED0155E25108466F1B65C45E13091A730E/3695611.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13263,
+          "name": "Unchained Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/EB71CB58E6FA1C1E2D15C6A6E6E4570E7E64D00E/3695651.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13262,
+          "name": "Unchained Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/72E680083565040C7BC0BFEFC404DF10F3DF0ABA/3695660.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13238,
+          "name": "Unchained Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/EBE1052AFC1DE9D00740CD1519E961CA02B677E3/3695668.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13240,
+          "name": "Unchained Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B1DC494700436B0D07075BF1606AFF78A636160C/3695676.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13249,
+          "name": "Unchained Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/78ABBB27A3993BFDC0C92E5E1CA80562F80ED9F9/3695684.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13259,
+          "name": "Unchained Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0DE2160000D31A2D50EE5EBE561343035F6300EE/3695692.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13237,
+          "name": "Unchained Spear",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/20FC140ECB92A7B562A03104B5E3ABE0780206EB/3695701.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13239,
+          "name": "Unchained Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/FE29531614BEB646FD96C7FDE721B7A4D0704E22/3695711.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13248,
+          "name": "Unchained Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A9115E082E0EB3C5AE02D0015ABF10771E6F2568/3695719.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13251,
+          "name": "Unchained Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/48F7F9FC2192247F7740A11078B50C3771F3E655/3695728.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "set": "Unchained weapons",
+          "released": "October 7, 2025",
+          "id": 13246,
+          "name": "Unchained Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/4AC900D97A40BC08B8295FB498EA0B67736AA6A6/3695736.png",
+          "cats": [
+            "Unchained weapons"
+          ],
+          "acq": [
+            "vendor",
+            "achievement-past"
+          ],
+          "vendor": {
+            "name": "Candy Corn Vendor (Weekly)",
+            "area": "",
+            "zone": "",
+            "cost": "5 Gold coin + 10 Candy Corn Cob",
+            "item": "Trader's Unchained Chest",
+            "limit": "1 per week"
+          },
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Unchained weapons",
           "wikiFirstSeen": null
         },
         {

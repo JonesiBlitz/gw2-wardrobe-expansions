@@ -54,15 +54,30 @@ and matches article titles against API skin, mini and novelty names
 and 12 novelties. It's name-matched, so treat it as best-effort: anything
 the wiki doesn't categorize under Halloween won't show up.
 
-Halloween weapons also get an **acquisition** tag and filter, read from each
-weapon's rendered wiki "Acquisition" section: Halloween vendor, Trick-or-Treat
-bag, Courtly Weapon Chest, Mystic Forge, Mad Armory collection, creature
-drop. The 12 weapons from the 2021-2024 sets (Barbed Refuge, Harvest's Grin,
-the Executioner set, the Sanguine set, ...) are sold by Sparking Stone in the
-Grand Piazza for 15 Candy Corn Cob + 4 gold, only while the Halloween festival
-runs. Note none of them is strictly vendor-*only*: all 12 are also in the
-random Courtly Weapon Chest (from Trick-or-Treat bags), so the vendor is the
-only *guaranteed* source.
+Halloween weapons also get an **acquisition** tag and filter (Halloween vendor,
+Trick-or-Treat bag, Courtly Weapon Chest, achievement chest, past achievement
+chest, Halloween Prize Bag, Mystic Forge, Mad Armory collection, creature
+drop). Two sources feed it:
+
+- The individual weapons in `Category:Halloween weapons` (Barbed Refuge,
+  Harvest's Grin, the Executioner and Sanguine sets, ...), read from each
+  weapon's rendered wiki "Acquisition" section. The 12 from 2021-2024 are sold
+  by Sparking Stone (Grand Piazza) for 15 Candy Corn Cob + 4 gold.
+- The seven full 16-17 weapon sets listed on the wiki's `Halloween/items` page,
+  which are *not* in that category: Haunted (2017), Royal Flame (2019),
+  Demon-Haunted (2020), Chained (2022), Grim Machine (2023), Candy Core
+  (2024) and Unchained (2025). Their vendors come from the vendor pages' item
+  tables: Demon-Haunted weapons are sold individually by Lunatic Weaponsmith
+  Markham (2 gold + 4 Candy Corn Cob, once Haunted is unlocked); Grim Machine,
+  Candy Core and Unchained are each a "Trader's ... Chest (choice)" from the
+  Candy Corn Vendor (Weekly), 10 Candy Corn Cob + 5 gold, limit 1 per week.
+  Chests marked "discontinued" on the set page are tagged "past achievement
+  chest" rather than as a current source.
+
+Not strictly vendor-*only*: the 12 Sparking Stone weapons are also in the
+random Courtly Weapon Chest, so the vendor is only their *guaranteed* source.
+Known gap: the wiki lists a Grim Machine Spear but `/v2/skins` has no skin
+by that name, so it isn't shown.
 
 ## Why this needs two data sources
 

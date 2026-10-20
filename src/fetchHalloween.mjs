@@ -83,6 +83,113 @@ function classifyAcquisition(html) {
   return { acq, vendor };
 }
 
+const decodeHtml = (s) => s.replace(/&#39;/g, "'").replace(/&amp;/g, "&").replace(/&quot;/g, '"');
+const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+// Vendors whose item tables list Halloween weapons (or the chests holding
+// whole weapon sets). Sparking Stone's table also covers other festivals, but
+// we only ever look items up by Halloween weapon name so that's harmless.
+const VENDOR_PAGES = [
+  "Lunatic Weaponsmith Markham",
+  "Candy Corn Vendor",
+  "Candy Corn Vendor (Weekly)",
+  "Mysterious Craftsraven",
+  "Sparking Stone",
+];
+
+// item name -> { vendor, cost, limit } from each vendor page's item tables.
+async function crawlVendorSales() {
+  const sales = new Map();
+  for (const page of VENDOR_PAGES) {
+    const html = await parsePageHtml(page);
+    await sleep(50);
+    if (!html) continue;
+    for (const row of html.match(/<tr[\s\S]*?<\/tr>/g) ?? []) {
+      const cells = [...row.matchAll(/<td[^>]*>([\s\S]*?)<\/td>/g)].map((m) => m[1]);
+      if (cells.length < 4) continue;
+      const raw = strip(cells[0]);
+      const limit = raw.match(/\(([^)]*per week[^)]*)\)/i)?.[1] ?? null;
+      const item = raw.replace(/\s*\([^)]*\)\s*/g, " ").trim();
+      const cost = costText(cells[3]);
+      if (!item || !cost) continue;
+      if (!sales.has(item)) sales.set(item, { vendor: page, cost, limit });
+    }
+  }
+  console.log(`Read ${sales.size} vendor sale rows from ${VENDOR_PAGES.length} vendor pages.`);
+  return sales;
+}
+
+// Full weapon sets (Chained, Grim Machine, Candy Core, Unchained, Haunted,
+// Demon-Haunted, Royal Flame, ...) listed on the wiki's Halloween/items page.
+// Those pages aren't in Category:Halloween, so they need their own crawl.
+async function crawlWeaponSets(sales) {
+  const html = await parsePageHtml("Halloween/items");
+  const start = html.indexOf('id="Weapon_skins_and_weapons"');
+  let seg = html.slice(start + 20);
+  const end = seg.search(/<h2/);
+  if (end > 0) seg = seg.slice(0, end);
+  const setTitles = [...new Set([...seg.matchAll(/title="([^"]+ weapons)"/g)].map((m) => decodeHtml(m[1])))].filter(
+    (t) => !t.startsWith("Edit section")
+  );
+  console.log(`Weapon sets on Halloween/items: ${setTitles.join(", ")}`);
+
+  const byName = new Map();
+  for (const setTitle of setTitles) {
+    const members = (await getCategoryMembers(`Category:${setTitle}`, { cmtype: "page" }))
+      .map((m) => normalizeTitle(m.title))
+      .filter((n) => n !== setTitle);
+    await sleep(50);
+
+    const setHtml = (await parsePageHtml(setTitle)) ?? "";
+    await sleep(50);
+    const released = strip(setHtml.slice(0, 4000)).match(/Release\s+([A-Z][a-z]+ \d{1,2}, \d{4})/)?.[1] ?? null;
+
+    const a = setHtml.indexOf('id="Acquisition"');
+    let acqSeg = a >= 0 ? setHtml.slice(a) : "";
+    const e = acqSeg.slice(20).search(/<h2/);
+    if (e > 0) acqSeg = acqSeg.slice(0, e + 20);
+    const acqText = strip(acqSeg);
+    const anchors = [...new Set([...acqSeg.matchAll(/<a href="\/wiki\/[^"]+" title="([^"]+)"/g)].map((m) => decodeHtml(m[1])))].filter(
+      (t) => !/ weapons$/.test(t) && !/^(Gold coin|Candy Corn Cob)$/.test(t)
+    );
+
+    const acq = new Set();
+    let vendor = null;
+    for (const anchor of anchors) {
+      const discontinued = new RegExp(`${escapeRegExp(anchor)}\\s*\\([^)]*discontinued`, "i").test(acqText);
+      const sale = sales.get(anchor);
+      if (sale && !discontinued) {
+        acq.add("vendor");
+        vendor ??= { name: sale.vendor, area: "", zone: "", cost: sale.cost, item: anchor, limit: sale.limit };
+        continue;
+      }
+      if (/Prize Bag/.test(anchor)) acq.add("prize-bag");
+      if (/Trick-or-Treat Bag/.test(anchor)) acq.add("trick-or-treat");
+      if (!sale && !/Bag/.test(anchor)) {
+        const ph = (await parsePageHtml(anchor)) ?? "";
+        await sleep(50);
+        const pa = ph.indexOf('id="Acquisition"');
+        const chestText = pa >= 0 ? strip(ph.slice(pa, pa + 4000)) : "";
+        if (/achievement/i.test(chestText)) acq.add(discontinued ? "achievement-past" : "achievement");
+        if (/Trick-or-Treat Bag/.test(chestText)) acq.add("trick-or-treat");
+      }
+    }
+
+    for (const name of members) {
+      const direct = sales.get(name);
+      const own = new Set(acq);
+      let v = vendor;
+      if (direct) {
+        own.add("vendor");
+        v = { name: direct.vendor, area: "", zone: "", cost: direct.cost, item: null, limit: direct.limit };
+      }
+      byName.set(name, { acq: own, vendor: v, set: setTitle, released });
+    }
+    console.log(`  ${setTitle} (${released ?? "?"}): ${members.length} weapons, acquisition ${[...acq].join("+") || "(per-weapon vendor)"}`);
+  }
+  return byName;
+}
+
 async function crawlWeaponAcquisition() {
   const pages = await getCategoryMembers("Category:Halloween weapons", { cmtype: "page" });
   const byName = new Map();
@@ -151,13 +258,29 @@ async function main() {
   const cats = (name) => [...(titles.get(name) ?? [])].slice(0, 4);
 
   const weaponAcq = await crawlWeaponAcquisition();
+  const sales = await crawlVendorSales();
+  const setAcq = await crawlWeaponSets(sales);
+  for (const [name, info] of setAcq) {
+    if (!titles.has(name)) titles.set(name, new Set());
+    titles.get(name).add(info.set);
+  }
 
   const skins = JSON.parse(await readFile(path.join(DATA, "skins.json"), "utf8"));
+  const skinNames = new Set(skins.map((s) => s.name));
+  const unmatched = [...setAcq.keys()].filter((n) => !skinNames.has(n));
+  if (unmatched.length) console.log(`Set weapons with no API skin of that name: ${unmatched.join(", ")}`);
+
   const haloSkins = skins
     .filter((s) => titles.has(s.name))
     .map((s) => {
-      const info = s.type === "Weapon" ? weaponAcq.get(s.name) : null;
+      const base = s.type === "Weapon" ? weaponAcq.get(s.name) : null;
+      const set = s.type === "Weapon" ? setAcq.get(s.name) : null;
+      const info =
+        base || set
+          ? { acq: new Set([...(base?.acq ?? []), ...(set?.acq ?? [])]), vendor: set?.vendor ?? base?.vendor ?? null }
+          : null;
       return {
+        ...(set ? { set: set.set, released: set.released } : {}),
         id: s.id,
         name: s.name,
         type: s.type,

@@ -28,13 +28,20 @@
     vendor: "Halloween vendor",
     "trick-or-treat": "Trick-or-Treat bag",
     chest: "Courtly Weapon Chest",
+    achievement: "Achievement chest",
+    "achievement-past": "Past achievement chest",
+    "prize-bag": "Halloween Prize Bag",
     "mystic-forge": "Mystic Forge",
     collection: "Mad Armory collection",
     drop: "Halloween drop",
   };
 
   function vendorTitle(v) {
-    return `Sold by ${v.name} (${v.area}, ${v.zone}) for ${v.cost} - only while the Halloween festival is running`;
+    const place = [v.area, v.zone].filter(Boolean).join(", ");
+    const where = place ? ` (${place})` : "";
+    const what = v.item ? ` as ${v.item}` : "";
+    const limit = v.limit ? `, limit ${v.limit}` : "";
+    return `Sold by ${v.name}${where}${what} for ${v.cost}${limit} - only while the Halloween festival is running`;
   }
 
   const state = {

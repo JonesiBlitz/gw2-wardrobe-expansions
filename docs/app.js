@@ -32,6 +32,7 @@
     achievement: "Achievement chest",
     "achievement-past": "Past achievement chest",
     "achievement-reward": "Achievement reward",
+    "black-lion": "Black Lion set",
     "prize-bag": "Festival prize bag",
     "mystic-forge": "Mystic Forge",
     collection: "Collection achievement",
@@ -242,6 +243,7 @@
       pill.textContent = ACQ_LABEL[key] || key;
       if (key === "vendor" && skin.vendor) pill.title = vendorTitle(skin.vendor);
       if ((key === "achievement-reward" || key === "collection") && skin.ach) pill.title = `Achievement: ${skin.ach.join(", ")}`;
+      if (key === "black-lion" && skin.blackLion) pill.title = `Black Lion weapon set (${skin.set}) released for ${skin.blackLion}; sold by the Black Lion Weapons Specialist or found in Black Lion Chests`;
       meta.appendChild(pill);
     }
 

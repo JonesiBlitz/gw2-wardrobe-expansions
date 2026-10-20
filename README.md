@@ -50,7 +50,7 @@ Dragon Bash, Festival of the Four Winds, Halloween and Wintersday -
 with its skins, minis and novelties and the same unlocked/locked filter. These
 span every year, so a festival skin also appears in its release-window tab.
 
-`src/fetchFestivals.mjs` builds each one from four sources:
+`src/fetchFestivals.mjs` builds each one from five sources:
 
 1. The festival's category tree on the wiki (`Category:Wintersday`, `Gem Store
    Wintersday items`, ...), crawled to depth 3.
@@ -68,17 +68,31 @@ span every year, so a festival skin also appears in its release-window tab.
    Vendors whose title ends "(historical)" are tagged "past festival vendor"
    instead of a current source.
 
-4. The official achievements API: festival achievement categories are picked by
-   name (they sit in the Historical / Daily / Bonus Events groups; there is no
-   "festival" group) and the mixed "Festival Collections" category is split by
-   achievement name. Item rewards are resolved to skins (via the item's
-   default skin, or for skin-unlock consumables such as "... Backpack Cover" by
-   name), minis (`minipet_id`) and novelties (their unlock item); collection
-   achievements contribute their skin and mini pieces. These are tagged
-   "Achievement reward" or "Collection achievement" (tooltip names the
-   achievement) and add any item the wiki crawl missed. Reward *containers*
-   (chests, gift boxes) can't be opened via the API, so their contents still
-   come from the wiki set pages.
+4. The official achievements API:
+   - *Rewards:* festival achievement categories are picked by name (they sit in
+     the Historical / Daily / Bonus Events groups; there is no "festival"
+     group). Item rewards are resolved to skins (via the item's default skin, or
+     for skin-unlock consumables such as "... Backpack Cover" by name), minis
+     (`minipet_id`) and novelties (their unlock item) and tagged "Achievement
+     reward". Reward *containers* (chests, gift boxes) can't be opened via the
+     API, so their contents still come from the wiki set pages.
+   - *Collections:* every achievement in the Rare / Black Lion / Basic /
+     Festival Collections categories is read - its skin, mini and item pieces
+     plus what it awards. A collection joins a festival when it is in the
+     "Festival Collections" category and named for that festival (Mad Armory,
+     Tricks and Treats, Lunatic Court's Finery, Royal Flame Weapons, the
+     Wintersday and Super Adventure Box ones, ...), or when that festival's tab
+     already holds at least half of its pieces. Tagged "Collection
+     achievement" (tooltip names the collection). Most Festival Collections
+     pieces are food, essences, ornaments and novels rather than wardrobe
+     items, so those collections mainly contribute their reward.
+5. Black Lion weapon sets released with a festival: the wiki's "<Set> weapon
+   skins" pages say "introduced for Shadow of the Mad King 2016" (or Wintersday,
+   Dragon Bash, ...) and name the "<Set> Weapon Collection" they award, e.g.
+   Gargoyle, Mad Realm, Seven Reapers (Halloween), Frostforged, Glacial,
+   Orchestral (Wintersday), Maguuma (Dragon Bash), Alchemist (Lunar New Year),
+   Inquest Mark II (Super Adventure Box). They are tagged "Black Lion set"
+   plus their collection; they are not festival-vendor items.
 
 Everything else is matched by name to the API's skins, minis and novelties
 (novelties also by their unlock item's name), so it is best-effort: anything

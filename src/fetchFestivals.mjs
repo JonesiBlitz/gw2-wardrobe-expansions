@@ -14,7 +14,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { getCategoryMembers, parsePageHtml } from "./wikiApi.mjs";
+import { getCategoryMembers, parsePageHtml, searchTitles } from "./wikiApi.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA = path.join(__dirname, "..", "data");
@@ -322,11 +322,60 @@ async function crawlWeaponCategory(category, festival) {
   return byName;
 }
 
-// 4. Official achievements API: items rewarded by festival achievements, and
-// the skins that make up festival collection achievements. Achievement
-// categories are picked by name (the API has no "festival" group - they sit in
-// Historical / Daily / Bonus Events), and the "Festival Collections" category
-// mixes all festivals, so those achievements are assigned by name.
+// Black Lion weapon-skin sets that were released with a festival ("... was
+// introduced for Shadow of the Mad King 2016 with the ... update"). They aren't
+// festival items (Black Lion Chests / the Weapons Specialist), but each awards
+// a "<Set> Weapon Collection" achievement and belongs to that festival's lineup.
+const BL_FESTIVALS = [
+  [/Shadow of the Mad King|Blood and Madness|Halloween/i, "halloween"],
+  [/Wintersday/i, "wintersday"],
+  [/Dragon Bash/i, "dragon-bash"],
+  [/Lunar New Year/i, "lunar-new-year"],
+  [/Super Adventure/i, "super-adventure-box"],
+  [/Four Winds|Bazaar/i, "four-winds"],
+];
+const blFestivalKey = (text) => BL_FESTIVALS.find(([re]) => re.test(text))?.[1] ?? null;
+
+async function crawlBlackLionSets() {
+  const titles = new Set();
+  for (const q of ['"set of Black Lion weapon skins"', '"Black Lion weapon skins"']) {
+    let off = 0;
+    for (;;) {
+      const hits = await searchTitles(q, off);
+      hits.titles.forEach((t) => titles.add(t));
+      if (hits.next == null) break;
+      off = hits.next;
+    }
+  }
+  const sets = [];
+  for (const title of [...titles].filter((t) => / weapon skins$/.test(t))) {
+    const html = await parsePageHtml(title);
+    await sleep(40);
+    if (!html) continue;
+    const intro = strip(html.slice(0, 4500));
+    const m = intro.match(/introduced for (?:the )?(.+?) (\d{4}) with the/);
+    const byTitle = title.match(/^(Wintersday|Winter's|Toy|Blood and Madness|Shadow of the Mad King|Dragon Bash|Lunar New Year|Halloween) weapon skins$/);
+    const label = m ? `${m[1]} ${m[2]}` : byTitle ? (/^(Winter's|Toy)$/.test(byTitle[1]) ? "Wintersday" : byTitle[1]) : null;
+    const key = label ? blFestivalKey(label) : null;
+    if (!key) continue;
+    const collection = intro.match(/awards the (.+?) achievement/)?.[1] ?? intro.match(/Collection\s+(.+?)\s+(?:Total skins|Release)/)?.[1] ?? null;
+    const released = intro.match(/Release\s+([A-Z][a-z]+ \d{1,2}, \d{4})/)?.[1] ?? null;
+    const members = (await getCategoryMembers(`Category:${title}`, { cmtype: "page" })).map((x) => normalizeTitle(x.title)).filter((n) => n !== title);
+    await sleep(40);
+    sets.push({ title, key, label, collection, released, members });
+  }
+  console.log(`Black Lion sets tied to a festival: ${sets.map((s) => `${s.title} (${s.label})`).join("; ")}`);
+  return sets;
+}
+
+// 4. Official achievements API.
+//  a) Items rewarded by festival achievements. The API has no "festival"
+//     achievement group (they sit in Historical / Daily / Bonus Events), so
+//     categories are picked by name.
+//  b) Collection achievements (categories Rare / Black Lion / Basic /
+//     Festival Collections). Their pieces are skins, minis and items; each
+//     collection is assigned to a festival by name (Festival Collections only)
+//     or by which festival's tab already holds most of its pieces.
 const ACH_CATEGORIES = {
   halloween: /Halloween|Mad King|Blood and Madness|Lunatic/i,
   wintersday: /Wintersday|Winter's Presence|Tixx/i,
@@ -335,66 +384,88 @@ const ACH_CATEGORIES = {
   "four-winds": /Four Winds|Bazaar|Jubilee|Queen's Gauntlet|Crown Pavilion/i,
   "super-adventure-box": /Super Adventure/i,
 };
-const ACH_COLLECTIONS = {
+// "Festival Collections" mixes every festival, so those are split by name.
+const FESTIVAL_COLLECTION_NAMES = {
   halloween: /Royal Flame|Mad Armory|Lunatic|Tricks and Treats/i,
   wintersday: /Goldclaw|Rimed|Toy|Winter|Children/i,
   "super-adventure-box": /Glitched|Crimson|Kaiser|Super Adventure|Storm Wizard|King Toad/i,
 };
+const COLLECTION_CATEGORIES = ["Rare Collections", "Black Lion Collections", "Basic Collections", "Festival Collections"];
 
-async function crawlAchievements({ skinsById, skinsByName, minisById, novelties }) {
-  const out = new Map(FESTIVALS.map((f) => [f.key, { skins: new Map(), minis: new Map(), novelties: new Map() }]));
-  const cats = await fetchJson(`${API}/achievements/categories?ids=all&lang=en`);
+// Turns an API item into the wardrobe pieces it unlocks: [{ kind, id }].
+function makeResolver({ skinsById, skinsByName, minisById, novelties }) {
+  const novByItem = new Map();
+  for (const n of novelties) for (const i of n.unlock_item ?? []) novByItem.set(i, n);
+  return (it) => {
+    if (it.type === "MiniPet" && minisById.has(it.details?.minipet_id)) return [{ kind: "mini", id: it.details.minipet_id }];
+    if (["Back", "Weapon", "Armor"].includes(it.type) && skinsById.has(it.default_skin)) return [{ kind: "skin", id: it.default_skin }];
+    if (novByItem.has(it.id)) return [{ kind: "novelty", id: novByItem.get(it.id).id }];
+    if (it.type === "Consumable" && it.details?.type === "Unlock") {
+      // Skin-unlock consumables ("King Toad's Backpack Cover", "... Skin"): match by skin name.
+      const base = it.name.replace(/ (Skin|Cover)$/, "");
+      return (skinsByName.get(base) ?? skinsByName.get(`${base}s`) ?? []).map((s) => ({ kind: "skin", id: s.id }));
+    }
+    return [];
+  };
+}
 
+const newPieces = () => ({ skins: new Map(), minis: new Map(), novelties: new Map() });
+function addPiece(pieces, p, achName, kind) {
+  const map = p.kind === "skin" ? pieces.skins : p.kind === "mini" ? pieces.minis : pieces.novelties;
+  if (!map.has(p.id)) map.set(p.id, { ach: new Set(), kinds: new Set() });
+  map.get(p.id).ach.add(achName);
+  map.get(p.id).kinds.add(kind);
+}
+
+async function crawlAchievementRewards(cats, resolve) {
+  const out = new Map(FESTIVALS.map((f) => [f.key, newPieces()]));
   const festOf = new Map(); // achievement id -> festival key
   for (const c of cats) {
     for (const [key, re] of Object.entries(ACH_CATEGORIES)) if (re.test(c.name)) c.achievements.forEach((a) => festOf.set(a, key));
   }
-  const collectionCat = cats.find((c) => c.name === "Festival Collections");
-  const achs = await fetchAll("achievements", [...new Set([...festOf.keys(), ...(collectionCat?.achievements ?? [])])]);
-  for (const a of achs) {
-    if (festOf.has(a.id)) continue;
-    const hit = Object.entries(ACH_COLLECTIONS).find(([, re]) => re.test(a.name));
-    if (hit && collectionCat?.achievements.includes(a.id)) festOf.set(a.id, hit[0]);
-  }
-
-  const rewardItemIds = new Set(achs.filter((a) => festOf.has(a.id)).flatMap((a) => (a.rewards ?? []).filter((r) => r.type === "Item").map((r) => r.id)));
+  const achs = await fetchAll("achievements", [...festOf.keys()]);
+  const rewardItemIds = new Set(achs.flatMap((a) => (a.rewards ?? []).filter((r) => r.type === "Item").map((r) => r.id)));
   const rewardItems = new Map((await fetchAll("items", [...rewardItemIds])).map((i) => [i.id, i]));
-  const novByItem = new Map();
-  for (const n of novelties) for (const i of n.unlock_item ?? []) novByItem.set(i, n);
-
-  const add = (map, id, ach, kind) => {
-    if (!map.has(id)) map.set(id, { ach: new Set(), kinds: new Set() });
-    map.get(id).ach.add(ach);
-    map.get(id).kinds.add(kind);
-  };
-  const unresolved = new Set();
   for (const a of achs) {
-    const key = festOf.get(a.id);
-    if (!key) continue;
-    const bucket = out.get(key);
     for (const r of a.rewards ?? []) {
-      if (r.type !== "Item") continue;
-      const it = rewardItems.get(r.id);
-      if (!it) continue;
-      if (it.type === "MiniPet" && minisById.has(it.details?.minipet_id)) add(bucket.minis, it.details.minipet_id, a.name, "reward");
-      else if (["Back", "Weapon", "Armor"].includes(it.type) && skinsById.has(it.default_skin)) add(bucket.skins, it.default_skin, a.name, "reward");
-      else if (novByItem.has(it.id)) add(bucket.novelties, novByItem.get(it.id).id, a.name, "reward");
-      else if (it.type === "Consumable" && it.details?.type === "Unlock") {
-        // Skin-unlock consumables ("King Toad's Backpack Cover", "... Skin"): match by skin name.
-        const base = it.name.replace(/ (Skin|Cover)$/, "");
-        const hits = skinsByName.get(base) ?? skinsByName.get(`${base}s`) ?? [];
-        if (hits.length) hits.forEach((s) => add(bucket.skins, s.id, a.name, "reward"));
-        else unresolved.add(it.name);
-      }
-    }
-    for (const b of a.bits ?? []) {
-      if (b.type === "Skin" && skinsById.has(b.id)) add(bucket.skins, b.id, a.name, "collection");
-      if (b.type === "Minipet" && minisById.has(b.id)) add(bucket.minis, b.id, a.name, "collection");
+      const it = r.type === "Item" ? rewardItems.get(r.id) : null;
+      if (it) resolve(it).forEach((p) => addPiece(out.get(festOf.get(a.id)), p, a.name, "reward"));
     }
   }
-  if (unresolved.size) console.log(`Achievement unlock rewards with no matching skin: ${[...unresolved].join(", ")}`);
-  console.log(`Read ${achs.length} festival-related achievements.`);
+  console.log(`Read ${achs.length} festival achievements for item rewards.`);
   return out;
+}
+
+// Every collection achievement with at least one resolvable piece.
+async function crawlCollections(cats, resolve, skinsById, minisById) {
+  const catIds = cats.filter((c) => COLLECTION_CATEGORIES.includes(c.name));
+  const festivalCol = new Set(cats.find((c) => c.name === "Festival Collections")?.achievements ?? []);
+  const achs = await fetchAll("achievements", [...new Set(catIds.flatMap((c) => c.achievements))]);
+  const itemIds = new Set(
+    achs.flatMap((a) => [
+      ...(a.bits ?? []).filter((b) => b.type === "Item").map((b) => b.id),
+      ...(a.rewards ?? []).filter((r) => r.type === "Item").map((r) => r.id),
+    ])
+  );
+  const items = new Map((await fetchAll("items", [...itemIds])).map((i) => [i.id, i]));
+
+  const collections = [];
+  for (const a of achs) {
+    const pieces = newPieces();
+    for (const b of a.bits ?? []) {
+      if (b.type === "Skin" && skinsById.has(b.id)) addPiece(pieces, { kind: "skin", id: b.id }, a.name, "collection");
+      else if (b.type === "Minipet" && minisById.has(b.id)) addPiece(pieces, { kind: "mini", id: b.id }, a.name, "collection");
+      else if (b.type === "Item" && items.has(b.id)) resolve(items.get(b.id)).forEach((p) => addPiece(pieces, p, a.name, "collection"));
+    }
+    // What completing the collection awards (e.g. the Mad Armory weapons).
+    for (const r of a.rewards ?? []) {
+      if (r.type === "Item" && items.has(r.id)) resolve(items.get(r.id)).forEach((p) => addPiece(pieces, p, a.name, "collection"));
+    }
+    const total = pieces.skins.size + pieces.minis.size + pieces.novelties.size;
+    if (total) collections.push({ id: a.id, name: a.name, inFestivalCategory: festivalCol.has(a.id), pieces, total });
+  }
+  console.log(`Read ${collections.length} collection achievements with resolvable pieces.`);
+  return collections;
 }
 
 async function main() {
@@ -412,10 +483,61 @@ async function main() {
 
   const minisById = new Map(minis.map((m) => [m.id, m]));
   const noveltiesById = new Map(novelties.map((n) => [n.id, n]));
-  const achByFest = await crawlAchievements({ skinsById, skinsByName, minisById, novelties });
+  const resolve = makeResolver({ skinsById, skinsByName, minisById, novelties });
+  const achCats = await fetchJson(`${API}/achievements/categories?ids=all&lang=en`);
+  const rewardsByFest = await crawlAchievementRewards(achCats, resolve);
+  const collections = await crawlCollections(achCats, resolve, skinsById, minisById);
+  const blackLionSets = await crawlBlackLionSets();
 
   const byName = (a, b) => a.name.localeCompare(b.name);
   const outFestivals = [];
+
+  // Adds a set of achievement pieces to a festival's lists (creating entries the
+  // wiki crawl didn't have) and tags each with its achievement names.
+  const mergePieces = (fest, pieces, catLabel) => {
+    let added = 0;
+    let tagged = 0;
+    const tag = (entry, info) => {
+      const keys = [...info.kinds].map((k) => (k === "collection" ? "collection" : "achievement-reward"));
+      entry.acq = [...new Set([...(entry.acq ?? []), ...keys])];
+      entry.ach = [...new Set([...(entry.ach ?? []), ...info.ach])].slice(0, 4);
+      tagged++;
+    };
+    for (const [id, info] of pieces.skins) {
+      let e = fest.skins.find((x) => x.id === id);
+      if (!e) {
+        const s = skinsById.get(id);
+        e = { id: s.id, name: s.name, type: s.type, rarity: s.rarity, weight_class: s.details?.weight_class ?? null, icon: s.icon ?? null, cats: [catLabel] };
+        fest.skins.push(e);
+        added++;
+      }
+      tag(e, info);
+    }
+    for (const [id, info] of pieces.minis) {
+      let e = fest.minis.find((x) => x.id === id);
+      if (!e) {
+        const m = minisById.get(id);
+        e = { id: m.id, name: m.name, icon: m.icon ?? null, item_id: m.item_id ?? null, cats: [catLabel] };
+        fest.minis.push(e);
+        added++;
+      }
+      tag(e, info);
+    }
+    for (const [id, info] of pieces.novelties) {
+      let e = fest.novelties.find((x) => x.id === id);
+      if (!e) {
+        const n = noveltiesById.get(id);
+        e = { id: n.id, name: n.name, slot: n.slot ?? null, icon: n.icon ?? null, cats: [catLabel] };
+        fest.novelties.push(e);
+        added++;
+      }
+      tag(e, info);
+    }
+    fest.skins.sort(byName);
+    fest.minis.sort(byName);
+    fest.novelties.sort(byName);
+    return { added, tagged };
+  };
 
   for (const f of FESTIVALS) {
     console.log(`\n== ${f.label} ==`);
@@ -480,60 +602,74 @@ async function main() {
       const sold = candidates.map(saleFor).find(Boolean);
       fNovelties.push({ id: n.id, name: n.name, slot: n.slot ?? null, icon: n.icon ?? null, cats: labelFor(hit), ...(sold ? { acq: sold.acq, vendor: sold.vendor } : {}) });
     }
-    // Tag everything the festival's achievements reward, adding items the wiki
-    // crawl didn't already have.
-    const ach = achByFest.get(f.key);
-    const tag = (entry, info) => {
-      const keys = [...info.kinds].map((k) => (k === "collection" ? "collection" : "achievement-reward"));
-      entry.acq = [...new Set([...(entry.acq ?? []), ...keys])];
-      entry.ach = [...info.ach].slice(0, 4);
-    };
-    let achAdded = 0;
-    let achTagged = 0;
-    for (const [id, info] of ach.skins) {
-      let e = fSkins.find((x) => x.id === id);
-      if (!e) {
-        const s = skinsById.get(id);
-        e = { id: s.id, name: s.name, type: s.type, rarity: s.rarity, weight_class: s.details?.weight_class ?? null, icon: s.icon ?? null, cats: ["Achievement reward"] };
-        fSkins.push(e);
-        achAdded++;
-      }
-      tag(e, info);
-      achTagged++;
-    }
-    for (const [id, info] of ach.minis) {
-      let e = fMinis.find((x) => x.id === id);
-      if (!e) {
-        const m = minisById.get(id);
-        e = { id: m.id, name: m.name, icon: m.icon ?? null, item_id: m.item_id ?? null, cats: ["Achievement reward"] };
-        fMinis.push(e);
-        achAdded++;
-      }
-      tag(e, info);
-      achTagged++;
-    }
-    for (const [id, info] of ach.novelties) {
-      let e = fNovelties.find((x) => x.id === id);
-      if (!e) {
-        const n = noveltiesById.get(id);
-        e = { id: n.id, name: n.name, slot: n.slot ?? null, icon: n.icon ?? null, cats: ["Achievement reward"] };
-        fNovelties.push(e);
-        achAdded++;
-      }
-      tag(e, info);
-      achTagged++;
-    }
-    fSkins.sort(byName);
-    fMinis.sort(byName);
     fNovelties.sort(byName);
-    console.log(`  achievements: ${achTagged} items tagged, ${achAdded} new to this tab`);
 
-    const missing =[...setAcq.keys()].filter((n) => !skinNames.has(n));
+    // Black Lion weapon sets introduced for this festival.
+    let blAdded = 0;
+    for (const set of blackLionSets.filter((s) => s.key === f.key)) {
+      for (const name of new Set(set.members)) {
+        for (const s of skinsByName.get(resolveSkinName(name, skinNames)) ?? []) {
+          let e = fSkins.find((x) => x.id === s.id);
+          if (!e) {
+            e = { id: s.id, name: s.name, type: s.type, rarity: s.rarity, weight_class: s.details?.weight_class ?? null, icon: s.icon ?? null, cats: [set.title] };
+            fSkins.push(e);
+            blAdded++;
+          }
+          e.set ??= set.title;
+          e.released ??= set.released;
+          e.blackLion = set.label;
+          e.acq = [...new Set([...(e.acq ?? []), "black-lion", ...(set.collection ? ["collection"] : [])])];
+          if (set.collection) e.ach = [...new Set([...(e.ach ?? []), set.collection])].slice(0, 4);
+        }
+      }
+    }
+    if (blAdded) fSkins.sort(byName);
+    if (blackLionSets.some((s) => s.key === f.key)) console.log(`  black lion sets: ${blackLionSets.filter((s) => s.key === f.key).map((s) => s.title).join("; ")} (+${blAdded} new)`);
+
+    const rewards = mergePieces({ skins: fSkins, minis: fMinis, novelties: fNovelties }, rewardsByFest.get(f.key), "Achievement reward");
+    console.log(`  achievement rewards: ${rewards.tagged} items tagged, ${rewards.added} new to this tab`);
+
+    const missing = [...setAcq.keys()].filter((n) => !skinNames.has(n));
     if (missing.length) console.log(`  set weapons with no API skin: ${missing.join(", ")}`);
     const vendorCount2 = [...fSkins, ...fMinis, ...fNovelties].filter((i) => i.acq?.includes("vendor")).length;
     console.log(`  => ${fSkins.length} skins, ${fMinis.length} minis, ${fNovelties.length} novelties (${vendorCount2} sold by a festival vendor)`);
 
     outFestivals.push({ key: f.key, label: f.label, emoji: f.emoji, page: f.page, skins: fSkins, minis: fMinis, novelties: fNovelties });
+  }
+
+  // Collections: a collection belongs to the festival named for it (Festival
+  // Collections category only) or, failing that, the festival whose tab already
+  // holds at least half of its pieces. Then all of its pieces join that tab.
+  console.log("\n== Collections ==");
+  const idsOf = (o) => ({ skins: new Set(o.skins.map((x) => x.id)), minis: new Set(o.minis.map((x) => x.id)), novelties: new Set(o.novelties.map((x) => x.id)) });
+  const tabIds = new Map(outFestivals.map((o) => [o.key, idsOf(o)]));
+  const assigned = new Map(outFestivals.map((o) => [o.key, []]));
+  for (const c of collections) {
+    let key = null;
+    if (c.inFestivalCategory) key = Object.entries(FESTIVAL_COLLECTION_NAMES).find(([, re]) => re.test(c.name))?.[0] ?? null;
+    if (!key && c.total >= 3) {
+      let best = 0;
+      for (const [k, ids] of tabIds) {
+        const hit = [...c.pieces.skins.keys()].filter((i) => ids.skins.has(i)).length + [...c.pieces.minis.keys()].filter((i) => ids.minis.has(i)).length + [...c.pieces.novelties.keys()].filter((i) => ids.novelties.has(i)).length;
+        if (hit / c.total >= 0.5 && hit / c.total > best) {
+          best = hit / c.total;
+          key = k;
+        }
+      }
+    }
+    if (key) assigned.get(key).push(c);
+  }
+  for (const o of outFestivals) {
+    const cols = assigned.get(o.key);
+    if (!cols.length) continue;
+    const merged = newPieces();
+    for (const c of cols) for (const kind of ["skins", "minis", "novelties"]) for (const [id, info] of c.pieces[kind]) {
+      if (!merged[kind].has(id)) merged[kind].set(id, { ach: new Set(), kinds: new Set() });
+      info.ach.forEach((a) => merged[kind].get(id).ach.add(a));
+      merged[kind].get(id).kinds.add("collection");
+    }
+    const r = mergePieces(o, merged, "Collection achievement");
+    console.log(`  ${o.label}: ${cols.length} collections (${cols.map((c) => c.name).join("; ")}) -> ${r.tagged} items tagged, ${r.added} new`);
   }
 
   await writeFile(

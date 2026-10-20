@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:25:18.060Z",
+  "generatedAt": "2026-10-20T22:51:08.622Z",
   "totalSkins": 10612,
   "windows": [
     {
@@ -138038,8 +138038,408 @@
       "event": true,
       "group": "festival",
       "note": "Lunar New Year skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
-      "count": 202,
+      "count": 218,
       "skins": [
+        {
+          "id": 8022,
+          "name": "Alchemist Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/01FF395E06354394079D6BB1970828E8A516A6A7/1938502.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8017,
+          "name": "Alchemist Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C92811B2D321939DDC00DE0A6C64915AD7ED272A/1938545.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8005,
+          "name": "Alchemist Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/40599CEAC47857C3215DB236513038A2D8B852B7/1938555.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8019,
+          "name": "Alchemist Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/58D4367FE4040FB99B90F4C8D501FC56A4D02776/1938571.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8012,
+          "name": "Alchemist Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/65BBCAC01931361280F7F7A4D6D46E1399BDDAEC/1938589.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8011,
+          "name": "Alchemist Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/1731B570EEDF0F44DE7408F6A1C127900D04FE56/1938516.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8018,
+          "name": "Alchemist Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/36CC6DC609B209424A4501C46F0FE0030A0B65F3/1938603.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8020,
+          "name": "Alchemist Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C14132787FC72DA2E3353B3F6A224AC7E1EF0122/1938619.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8015,
+          "name": "Alchemist Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B5740467770A1F99A640C83976E1A691212A7E49/1938631.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8008,
+          "name": "Alchemist Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B5F6FED3E207BBDF741A0DBB3F980BDA93A8B459/1938643.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8024,
+          "name": "Alchemist Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/CD3793ED749168323D257BF0E97A3DBCDEB0319D/1938657.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8004,
+          "name": "Alchemist Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/46C0BE5DB53940A5FD3F78E5FBD5A8380496803B/1938531.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8023,
+          "name": "Alchemist Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/21109429010305331D11E4EB0E2837529A05126D/1938669.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8009,
+          "name": "Alchemist Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B6BABF4E574F207900C358D60F9C28A114097505/1938683.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8013,
+          "name": "Alchemist Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5608006D3E531D562D7D92D60F27219E31B23C9C/1938696.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8016,
+          "name": "Alchemist Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/80F833C20BDF579ADC190F0FC82C104478D2E2DF/1938710.png",
+          "cats": [
+            "Alchemist weapon skins"
+          ],
+          "set": "Alchemist weapon skins",
+          "released": "February 6, 2018",
+          "blackLion": "Lunar New Year 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Alchemist Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Lunar New Year: Alchemist weapon skins",
+          "wikiFirstSeen": null
+        },
         {
           "id": 5455,
           "name": "Ancestral Outfit",
@@ -142451,7 +142851,7 @@
       "event": true,
       "group": "festival",
       "note": "Super Adventure Box skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
-      "count": 229,
+      "count": 245,
       "skins": [
         {
           "id": 7179,
@@ -142490,17 +142890,17 @@
           "weight_class": null,
           "icon": "https://render.guildwars2.com/file/BC3649652D6E5DD3926C9BC12DE36680237DBEF9/1664053.png",
           "cats": [
-            "Achievement reward"
+            "Collection achievement"
           ],
           "acq": [
-            "achievement-reward"
+            "collection"
           ],
           "ach": [
             "The Crimson Assassin"
           ],
           "kind": "skin",
           "source": "event",
-          "sourceLabel": "Super Adventure Box: Achievement reward",
+          "sourceLabel": "Super Adventure Box: Collection achievement",
           "wikiFirstSeen": null
         },
         {
@@ -145010,6 +145410,406 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Hardlight weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8082,
+          "name": "Inquest Mark II Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9673B704D4990148F691E2107EFBD639B229C2C9/1972443.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8084,
+          "name": "Inquest Mark II Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E7FE9660C21B02E53EF2F080660A3D01EA45A395/1972453.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8088,
+          "name": "Inquest Mark II Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/06ECF246722971AD4D345172E092F61A20CBF63C/1972461.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8104,
+          "name": "Inquest Mark II Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/FFC6BCA4353E4DC15D5C24EE50977AB009DCEFA7/1972473.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8099,
+          "name": "Inquest Mark II Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/40CA5E3802ED3617F7DA07687B070C60F84401A8/1972481.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8109,
+          "name": "Inquest Mark II Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9008AEB2DE9DFDC56B4A900D4A90ADD291797EC0/1972491.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8081,
+          "name": "Inquest Mark II Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0928C140C02E5039314130625B0EE3D49316019A/1972499.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8107,
+          "name": "Inquest Mark II Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/135CEEE8A993E808070B0B2B67C6C10FA302F9B3/1972500.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8092,
+          "name": "Inquest Mark II Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/61B1D06D69EB5076EF45A30955FF5C315CE1B057/1972510.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8102,
+          "name": "Inquest Mark II Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D0A5CD08CF9D9432A2731DA7C73769990745560C/1972529.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8089,
+          "name": "Inquest Mark II Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/04495A2C52E20AF87F132A18B6BA531C9458019D/1972537.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8100,
+          "name": "Inquest Mark II Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5A0D6C5F29DC395442B0199F39959696F277C605/1972545.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8110,
+          "name": "Inquest Mark II Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/922DBD0D2DDE63272A022F274E42929507BECC9B/1972558.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8101,
+          "name": "Inquest Mark II Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/CBCE0DA57C1D977855499E0B7A7E2D50429154FD/1972566.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8094,
+          "name": "Inquest Mark II Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0F02687A26804D23551AC29CAC5B0230BAF6F736/1972575.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8085,
+          "name": "Inquest Mark II Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/927AB96DF7D57FD86AC03B3467F135D6145B7D4E/1972577.png",
+          "cats": [
+            "Inquest Mark II weapon skins"
+          ],
+          "set": "Inquest Mark II weapon skins",
+          "released": "March 27, 2018",
+          "blackLion": "Super Adventure Festival 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Inquest Mark II Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Inquest Mark II weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -147894,7 +148694,7 @@
       "event": true,
       "group": "festival",
       "note": "Dragon Bash skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
-      "count": 168,
+      "count": 184,
       "skins": [
         {
           "id": 14001,
@@ -150569,6 +151369,406 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Dragon Bash: Dragon Bash/items, Dragon Bash Weapon Chest weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10037,
+          "name": "Maguuma Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/97FE4DCA330396050C50B71BF928A06618B94E7E/2461008.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10030,
+          "name": "Maguuma Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/1BC2437DD4F355B908A450F4AD74FABF691A16BB/2461038.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10027,
+          "name": "Maguuma Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/00255FB54E04BF72E7B5ECB835F6C1ED53000BB2/2461048.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10036,
+          "name": "Maguuma Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/30A6E3994316A6C701321C09CB3CF2C2F46C5F07/2461058.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10035,
+          "name": "Maguuma Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/280A2319E5271CF3B0F3A53F7E06F52A5474AFD6/2461068.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10025,
+          "name": "Maguuma Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/24170B0DEF4144D9FD4D0A6720930159C414FB01/2461018.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10039,
+          "name": "Maguuma Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B8AA01A46BC0CD1B4F02281FB8B1750C406A3A92/2461078.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10024,
+          "name": "Maguuma Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/38071F0E99A2475B5045E5244CE9D6AF0E1BB2C8/2461079.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10015,
+          "name": "Maguuma Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9B20B2922FDEBA1801221A04F2A4069A20733AD0/2461089.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10041,
+          "name": "Maguuma Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0CB3611E9A4DFAC907D3B2BF4F032E400E0EF61B/2461099.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10029,
+          "name": "Maguuma Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0DE4F6E979DD2A6DD7E5D6799A6C4671EC7E9D00/2461109.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10014,
+          "name": "Maguuma Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/2A45A6010DA30EC10C93242D0A134A246A114F74/2461019.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10017,
+          "name": "Maguuma Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/681FDD065ADF214A1751BFB11AE6657C03E67AE0/2461119.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10022,
+          "name": "Maguuma Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/DABA4D644BDE02A93C40E1EEFD5D761EABCB7403/2461129.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10013,
+          "name": "Maguuma Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/FD73E87608087373EA0129DBD7C1DCF07F6D0A26/2461139.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 10034,
+          "name": "Maguuma Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9905BD23CC5B0BA7E05D720FF39BA216FD9365BE/2461150.png",
+          "cats": [
+            "Maguuma weapon skins"
+          ],
+          "set": "Maguuma weapon skins",
+          "released": "June 22, 2021",
+          "blackLion": "Dragon Bash 2021",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Maguuma Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Maguuma weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -158364,7 +159564,7 @@
       "event": true,
       "group": "festival",
       "note": "Halloween skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
-      "count": 317,
+      "count": 366,
       "skins": [
         {
           "id": 7802,
@@ -158487,6 +159687,16 @@
           "icon": "https://render.guildwars2.com/file/DCAA16650655B79ADDAD02B44B590EA9397AD3DE/648159.png",
           "cats": [
             "Blood and Madness weapon skins"
+          ],
+          "set": "Blood and Madness weapon skins",
+          "released": "October 15, 2013",
+          "blackLion": "Blood and Madness",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Bloody Prince's Toybox"
           ],
           "kind": "skin",
           "source": "event",
@@ -159090,8 +160300,7 @@
             "Halloween/items"
           ],
           "acq": [
-            "collection",
-            "achievement-reward"
+            "collection"
           ],
           "vendor": null,
           "ach": [
@@ -159111,6 +160320,12 @@
           "icon": "https://render.guildwars2.com/file/959F043BDE7D62EA5B1D0D1ABE31AAE3516B06FB/499466.png",
           "cats": [
             "Shadow of the Mad King weapon skins"
+          ],
+          "set": "Shadow of the Mad King weapon skins",
+          "released": "October 22, 2012",
+          "blackLion": "Shadow of the Mad King",
+          "acq": [
+            "black-lion"
           ],
           "kind": "skin",
           "source": "event",
@@ -160658,6 +161873,406 @@
           "wikiFirstSeen": null
         },
         {
+          "id": 6989,
+          "name": "Gargoyle Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/061A33993D4652B26F80DDCC4CA9B97D297122E9/1507952.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6987,
+          "name": "Gargoyle Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/1CA1E56E01913A50F5F4561CDB7B6CAFC5AC6BAC/1507998.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6995,
+          "name": "Gargoyle Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/AF759CB2E7C20CDCEB2CFB522C19E50FF052A9FA/1508013.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6979,
+          "name": "Gargoyle Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/031BAEA9E835CF7708EB65646B68B6A4546ACA25/1508023.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6986,
+          "name": "Gargoyle Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/51B647F8F6AFF95A45F2E560293093E828B90395/1508032.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6999,
+          "name": "Gargoyle Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/2A1738BAFE5554FE3B4D12B6BFEFAA133268F309/1507968.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6990,
+          "name": "Gargoyle Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7872A259692B6FA7036C0E541D42DD6D111E6F2F/1508042.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6981,
+          "name": "Gargoyle Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A9293A01C11146FB37E9B7DC069928164ABA4EE5/1508051.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6992,
+          "name": "Gargoyle Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0A64222F3CFCFBE296E74B3FD08042654BF6119B/1508059.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6993,
+          "name": "Gargoyle Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/AFCE68D931A0DBD256A418B5035C486BFAEAEA49/1508067.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6982,
+          "name": "Gargoyle Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/17A975B9EC09AD08BD0769DB7C05E000C09AB423/1508075.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6988,
+          "name": "Gargoyle Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/977C685FAF0A4A222FC09CDBFD6ABE051806A2D9/1507982.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6998,
+          "name": "Gargoyle Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/2A663C0806674233ABB6A477C796392A01C30410/1508083.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6984,
+          "name": "Gargoyle Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/DB5B0E4692914A593C1C1EBFD916C2F706502B0D/1508091.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6996,
+          "name": "Gargoyle Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D2B33C08659AB67039C6A2BA3EA60CC20A0CB44D/1508099.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 6976,
+          "name": "Gargoyle Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/2D124AB25F54A0E03316F24D06B7354A4F2DE7EB/1508107.png",
+          "cats": [
+            "Gargoyle weapon skins"
+          ],
+          "set": "Gargoyle weapon skins",
+          "released": "October 18, 2016",
+          "blackLion": "Shadow of the Mad King 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Gargoyle Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Gargoyle weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
           "id": 3693,
           "name": "Ghastly Grinning Shield",
           "type": "Weapon",
@@ -160666,6 +162281,12 @@
           "icon": "https://render.guildwars2.com/file/90DEDF5658F1E008224AC0535C2CE85B732902F0/499465.png",
           "cats": [
             "Shadow of the Mad King weapon skins"
+          ],
+          "set": "Shadow of the Mad King weapon skins",
+          "released": "October 22, 2012",
+          "blackLion": "Shadow of the Mad King",
+          "acq": [
+            "black-lion"
           ],
           "kind": "skin",
           "source": "event",
@@ -160774,6 +162395,12 @@
           "icon": "https://render.guildwars2.com/file/F3DD14464C5F1A92592101950F16B60DA52B5695/499467.png",
           "cats": [
             "Shadow of the Mad King weapon skins"
+          ],
+          "set": "Shadow of the Mad King weapon skins",
+          "released": "October 22, 2012",
+          "blackLion": "Shadow of the Mad King",
+          "acq": [
+            "black-lion"
           ],
           "kind": "skin",
           "source": "event",
@@ -161318,6 +162945,12 @@
           "icon": "https://render.guildwars2.com/file/65EB690AD503F5BC35D438A8E5475D3FCA7C05A0/499457.png",
           "cats": [
             "Shadow of the Mad King weapon skins"
+          ],
+          "set": "Shadow of the Mad King weapon skins",
+          "released": "October 22, 2012",
+          "blackLion": "Shadow of the Mad King",
+          "acq": [
+            "black-lion"
           ],
           "kind": "skin",
           "source": "event",
@@ -161884,8 +163517,7 @@
             "Halloween/items"
           ],
           "acq": [
-            "collection",
-            "achievement-reward"
+            "collection"
           ],
           "vendor": null,
           "ach": [
@@ -162399,7 +164031,7 @@
             "Halloween/items"
           ],
           "acq": [
-            "achievement-reward"
+            "collection"
           ],
           "ach": [
             "Lunatic Court's Finery"
@@ -162407,6 +164039,406 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween, Halloween armor skins, Halloween/items",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8446,
+          "name": "Mad Realm Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/1804C618A9BDA14BC7CA055819CF724A4EF7432B/2056256.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8437,
+          "name": "Mad Realm Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/B0DC9B00973BB5233401FB1636D30AE20298C6DB/2056287.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8448,
+          "name": "Mad Realm Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/074EA5542E4C68F02A367F5241F8AD6846456554/2056297.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8451,
+          "name": "Mad Realm Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/6FDF1E0673F64278DC15EBD40A7399C405DBFF28/2056313.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8443,
+          "name": "Mad Realm Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C4024DE80C3509CE76F60433BDD004D9C408B394/2056317.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8438,
+          "name": "Mad Realm Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/EDBC90EAF6E6E33F91D390F3962D5B930970DFE9/2056279.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8445,
+          "name": "Mad Realm Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/AAF2A9A52B7B5B22B5025C34B23977D0ABD44B0E/2056333.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8442,
+          "name": "Mad Realm Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E997C92C0B97C1F86D079E9E9F680E38E10F54AE/2056339.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8456,
+          "name": "Mad Realm Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/EDE506322C80C1A00328CF54CCA80B1AA04E2E35/2056347.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8436,
+          "name": "Mad Realm Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/BBDCE928E55D9E57F7172B47D53E3D6793DE3709/2056351.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8450,
+          "name": "Mad Realm Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/03015469061F1DFE7C07D22A0F6CB63307A8506F/2056357.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8449,
+          "name": "Mad Realm Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/ABD1F2A280BC537B0609BEBA7EC01F494CEEB655/2056365.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8453,
+          "name": "Mad Realm Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7F0616420BAE2B67291B1F0C09AF02F46A0654B2/2056369.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8455,
+          "name": "Mad Realm Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C2202606CCE45DB20825C6BA3C33790740DD12D1/2056378.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8452,
+          "name": "Mad Realm Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/DC4303B93A75B0247BA7A00BBC0CF20AF070FEFD/2056386.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8444,
+          "name": "Mad Realm Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/731D5BD59EA60BEF7BC4F69BF9E5152FFAD32062/2056327.png",
+          "cats": [
+            "Mad Realm weapon skins"
+          ],
+          "set": "Mad Realm weapon skins",
+          "released": "October 16, 2018",
+          "blackLion": "Shadow of the Mad King 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Mad Realm Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Mad Realm weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -162715,7 +164747,7 @@
             "Halloween/items"
           ],
           "acq": [
-            "achievement-reward"
+            "collection"
           ],
           "ach": [
             "Tricks and Treats"
@@ -164523,9 +166555,440 @@
           "cats": [
             "Shadow of the Mad King weapon skins"
           ],
+          "set": "Shadow of the Mad King weapon skins",
+          "released": "October 22, 2012",
+          "blackLion": "Shadow of the Mad King",
+          "acq": [
+            "black-lion"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Shadow of the Mad King weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8982,
+          "name": "Seven Reapers Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F0D5DB71FD7057C2E25CEDB8B1A5BC2FEC270D4C/2212883.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8993,
+          "name": "Seven Reapers Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/61A29E6B46C06A5E2073B066DE09026494119ACA/2212885.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8962,
+          "name": "Seven Reapers Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/CC47A103BBBBF817C96AF16C48083011BBB81E90/2212886.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8970,
+          "name": "Seven Reapers Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/1B1D0CFF669C55391A27E1E96F80CC900BD5ACE2/2212887.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8972,
+          "name": "Seven Reapers Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/1BD8DCED6ACAF34A9A93CBB053DFE3B1211750F8/2212888.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8997,
+          "name": "Seven Reapers Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5ADE9272E58015C435D8323F5B279D971AB9265A/2212884.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 9000,
+          "name": "Seven Reapers Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/ADF33CE8C4FE4E251B9524B14AE515ED3343A473/2212889.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8963,
+          "name": "Seven Reapers Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/590F01411CFF52069754F4450E7192E2B207629F/2212890.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8971,
+          "name": "Seven Reapers Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/EFCA18C9362D5E4D5E132AE61565DBB535DCEC0F/2212891.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8969,
+          "name": "Seven Reapers Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E6B50458B055630F94727491066F0F72B2700C0F/2212892.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8987,
+          "name": "Seven Reapers Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/94C93141E27A9A9A1E9B7D94AB0E0A7962B44A58/2212893.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8981,
+          "name": "Seven Reapers Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5FCDC8B445DC48FB6C455F4E797D9D52C436A568/2212894.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 13112,
+          "name": "Seven Reapers Spear",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/23234CE4A609F3762A6066B40997D811114D7EDB/3645742.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8991,
+          "name": "Seven Reapers Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5438753311BF4FE5F157A3CC1A6D0D9B2CE1164D/2212895.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8988,
+          "name": "Seven Reapers Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/2CC522A10EAD04BF64CD734DCF60C7C02DBD5338/2212896.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8985,
+          "name": "Seven Reapers Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/06DEDF6A7D44D1A61642F637BC2101F2685AEBA1/2212897.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8978,
+          "name": "Seven Reapers Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/04AC714CFDB29F7FC5F8AB6F0EDFA1DAC56B0B65/2212898.png",
+          "cats": [
+            "Seven Reapers weapon skins"
+          ],
+          "set": "Seven Reapers weapon skins",
+          "released": "October 15, 2019",
+          "blackLion": "Shadow of the Mad King 2019",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Seven Reapers Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Halloween: Seven Reapers weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -164537,6 +167000,12 @@
           "icon": "https://render.guildwars2.com/file/6FAADCFAE377FBF836771C0FFF73AF02057A55FE/499468.png",
           "cats": [
             "Shadow of the Mad King weapon skins"
+          ],
+          "set": "Shadow of the Mad King weapon skins",
+          "released": "October 22, 2012",
+          "blackLion": "Shadow of the Mad King",
+          "acq": [
+            "black-lion"
           ],
           "kind": "skin",
           "source": "event",
@@ -164650,6 +167119,16 @@
           "icon": "https://render.guildwars2.com/file/EFC55FBAC84B30F5231C41F94C2C5E1F1A6A74AA/648207.png",
           "cats": [
             "Blood and Madness weapon skins"
+          ],
+          "set": "Blood and Madness weapon skins",
+          "released": "October 15, 2013",
+          "blackLion": "Blood and Madness",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Bloody Prince's Toybox"
           ],
           "kind": "skin",
           "source": "event",
@@ -165420,7 +167899,7 @@
       "event": true,
       "group": "festival",
       "note": "Wintersday skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
-      "count": 275,
+      "count": 339,
       "skins": [
         {
           "id": 5295,
@@ -166208,7 +168687,7 @@
             "Wintersday/items"
           ],
           "acq": [
-            "achievement-reward"
+            "collection"
           ],
           "ach": [
             "Toy Tonic Tippler"
@@ -166247,6 +168726,12 @@
             "Wintersday",
             "Wintersday/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Toy Tonic Tippler"
+          ],
           "kind": "novelty",
           "type": "Novelty",
           "rarity": null,
@@ -166263,6 +168748,12 @@
           "cats": [
             "Wintersday",
             "Wintersday/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Toy Tonic Tippler"
           ],
           "kind": "novelty",
           "type": "Novelty",
@@ -166281,6 +168772,12 @@
             "Wintersday",
             "Wintersday/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Toy Tonic Tippler"
+          ],
           "kind": "novelty",
           "type": "Novelty",
           "rarity": null,
@@ -166298,6 +168795,12 @@
             "Wintersday",
             "Wintersday/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Toy Tonic Tippler"
+          ],
           "kind": "novelty",
           "type": "Novelty",
           "rarity": null,
@@ -166314,6 +168817,12 @@
           "cats": [
             "Wintersday",
             "Wintersday/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Toy Tonic Tippler"
           ],
           "kind": "novelty",
           "type": "Novelty",
@@ -166541,6 +169050,406 @@
           "wikiFirstSeen": null
         },
         {
+          "id": 7062,
+          "name": "Frostforged Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5404253AEBD66C433D2BBF7B50CA7818AADADF01/1614454.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7044,
+          "name": "Frostforged Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/09149111BAE3E0EEA0F36BB601330B2A78D81062/1614507.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7054,
+          "name": "Frostforged Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/6C0193D85B3FD66F34C75EE3B23D291A0CAC58B4/1614519.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7050,
+          "name": "Frostforged Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/12AC5E9BCD0C0BEFB8087B1FA80F65534BB597E2/1614537.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7060,
+          "name": "Frostforged Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/44DA7EE65849E65B3F03097448B506200E571175/1614549.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7041,
+          "name": "Frostforged Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E14E0A7798EDE826A0BDF40DA3E3ED21D5C364A7/1614466.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7059,
+          "name": "Frostforged Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7279B637C9ECD22128B8A47B3F9B4673D70AD514/1614565.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7057,
+          "name": "Frostforged Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/6C0297B3DA011263660EF2EF74DB51CDD722F8C2/1614579.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7046,
+          "name": "Frostforged Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/13FE114694ED25FF58B8C63ABE09C5412329667F/1614580.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7053,
+          "name": "Frostforged Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A4AE5A7FBA043A78459B5D1F322E76D33E0A21A8/1614609.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7048,
+          "name": "Frostforged Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D3D35AE5D608BC47F994234BF2CB794F6B413609/1614623.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7039,
+          "name": "Frostforged Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/12F3A8C5D8D112D550D1DDAB20BCD8ACADA2AB4B/1614482.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7056,
+          "name": "Frostforged Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/3A2F311DB01D796F0ED3ECC92A012722EE2DF80B/1614637.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7049,
+          "name": "Frostforged Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F89FE45BFC656612595A17182878B72E6FCECDF4/1614651.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7036,
+          "name": "Frostforged Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D7979D4F4FF7F3EEE10ECA380C4605C33DD2B3B5/1614665.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7052,
+          "name": "Frostforged Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/5FD228BBF12A193C1E684650F51028C04219774D/1614679.png",
+          "cats": [
+            "Frostforged weapon skins"
+          ],
+          "set": "Frostforged weapon skins",
+          "released": "December 13, 2016",
+          "blackLion": "Wintersday 2016",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Frostforged Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Frostforged weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
           "set": "Wintersday Weapon Chest weapons",
           "released": "December 14, 2021",
           "id": 12791,
@@ -166622,6 +169531,406 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Wintersday Weapon Chest weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7929,
+          "name": "Glacial Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/E016D836CB9095CC0E28260C33EFEA1E1ECD38D6/1914918.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7981,
+          "name": "Glacial Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/2EB406A6C9AF9C1B050703BB3252555EE84B05EE/1914951.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7957,
+          "name": "Glacial Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D70EFF56429A0201076704FF4F95B6627F20F21D/1914961.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7937,
+          "name": "Glacial Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C1DB132CD8DC654D0C025BEC614034254D61C633/1914971.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7938,
+          "name": "Glacial Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/AEEAF5F73EA541F32C5AC8EFC99B3160CB260DAD/1914981.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7990,
+          "name": "Glacial Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/3F0E35D56D4EB7283DA4020B3F90071A9EBE26C6/1914940.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7939,
+          "name": "Glacial Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/22F9D72F6C0C9BD819C2F054D8DC46D36FDE220B/1914991.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7967,
+          "name": "Glacial Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/AC5562035472BEC3055F1C17BB45BCD771672ACF/1915001.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7944,
+          "name": "Glacial Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D85417229B081A5C512EAC42351FF60CC3AA47C7/1915011.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7955,
+          "name": "Glacial Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/4A32A7295502417E5C6BFAB277543C37F5BA0C03/1915023.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7968,
+          "name": "Glacial Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F8FB29A26A6E2C472177A9EC5147451499060AE4/1915035.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7942,
+          "name": "Glacial Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/77FC742A72013243C63669047114B609A2AC5105/1914941.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7947,
+          "name": "Glacial Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F591F00953BCACA35218EBBEA219E02347BE7819/1915047.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7972,
+          "name": "Glacial Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/D216FD50E5EC44CEBCF9FDCEF142B9F600180E4F/1915059.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7984,
+          "name": "Glacial Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/27F198FB077D172DB459C1C9F5CEE908FE175AFC/1915070.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7986,
+          "name": "Glacial Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/BF60A8B9D5F5F8A9682E1842364CA6F45E10E218/1915082.png",
+          "cats": [
+            "Glacial weapon skins"
+          ],
+          "set": "Glacial weapon skins",
+          "released": "December 12, 2017",
+          "blackLion": "Wintersday 2017",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Glacial Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Glacial weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -167399,7 +170708,7 @@
             "Wintersday/items"
           ],
           "acq": [
-            "achievement-reward"
+            "collection"
           ],
           "ach": [
             "Wintersday Toy Weapons Collection"
@@ -167609,6 +170918,406 @@
           "weight_class": null,
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday miniatures, Wintersday/items",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8525,
+          "name": "Orchestral Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/101BE6E499AFB7236A17B5CB4EC252094DC35B30/2075557.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8528,
+          "name": "Orchestral Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/024D5E12773DE85C7ED8ED58B62B3FA6ECB80DD9/2075613.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8530,
+          "name": "Orchestral Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/F3D4B21C689D7AEBBD919E724BC430D96BB2FE7D/2075627.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8550,
+          "name": "Orchestral Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9B40404E5EA44702CAA95BB4FA9A5C720E074A31/2075643.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8548,
+          "name": "Orchestral Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/9F0271FE5A4F433C3B920EFBCBA6F727AA4CF9AC/2075657.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8532,
+          "name": "Orchestral Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/00D5FE2B60F5DE59F91E72A204735B600D20B9FD/2075577.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8552,
+          "name": "Orchestral Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/FB0D70D4A222ACB246D454B9782D4BB905C05211/2075673.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8546,
+          "name": "Orchestral Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/3DCF02A244A9CD5A3DA9507640231C0AFF07637A/2075681.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8549,
+          "name": "Orchestral Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/3DCF02A244A9CD5A3DA9507640231C0AFF07637A/2075681.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8527,
+          "name": "Orchestral Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/CAC2540835FEED4B93130A0D330CAC0DDDAE5C62/2075709.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8540,
+          "name": "Orchestral Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/906ED5AE5BE07A6E2D432D9BEF225E0936461E05/2075724.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8519,
+          "name": "Orchestral Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C64E99E7911FDD09134A3219453B0AD1BD29E20C/2075594.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8526,
+          "name": "Orchestral Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/2953AA56EDA1B42F0396991CF60B041D64D042CD/2075739.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8537,
+          "name": "Orchestral Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/68C5ABE39D6E12BBF60703D8BBF7D69022C53DFC/2075751.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8521,
+          "name": "Orchestral Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/40079FE77F6E27F33B4ED87D915F1C6426B22269/2075768.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 8523,
+          "name": "Orchestral Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/4A4C0AB00AB40EB69F48E90226C2F3370950F6CB/2075782.png",
+          "cats": [
+            "Orchestral weapon skins"
+          ],
+          "set": "Orchestral weapon skins",
+          "released": "December 11, 2018",
+          "blackLion": "A Very Merry Wintersday 2018",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Orchestral Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Orchestral weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -170957,6 +174666,31 @@
           "wikiFirstSeen": null
         },
         {
+          "id": 5805,
+          "name": "Wintersday Axe",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/6415921A0BF5D4958050483D07B043D509E7466C/924635.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
           "set": "Wintersday Weapon Chest weapons",
           "released": "December 14, 2021",
           "id": 12757,
@@ -170982,6 +174716,31 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Wintersday Weapon Chest weapons",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5811,
+          "name": "Wintersday Dagger",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/A6B52AB7BEFEDBB2EA54B927FB37355A23542908/924636.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
           "wikiFirstSeen": null
         },
         {
@@ -171027,6 +174786,356 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Gem Store Wintersday items",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5810,
+          "name": "Wintersday Focus",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/C90CA16391218031C2ADF2F0B144CD4203DCFEF3/924622.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5807,
+          "name": "Wintersday Greatsword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/DCD30BFBAC1D0A9F04F0977EA6F7DAB112BA3BB1/924621.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5799,
+          "name": "Wintersday Hammer",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/24E9552ACE27EF0FB3464838036424B85D5C0B3D/924632.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5798,
+          "name": "Wintersday Longbow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/61927113EFFF2B437D51C2F7B208EB0E3998157E/924631.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5804,
+          "name": "Wintersday Mace",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/7A7B6EE111B82039000FDB63CCFE9D65D80B3406/924629.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5802,
+          "name": "Wintersday Pistol",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/1723D52B6E167FD1031B1DC2099A05BCBFC524EF/924628.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5806,
+          "name": "Wintersday Rifle",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/DC364F6426CEC0CB47D009B1B17C3DF6F19BF4E7/924625.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5812,
+          "name": "Wintersday Scepter",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0B0A0BE5190A23E2A115A7A237BA6BF97F7867FA/924623.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5800,
+          "name": "Wintersday Shield",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/597CA9CE02D4632F06C6AE019242080E316A93C2/924624.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5808,
+          "name": "Wintersday Short Bow",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/95A9FAF804EFDF43E60BDD0BCAEBD0BEA9AFFB49/924633.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5809,
+          "name": "Wintersday Staff",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/19F26A5FED905CF79AF806D7A80153D8D40F5119/924627.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5797,
+          "name": "Wintersday Sword",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/29AC73231E1B6344C6013E1442F44A967D3FE1C1/924626.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5803,
+          "name": "Wintersday Torch",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/950C0904DA7432F10E59D1657EDC0D46C69960DE/924630.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 5801,
+          "name": "Wintersday Warhorn",
+          "type": "Weapon",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/46B12F18D10CC5FC9F17FF0C0ABF02C14C2B42DF/924634.png",
+          "cats": [
+            "Wintersday weapon skins"
+          ],
+          "set": "Wintersday weapon skins",
+          "released": "December 16, 2014",
+          "blackLion": "Wintersday",
+          "acq": [
+            "black-lion",
+            "collection"
+          ],
+          "ach": [
+            "Wintersday Weapon Collection"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Wintersday: Wintersday weapon skins",
           "wikiFirstSeen": null
         },
         {

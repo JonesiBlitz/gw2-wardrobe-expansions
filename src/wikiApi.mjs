@@ -35,6 +35,12 @@ export async function getCategoryMembers(categoryTitle, { cmtype = "page|subcat"
   return members;
 }
 
+/** One page of mainspace full-text search results: { titles, next } (next is null on the last page). */
+export async function searchTitles(query, offset = 0) {
+  const json = await apiGet({ action: "query", list: "search", srsearch: query, srnamespace: "0", srlimit: "500", sroffset: String(offset) });
+  return { titles: (json?.query?.search ?? []).map((s) => s.title), next: json?.continue?.sroffset ?? null };
+}
+
 /** Rendered HTML of a wiki article (needed for template-driven tables like "Sold by"). */
 export async function parsePageHtml(title) {
   const json = await apiGet({ action: "parse", page: title, prop: "text", disablelimitreport: "1" });

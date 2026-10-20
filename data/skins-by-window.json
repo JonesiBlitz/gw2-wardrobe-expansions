@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:34:10.873Z",
+  "generatedAt": "2026-10-20T22:25:18.060Z",
   "totalSkins": 10612,
   "windows": [
     {
@@ -141322,6 +141322,12 @@
             "Lunar New Year miniatures",
             "Lunar New Year/items"
           ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Celestial Racer"
+          ],
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
@@ -141365,6 +141371,12 @@
           "cats": [
             "Lunar New Year miniatures",
             "Lunar New Year/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Light Up the Sky"
           ],
           "kind": "mini",
           "type": "Mini",
@@ -142439,7 +142451,7 @@
       "event": true,
       "group": "festival",
       "note": "Super Adventure Box skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
-      "count": 228,
+      "count": 229,
       "skins": [
         {
           "id": 7179,
@@ -142452,7 +142464,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142461,9 +142474,33 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
+          "wikiFirstSeen": null
+        },
+        {
+          "id": 7201,
+          "name": "Crimson Assassin Backpack Cover",
+          "type": "Back",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/BC3649652D6E5DD3926C9BC12DE36680237DBEF9/1664053.png",
+          "cats": [
+            "Achievement reward"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "The Crimson Assassin"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Super Adventure Box: Achievement reward",
           "wikiFirstSeen": null
         },
         {
@@ -142477,7 +142514,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142486,6 +142524,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142502,7 +142543,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142511,6 +142553,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142527,7 +142572,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142536,6 +142582,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142552,7 +142601,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142561,6 +142611,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142577,7 +142630,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142586,6 +142640,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142602,7 +142659,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142611,6 +142669,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142627,7 +142688,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142636,6 +142698,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142652,7 +142717,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142661,6 +142727,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142677,7 +142746,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142686,6 +142756,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142702,7 +142775,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142711,6 +142785,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142727,7 +142804,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142736,6 +142814,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142752,7 +142833,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142761,6 +142843,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142777,7 +142862,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142786,6 +142872,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142802,7 +142891,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142811,6 +142901,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -142827,7 +142920,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -142836,6 +142930,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Crimson Assassin"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Crimson Assassin weapon skins",
@@ -144143,7 +144240,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144152,6 +144250,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144170,7 +144271,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144179,6 +144281,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144197,7 +144302,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144206,6 +144312,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144224,7 +144333,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144233,6 +144343,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144251,7 +144364,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144260,6 +144374,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144278,7 +144395,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144287,6 +144405,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144305,7 +144426,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144314,6 +144436,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144332,7 +144457,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144341,6 +144467,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144359,7 +144488,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144368,6 +144498,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144386,7 +144519,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144395,6 +144529,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144413,7 +144550,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144422,6 +144560,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144440,7 +144581,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144449,6 +144591,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144467,7 +144612,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144476,6 +144622,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144494,7 +144643,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144503,6 +144653,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144521,7 +144674,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144530,6 +144684,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144548,7 +144705,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -144557,6 +144715,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Glitched Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Glitched Adventure weapons",
@@ -144865,7 +145026,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -144874,6 +145036,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -144893,7 +145058,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -144902,6 +145068,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -144921,7 +145090,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -144930,6 +145100,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -144949,7 +145122,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -144958,6 +145132,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -144977,7 +145154,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -144986,6 +145164,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145005,7 +145186,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145014,6 +145196,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145033,7 +145218,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145042,6 +145228,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145061,7 +145250,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145070,6 +145260,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145089,7 +145282,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145098,6 +145292,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145117,7 +145314,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145126,6 +145324,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145145,7 +145346,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145154,6 +145356,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145173,7 +145378,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145182,6 +145388,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145201,7 +145410,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145210,6 +145420,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145229,7 +145442,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145238,6 +145452,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145257,7 +145474,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145266,6 +145484,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145285,7 +145506,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -145294,6 +145516,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Kaiser"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Kaiser Snake weapons",
@@ -145308,6 +145533,12 @@
           "icon": "https://render.guildwars2.com/file/4278EB6EDB1D53623B52982DADE009F4A817023D/631325.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ],
           "kind": "skin",
           "source": "event",
@@ -145324,6 +145555,12 @@
           "cats": [
             "King Toad's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
@@ -145338,6 +145575,12 @@
           "icon": "https://render.guildwars2.com/file/E096C3BE36605E28D3420C0536C578D305DFB693/631331.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ],
           "kind": "skin",
           "source": "event",
@@ -145354,6 +145597,12 @@
           "cats": [
             "King Toad's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
@@ -145368,6 +145617,12 @@
           "icon": "https://render.guildwars2.com/file/0A7079D2062100995035C869E02CEC9B727F93FE/631346.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ],
           "kind": "skin",
           "source": "event",
@@ -145384,6 +145639,12 @@
           "cats": [
             "King Toad's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
@@ -145398,6 +145659,12 @@
           "icon": "https://render.guildwars2.com/file/7C92C5B87F16DBFA2A687FA3E57D05262AA1FAE0/631316.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ],
           "kind": "skin",
           "source": "event",
@@ -145414,6 +145681,12 @@
           "cats": [
             "King Toad's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
@@ -145428,6 +145701,12 @@
           "icon": "https://render.guildwars2.com/file/CD6863A5F436FB200808005376A580FA4A5265A2/631340.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ],
           "kind": "skin",
           "source": "event",
@@ -145444,6 +145723,12 @@
           "cats": [
             "King Toad's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
@@ -145458,6 +145743,12 @@
           "icon": "https://render.guildwars2.com/file/2A7377B41B974D4B2D50D9C40EF06908B1B95369/631362.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ],
           "kind": "skin",
           "source": "event",
@@ -145474,6 +145765,12 @@
           "cats": [
             "King Toad's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
@@ -145488,6 +145785,12 @@
           "icon": "https://render.guildwars2.com/file/4C1CB3F443445007DA80F44637093B5AC3F2C297/631368.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ],
           "kind": "skin",
           "source": "event",
@@ -145504,6 +145807,12 @@
           "cats": [
             "King Toad's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
@@ -145519,6 +145828,12 @@
           "cats": [
             "King Toad's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: King Toad's weapon skins",
@@ -145533,6 +145848,12 @@
           "icon": "https://render.guildwars2.com/file/6FF510DE91C8D921B40A18B52B3CD4783DF8B428/631328.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ],
           "kind": "skin",
           "source": "event",
@@ -145831,6 +146152,12 @@
           "cats": [
             "Super Adventure Box miniatures"
           ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Ooze Farmer, Under 3"
+          ],
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
@@ -145990,6 +146317,12 @@
           "item_id": 104601,
           "cats": [
             "Super Adventure Box miniatures"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Super Ooze Baker"
           ],
           "kind": "mini",
           "type": "Mini",
@@ -146327,6 +146660,12 @@
           "cats": [
             "Storm Wizard's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
@@ -146341,6 +146680,12 @@
           "icon": "https://render.guildwars2.com/file/B25ECF73FCACCFA0CA006E1444B446E05FF9C660/631401.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ],
           "kind": "skin",
           "source": "event",
@@ -146357,6 +146702,12 @@
           "cats": [
             "Storm Wizard's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
@@ -146371,6 +146722,12 @@
           "icon": "https://render.guildwars2.com/file/5E4370C3BF6937A3250A6D58A86EA8C3F3AFE491/631407.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ],
           "kind": "skin",
           "source": "event",
@@ -146387,6 +146744,12 @@
           "cats": [
             "Storm Wizard's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
@@ -146401,6 +146764,12 @@
           "icon": "https://render.guildwars2.com/file/589323BC0D9EA106D91C023A0AD4077D4D72C0F7/631414.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ],
           "kind": "skin",
           "source": "event",
@@ -146417,6 +146786,12 @@
           "cats": [
             "Storm Wizard's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
@@ -146431,6 +146806,12 @@
           "icon": "https://render.guildwars2.com/file/FFDFAD50A3E408FDD01D427AAA325EAD18BC0BFA/631395.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ],
           "kind": "skin",
           "source": "event",
@@ -146447,6 +146828,12 @@
           "cats": [
             "Storm Wizard's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
@@ -146461,6 +146848,12 @@
           "icon": "https://render.guildwars2.com/file/714863D856D624B7B7AB5DFB253923494FFACD94/631417.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ],
           "kind": "skin",
           "source": "event",
@@ -146477,6 +146870,12 @@
           "cats": [
             "Storm Wizard's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
@@ -146491,6 +146890,12 @@
           "icon": "https://render.guildwars2.com/file/1BA6E2B3FDB0204927A61825BCFA21D1EDD5D393/631425.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ],
           "kind": "skin",
           "source": "event",
@@ -146507,6 +146912,12 @@
           "cats": [
             "Storm Wizard's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
@@ -146521,6 +146932,12 @@
           "icon": "https://render.guildwars2.com/file/4BAAF3CF100D40FFB0DC7A7A48A6F043DFAD0F77/631431.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ],
           "kind": "skin",
           "source": "event",
@@ -146537,6 +146954,12 @@
           "cats": [
             "Storm Wizard's weapon skins"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Storm Wizard's weapon skins",
@@ -146551,6 +146974,12 @@
           "icon": "https://render.guildwars2.com/file/CD441DC312FEBE4971D2E8C758EF46C96E254448/631386.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ],
           "kind": "skin",
           "source": "event",
@@ -146568,7 +146997,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -146577,6 +147007,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -146618,7 +147051,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -146627,6 +147061,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -146643,7 +147080,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -146652,6 +147090,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -146668,7 +147109,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -146677,6 +147119,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -146693,7 +147138,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -146702,6 +147148,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -146718,7 +147167,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -146727,6 +147177,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -146743,7 +147196,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -146752,6 +147206,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -146768,7 +147225,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -146777,6 +147235,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -147150,7 +147611,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -147159,6 +147621,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -147175,7 +147640,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -147184,6 +147650,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -147200,7 +147669,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -147209,6 +147679,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -147225,7 +147698,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -147234,6 +147708,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -147250,7 +147727,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -147259,6 +147737,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -147275,7 +147756,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -147284,6 +147766,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -147300,7 +147785,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -147309,6 +147795,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -147325,7 +147814,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -147334,6 +147824,9 @@
             "limit": null,
             "festival": "Super Adventure Box"
           },
+          "ach": [
+            "The Super Adventure"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Super Adventure Box: Super weapon skins",
@@ -147401,7 +147894,7 @@
       "event": true,
       "group": "festival",
       "note": "Dragon Bash skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
-      "count": 167,
+      "count": 168,
       "skins": [
         {
           "id": 14001,
@@ -150415,6 +150908,12 @@
             "Dragon Bash miniatures",
             "Dragon Bash/items"
           ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Saltspray Survived"
+          ],
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
@@ -151645,6 +152144,27 @@
           "source": "event",
           "sourceLabel": "Dragon Bash: Dragon Bash/items, Dragon Bash Weapon Chest weapons",
           "wikiFirstSeen": null
+        },
+        {
+          "id": 8833,
+          "name": "Victorious Holographic Wings",
+          "type": "Back",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0F0BB04B28DE94EDB37ACD2AB65C066F477D1FF7/2162983.png",
+          "cats": [
+            "Achievement reward"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "The Dragon Bash Experience"
+          ],
+          "kind": "skin",
+          "source": "event",
+          "sourceLabel": "Dragon Bash: Achievement reward",
+          "wikiFirstSeen": null
         }
       ]
     },
@@ -151656,7 +152176,7 @@
       "event": true,
       "group": "festival",
       "note": "Festival of the Four Winds skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
-      "count": 252,
+      "count": 253,
       "skins": [
         {
           "id": 8863,
@@ -152401,6 +152921,28 @@
           "wikiFirstSeen": null
         },
         {
+          "id": 47,
+          "name": "Flames of Kryta",
+          "slot": "HeldItem",
+          "icon": "https://render.guildwars2.com/file/49D9A89CD22BED9933929CE2E7592328550259DC/619591.png",
+          "cats": [
+            "Achievement reward"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Luminary of Kryta"
+          ],
+          "kind": "novelty",
+          "type": "Novelty",
+          "rarity": null,
+          "weight_class": "HeldItem",
+          "source": "event",
+          "sourceLabel": "Festival of the Four Winds: Achievement reward",
+          "wikiFirstSeen": null
+        },
+        {
           "id": 2024,
           "name": "Gas Mask",
           "type": "Armor",
@@ -152559,7 +153101,8 @@
             "Festival of the Four Winds/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "achievement-reward"
           ],
           "vendor": {
             "name": "Festival Rewards Vendor (Festival Rewards)",
@@ -152568,6 +153111,9 @@
             "limit": null,
             "festival": "Festival of the Four Winds"
           },
+          "ach": [
+            "Balloon Tower Tourist"
+          ],
           "kind": "novelty",
           "type": "Novelty",
           "rarity": null,
@@ -153504,6 +154050,12 @@
             "Festival of the Four Winds miniatures",
             "Festival of the Four Winds/items"
           ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Darkness Illuminator"
+          ],
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
@@ -153737,7 +154289,8 @@
             "Festival of the Four Winds/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "achievement-reward"
           ],
           "vendor": {
             "name": "Festival Rewards Vendor (Festival Rewards)",
@@ -153746,6 +154299,9 @@
             "limit": null,
             "festival": "Festival of the Four Winds"
           },
+          "ach": [
+            "Queen's Jubilee Completionist"
+          ],
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
@@ -157409,7 +157965,8 @@
             "Festival of the Four Winds/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "achievement-reward"
           ],
           "vendor": {
             "name": "Festival Rewards Vendor (Festival Rewards)",
@@ -157418,6 +157975,9 @@
             "limit": null,
             "festival": "Festival of the Four Winds"
           },
+          "ach": [
+            "Lessons from the Sky"
+          ],
           "kind": "novelty",
           "type": "Novelty",
           "rarity": null,
@@ -158530,9 +159090,13 @@
             "Halloween/items"
           ],
           "acq": [
-            "collection"
+            "collection",
+            "achievement-reward"
           ],
           "vendor": null,
+          "ach": [
+            "Mad Armory: Carapace of Chaos"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons, Halloween/items",
@@ -161320,9 +161884,13 @@
             "Halloween/items"
           ],
           "acq": [
-            "collection"
+            "collection",
+            "achievement-reward"
           ],
           "vendor": null,
+          "ach": [
+            "Mad Armory: Last Rites"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween weapons, Halloween/items",
@@ -161366,6 +161934,12 @@
             "Lunatic armor",
             "Halloween/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Lunatic armor, Halloween/items",
@@ -161381,6 +161955,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -161398,6 +161978,12 @@
             "Lunatic armor",
             "Halloween/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Lunatic armor, Halloween/items",
@@ -161413,6 +161999,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -161430,6 +162022,12 @@
             "Lunatic armor",
             "Halloween/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Lunatic armor, Halloween/items",
@@ -161445,6 +162043,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -161462,6 +162066,12 @@
             "Lunatic armor",
             "Halloween/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Lunatic armor, Halloween/items",
@@ -161477,6 +162087,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -161494,6 +162110,12 @@
             "Lunatic armor",
             "Halloween/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Lunatic armor, Halloween/items",
@@ -161509,6 +162131,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -161526,6 +162154,12 @@
             "Lunatic armor",
             "Halloween/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Lunatic armor, Halloween/items",
@@ -161541,6 +162175,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -161558,6 +162198,12 @@
             "Lunatic armor",
             "Halloween/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Lunatic armor, Halloween/items",
@@ -161573,6 +162219,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -161590,6 +162242,12 @@
             "Lunatic armor",
             "Halloween/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Lunatic armor, Halloween/items",
@@ -161605,6 +162263,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -161622,6 +162286,12 @@
             "Lunatic armor",
             "Halloween/items"
           ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Lunatic armor, Halloween/items",
@@ -161637,6 +162307,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -161654,6 +162330,12 @@
             "Halloween",
             "Halloween/items"
           ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Mad Mysteries"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween, Halloween/items",
@@ -161669,6 +162351,12 @@
           "cats": [
             "Halloween",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Mad Mementos"
           ],
           "kind": "skin",
           "source": "event",
@@ -161687,6 +162375,12 @@
             "Halloween armor skins",
             "Halloween/items"
           ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Mad Memorial"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween, Halloween armor skins, Halloween/items",
@@ -161703,6 +162397,12 @@
             "Halloween",
             "Halloween armor skins",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ],
           "kind": "skin",
           "source": "event",
@@ -162014,6 +162714,12 @@
             "Blood and Madness",
             "Halloween/items"
           ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Tricks and Treats"
+          ],
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
@@ -162049,7 +162755,8 @@
             "Halloween/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "achievement-reward"
           ],
           "vendor": {
             "name": "Candy Corn Vendor",
@@ -162058,6 +162765,9 @@
             "limit": null,
             "festival": "Halloween"
           },
+          "ach": [
+            "A Sweet Friend"
+          ],
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
@@ -162668,6 +163378,12 @@
             "Halloween miniatures",
             "Halloween/items"
           ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Close the Floodgates of Death"
+          ],
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
@@ -162734,6 +163450,12 @@
           "cats": [
             "Halloween miniatures",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Court Duty: All's Mad That Ends Mad"
           ],
           "kind": "mini",
           "type": "Mini",
@@ -163250,9 +163972,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163273,9 +163999,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163296,9 +164026,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163319,9 +164053,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163342,9 +164080,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163365,9 +164107,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163388,9 +164134,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163411,9 +164161,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163434,9 +164188,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163457,9 +164215,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163480,9 +164242,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163503,9 +164269,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163526,9 +164296,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163549,9 +164323,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163572,9 +164350,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -163595,9 +164377,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Halloween/items, Royal Flame weapons",
@@ -164647,7 +165433,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -164656,6 +165443,9 @@
             "limit": null,
             "festival": "Wintersday"
           },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -165416,6 +166206,12 @@
           "icon": "https://render.guildwars2.com/file/4BE6901A7CF04E73C947CA4B2C53B7A70FCF1627/924592.png",
           "cats": [
             "Wintersday/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Toy Tonic Tippler"
           ],
           "kind": "novelty",
           "type": "Novelty",
@@ -166290,6 +167086,12 @@
             "Wintersday miniatures",
             "Wintersday/items"
           ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Holiday Food Drive"
+          ],
           "kind": "mini",
           "type": "Mini",
           "rarity": null,
@@ -166595,6 +167397,12 @@
           "cats": [
             "Wintersday miniatures",
             "Wintersday/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Wintersday Toy Weapons Collection"
           ],
           "kind": "mini",
           "type": "Mini",
@@ -167416,7 +168224,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -167425,6 +168234,9 @@
             "limit": null,
             "festival": "Wintersday"
           },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -167441,7 +168253,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -167450,6 +168263,9 @@
             "limit": null,
             "festival": "Wintersday"
           },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -167514,9 +168330,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167536,9 +168356,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167558,9 +168382,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167580,9 +168408,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167602,9 +168434,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167624,9 +168460,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167646,9 +168486,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167668,9 +168512,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167690,9 +168538,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167712,9 +168564,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167734,9 +168590,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167756,9 +168616,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167778,9 +168642,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167800,9 +168668,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167822,9 +168694,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -167844,9 +168720,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
           "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items, Rimed Verdant weapons",
@@ -168415,7 +169295,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -168424,6 +169305,9 @@
             "limit": null,
             "festival": "Wintersday"
           },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -169521,7 +170405,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -169530,6 +170415,9 @@
             "limit": null,
             "festival": "Wintersday"
           },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -169546,7 +170434,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -169555,6 +170444,9 @@
             "limit": null,
             "festival": "Wintersday"
           },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -169571,7 +170463,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -169580,6 +170473,9 @@
             "limit": null,
             "festival": "Wintersday"
           },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",
@@ -170144,7 +171040,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -170153,6 +171050,9 @@
             "limit": null,
             "festival": "Wintersday"
           },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ],
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Wintersday: Wintersday/items",

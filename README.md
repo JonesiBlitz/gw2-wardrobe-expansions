@@ -50,7 +50,7 @@ Dragon Bash, Festival of the Four Winds, Halloween and Wintersday -
 with its skins, minis and novelties and the same unlocked/locked filter. These
 span every year, so a festival skin also appears in its release-window tab.
 
-`src/fetchFestivals.mjs` builds each one from three sources:
+`src/fetchFestivals.mjs` builds each one from four sources:
 
 1. The festival's category tree on the wiki (`Category:Wintersday`, `Gem Store
    Wintersday items`, ...), crawled to depth 3.
@@ -68,7 +68,19 @@ span every year, so a festival skin also appears in its release-window tab.
    Vendors whose title ends "(historical)" are tagged "past festival vendor"
    instead of a current source.
 
-Everything is matched by name to the API's skins, minis and novelties
+4. The official achievements API: festival achievement categories are picked by
+   name (they sit in the Historical / Daily / Bonus Events groups; there is no
+   "festival" group) and the mixed "Festival Collections" category is split by
+   achievement name. Item rewards are resolved to skins (via the item's
+   default skin, or for skin-unlock consumables such as "... Backpack Cover" by
+   name), minis (`minipet_id`) and novelties (their unlock item); collection
+   achievements contribute their skin and mini pieces. These are tagged
+   "Achievement reward" or "Collection achievement" (tooltip names the
+   achievement) and add any item the wiki crawl missed. Reward *containers*
+   (chests, gift boxes) can't be opened via the API, so their contents still
+   come from the wiki set pages.
+
+Everything else is matched by name to the API's skins, minis and novelties
 (novelties also by their unlock item's name), so it is best-effort: anything
 the wiki doesn't link from those sources won't show up. Super Adventure Box
 has no `/items` page, so its weapon sets are taken from its

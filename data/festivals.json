@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:33:53.951Z",
+  "generatedAt": "2026-10-20T22:25:05.773Z",
   "festivals": [
     {
       "key": "lunar-new-year",
@@ -3411,6 +3411,12 @@
           "cats": [
             "Lunar New Year miniatures",
             "Lunar New Year/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Celestial Racer"
           ]
         },
         {
@@ -3441,6 +3447,12 @@
           "cats": [
             "Lunar New Year miniatures",
             "Lunar New Year/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Light Up the Sky"
           ]
         },
         {
@@ -3554,7 +3566,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3562,7 +3575,27 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
+        },
+        {
+          "id": 7201,
+          "name": "Crimson Assassin Backpack Cover",
+          "type": "Back",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/BC3649652D6E5DD3926C9BC12DE36680237DBEF9/1664053.png",
+          "cats": [
+            "Achievement reward"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7198,
@@ -3575,7 +3608,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3583,7 +3617,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7184,
@@ -3596,7 +3633,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3604,7 +3642,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7188,
@@ -3617,7 +3658,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3625,7 +3667,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7196,
@@ -3638,7 +3683,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3646,7 +3692,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7170,
@@ -3659,7 +3708,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3667,7 +3717,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7182,
@@ -3680,7 +3733,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3688,7 +3742,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7176,
@@ -3701,7 +3758,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3709,7 +3767,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7173,
@@ -3722,7 +3783,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3730,7 +3792,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7172,
@@ -3743,7 +3808,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3751,7 +3817,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7169,
@@ -3764,7 +3833,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3772,7 +3842,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7185,
@@ -3785,7 +3858,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3793,7 +3867,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7194,
@@ -3806,7 +3883,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3814,7 +3892,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7187,
@@ -3827,7 +3908,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3835,7 +3917,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7167,
@@ -3848,7 +3933,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3856,7 +3942,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "id": 7166,
@@ -3869,7 +3958,8 @@
             "Crimson Assassin weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -3877,7 +3967,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Crimson Assassin"
+          ]
         },
         {
           "set": "Crimson Vanquisher weapons",
@@ -4933,7 +5026,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -4941,7 +5035,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -4956,7 +5053,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -4964,7 +5062,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -4979,7 +5080,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -4987,7 +5089,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5002,7 +5107,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5010,7 +5116,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5025,7 +5134,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5033,7 +5143,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5048,7 +5161,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5056,7 +5170,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5071,7 +5188,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5079,7 +5197,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5094,7 +5215,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5102,7 +5224,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5117,7 +5242,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5125,7 +5251,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5140,7 +5269,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5148,7 +5278,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5163,7 +5296,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5171,7 +5305,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5186,7 +5323,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5194,7 +5332,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5209,7 +5350,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5217,7 +5359,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5232,7 +5377,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5240,7 +5386,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5255,7 +5404,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5263,7 +5413,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Glitched Adventure weapons",
@@ -5278,7 +5431,8 @@
             "Glitched Adventure weapons"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -5286,7 +5440,10 @@
             "item": "Glitched Weapon Box",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Glitched Adventure"
+          ]
         },
         {
           "set": "Hardlight weapons",
@@ -5523,7 +5680,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5531,7 +5689,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5547,7 +5708,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5555,7 +5717,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5571,7 +5736,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5579,7 +5745,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5595,7 +5764,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5603,7 +5773,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5619,7 +5792,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5627,7 +5801,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5643,7 +5820,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5651,7 +5829,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5667,7 +5848,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5675,7 +5857,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5691,7 +5876,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5699,7 +5885,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5715,7 +5904,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5723,7 +5913,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5739,7 +5932,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5747,7 +5941,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5763,7 +5960,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5771,7 +5969,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5787,7 +5988,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5795,7 +5997,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5811,7 +6016,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5819,7 +6025,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5835,7 +6044,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5843,7 +6053,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5859,7 +6072,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5867,7 +6081,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "set": "Kaiser Snake weapons",
@@ -5883,7 +6100,8 @@
           ],
           "acq": [
             "achievement",
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Trader",
@@ -5891,7 +6109,10 @@
             "item": "Moto's Unstable Bauble Infusion: Blue",
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Kaiser"
+          ]
         },
         {
           "id": 5281,
@@ -5902,6 +6123,12 @@
           "icon": "https://render.guildwars2.com/file/4278EB6EDB1D53623B52982DADE009F4A817023D/631325.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -5913,6 +6140,12 @@
           "icon": "https://render.guildwars2.com/file/7E65D06134016F990CBF78263E2403B3CD804370/631343.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -5924,6 +6157,12 @@
           "icon": "https://render.guildwars2.com/file/E096C3BE36605E28D3420C0536C578D305DFB693/631331.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -5935,6 +6174,12 @@
           "icon": "https://render.guildwars2.com/file/F0B8D50BB877E50B2749C27DF8740B99DF32310D/631349.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -5946,6 +6191,12 @@
           "icon": "https://render.guildwars2.com/file/0A7079D2062100995035C869E02CEC9B727F93FE/631346.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -5957,6 +6208,12 @@
           "icon": "https://render.guildwars2.com/file/3816E8C40D374EC0A10FFADE744EC5B717CB195C/631356.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -5968,6 +6225,12 @@
           "icon": "https://render.guildwars2.com/file/7C92C5B87F16DBFA2A687FA3E57D05262AA1FAE0/631316.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -5979,6 +6242,12 @@
           "icon": "https://render.guildwars2.com/file/D24E96E505CA7FD8A3905D05BD05056A19315B3D/631337.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -5990,6 +6259,12 @@
           "icon": "https://render.guildwars2.com/file/CD6863A5F436FB200808005376A580FA4A5265A2/631340.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -6001,6 +6276,12 @@
           "icon": "https://render.guildwars2.com/file/DE24F8F11F7E484F3D055B52B847F8956E6CB0B5/631359.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -6012,6 +6293,12 @@
           "icon": "https://render.guildwars2.com/file/2A7377B41B974D4B2D50D9C40EF06908B1B95369/631362.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -6023,6 +6310,12 @@
           "icon": "https://render.guildwars2.com/file/0B19D75E29E33B9EC9A871F82AF90F23C6CA79CD/631365.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -6034,6 +6327,12 @@
           "icon": "https://render.guildwars2.com/file/4C1CB3F443445007DA80F44637093B5AC3F2C297/631368.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -6045,6 +6344,12 @@
           "icon": "https://render.guildwars2.com/file/D5F7271B700352B5DF05A93D9BD1C13324802899/631371.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -6056,6 +6361,12 @@
           "icon": "https://render.guildwars2.com/file/47BB9FAB260C2D5D99B2C7DAB0F12F58A9AEC606/631334.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -6067,6 +6378,12 @@
           "icon": "https://render.guildwars2.com/file/6FF510DE91C8D921B40A18B52B3CD4783DF8B428/631328.png",
           "cats": [
             "King Toad's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The King Toad"
           ]
         },
         {
@@ -6308,6 +6625,12 @@
           "icon": "https://render.guildwars2.com/file/7805A6DEE8A132FD2C012B90ED455D617D9F00A5/631383.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6319,6 +6642,12 @@
           "icon": "https://render.guildwars2.com/file/B25ECF73FCACCFA0CA006E1444B446E05FF9C660/631401.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6330,6 +6659,12 @@
           "icon": "https://render.guildwars2.com/file/AE92911A58634E2D27A098EB21C5F612C3EDD8A0/631389.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6341,6 +6676,12 @@
           "icon": "https://render.guildwars2.com/file/5E4370C3BF6937A3250A6D58A86EA8C3F3AFE491/631407.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6352,6 +6693,12 @@
           "icon": "https://render.guildwars2.com/file/0C0206F73B767A10EB08D1A3F4D3132533AA0350/631404.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6363,6 +6710,12 @@
           "icon": "https://render.guildwars2.com/file/589323BC0D9EA106D91C023A0AD4077D4D72C0F7/631414.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6374,6 +6727,12 @@
           "icon": "https://render.guildwars2.com/file/B0FA02FF2D2CEA19952F2C2541C8DD010C0C65A2/631374.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6385,6 +6744,12 @@
           "icon": "https://render.guildwars2.com/file/FFDFAD50A3E408FDD01D427AAA325EAD18BC0BFA/631395.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6396,6 +6761,12 @@
           "icon": "https://render.guildwars2.com/file/D7ABA85AFE0E020D4A783E5463F2605CA43F325E/631398.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6407,6 +6778,12 @@
           "icon": "https://render.guildwars2.com/file/714863D856D624B7B7AB5DFB253923494FFACD94/631417.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6418,6 +6795,12 @@
           "icon": "https://render.guildwars2.com/file/4A7C1A60CF7D6607AFCC11D50C78D601D623B7D7/631420.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6429,6 +6812,12 @@
           "icon": "https://render.guildwars2.com/file/1BA6E2B3FDB0204927A61825BCFA21D1EDD5D393/631425.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6440,6 +6829,12 @@
           "icon": "https://render.guildwars2.com/file/B4CC49F4C37C073356C59105A2B7FDBD70B091DB/631428.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6451,6 +6846,12 @@
           "icon": "https://render.guildwars2.com/file/4BAAF3CF100D40FFB0DC7A7A48A6F043DFAD0F77/631431.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6462,6 +6863,12 @@
           "icon": "https://render.guildwars2.com/file/1AD8260030A6AAD507C75F304B90E4BD363DC449/631392.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6473,6 +6880,12 @@
           "icon": "https://render.guildwars2.com/file/CD441DC312FEBE4971D2E8C758EF46C96E254448/631386.png",
           "cats": [
             "Storm Wizard's weapon skins"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "The Storm Wizard"
           ]
         },
         {
@@ -6486,7 +6899,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6494,7 +6908,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 2362,
@@ -6528,7 +6945,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6536,7 +6954,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5274,
@@ -6549,7 +6970,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6557,7 +6979,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5308,
@@ -6570,7 +6995,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6578,7 +7004,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5325,
@@ -6591,7 +7020,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6599,7 +7029,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5284,
@@ -6612,7 +7045,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6620,7 +7054,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5292,
@@ -6633,7 +7070,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6641,7 +7079,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5279,
@@ -6654,7 +7095,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6662,7 +7104,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "set": "Super Rainbow Cloud weapons",
@@ -6964,7 +7409,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6972,7 +7418,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5299,
@@ -6985,7 +7434,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -6993,7 +7443,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5311,
@@ -7006,7 +7459,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -7014,7 +7468,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5258,
@@ -7027,7 +7484,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -7035,7 +7493,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5334,
@@ -7048,7 +7509,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -7056,7 +7518,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5344,
@@ -7069,7 +7534,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -7077,7 +7543,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5251,
@@ -7090,7 +7559,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -7098,7 +7568,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         },
         {
           "id": 5261,
@@ -7111,7 +7584,8 @@
             "Super weapon skins"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Super Adventure Box Weaponsmith",
@@ -7119,7 +7593,10 @@
             "item": null,
             "limit": null,
             "festival": "Super Adventure Box"
-          }
+          },
+          "ach": [
+            "The Super Adventure"
+          ]
         }
       ],
       "minis": [
@@ -7316,6 +7793,12 @@
           "item_id": 101673,
           "cats": [
             "Super Adventure Box miniatures"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Ooze Farmer, Under 3"
           ]
         },
         {
@@ -7406,6 +7889,12 @@
           "item_id": 104601,
           "cats": [
             "Super Adventure Box miniatures"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Super Ooze Baker"
           ]
         },
         {
@@ -10769,6 +11258,23 @@
             "limit": null,
             "festival": "Dragon Bash"
           }
+        },
+        {
+          "id": 8833,
+          "name": "Victorious Holographic Wings",
+          "type": "Back",
+          "rarity": "Basic",
+          "weight_class": null,
+          "icon": "https://render.guildwars2.com/file/0F0BB04B28DE94EDB37ACD2AB65C066F477D1FF7/2162983.png",
+          "cats": [
+            "Achievement reward"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "The Dragon Bash Experience"
+          ]
         }
       ],
       "minis": [
@@ -11010,6 +11516,12 @@
           "cats": [
             "Dragon Bash miniatures",
             "Dragon Bash/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Saltspray Survived"
           ]
         },
         {
@@ -15692,6 +16204,12 @@
           "cats": [
             "Festival of the Four Winds miniatures",
             "Festival of the Four Winds/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Darkness Illuminator"
           ]
         },
         {
@@ -15863,7 +16381,8 @@
             "Festival of the Four Winds/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "achievement-reward"
           ],
           "vendor": {
             "name": "Festival Rewards Vendor (Festival Rewards)",
@@ -15871,7 +16390,10 @@
             "item": null,
             "limit": null,
             "festival": "Festival of the Four Winds"
-          }
+          },
+          "ach": [
+            "Queen's Jubilee Completionist"
+          ]
         },
         {
           "id": 700,
@@ -15944,6 +16466,21 @@
           ]
         },
         {
+          "id": 47,
+          "name": "Flames of Kryta",
+          "slot": "HeldItem",
+          "icon": "https://render.guildwars2.com/file/49D9A89CD22BED9933929CE2E7592328550259DC/619591.png",
+          "cats": [
+            "Achievement reward"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Luminary of Kryta"
+          ]
+        },
+        {
           "id": 49,
           "name": "Hot Air Balloon Souvenir",
           "slot": "HeldItem",
@@ -15952,7 +16489,8 @@
             "Festival of the Four Winds/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "achievement-reward"
           ],
           "vendor": {
             "name": "Festival Rewards Vendor (Festival Rewards)",
@@ -15960,7 +16498,10 @@
             "item": null,
             "limit": null,
             "festival": "Festival of the Four Winds"
-          }
+          },
+          "ach": [
+            "Balloon Tower Tourist"
+          ]
         },
         {
           "id": 150,
@@ -16076,7 +16617,8 @@
             "Festival of the Four Winds/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "achievement-reward"
           ],
           "vendor": {
             "name": "Festival Rewards Vendor (Festival Rewards)",
@@ -16084,7 +16626,10 @@
             "item": null,
             "limit": null,
             "festival": "Festival of the Four Winds"
-          }
+          },
+          "ach": [
+            "Lessons from the Sky"
+          ]
         }
       ]
     },
@@ -16685,9 +17230,13 @@
             "Halloween/items"
           ],
           "acq": [
-            "collection"
+            "collection",
+            "achievement-reward"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Mad Armory: Carapace of Chaos"
+          ]
         },
         {
           "id": 3696,
@@ -18814,9 +19363,13 @@
             "Halloween/items"
           ],
           "acq": [
-            "collection"
+            "collection",
+            "achievement-reward"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Mad Armory: Last Rites"
+          ]
         },
         {
           "id": 10132,
@@ -18851,6 +19404,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18863,6 +19422,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18875,6 +19440,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18887,6 +19458,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18899,6 +19476,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18911,6 +19494,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18923,6 +19512,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18935,6 +19530,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18947,6 +19548,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18959,6 +19566,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18971,6 +19584,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18983,6 +19602,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -18995,6 +19620,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -19007,6 +19638,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -19019,6 +19656,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -19031,6 +19674,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -19043,6 +19692,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -19055,6 +19710,12 @@
           "cats": [
             "Lunatic armor",
             "Halloween/items"
+          ],
+          "acq": [
+            "collection"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -19067,6 +19728,12 @@
           "cats": [
             "Halloween",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Mad Mysteries"
           ]
         },
         {
@@ -19079,6 +19746,12 @@
           "cats": [
             "Halloween",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Mad Mementos"
           ]
         },
         {
@@ -19092,6 +19765,12 @@
             "Halloween",
             "Halloween armor skins",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Mad Memorial"
           ]
         },
         {
@@ -19105,6 +19784,12 @@
             "Halloween",
             "Halloween armor skins",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Lunatic Court's Finery"
           ]
         },
         {
@@ -19493,9 +20178,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19512,9 +20201,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19531,9 +20224,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19550,9 +20247,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19569,9 +20270,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19588,9 +20293,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19607,9 +20316,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19626,9 +20339,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19645,9 +20362,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19664,9 +20385,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19683,9 +20408,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19702,9 +20431,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19721,9 +20454,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19740,9 +20477,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19759,9 +20500,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "set": "Royal Flame weapons",
@@ -19778,9 +20523,13 @@
           ],
           "acq": [
             "achievement",
-            "trick-or-treat"
+            "trick-or-treat",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Royal Flame Weapons"
+          ]
         },
         {
           "id": 11858,
@@ -20742,6 +21491,12 @@
             "Halloween miniatures",
             "Blood and Madness",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Tricks and Treats"
           ]
         },
         {
@@ -20764,7 +21519,8 @@
             "Halloween/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "achievement-reward"
           ],
           "vendor": {
             "name": "Candy Corn Vendor",
@@ -20772,7 +21528,10 @@
             "item": null,
             "limit": null,
             "festival": "Halloween"
-          }
+          },
+          "ach": [
+            "A Sweet Friend"
+          ]
         },
         {
           "id": 111,
@@ -21193,6 +21952,12 @@
           "cats": [
             "Halloween miniatures",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Close the Floodgates of Death"
           ]
         },
         {
@@ -21232,6 +21997,12 @@
           "cats": [
             "Halloween miniatures",
             "Halloween/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Court Duty: All's Mad That Ends Mad"
           ]
         },
         {
@@ -21481,7 +22252,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -21489,7 +22261,10 @@
             "item": null,
             "limit": null,
             "festival": "Wintersday"
-          }
+          },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ]
         },
         {
           "set": "Wintersday Weapon Chest weapons",
@@ -22841,7 +23616,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -22849,7 +23625,10 @@
             "item": null,
             "limit": null,
             "festival": "Wintersday"
-          }
+          },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ]
         },
         {
           "id": 5312,
@@ -22862,7 +23641,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -22870,7 +23650,10 @@
             "item": null,
             "limit": null,
             "festival": "Wintersday"
-          }
+          },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ]
         },
         {
           "id": 9063,
@@ -22919,9 +23702,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -22937,9 +23724,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -22955,9 +23746,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -22973,9 +23768,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -22991,9 +23790,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23009,9 +23812,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23027,9 +23834,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23045,9 +23856,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23063,9 +23878,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23081,9 +23900,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23099,9 +23922,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23117,9 +23944,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23135,9 +23966,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23153,9 +23988,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23171,9 +24010,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Rimed Verdant weapons",
@@ -23189,9 +24032,13 @@
             "Rimed Verdant weapons"
           ],
           "acq": [
-            "achievement"
+            "achievement",
+            "collection"
           ],
-          "vendor": null
+          "vendor": null,
+          "ach": [
+            "Rimed Verdant Weapons"
+          ]
         },
         {
           "set": "Sacred Solstice weapons",
@@ -23672,7 +24519,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -23680,7 +24528,10 @@
             "item": null,
             "limit": null,
             "festival": "Wintersday"
-          }
+          },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ]
         },
         {
           "set": "Snowdrift weapons",
@@ -24562,7 +25413,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -24570,7 +25422,10 @@
             "item": null,
             "limit": null,
             "festival": "Wintersday"
-          }
+          },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ]
         },
         {
           "id": 5345,
@@ -24583,7 +25438,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -24591,7 +25447,10 @@
             "item": null,
             "limit": null,
             "festival": "Wintersday"
-          }
+          },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ]
         },
         {
           "id": 5347,
@@ -24604,7 +25463,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -24612,7 +25472,10 @@
             "item": null,
             "limit": null,
             "festival": "Wintersday"
-          }
+          },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ]
         },
         {
           "id": 2375,
@@ -25033,7 +25896,8 @@
             "Wintersday/items"
           ],
           "acq": [
-            "vendor"
+            "vendor",
+            "collection"
           ],
           "vendor": {
             "name": "Charity Corps Seraph (Wintersday Skins)",
@@ -25041,7 +25905,10 @@
             "item": null,
             "limit": null,
             "festival": "Wintersday"
-          }
+          },
+          "ach": [
+            "Wintersday Toy Weapons Collection"
+          ]
         },
         {
           "set": "Wrapped weapons",
@@ -25540,6 +26407,12 @@
           "cats": [
             "Wintersday miniatures",
             "Wintersday/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Holiday Food Drive"
           ]
         },
         {
@@ -25741,6 +26614,12 @@
           "cats": [
             "Wintersday miniatures",
             "Wintersday/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Wintersday Toy Weapons Collection"
           ]
         },
         {
@@ -25958,6 +26837,12 @@
           "icon": "https://render.guildwars2.com/file/4BE6901A7CF04E73C947CA4B2C53B7A70FCF1627/924592.png",
           "cats": [
             "Wintersday/items"
+          ],
+          "acq": [
+            "achievement-reward"
+          ],
+          "ach": [
+            "Toy Tonic Tippler"
           ]
         },
         {

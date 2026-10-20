@@ -31,9 +31,10 @@
     chest: "Courtly Weapon Chest",
     achievement: "Achievement chest",
     "achievement-past": "Past achievement chest",
-    "prize-bag": "Halloween Prize Bag",
+    "achievement-reward": "Achievement reward",
+    "prize-bag": "Festival prize bag",
     "mystic-forge": "Mystic Forge",
-    collection: "Mad Armory collection",
+    collection: "Collection achievement",
     drop: "Halloween drop",
   };
 
@@ -240,6 +241,7 @@
       pill.className = "pill" + (key === "vendor" ? " pill-vendor" : "");
       pill.textContent = ACQ_LABEL[key] || key;
       if (key === "vendor" && skin.vendor) pill.title = vendorTitle(skin.vendor);
+      if ((key === "achievement-reward" || key === "collection") && skin.ach) pill.title = `Achievement: ${skin.ach.join(", ")}`;
       meta.appendChild(pill);
     }
 

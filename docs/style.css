@@ -182,6 +182,14 @@ header.hero p {
   gap: 7px;
   white-space: nowrap;
 }
+.festival-tabs { margin-top: -2px; align-items: center; }
+.tabs-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin-right: 2px;
+}
 .tab:hover { border-color: var(--accent); }
 .tab.active {
   background: var(--accent);

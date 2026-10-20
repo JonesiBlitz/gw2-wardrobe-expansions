@@ -41,43 +41,43 @@ Unlocked only / Locked only" filter, with a lock/unlock badge on every card.
 - Matching is by skin **id** (not name), so it's exact - no ambiguity from
   the weight-class ("Angler Vest") issue described below.
 - The same key also syncs `/v2/account/minis` and `/v2/account/novelties`
-  (same **unlocks** permission), used by the Halloween tab below.
+  (same **unlocks** permission), used by the festival tabs below.
 
-### Halloween event tab
+### Festival tabs
 
-A separate **Halloween event** tab lists skins, minis and novelties tied to
-Shadow of the Mad King / Blood and Madness, with the same unlocked/locked
-filter. `src/fetchHalloween.mjs` crawls the wiki's Halloween categories
-(`Halloween`, `Gem Store Halloween items`, `Lunatic armor`, ...) to depth 3
-and matches article titles against API skin, mini and novelty names
-(novelties also by their unlock item's name). Currently 124 skins, 48 minis
-and 12 novelties. It's name-matched, so treat it as best-effort: anything
-the wiki doesn't categorize under Halloween won't show up.
+A second tab row lists each festival - Lunar New Year, Super Adventure
+Festival, Dragon Bash, Festival of the Four Winds, Halloween and Wintersday -
+with its skins, minis and novelties and the same unlocked/locked filter. These
+span every year, so a festival skin also appears in its release-window tab.
 
-Halloween weapons also get an **acquisition** tag and filter (Halloween vendor,
-Trick-or-Treat bag, Courtly Weapon Chest, achievement chest, past achievement
-chest, Halloween Prize Bag, Mystic Forge, Mad Armory collection, creature
-drop). Two sources feed it:
+`src/fetchFestivals.mjs` builds each one from three sources:
 
-- The individual weapons in `Category:Halloween weapons` (Barbed Refuge,
-  Harvest's Grin, the Executioner and Sanguine sets, ...), read from each
-  weapon's rendered wiki "Acquisition" section. The 12 from 2021-2024 are sold
-  by Sparking Stone (Grand Piazza) for 15 Candy Corn Cob + 4 gold.
-- The seven full 16-17 weapon sets listed on the wiki's `Halloween/items` page,
-  which are *not* in that category: Haunted (2017), Royal Flame (2019),
-  Demon-Haunted (2020), Chained (2022), Grim Machine (2023), Candy Core
-  (2024) and Unchained (2025). Their vendors come from the vendor pages' item
-  tables: Demon-Haunted weapons are sold individually by Lunatic Weaponsmith
-  Markham (2 gold + 4 Candy Corn Cob, once Haunted is unlocked); Grim Machine,
-  Candy Core and Unchained are each a "Trader's ... Chest (choice)" from the
-  Candy Corn Vendor (Weekly), 10 Candy Corn Cob + 5 gold, limit 1 per week.
-  Chests marked "discontinued" on the set page are tagged "past achievement
-  chest" rather than as a current source.
+1. The festival's category tree on the wiki (`Category:Wintersday`, `Gem Store
+   Wintersday items`, ...), crawled to depth 3.
+2. The festival's `<Festival>/items` index page: the skins, minis and novelties
+   linked from its weapon, armor, mini and tonic sections, plus every full
+   weapon set it lists (e.g. Halloween's Candy Core / Unchained sets, Dragon
+   Bash's Sacred Crystal set), whose members come from `Category:<set>`.
+3. The festival's vendors (the "Vendors" section of its page): their item
+   tables give cost and weekly limits, both for single items and for the
+   "Trader's ... Chest (choice)" style chests that hold a whole set.
 
-Not strictly vendor-*only*: the 12 Sparking Stone weapons are also in the
-random Courtly Weapon Chest, so the vendor is only their *guaranteed* source.
-Known gap: the wiki lists a Grim Machine Spear but `/v2/skins` has no skin
-by that name, so it isn't shown.
+Everything is matched by name to the API's skins, minis and novelties
+(novelties also by their unlock item's name), so it is best-effort: anything
+the wiki doesn't link from those sources won't show up. Super Adventure Box
+has no `/items` page, so it comes from categories only (no vendor info).
+
+Weapons, minis and novelties also get an **acquisition** tag and a filter
+listing only the sources present in the tab: festival vendor (tooltip shows
+vendor, cost and limit), achievement chest, past achievement chest (chest the
+set page marks "discontinued"), prize bag, Trick-or-Treat bag, Courtly Weapon
+Chest, Mystic Forge, Mad Armory collection, creature drop. Halloween also reads
+each weapon's own wiki page for the last four. Set weapons whose wiki item name
+has a stat prefix ("Giver's Candy Cane Axe") are mapped to the unprefixed skin.
+
+Notes: the 12 Halloween Sparking Stone weapons are also in the random Courtly
+Weapon Chest, so the vendor is only their *guaranteed* source. The wiki lists
+a Grim Machine Spear but `/v2/skins` has no skin by that name, so it isn't shown.
 
 ## Why this needs two data sources
 

@@ -25,7 +25,7 @@
   };
 
   const ACQ_LABEL = {
-    vendor: "Halloween vendor",
+    vendor: "Festival vendor",
     "trick-or-treat": "Trick-or-Treat bag",
     chest: "Courtly Weapon Chest",
     achievement: "Achievement chest",
@@ -41,7 +41,7 @@
     const where = place ? ` (${place})` : "";
     const what = v.item ? ` as ${v.item}` : "";
     const limit = v.limit ? `, limit ${v.limit}` : "";
-    return `Sold by ${v.name}${where}${what} for ${v.cost}${limit} - only while the Halloween festival is running`;
+    return `Sold by ${v.name}${where}${what} for ${v.cost}${limit} - only while ${v.festival || "the festival"} is running`;
   }
 
   const state = {
@@ -66,6 +66,7 @@
 
   const els = {
     tabs: document.getElementById("tabs"),
+    festivalTabs: document.getElementById("festivalTabs"),
     windowMeta: document.getElementById("windowMeta"),
     search: document.getElementById("search"),
     typeFilter: document.getElementById("typeFilter"),
@@ -115,6 +116,14 @@
 
   function renderTabs() {
     els.tabs.innerHTML = "";
+    els.festivalTabs.innerHTML = "";
+    const hasFestivals = DATA.windows.some((w) => w.group === "festival");
+    if (hasFestivals) {
+      const label = document.createElement("span");
+      label.className = "tabs-label";
+      label.textContent = "Festivals";
+      els.festivalTabs.appendChild(label);
+    }
     for (const w of DATA.windows) {
       const btn = document.createElement("button");
       btn.className = "tab" + (w.key === state.windowKey ? " active" : "");
@@ -124,8 +133,23 @@
         state.visible = PAGE_SIZE;
         render();
       });
-      els.tabs.appendChild(btn);
+      (w.group === "festival" ? els.festivalTabs : els.tabs).appendChild(btn);
     }
+  }
+
+  // Acquisition filter only lists the sources that actually occur in this tab.
+  function renderAcqOptions(win) {
+    const present = new Set(win.skins.flatMap((s) => s.acq || []));
+    const keys = Object.keys(ACQ_LABEL).filter((k) => present.has(k));
+    els.acqFilter.innerHTML = '<option value="">Any acquisition</option>';
+    for (const k of keys) {
+      const opt = document.createElement("option");
+      opt.value = k;
+      opt.textContent = ACQ_LABEL[k];
+      els.acqFilter.appendChild(opt);
+    }
+    if (!keys.includes(state.acq)) state.acq = "";
+    els.acqFilter.value = state.acq;
   }
 
   function matchesFilters(skin) {
@@ -205,7 +229,7 @@
       : skin.source === "wiki-category"
         ? "expansion content"
         : skin.source === "event"
-          ? "halloween"
+          ? "festival"
           : "undated";
     sourceBadge.title = skin.sourceLabel;
     meta.appendChild(sourceBadge);
@@ -236,13 +260,14 @@
     const win = currentWindow();
     renderTabs();
     renderTypeOptions(win);
+    renderAcqOptions(win);
     els.windowMeta.textContent = fmtRange(win);
 
     const hasWardrobe = !!state.unlockedIds;
     els.unlockFilter.style.display = hasWardrobe ? "" : "none";
     els.unlockHintBtn.style.display = hasWardrobe ? "none" : "";
     els.sourceFilter.style.display = win.event ? "none" : "";
-    els.acqFilter.style.display = win.event ? "" : "none";
+    els.acqFilter.style.display = win.event && els.acqFilter.options.length > 1 ? "" : "none";
     if (win.event && state.source) {
       state.source = "";
       els.sourceFilter.value = "";

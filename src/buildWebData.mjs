@@ -70,26 +70,28 @@ async function main() {
 
   const totalSkins = windows.reduce((sum, w) => sum + w.count, 0);
 
-  // Event view (not a release window - its skins also appear in their window tab).
-  const halloween = JSON.parse(await readFile(path.join(DATA, "halloween.json"), "utf8").catch(() => "null"));
-  if (halloween) {
-    const label = (x) => `Halloween: ${x.cats.join(", ") || "wiki-tagged"}`;
+  // Festival views (not release windows - their skins also appear in their window tab).
+  const festivalData = JSON.parse(await readFile(path.join(DATA, "festivals.json"), "utf8").catch(() => "null"));
+  for (const f of festivalData?.festivals ?? []) {
+    const label = (x) => `${f.label}: ${x.cats.join(", ") || "wiki-tagged"}`;
     const items = [
-      ...halloween.skins.map((s) => ({ ...s, kind: "skin", source: "event", sourceLabel: label(s), wikiFirstSeen: null })),
-      ...halloween.minis.map((m) => ({
+      ...f.skins.map((s) => ({ ...s, kind: "skin", source: "event", sourceLabel: label(s), wikiFirstSeen: null })),
+      ...f.minis.map((m) => ({
         ...m, kind: "mini", type: "Mini", rarity: null, weight_class: null, source: "event", sourceLabel: label(m), wikiFirstSeen: null,
       })),
-      ...halloween.novelties.map((n) => ({
+      ...f.novelties.map((n) => ({
         ...n, kind: "novelty", type: "Novelty", rarity: null, weight_class: n.slot, source: "event", sourceLabel: label(n), wikiFirstSeen: null,
       })),
     ].sort((a, b) => a.name.localeCompare(b.name));
+    if (!items.length) continue;
     windows.push({
-      key: "halloween",
-      label: "🎃 Halloween event",
+      key: `festival-${f.key}`,
+      label: `${f.emoji} ${f.label}`,
       from: null,
       to: null,
       event: true,
-      note: "Shadow of the Mad King / Blood and Madness skins, minis and novelties. These span every era - skins here also appear in their release-window tab.",
+      group: "festival",
+      note: `${f.label} skins, minis and novelties. These span every year - skins here also appear in their release-window tab.`,
       count: items.length,
       skins: items,
     });

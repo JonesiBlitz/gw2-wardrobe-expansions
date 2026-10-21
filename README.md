@@ -1,8 +1,8 @@
 # gw2-wardrobe-expansions
 
-Buckets every GW2 wardrobe skin (armor, weapon, back item, gathering tool)
-by the expansion / living-world release that introduced it, and ships a
-browsable web page over the result.
+Buckets every GW2 wardrobe skin (armor, weapon, back item, gathering tool),
+mini and novelty by the expansion / living-world release that introduced it,
+and ships a browsable web page over the result.
 
 **Live:** <https://jonesiblitz.github.io/gw2-wardrobe-expansions/>
 
@@ -17,8 +17,9 @@ npm run serve
 
 then open <http://localhost:5175>. Tabs are "release windows" spanning one
 expansion gap each (Core Tyria &rarr; Heart of Thorns, Heart of Thorns &rarr;
-Path of Fire, ...), with search, a type filter (Armor/Weapon/Back/Gathering),
-and a confidence filter. Each card links out to the skin's GW2 Wiki page.
+Path of Fire, ...), with search, a type filter (Armor/Weapon/Back/Gathering/
+Mini/Novelty), and a confidence filter. Each card links out to the item's GW2
+Wiki page.
 Needs `npm run all` to have been run first so `web/data.js` (and `docs/`)
 exist.
 
@@ -124,6 +125,19 @@ per-release "set" categories like `Category:Path of Fire armor sets`. This
 project crawls those wiki categories and joins the result back onto the
 official API data by skin name.
 
+### Minis and novelties in the release windows
+
+All 951 minis and 236 novelties in the API (the unreleased "((208738))"-style
+placeholder entries are skipped) are placed in the same release windows as
+skins, dated the same two ways: the item's wiki page is tagged "<Expansion>
+content" (the "expansion content" badge) or, failing that, its page's first
+revision date is slotted into the release that was current (the "wiki: date"
+badge). Novelties are looked up by their own name, then by their unlock
+item's name. `src/fetchMiniNoveltyDates.mjs` does this; ~97% got a window and
+the rest stay in "Unknown / undated". The same caveat as skins applies: a wiki
+page's creation date is a proxy, not an official release date. They also keep
+appearing on their festival tab where they belong to one.
+
 ## Pipeline
 
 ```bash
@@ -133,6 +147,8 @@ npm run build         # -> data/skins-by-expansion.json, out/summary.csv, out/co
 npm run fetch:dates              # -> data/unmatched-release-dates.json      (GW2 Wiki: title -> first-seen date)
 npm run fetch:dates:weightclass  # -> data/weight-class-release-dates.json   (retry via "<name> (light/medium/heavy skin)")
 npm run report:eras              # -> out/unmatched-by-era.csv, out/unmatched-by-era.md
+npm run fetch:festivals          # -> data/festivals.json                    (festival tabs, see below)
+npm run fetch:minis              # -> data/minis-novelties.json              (release window for every mini/novelty)
 # or just:
 npm run all
 ```

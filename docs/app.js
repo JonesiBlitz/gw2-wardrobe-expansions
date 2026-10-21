@@ -498,7 +498,7 @@
     await syncWardrobe(key, { silent: true });
   }
 
-  els.totalSkins.textContent = DATA.totalSkins.toLocaleString();
+  els.totalSkins.textContent = (DATA.totalItems ?? DATA.totalSkins).toLocaleString();
   els.totalWindows.textContent = DATA.windows.filter((w) => !w.event).length;
 
   applyStoredTheme();

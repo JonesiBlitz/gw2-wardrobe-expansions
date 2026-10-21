@@ -61,6 +61,38 @@ async function main() {
     }
   }
 
+  // Minis and novelties, dated the same two ways as skins (see fetchMiniNoveltyDates.mjs).
+  const miniData = JSON.parse(await readFile(path.join(DATA, "minis-novelties.json"), "utf8").catch(() => "null"));
+  for (const it of (miniData?.items ?? []).filter((x) => !/^\(\(\d+\)\)$/.test(x.name))) {
+    const base = {
+      id: it.id,
+      name: it.name,
+      icon: it.icon,
+      kind: it.kind,
+      type: it.kind === "mini" ? "Mini" : "Novelty",
+      rarity: null,
+      weight_class: it.slot,
+    };
+    let wKey;
+    let extra;
+    if (it.category) {
+      wKey = windowKeyForEraKey(it.category.bucket);
+      extra = {
+        source: "wiki-category",
+        sourceLabel: `${byExpansion[it.category.bucket]?.label ?? it.category.bucket} (wiki-tagged)`,
+        wikiFirstSeen: null,
+      };
+    } else if (it.wikiFirstSeen) {
+      const era = eraForDate(it.wikiFirstSeen);
+      wKey = windowKeyForEraKey(era.key);
+      extra = { source: "date-inferred", sourceLabel: `Inferred: ${era.label} era (wiki page first seen)`, wikiFirstSeen: it.wikiFirstSeen };
+    } else {
+      wKey = UNKNOWN_WINDOW.key;
+      extra = { source: "unknown", sourceLabel: "No wiki page found", wikiFirstSeen: null };
+    }
+    (windowMap.get(wKey) ?? windowMap.get(UNKNOWN_WINDOW.key)).skins.push({ ...base, ...extra });
+  }
+
   const windows = [...WINDOWS, UNKNOWN_WINDOW].map((w) => {
     const entry = windowMap.get(w.key);
     entry.skins.sort((a, b) => a.name.localeCompare(b.name));
@@ -68,7 +100,10 @@ async function main() {
     return entry;
   });
 
-  const totalSkins = windows.reduce((sum, w) => sum + w.count, 0);
+  const countKind = (kind) => windows.reduce((sum, w) => sum + w.skins.filter((x) => (x.kind ?? "skin") === kind).length, 0);
+  const totalSkins = countKind("skin");
+  const totalMinis = countKind("mini");
+  const totalNovelties = countKind("novelty");
 
   // Festival views (not release windows - their skins also appear in their window tab).
   const festivalData = JSON.parse(await readFile(path.join(DATA, "festivals.json"), "utf8").catch(() => "null"));
@@ -97,13 +132,20 @@ async function main() {
     });
   }
 
-  const payload = { generatedAt: new Date().toISOString(), totalSkins, windows };
+  const payload = {
+    generatedAt: new Date().toISOString(),
+    totalSkins,
+    totalMinis,
+    totalNovelties,
+    totalItems: totalSkins + totalMinis + totalNovelties,
+    windows,
+  };
 
   await mkdir(WEB, { recursive: true });
   await writeFile(path.join(WEB, "data.js"), `window.GW2_WARDROBE_DATA = ${JSON.stringify(payload)};\n`);
   await writeFile(path.join(DATA, "skins-by-window.json"), JSON.stringify(payload, null, 2));
 
-  console.log(`Total skins: ${totalSkins}`);
+  console.log(`Total: ${totalSkins} skins, ${totalMinis} minis, ${totalNovelties} novelties`);
   for (const w of windows) console.log(`  ${w.label}: ${w.count}`);
   console.log(`\nWrote web/data.js and data/skins-by-window.json`);
 }

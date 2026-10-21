@@ -14,7 +14,8 @@
     "build:web": "node src/buildWebData.mjs",
     "build:docs": "node src/buildDocs.mjs",
     "serve": "node src/serve.mjs",
-    "all": "npm run fetch:skins && npm run fetch:wiki && npm run build && npm run fetch:dates && npm run fetch:dates:weightclass && npm run report:eras && npm run fetch:festivals && npm run build:web && npm run build:docs",
-    "fetch:festivals": "node src/fetchFestivals.mjs"
+    "all": "npm run fetch:skins && npm run fetch:wiki && npm run build && npm run fetch:dates && npm run fetch:dates:weightclass && npm run report:eras && npm run fetch:festivals && npm run fetch:minis && npm run build:web && npm run build:docs",
+    "fetch:festivals": "node src/fetchFestivals.mjs",
+    "fetch:minis": "node src/fetchMiniNoveltyDates.mjs"
   }
 }

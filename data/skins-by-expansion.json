@@ -4,9 +4,9 @@
     "label": "Core Tyria & non-expansion releases",
     "prefix": null,
     "released": "2012-08-28",
-    "count": 8834,
+    "count": 8879,
     "viaCounts": {
-      "unmatched-default-core": 8834
+      "unmatched-default-core": 8879
     },
     "skins": [
       {
@@ -6456,16 +6456,6 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/EEA7F20220A13ACE66AC0BFBA86516F7DCEA92E2/534319.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14193,
-        "name": "Backbone Breaker Spear",
-        "type": "Weapon",
-        "rarity": "Basic",
-        "weight_class": null,
-        "icon": "https://render.guildwars2.com/file/5BE01A0423CD0AC9ABFFBA473C20EAEF4404F162/3806317.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -21180,6 +21170,16 @@
         "set": null
       },
       {
+        "id": 14178,
+        "name": "Dreamwalker Spear",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/5B9D40604E44D6AECEA150F01606FA1E052A18B8/3806001.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
         "id": 9975,
         "name": "Dreamwalker Sword",
         "type": "Weapon",
@@ -23560,6 +23560,26 @@
         "set": null
       },
       {
+        "id": 14262,
+        "name": "Enchanted Threader Spear",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/22C533F64D77260C0D5FEB4125F6AC1B45CFC822/3820593.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14261,
+        "name": "Enchanted Threader Staff",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/1C016CEC0FC6EB05055CE10D42C498D008F9A37D/3820610.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
         "id": 8518,
         "name": "Enchanted Winter Antlers",
         "type": "Armor",
@@ -23586,6 +23606,66 @@
         "rarity": "Basic",
         "weight_class": "Heavy",
         "icon": "https://render.guildwars2.com/file/01FCA0EA1ACA6248FAA94614A169035445D20D9C/2075788.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14138,
+        "name": "Enchanter's Embroidered Hat",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/EC11F96009A5B4CCC1F9424E7BB109CA0BB6A827/3820450.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14221,
+        "name": "Enchanter's Embroidered Hat",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/EC11F96009A5B4CCC1F9424E7BB109CA0BB6A827/3820450.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14236,
+        "name": "Enchanter's Embroidered Hat",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/EC11F96009A5B4CCC1F9424E7BB109CA0BB6A827/3820450.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14149,
+        "name": "Enchanter's Travelling Hat",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/9FADA808D45A5774EE32464C40914C209A922709/3820449.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14156,
+        "name": "Enchanter's Travelling Hat",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/9FADA808D45A5774EE32464C40914C209A922709/3820449.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14231,
+        "name": "Enchanter's Travelling Hat",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/9FADA808D45A5774EE32464C40914C209A922709/3820449.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -25066,6 +25146,156 @@
         "rarity": "Masterwork",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/26F9F94B7CA447B06B52A3F39FB90BDF127693D5/3790447.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14141,
+        "name": "Exuberant Chest",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/E30B09350CA3D6B5C8F10C06C2EAD8A751404620/3806674.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14154,
+        "name": "Exuberant Chest",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/E30B09350CA3D6B5C8F10C06C2EAD8A751404620/3806674.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14246,
+        "name": "Exuberant Chest",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/E30B09350CA3D6B5C8F10C06C2EAD8A751404620/3806674.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14131,
+        "name": "Exuberant Gloves",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/43AC4D3705F50919FA62F8C39949911751E33C42/3806676.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14164,
+        "name": "Exuberant Gloves",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/43AC4D3705F50919FA62F8C39949911751E33C42/3806676.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14243,
+        "name": "Exuberant Gloves",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/43AC4D3705F50919FA62F8C39949911751E33C42/3806676.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14143,
+        "name": "Exuberant Helm",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/D4417907055431F24C314F1D0D7F5995CE505BDC/3806677.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14148,
+        "name": "Exuberant Helm",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/D4417907055431F24C314F1D0D7F5995CE505BDC/3806677.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14252,
+        "name": "Exuberant Helm",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/D4417907055431F24C314F1D0D7F5995CE505BDC/3806677.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14248,
+        "name": "Exuberant Leggings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/5300F12108C30274203B0E5271BF492D2B390E20/3806678.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14249,
+        "name": "Exuberant Leggings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/5300F12108C30274203B0E5271BF492D2B390E20/3806678.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14260,
+        "name": "Exuberant Leggings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/5300F12108C30274203B0E5271BF492D2B390E20/3806678.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14179,
+        "name": "Exuberant Sandals",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/B726FA34712D0ED4B90C5C1A733C08B2B4239009/3806675.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14198,
+        "name": "Exuberant Sandals",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/B726FA34712D0ED4B90C5C1A733C08B2B4239009/3806675.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14214,
+        "name": "Exuberant Sandals",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/B726FA34712D0ED4B90C5C1A733C08B2B4239009/3806675.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -27040,6 +27270,16 @@
         "set": null
       },
       {
+        "id": 14278,
+        "name": "Flowing Sand Cape",
+        "type": "Back",
+        "rarity": "Masterwork",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/A614CEF170D97466DE2FC145E0695B5DEBA96DC9/3826870.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
         "id": 12226,
         "name": "Flowing Scaled Cape",
         "type": "Back",
@@ -27466,6 +27706,176 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/C493721FC5F064E1E641C416E70EF5B4BF5123DC/534321.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14268,
+        "name": "Fog Machine Axe",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/D208EEEB6810CC0768FE447535D62D70AFDD2322/3826908.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14286,
+        "name": "Fog Machine Dagger",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/63775EFEA54CA15A92D3E19C9FEADDBB056BF760/3826926.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14280,
+        "name": "Fog Machine Focus",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/B0B161DAFAC7BC5B6BFFFBF7B757E49890EAADE9/3826938.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14291,
+        "name": "Fog Machine Greatsword",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/15B7937B2C954153352CD7A7B2C3E307AF3F2BB8/3826948.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14272,
+        "name": "Fog Machine Hammer",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/3A00FA9D44729E7971152A7DEF0A14AF704A05A0/3826957.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14293,
+        "name": "Fog Machine Longbow",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/C016DBEBF803D2017257D760BB45DDAD0A5E4995/3826917.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14297,
+        "name": "Fog Machine Mace",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/4269940BC2262E45DDFBDD041706EBB123057321/3826966.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14264,
+        "name": "Fog Machine Pistol",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/01930EB63A46F73AA310CD74B91A5134FA4F29EF/3826976.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14273,
+        "name": "Fog Machine Rifle",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/0D3CC0ED08CA2703C059C5A8EFAE510DFB9007FE/3826985.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14271,
+        "name": "Fog Machine Scepter",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/5DA0F993339391D039C0017304BAA8ED0BC3EE25/3826994.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14292,
+        "name": "Fog Machine Shield",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/2A5B4EBF22779034FA77C6EA4EAE092F7A9699E5/3827003.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14287,
+        "name": "Fog Machine Short Bow",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/57B4C6E930FE08FAC5DAF99844D7A5FD08ECBCD7/3827012.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14299,
+        "name": "Fog Machine Spear",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/17E7B0D0D3B34F78C039460F66F60B5841DD9C07/3827022.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14281,
+        "name": "Fog Machine Staff",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/09A5B7F43311EA4B93DFAC01D3067E4F4DBFAE9E/3827033.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14277,
+        "name": "Fog Machine Sword",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/53765ECDEE23C9403C0E181E0827E4C2CCA7BC78/3827036.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14274,
+        "name": "Fog Machine Torch",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/BA8094EBC63EC546193AFD4144A0E6E21A2A4077/3827045.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14283,
+        "name": "Fog Machine Warhorn",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/110E9DA697A24F75DDD06B93A2DA45279A3F659E/3827054.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -32020,6 +32430,16 @@
         "set": null
       },
       {
+        "id": 13473,
+        "name": "Godskull Poleaxe",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/1BD0C89FFD704ECF660DC2C10D570B6075A322F9/3806016.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
         "id": 3885,
         "name": "Godskull Short Bow",
         "type": "Weapon",
@@ -33600,6 +34020,16 @@
         "set": null
       },
       {
+        "id": 14300,
+        "name": "Grim Machine Spear",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/DD045E080416200ABE24B5A7DD5901FFCAD42B1C/3826899.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
         "id": 11847,
         "name": "Grim Machine Staff",
         "type": "Weapon",
@@ -34730,6 +35160,126 @@
         "set": null
       },
       {
+        "id": 14263,
+        "name": "Hair Bow (Back)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/CF02C70E54243C021FCE02664BA3BD01106D2112/3826894.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14295,
+        "name": "Hair Bow (Back)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/CF02C70E54243C021FCE02664BA3BD01106D2112/3826894.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14298,
+        "name": "Hair Bow (Back)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/CF02C70E54243C021FCE02664BA3BD01106D2112/3826894.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14269,
+        "name": "Hair Bow (Double)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/5DC05B7C53D2DA626F58571DBD4E44A47F0D136D/3826897.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14276,
+        "name": "Hair Bow (Double)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/5DC05B7C53D2DA626F58571DBD4E44A47F0D136D/3826897.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14288,
+        "name": "Hair Bow (Double)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/5DC05B7C53D2DA626F58571DBD4E44A47F0D136D/3826897.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14282,
+        "name": "Hair Bow (Left)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/AE72ACA7B9E42171EFDB02427999603EAD6EFB0A/3826895.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14289,
+        "name": "Hair Bow (Left)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/AE72ACA7B9E42171EFDB02427999603EAD6EFB0A/3826895.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14294,
+        "name": "Hair Bow (Left)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/AE72ACA7B9E42171EFDB02427999603EAD6EFB0A/3826895.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14265,
+        "name": "Hair Bow (Right)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/C1AF1453DD0A061EC6EC13D7FF1896532E642511/3826896.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14275,
+        "name": "Hair Bow (Right)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/C1AF1453DD0A061EC6EC13D7FF1896532E642511/3826896.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14296,
+        "name": "Hair Bow (Right)",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/C1AF1453DD0A061EC6EC13D7FF1896532E642511/3826896.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
         "id": 3869,
         "name": "Hammer",
         "type": "Weapon",
@@ -35506,16 +36056,6 @@
         "rarity": "Basic",
         "weight_class": "Heavy",
         "icon": "https://render.guildwars2.com/file/0B53D5B5B89D914E0915A8FE7E02BA2D679C7265/575063.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 13779,
-        "name": "Heavy Inquest Aquabreather",
-        "type": "Armor",
-        "rarity": "Exotic",
-        "weight_class": "Heavy",
-        "icon": "https://render.guildwars2.com/file/40481C03E519062C08610B00139D0C93E6187AC4/3771725.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -39626,16 +40166,6 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/BA5D92220B62CEEC2123A2202201B1086A07AAB7/780031.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14218,
-        "name": "Inquest Rifleblade Greatsword",
-        "type": "Weapon",
-        "rarity": "Basic",
-        "weight_class": null,
-        "icon": "https://render.guildwars2.com/file/5D0713BA34EB76AF163EB6A69F313D177A592874/3806314.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -47840,16 +48370,6 @@
         "set": null
       },
       {
-        "id": 5544,
-        "name": "Mawdrey",
-        "type": "Back",
-        "rarity": "Basic",
-        "weight_class": null,
-        "icon": "https://render.guildwars2.com/file/9D0D0E79270D4D0DDD7BEBAC159A0D6BBF1E69FB/855365.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
         "id": 4762,
         "name": "Mecha Anchor",
         "type": "Weapon",
@@ -52200,6 +52720,16 @@
         "set": null
       },
       {
+        "id": 13515,
+        "name": "Norn Impaler",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/2DFAE8742101000B0232B8F6C251EB6C53E62B2D/3806528.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
         "id": 5162,
         "name": "Norn Mace",
         "type": "Weapon",
@@ -54456,6 +54986,16 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/0B2606C40E79D392DE94911F416DD15E49E4611C/456071.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 13538,
+        "name": "Pact Spade",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/A940F46DBFD27BFFB7F4A9980C26C708BA56F83D/3806027.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -57040,6 +57580,16 @@
         "set": null
       },
       {
+        "id": 14290,
+        "name": "Plush Mad King Backpack",
+        "type": "Back",
+        "rarity": "Exotic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/BD51ED3BCB4C9019DDED5F0AB513090F951F7102/3826839.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
         "id": 13257,
         "name": "Plush Mordy Backpack",
         "type": "Back",
@@ -57716,6 +58266,66 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/60FCE137310C2972FE341AAC7AA30A6E492DCF9A/3796188.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14266,
+        "name": "Primeval King's Uncovered Wrappings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/E319F0CEE2071CDD46A5AB2EDCCD97DDA7C2E9FA/3826815.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14267,
+        "name": "Primeval King's Uncovered Wrappings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/E319F0CEE2071CDD46A5AB2EDCCD97DDA7C2E9FA/3826815.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14285,
+        "name": "Primeval King's Uncovered Wrappings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/E319F0CEE2071CDD46A5AB2EDCCD97DDA7C2E9FA/3826815.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14270,
+        "name": "Primeval King's Wrappings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/C51C5203AFDC1CC56150B1A4FE98B9EB52B94D18/3826814.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14279,
+        "name": "Primeval King's Wrappings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/C51C5203AFDC1CC56150B1A4FE98B9EB52B94D18/3826814.png",
+        "via": "unmatched-default-core",
+        "set": null
+      },
+      {
+        "id": 14284,
+        "name": "Primeval King's Wrappings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/C51C5203AFDC1CC56150B1A4FE98B9EB52B94D18/3826814.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -76820,156 +77430,6 @@
         "set": null
       },
       {
-        "id": 14183,
-        "name": "Tenebral Ward Heavy Boots",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Heavy",
-        "icon": "https://render.guildwars2.com/file/08637C7ABCDEFCEB661EDE322E1F486A94F9CDFA/3805679.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14194,
-        "name": "Tenebral Ward Heavy Gloves",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Heavy",
-        "icon": "https://render.guildwars2.com/file/563ACF6C11ECAAE605BAFD48525DBB1ED1182E59/3805681.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14175,
-        "name": "Tenebral Ward Heavy Helmet",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Heavy",
-        "icon": "https://render.guildwars2.com/file/304D74B9AEB96FA50433DD6D2966D6B8E0E4D7D8/3805682.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14174,
-        "name": "Tenebral Ward Heavy Leggings",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Heavy",
-        "icon": "https://render.guildwars2.com/file/B21E2EBAB63C6F5A0B3B7A7641E866C8430A2904/3805683.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14219,
-        "name": "Tenebral Ward Heavy Pauldrons",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Heavy",
-        "icon": "https://render.guildwars2.com/file/CF4B18A5DE98779DBBF6030B7592D0155CC03ED0/3805685.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14209,
-        "name": "Tenebral Ward Light Boots",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Light",
-        "icon": "https://render.guildwars2.com/file/08637C7ABCDEFCEB661EDE322E1F486A94F9CDFA/3805679.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14139,
-        "name": "Tenebral Ward Light Gloves",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Light",
-        "icon": "https://render.guildwars2.com/file/563ACF6C11ECAAE605BAFD48525DBB1ED1182E59/3805681.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14202,
-        "name": "Tenebral Ward Light Helmet",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Light",
-        "icon": "https://render.guildwars2.com/file/304D74B9AEB96FA50433DD6D2966D6B8E0E4D7D8/3805682.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14155,
-        "name": "Tenebral Ward Light Leggings",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Light",
-        "icon": "https://render.guildwars2.com/file/B21E2EBAB63C6F5A0B3B7A7641E866C8430A2904/3805683.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14201,
-        "name": "Tenebral Ward Light Pauldrons",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Light",
-        "icon": "https://render.guildwars2.com/file/CF4B18A5DE98779DBBF6030B7592D0155CC03ED0/3805685.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14144,
-        "name": "Tenebral Ward Medium Boots",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Medium",
-        "icon": "https://render.guildwars2.com/file/08637C7ABCDEFCEB661EDE322E1F486A94F9CDFA/3805679.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14162,
-        "name": "Tenebral Ward Medium Gloves",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Medium",
-        "icon": "https://render.guildwars2.com/file/563ACF6C11ECAAE605BAFD48525DBB1ED1182E59/3805681.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14130,
-        "name": "Tenebral Ward Medium Helmet",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Medium",
-        "icon": "https://render.guildwars2.com/file/304D74B9AEB96FA50433DD6D2966D6B8E0E4D7D8/3805682.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14165,
-        "name": "Tenebral Ward Medium Leggings",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Medium",
-        "icon": "https://render.guildwars2.com/file/C045EA5145A204637B0D8079F8C444FEB9006AE4/3805684.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14142,
-        "name": "Tenebral Ward Medium Pauldrons",
-        "type": "Armor",
-        "rarity": "Basic",
-        "weight_class": "Medium",
-        "icon": "https://render.guildwars2.com/file/CF4B18A5DE98779DBBF6030B7592D0155CC03ED0/3805685.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
         "id": 9912,
         "name": "Tengu Axe",
         "type": "Weapon",
@@ -77620,22 +78080,22 @@
         "set": null
       },
       {
-        "id": 14192,
-        "name": "The Tyrant's Justification",
+        "id": 14227,
+        "name": "The Tyrant's Absolute Cruelty",
         "type": "Weapon",
         "rarity": "Basic",
         "weight_class": null,
-        "icon": "https://render.guildwars2.com/file/695FD44F023437B1056FDFAD505966034061A80E/3806352.png",
+        "icon": "https://render.guildwars2.com/file/6A3E40319D7DDC0D7C6CCD98B372536C01D5C4CF/3806363.png",
         "via": "unmatched-default-core",
         "set": null
       },
       {
-        "id": 14134,
-        "name": "The Tyrant's Selection Process",
+        "id": 14176,
+        "name": "The Tyrant's Absolute Oppression",
         "type": "Weapon",
         "rarity": "Basic",
         "weight_class": null,
-        "icon": "https://render.guildwars2.com/file/74804648BA07756FB1E36DA4BD3F710AD3DE7830/3806362.png",
+        "icon": "https://render.guildwars2.com/file/03950A7236D70B14FF51B60AD1BAE7483046D94A/3806353.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -78426,16 +78886,6 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/22260808DFF4400B36BECA9D75747B0F0CF0501E/757476.png",
-        "via": "unmatched-default-core",
-        "set": null
-      },
-      {
-        "id": 14169,
-        "name": "Torrs Calare Greatsword",
-        "type": "Weapon",
-        "rarity": "Basic",
-        "weight_class": null,
-        "icon": "https://render.guildwars2.com/file/0BDE567B46E74EE7536906996DF436DC27F8975A/3806522.png",
         "via": "unmatched-default-core",
         "set": null
       },
@@ -92661,9 +93111,22 @@
     "label": "Living World Season 2",
     "prefix": "Living World Season 2",
     "released": "2015-01-27",
-    "count": 0,
-    "viaCounts": {},
-    "skins": []
+    "count": 1,
+    "viaCounts": {
+      "content": 1
+    },
+    "skins": [
+      {
+        "id": 5544,
+        "name": "Mawdrey",
+        "type": "Back",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/9D0D0E79270D4D0DDD7BEBAC159A0D6BBF1E69FB/855365.png",
+        "via": "content",
+        "set": null
+      }
+    ]
   },
   "living-world-s3": {
     "key": "living-world-s3",
@@ -103918,10 +104381,10 @@
     "label": "Visions of Eternity",
     "prefix": "Visions of Eternity",
     "released": "2025-10-28",
-    "count": 234,
+    "count": 256,
     "viaCounts": {
-      "content": 104,
-      "set": 130
+      "content": 92,
+      "set": 164
     },
     "skins": [
       {
@@ -104203,6 +104666,16 @@
         "icon": "https://render.guildwars2.com/file/062138CC40DF0A2D4195C9DAA5FDD8BF0ECC27F9/3710038.png",
         "via": "content",
         "set": null
+      },
+      {
+        "id": 14193,
+        "name": "Backbone Breaker Spear",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/5BE01A0423CD0AC9ABFFBA473C20EAEF4404F162/3806317.png",
+        "via": "set",
+        "set": "Inquest Experimental Shadowstone weapons"
       },
       {
         "id": 13689,
@@ -105285,6 +105758,16 @@
         "set": null
       },
       {
+        "id": 13779,
+        "name": "Heavy Inquest Aquabreather",
+        "type": "Armor",
+        "rarity": "Exotic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/40481C03E519062C08610B00139D0C93E6187AC4/3771725.png",
+        "via": "content",
+        "set": null
+      },
+      {
         "id": 13457,
         "name": "Inquest Bident",
         "type": "Weapon",
@@ -105293,6 +105776,16 @@
         "icon": "https://render.guildwars2.com/file/95F26518304360CAA63ADAC6A91FEDE7950128F4/3770698.png",
         "via": "content",
         "set": null
+      },
+      {
+        "id": 14218,
+        "name": "Inquest Rifleblade Greatsword",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/5D0713BA34EB76AF163EB6A69F313D177A592874/3806314.png",
+        "via": "set",
+        "set": "Inquest Experimental Shadowstone weapons"
       },
       {
         "id": 13308,
@@ -105311,6 +105804,16 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/3B3C631E5C9CD2D7F33C91C34CA2587A55CA42B2/3709350.png",
+        "via": "content",
+        "set": null
+      },
+      {
+        "id": 13598,
+        "name": "Krait Spear",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/E44A1C04772FA0CA61020B44FBAD01CB73146047/3806023.png",
         "via": "content",
         "set": null
       },
@@ -105891,8 +106394,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/90A444D25A72B4D495C609517D62BB0B437C4194/3806380.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14242,
@@ -105901,8 +106404,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/68320A0739C3FBFAC2E5A54D790024DDD60F9D7E/3806396.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14171,
@@ -105911,8 +106414,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/FAEE6B2EC108EA6F5A4F71C9D6FCA2C9676F5307/3806404.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14170,
@@ -105921,8 +106424,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/6455690F0D27A2C0C13CFDD0B7A7B60E2DC4F490/3806412.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14159,
@@ -105931,8 +106434,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/CDB96B65E641422C5574459F1CCB9DE1A0377BB4/3806424.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14212,
@@ -105941,8 +106444,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/353FB25E78339AB1AD0A630A924C12B891DE68C7/3806388.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14247,
@@ -105951,8 +106454,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/A87A9E801714E1FF0E6D450A70AD692D4137240F/3806432.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14200,
@@ -105961,8 +106464,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/7AE261D4F80624E7153D089435EFC2C271A67B69/3806440.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14190,
@@ -105971,8 +106474,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/0F0AF206036C3840397F4F09387C2652E14BE108/3806448.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14177,
@@ -105981,8 +106484,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/FA48EC3C4E3BC60140E1FF0F4EC7AFE54248C8AF/3806456.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14140,
@@ -105991,8 +106494,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/05D41D035DECDEBB9E921E2E6C160B149BB29099/3806464.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14239,
@@ -106001,8 +106504,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/D0CB91F5DB80384A4121286AA8EFA85F96CE2072/3806472.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14168,
@@ -106011,8 +106514,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/2B71D17F603093EEF4D42B29B916040942CE1147/3806481.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14147,
@@ -106021,8 +106524,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/9ECEB91501BBDE013027BD5AB35DC1FF72C4AA5A/3806490.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14191,
@@ -106031,8 +106534,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/56F3DA0819AA32160D93E1B875654BF652D0F6FD/3806499.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14208,
@@ -106041,8 +106544,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/B0C2943E0EA3BE4C0A0600F940E7F432A894DB7B/3806507.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 14181,
@@ -106051,8 +106554,8 @@
         "rarity": "Basic",
         "weight_class": null,
         "icon": "https://render.guildwars2.com/file/99009D0F0D5590FC739DEE7CCE7B5E05086FA4F0/3806517.png",
-        "via": "content",
-        "set": null
+        "via": "set",
+        "set": "Shining Ward weapons"
       },
       {
         "id": 13297,
@@ -106225,12 +106728,72 @@
         "set": "Strelitzia Crystallinum weapons"
       },
       {
+        "id": 14183,
+        "name": "Tenebral Ward Heavy Boots",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/08637C7ABCDEFCEB661EDE322E1F486A94F9CDFA/3805679.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
         "id": 14157,
         "name": "Tenebral Ward Heavy Chestplate",
         "type": "Armor",
         "rarity": "Basic",
         "weight_class": "Heavy",
         "icon": "https://render.guildwars2.com/file/50E1B3FF7510CF6D313C1F68CC0CE2C2B93562F7/3805680.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14194,
+        "name": "Tenebral Ward Heavy Gloves",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/563ACF6C11ECAAE605BAFD48525DBB1ED1182E59/3805681.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14175,
+        "name": "Tenebral Ward Heavy Helmet",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/304D74B9AEB96FA50433DD6D2966D6B8E0E4D7D8/3805682.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14174,
+        "name": "Tenebral Ward Heavy Leggings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/B21E2EBAB63C6F5A0B3B7A7641E866C8430A2904/3805683.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14219,
+        "name": "Tenebral Ward Heavy Pauldrons",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Heavy",
+        "icon": "https://render.guildwars2.com/file/CF4B18A5DE98779DBBF6030B7592D0155CC03ED0/3805685.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14209,
+        "name": "Tenebral Ward Light Boots",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/08637C7ABCDEFCEB661EDE322E1F486A94F9CDFA/3805679.png",
         "via": "set",
         "set": "Tenebral Ward armor"
       },
@@ -106245,6 +106808,56 @@
         "set": "Tenebral Ward armor"
       },
       {
+        "id": 14139,
+        "name": "Tenebral Ward Light Gloves",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/563ACF6C11ECAAE605BAFD48525DBB1ED1182E59/3805681.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14202,
+        "name": "Tenebral Ward Light Helmet",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/304D74B9AEB96FA50433DD6D2966D6B8E0E4D7D8/3805682.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14155,
+        "name": "Tenebral Ward Light Leggings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/B21E2EBAB63C6F5A0B3B7A7641E866C8430A2904/3805683.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14201,
+        "name": "Tenebral Ward Light Pauldrons",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Light",
+        "icon": "https://render.guildwars2.com/file/CF4B18A5DE98779DBBF6030B7592D0155CC03ED0/3805685.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14144,
+        "name": "Tenebral Ward Medium Boots",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/08637C7ABCDEFCEB661EDE322E1F486A94F9CDFA/3805679.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
         "id": 14238,
         "name": "Tenebral Ward Medium Chestplate",
         "type": "Armor",
@@ -106253,6 +106866,76 @@
         "icon": "https://render.guildwars2.com/file/50E1B3FF7510CF6D313C1F68CC0CE2C2B93562F7/3805680.png",
         "via": "set",
         "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14162,
+        "name": "Tenebral Ward Medium Gloves",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/563ACF6C11ECAAE605BAFD48525DBB1ED1182E59/3805681.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14130,
+        "name": "Tenebral Ward Medium Helmet",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/304D74B9AEB96FA50433DD6D2966D6B8E0E4D7D8/3805682.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14165,
+        "name": "Tenebral Ward Medium Leggings",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/C045EA5145A204637B0D8079F8C444FEB9006AE4/3805684.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14142,
+        "name": "Tenebral Ward Medium Pauldrons",
+        "type": "Armor",
+        "rarity": "Basic",
+        "weight_class": "Medium",
+        "icon": "https://render.guildwars2.com/file/CF4B18A5DE98779DBBF6030B7592D0155CC03ED0/3805685.png",
+        "via": "set",
+        "set": "Tenebral Ward armor"
+      },
+      {
+        "id": 14192,
+        "name": "The Tyrant's Justification",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/695FD44F023437B1056FDFAD505966034061A80E/3806352.png",
+        "via": "content",
+        "set": null
+      },
+      {
+        "id": 14134,
+        "name": "The Tyrant's Selection Process",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/74804648BA07756FB1E36DA4BD3F710AD3DE7830/3806362.png",
+        "via": "content",
+        "set": null
+      },
+      {
+        "id": 14169,
+        "name": "Torrs Calare Greatsword",
+        "type": "Weapon",
+        "rarity": "Basic",
+        "weight_class": null,
+        "icon": "https://render.guildwars2.com/file/0BDE567B46E74EE7536906996DF436DC27F8975A/3806522.png",
+        "via": "content",
+        "set": null
       },
       {
         "id": 14230,

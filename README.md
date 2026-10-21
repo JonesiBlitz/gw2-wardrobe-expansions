@@ -59,6 +59,12 @@ span every year, so a festival skin also appears in its release-window tab.
    linked from its weapon, armor, mini and tonic sections, plus every full
    weapon set it lists (e.g. Halloween's Candy Core / Unchained sets, Dragon
    Bash's Sacred Crystal set), whose members come from `Category:<set>`.
+   The `<Festival>/items` page lags new releases, so each festival's per-year
+   pages ("Shadow of the Mad King 2026", "A Very Merry Wintersday 2025", ...) are
+   also read: anything in their "New skins and equipment / miniatures / items"
+   sections is added, and a weapon set listed only there is accepted only if its
+   own page says "Festival weapons" (those pages also link WvW/sPvP sets such
+   as Obsidian). That is how this year's Fog Machine weapons were found.
 3. The festival's vendors: the "Vendors" section of its page plus an
    `extraVendors` list in `FESTIVALS` for merchants that section doesn't link,
    found by diffing against the wiki's `Category:Festival Merchants` (e.g. the
@@ -139,6 +145,10 @@ page's creation date is a proxy, not an official release date. They also keep
 appearing on their festival tab where they belong to one.
 
 ## Pipeline
+
+Re-run `npm run all` after a game update (new skins, a new festival year, ...).
+The wiki date lookups are cached - a page's first revision never changes - so
+a refresh only fetches new names; the festival and wiki crawls re-run in full.
 
 ```bash
 npm run fetch:skins   # -> data/skins.json                    (GW2 API: all 10k+ skins)

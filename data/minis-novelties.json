@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:32:38.638Z",
+  "generatedAt": "2026-10-21T13:42:05.295Z",
   "items": [
     {
       "kind": "mini",
@@ -5554,13 +5554,6 @@
     },
     {
       "kind": "mini",
-      "id": 599,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/EF38900B0ED226A72130A4B108AD245396C2556E/1861679.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 600,
       "name": "Mini Bradford the Skeleton Ghost",
       "icon": "https://render.guildwars2.com/file/EDB0D03B702932CD632B9167C004E0449DA29045/1862115.png",
@@ -5579,13 +5572,6 @@
     },
     {
       "kind": "mini",
-      "id": 602,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/0736BF9E009FAE022862703E1118D0C20666FE10/1876050.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 603,
       "name": "Mini Halloween Gourdon",
       "icon": "https://render.guildwars2.com/file/C9136EAB981D5134C6DD47DE51B4A82C6AC6C698/1861570.png",
@@ -5601,13 +5587,6 @@
       "slot": null,
       "wikiFirstSeen": "2017-10-31T17:46:04Z",
       "datedVia": "Mini Choya Pumpkin Gang"
-    },
-    {
-      "kind": "mini",
-      "id": 605,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/C61046DF9F9240B01FCC515F0FAB9208DC9EBA19/1861702.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -5635,27 +5614,6 @@
       "slot": null,
       "wikiFirstSeen": "2017-10-17T17:33:31Z",
       "datedVia": "Mini Lord Humphrey Faren"
-    },
-    {
-      "kind": "mini",
-      "id": 609,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/033DEE0A05A3E11B170AC53F6802F3D20C7F37BE/1861651.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 610,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/99F905ABBD65FF4F90DAB1A63503B5B20A700D3C/1861597.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 611,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/CB7E026A540AE3BF6D381C580CDEAC0ACCA709B2/1861724.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -5800,26 +5758,12 @@
     },
     {
       "kind": "mini",
-      "id": 627,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/BA066706B9F4EEFECD7BFEA133CD7605F6AA6353/1914876.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 628,
       "name": "Mini Large Angry Snowball",
       "icon": "https://render.guildwars2.com/file/80B264EAD33E6C9B481F4CB2636154786E262E5B/1914830.png",
       "slot": null,
       "wikiFirstSeen": "2017-12-13T15:42:09Z",
       "datedVia": "Mini Large Angry Snowball"
-    },
-    {
-      "kind": "mini",
-      "id": 629,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/E409B90A3AE120A750E3C9A83BF743FF13ED6A6D/1914877.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -5832,13 +5776,6 @@
     },
     {
       "kind": "mini",
-      "id": 631,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/752C4DFC1120A42735D4A31A9C399F0A449791CD/1914875.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 632,
       "name": "Mini Tixx",
       "icon": "https://render.guildwars2.com/file/0EBA7F9B2A477FE7BB911945786057C408CEA411/1914833.png",
@@ -5848,26 +5785,12 @@
     },
     {
       "kind": "mini",
-      "id": 633,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/A802FA1302B4A20E36B5B07975AF44F192B134FD/1914874.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 634,
       "name": "Mini Angry Snowball",
       "icon": "https://render.guildwars2.com/file/3BA3673E580DA7441E510B7CF252C69B3CAE4CFD/1914831.png",
       "slot": null,
       "wikiFirstSeen": "2018-07-22T13:51:10Z",
       "datedVia": "Mini Angry Snowball"
-    },
-    {
-      "kind": "mini",
-      "id": 635,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/14CAD0F434131E099D90A3013AFAE458062A91FC/1914873.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -5979,20 +5902,6 @@
     },
     {
       "kind": "mini",
-      "id": 648,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/14206416355B9E550098A1E133F1D091DF0BD2A9/1938446.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 649,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/9F7AD81C4E5CCBDF1301CFE20C2FE3A176ED3EA8/1938442.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 650,
       "name": "Mini Lunar Shepherd",
       "icon": "https://render.guildwars2.com/file/D75D1E09A6DE1C1E390EB427BB0BB84654B0C00F/1938445.png",
@@ -6011,34 +5920,6 @@
     },
     {
       "kind": "mini",
-      "id": 652,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/C7EDF2B89A159F4C9D56359E11F331E016385FF4/1938444.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 653,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/BDA656E93D05FACD9AAFEFC6BED441276BB59580/1938441.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 654,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/52112702224D746238D415B325C9AFEA4BDE6268/1938297.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 655,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/08E0F411E9BDE628CF191A2822906B029C7FDDD9/1938440.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 656,
       "name": "Mini Inquest Assault Cube",
       "icon": "https://render.guildwars2.com/file/6AF2AFF149BA5441BBBAC7496D500662452061C5/1947217.png",
@@ -6048,13 +5929,6 @@
         "via": "content",
         "title": "Mini Inquest Assault Cube"
       }
-    },
-    {
-      "kind": "mini",
-      "id": 657,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/B90BE40078C8EA78B06D68DDF60911EBD0DB744A/1947212.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -6079,34 +5953,6 @@
         "via": "content",
         "title": "Mini Inquest Exterminator Golem"
       }
-    },
-    {
-      "kind": "mini",
-      "id": 660,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/DE59D06DEA990BFB22FEAF757A034B37EBB6FB20/1947215.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 661,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/68D4FF1F0196D3D316D5A4930ADAA1420D55322C/1947216.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 662,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/C723FFE27E177B7D051641440AFE0A5D5BA132D1/1947213.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 663,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/3F0A5D130B43C4D00D5FF5FBD214C2A27B7B6EDB/1947214.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -6296,13 +6142,6 @@
     },
     {
       "kind": "mini",
-      "id": 689,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/45EBF1D2F0B47C40237F179B20EBBCE7BB0E170B/1998884.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 690,
       "name": "Mini Chromatic Choya",
       "icon": "https://render.guildwars2.com/file/0829EA0197A441CD93BBFC1275A9653BA4BDC380/1998888.png",
@@ -6315,13 +6154,6 @@
     },
     {
       "kind": "mini",
-      "id": 691,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/6C0C0108E853B65207F2F91FD41E51DAEFF10902/1998898.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 692,
       "name": "Mini Brindle Basenji",
       "icon": "https://render.guildwars2.com/file/D19DC9D0E696604504EFE4CE21D2E2097FE506A0/1998890.png",
@@ -6331,20 +6163,6 @@
         "via": "content",
         "title": "Mini Brindle Basenji"
       }
-    },
-    {
-      "kind": "mini",
-      "id": 693,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/AAA60024F0F96374EA3CAB06C0CB316D0A6016D6/1998885.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 694,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/60DA04C234104C2224D1440A2E8003CEE0F46FC6/1998886.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -6393,13 +6211,6 @@
         "via": "content",
         "title": "Mini Heket"
       }
-    },
-    {
-      "kind": "mini",
-      "id": 699,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/B04743CD35AC064AD37A7ADAB405574540BED6F9/1998887.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -6484,13 +6295,6 @@
     },
     {
       "kind": "mini",
-      "id": 709,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/FC6D761F914275F8D0127F320C08143DF7F23291/2028761.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 710,
       "name": "Mini Brown Springer Kit",
       "icon": "https://render.guildwars2.com/file/215F93D6DAFB904A4CD1FF09093DE2D82E3D6132/2028464.png",
@@ -6518,40 +6322,12 @@
     },
     {
       "kind": "mini",
-      "id": 713,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/5F269EF8CECF07E5A2C77FF737E00A31260867AC/2028762.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 714,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/4D224DE272A9390AE5AC797B0A28F8DF1105464D/2028764.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
-      "id": 715,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/C8ED0E5D6844440DFAA7B5BD0A680F96A52D7FCA/2028763.png",
-      "slot": null
-    },
-    {
-      "kind": "mini",
       "id": 716,
       "name": "Mini Pink Springer Kit",
       "icon": "https://render.guildwars2.com/file/FDF6D409DC2A9261551328BB77A894AF99CD30FC/2028461.png",
       "slot": null,
       "wikiFirstSeen": "2018-08-28T22:38:12Z",
       "datedVia": "Mini Pink Springer Kit"
-    },
-    {
-      "kind": "mini",
-      "id": 717,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/5194B77FA65A21BD2F1A5BD9ED793371359C96B7/2028765.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -6816,13 +6592,6 @@
       "slot": null,
       "wikiFirstSeen": "2019-01-22T20:13:25Z",
       "datedVia": "Mini Glowing Lantern"
-    },
-    {
-      "kind": "mini",
-      "id": 747,
-      "name": "((208738))",
-      "icon": "https://render.guildwars2.com/file/27B0562AEE087B15B32A90EFB8A5A3E6C847197F/2100320.png",
-      "slot": null
     },
     {
       "kind": "mini",
@@ -12080,8 +11849,11 @@
       "name": "Inquest Director Combat Tonic",
       "icon": "https://render.guildwars2.com/file/FD087A569DF26B461197D87BAFB895C0090A35E7/3805851.png",
       "slot": "Tonic",
-      "wikiFirstSeen": "2026-09-18T15:45:55Z",
-      "datedVia": "Endless Inquest Director Combat Tonic"
+      "category": {
+        "bucket": "visions-of-eternity",
+        "via": "content",
+        "title": "Endless Inquest Director Combat Tonic"
+      }
     },
     {
       "kind": "novelty",
@@ -12089,8 +11861,11 @@
       "name": "Ascended Visionary Combat Tonic",
       "icon": "https://render.guildwars2.com/file/747206026F10B1B753F72D065BB6F2CCBCA91E2D/3805850.png",
       "slot": "Tonic",
-      "wikiFirstSeen": "2026-09-18T15:43:51Z",
-      "datedVia": "Endless Ascended Visionary Combat Tonic"
+      "category": {
+        "bucket": "visions-of-eternity",
+        "via": "content",
+        "title": "Endless Ascended Visionary Combat Tonic"
+      }
     }
   ]
 }

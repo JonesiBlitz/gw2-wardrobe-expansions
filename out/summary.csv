@@ -644,7 +644,6 @@ id,name,type,rarity,weight_class,bucket,via,set
 9799,Azure Dragon Slayer Warhorn,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4831,Azure Railgun,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4784,Azureflame,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
-14193,Backbone Breaker Spear,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 2327,Backpack Straps,Back,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 12012,Baggy Cargo Pants,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 12037,Baggy Cargo Pants,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -2116,6 +2115,7 @@ id,name,type,rarity,weight_class,bucket,via,set
 9049,Dreamwalker Dagger,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 10012,Dreamwalker Longbow,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 9331,Dreamwalker Scythe,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14178,Dreamwalker Spear,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 9975,Dreamwalker Sword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 9298,Dreamwalker Wings Backpack,Back,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4041,Dredge Barricade,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -2354,9 +2354,17 @@ id,name,type,rarity,weight_class,bucket,via,set
 8234,Enchanted Dragon Crown,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 8238,Enchanted Dragon Crown,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
 8253,Enchanted Dragon Crown,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14262,Enchanted Threader Spear,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14261,Enchanted Threader Staff,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 8518,Enchanted Winter Antlers,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
 8524,Enchanted Winter Antlers,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
 8545,Enchanted Winter Antlers,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14138,Enchanter's Embroidered Hat,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14221,Enchanter's Embroidered Hat,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14236,Enchanter's Embroidered Hat,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14149,Enchanter's Travelling Hat,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14156,Enchanter's Travelling Hat,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14231,Enchanter's Travelling Hat,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 8900,Endless Ocean Axe,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 8907,Endless Ocean Dagger,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 8899,Endless Ocean Focus,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -2505,6 +2513,21 @@ id,name,type,rarity,weight_class,bucket,via,set
 13193,Explosive Turbo Greaves,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
 4713,Exterminator,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 14068,Extravagant Shoulder Cape,Back,Masterwork,,Core Tyria & non-expansion releases,unmatched-default-core,
+14141,Exuberant Chest,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14154,Exuberant Chest,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14246,Exuberant Chest,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14131,Exuberant Gloves,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14164,Exuberant Gloves,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14243,Exuberant Gloves,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14143,Exuberant Helm,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14148,Exuberant Helm,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14252,Exuberant Helm,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14248,Exuberant Leggings,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14249,Exuberant Leggings,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14260,Exuberant Leggings,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14179,Exuberant Sandals,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14198,Exuberant Sandals,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14214,Exuberant Sandals,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
 4847,Eye of Rodgort,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4700,Faithful,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 8772,Falchion,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -2702,6 +2725,7 @@ id,name,type,rarity,weight_class,bucket,via,set
 13796,Flower Eyepatch,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 13809,Flower Eyepatch,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
 13810,Flower Eyepatch,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14278,Flowing Sand Cape,Back,Masterwork,,Core Tyria & non-expansion releases,unmatched-default-core,
 12226,Flowing Scaled Cape,Back,Masterwork,,Core Tyria & non-expansion releases,unmatched-default-core,
 12625,Flowing Silk Backpack,Back,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4873,Flux Matrix,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -2745,6 +2769,23 @@ id,name,type,rarity,weight_class,bucket,via,set
 7275,Foefire Wraps,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
 4883,Foefire's Essence,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4884,Foefire's Power,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14268,Fog Machine Axe,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14286,Fog Machine Dagger,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14280,Fog Machine Focus,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14291,Fog Machine Greatsword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14272,Fog Machine Hammer,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14293,Fog Machine Longbow,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14297,Fog Machine Mace,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14264,Fog Machine Pistol,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14273,Fog Machine Rifle,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14271,Fog Machine Scepter,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14292,Fog Machine Shield,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14287,Fog Machine Short Bow,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14299,Fog Machine Spear,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14281,Fog Machine Staff,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14277,Fog Machine Sword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14274,Fog Machine Torch,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14283,Fog Machine Warhorn,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 717,Force of Koda,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
 10156,Forest Archer Cape,Back,Masterwork,,Core Tyria & non-expansion releases,unmatched-default-core,
 10159,Forest Archer Quiver,Back,Masterwork,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -3200,6 +3241,7 @@ id,name,type,rarity,weight_class,bucket,via,set
 3940,Godskull Kris,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 3914,Godskull Longbow,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4072,Godskull Musket,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+13473,Godskull Poleaxe,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 3885,Godskull Short Bow,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 3896,Godskull Sickle,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 3933,Godskull Slayer,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -3358,6 +3400,7 @@ id,name,type,rarity,weight_class,bucket,via,set
 11870,Grim Machine Scepter,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 11866,Grim Machine Shield,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 11869,Grim Machine Short Bow,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14300,Grim Machine Spear,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 11847,Grim Machine Staff,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 11861,Grim Machine Sword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 11868,Grim Machine Torch,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -3471,6 +3514,18 @@ id,name,type,rarity,weight_class,bucket,via,set
 13872,Gwyl Monarch's Sword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 13898,Gwyl Monarch's Torch,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 13893,Gwyl Monarch's Warhorn,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14263,Hair Bow (Back),Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14295,Hair Bow (Back),Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14298,Hair Bow (Back),Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14269,Hair Bow (Double),Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14276,Hair Bow (Double),Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14288,Hair Bow (Double),Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14282,Hair Bow (Left),Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14289,Hair Bow (Left),Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14294,Hair Bow (Left),Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14265,Hair Bow (Right),Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14275,Hair Bow (Right),Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14296,Hair Bow (Right),Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
 3869,Hammer,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4469,Hammer of the Dragon's Deep,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 9839,Hammer of the Three Realms,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -3549,7 +3604,6 @@ id,name,type,rarity,weight_class,bucket,via,set
 820,Heavy Baroque Mask,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 1041,Heavy Consortium Breathing Mask,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 2012,Heavy Fused Gauntlets,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
-13779,Heavy Inquest Aquabreather,Armor,Exotic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 1137,Heavy Island Shoulder,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 10718,Heavy Monastery Gloves,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 10705,Heavy Monastery Headband,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -3961,7 +4015,6 @@ id,name,type,rarity,weight_class,bucket,via,set
 740,Inquest Pauldrons,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 4432,Inquest Pistol,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4485,Inquest Rifle,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
-14218,Inquest Rifleblade Greatsword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4439,Inquest Scepter,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4501,Inquest Shield,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 751,Inquest Shoes,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -4782,7 +4835,6 @@ id,name,type,rarity,weight_class,bucket,via,set
 217,Masquerade Raiments,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
 4757,Master Blaster,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4825,Maw of the Damned,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
-5544,Mawdrey,Back,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4762,Mecha Anchor,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 10736,Medium Antique Coat,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
 10336,Medium Antique Gloves,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -5218,6 +5270,7 @@ id,name,type,rarity,weight_class,bucket,via,set
 5228,Norn Dagger,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 5138,Norn Focus,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 5194,Norn Greatsword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+13515,Norn Impaler,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 5162,Norn Mace,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 5153,Norn Pistol,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 5115,Norn Rifle,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -5444,6 +5497,7 @@ id,name,type,rarity,weight_class,bucket,via,set
 4980,Pact Quarterstaff,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4971,Pact Scepter,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4960,Pact Shotgun,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+13538,Pact Spade,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4968,Pact Spear,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4970,Pact Tower Shield,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4956,Pact Trident,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -5702,6 +5756,7 @@ id,name,type,rarity,weight_class,bucket,via,set
 13247,Plush Kralky Backpack,Back,Exotic,,Core Tyria & non-expansion releases,unmatched-default-core,
 12769,Plush Longbow,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 12763,Plush Mace,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14290,Plush Mad King Backpack,Back,Exotic,,Core Tyria & non-expansion releases,unmatched-default-core,
 13257,Plush Mordy Backpack,Back,Exotic,,Core Tyria & non-expansion releases,unmatched-default-core,
 2359,Plush Moto Backpack,Back,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 12772,Plush Pistol,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -5770,6 +5825,12 @@ id,name,type,rarity,weight_class,bucket,via,set
 1154,Primeval Gauntlets,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 14107,Primeval Greatsword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 14090,Primeval Hammer,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14266,Primeval King's Uncovered Wrappings,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14267,Primeval King's Uncovered Wrappings,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
+14285,Primeval King's Uncovered Wrappings,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14270,Primeval King's Wrappings,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
+14279,Primeval King's Wrappings,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
+14284,Primeval King's Wrappings,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
 1066,Primeval Legplates,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
 14127,Primeval Longbow,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 14124,Primeval Mace,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -7680,21 +7741,6 @@ id,name,type,rarity,weight_class,bucket,via,set
 5562,Tempest Sword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 5558,Tempest Torch,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 5549,Tempest Warhorn,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
-14183,Tenebral Ward Heavy Boots,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
-14194,Tenebral Ward Heavy Gloves,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
-14175,Tenebral Ward Heavy Helmet,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
-14174,Tenebral Ward Heavy Leggings,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
-14219,Tenebral Ward Heavy Pauldrons,Armor,Basic,Heavy,Core Tyria & non-expansion releases,unmatched-default-core,
-14209,Tenebral Ward Light Boots,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
-14139,Tenebral Ward Light Gloves,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
-14202,Tenebral Ward Light Helmet,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
-14155,Tenebral Ward Light Leggings,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
-14201,Tenebral Ward Light Pauldrons,Armor,Basic,Light,Core Tyria & non-expansion releases,unmatched-default-core,
-14144,Tenebral Ward Medium Boots,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
-14162,Tenebral Ward Medium Gloves,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
-14130,Tenebral Ward Medium Helmet,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
-14165,Tenebral Ward Medium Leggings,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
-14142,Tenebral Ward Medium Pauldrons,Armor,Basic,Medium,Core Tyria & non-expansion releases,unmatched-default-core,
 9912,Tengu Axe,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 9907,Tengu Dagger,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 9910,Tengu Focus,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -7760,8 +7806,8 @@ id,name,type,rarity,weight_class,bucket,via,set
 4820,The Punisher,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4735,The Stingray,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 12675,The Stormpiercer Spear,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
-14192,The Tyrant's Justification,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
-14134,The Tyrant's Selection Process,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14227,The Tyrant's Absolute Cruelty,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
+14176,The Tyrant's Absolute Oppression,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 4817,The Ugly Stick,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 7076,The Virge,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 7845,The Voice in the Void,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -7841,7 +7887,6 @@ id,name,type,rarity,weight_class,bucket,via,set
 3674,Tormented Torch,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 3686,Tormented Trident,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 3684,Tormented Warhorn,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
-14169,Torrs Calare Greatsword,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 7867,Touch of Dhuum,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 8454,Touch of Fog,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
 7787,Touch of Madness,Weapon,Basic,,Core Tyria & non-expansion releases,unmatched-default-core,
@@ -9261,6 +9306,7 @@ id,name,type,rarity,weight_class,bucket,via,set
 6041,Ydalir,Weapon,Basic,,Heart of Thorns,content,
 6069,Yggdrasil,Weapon,Basic,,Heart of Thorns,content,
 6400,Zap Experiment,Weapon,Basic,,Heart of Thorns,content,
+5544,Mawdrey,Back,Basic,,Living World Season 2,content,
 7214,Blooming Druid Stone,Back,Basic,,Living World Season 3,content,
 7209,Druid Stone,Back,Basic,,Living World Season 3,content,
 6951,Heavy Dragonscale Epaulets,Armor,Basic,Heavy,Living World Season 3,content,
@@ -10405,6 +10451,7 @@ id,name,type,rarity,weight_class,bucket,via,set
 13306,Ancora Bellum,Weapon,Legendary,,Visions of Eternity,content,
 13397,Ancora Bellum,Weapon,Legendary,,Visions of Eternity,content,
 13334,Ancora Pax,Weapon,Legendary,,Visions of Eternity,content,
+14193,Backbone Breaker Spear,Weapon,Basic,,Visions of Eternity,set,Inquest Experimental Shadowstone weapons
 13689,Bleeding Edge Inquest Axe,Weapon,Basic,,Visions of Eternity,content,
 13733,Bleeding Edge Inquest Dagger,Weapon,Basic,,Visions of Eternity,content,
 13694,Bleeding Edge Inquest Focus,Weapon,Basic,,Visions of Eternity,content,
@@ -10513,9 +10560,12 @@ id,name,type,rarity,weight_class,bucket,via,set
 13743,Heavy Castoran Diver's Mask,Armor,Exotic,Heavy,Visions of Eternity,content,
 13715,Heavy Castoran Explorer's Rebreather,Armor,Exotic,Heavy,Visions of Eternity,content,
 13698,Heavy Castoran Researcher's Mask,Armor,Exotic,Heavy,Visions of Eternity,content,
+13779,Heavy Inquest Aquabreather,Armor,Exotic,Heavy,Visions of Eternity,content,
 13457,Inquest Bident,Weapon,Basic,,Visions of Eternity,content,
+14218,Inquest Rifleblade Greatsword,Weapon,Basic,,Visions of Eternity,set,Inquest Experimental Shadowstone weapons
 13308,Kodan Spear,Weapon,Basic,,Visions of Eternity,content,
 13427,Krait Spear,Weapon,Basic,,Visions of Eternity,content,
+13598,Krait Spear,Weapon,Basic,,Visions of Eternity,content,
 13723,Light Castoran Diver's Mask,Armor,Exotic,Light,Visions of Eternity,content,
 13767,Light Castoran Explorer's Rebreather,Armor,Exotic,Light,Visions of Eternity,content,
 13703,Light Castoran Researcher's Mask,Armor,Exotic,Light,Visions of Eternity,content,
@@ -10573,23 +10623,23 @@ id,name,type,rarity,weight_class,bucket,via,set
 13432,Selachimorpha,Armor,Legendary,Medium,Visions of Eternity,content,
 13617,Selachimorpha,Armor,Fine,Heavy,Visions of Eternity,content,
 13636,Selachimorpha,Armor,Legendary,Heavy,Visions of Eternity,content,
-14146,Shining Ward Axe,Weapon,Basic,,Visions of Eternity,content,
-14242,Shining Ward Dagger,Weapon,Basic,,Visions of Eternity,content,
-14171,Shining Ward Focus,Weapon,Basic,,Visions of Eternity,content,
-14170,Shining Ward Greatsword,Weapon,Basic,,Visions of Eternity,content,
-14159,Shining Ward Hammer,Weapon,Basic,,Visions of Eternity,content,
-14212,Shining Ward Longbow,Weapon,Basic,,Visions of Eternity,content,
-14247,Shining Ward Mace,Weapon,Basic,,Visions of Eternity,content,
-14200,Shining Ward Pistol,Weapon,Basic,,Visions of Eternity,content,
-14190,Shining Ward Rifle,Weapon,Basic,,Visions of Eternity,content,
-14177,Shining Ward Scepter,Weapon,Basic,,Visions of Eternity,content,
-14140,Shining Ward Shield,Weapon,Basic,,Visions of Eternity,content,
-14239,Shining Ward Short Bow,Weapon,Basic,,Visions of Eternity,content,
-14168,Shining Ward Spear,Weapon,Basic,,Visions of Eternity,content,
-14147,Shining Ward Staff,Weapon,Basic,,Visions of Eternity,content,
-14191,Shining Ward Sword,Weapon,Basic,,Visions of Eternity,content,
-14208,Shining Ward Torch,Weapon,Basic,,Visions of Eternity,content,
-14181,Shining Ward Warhorn,Weapon,Basic,,Visions of Eternity,content,
+14146,Shining Ward Axe,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14242,Shining Ward Dagger,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14171,Shining Ward Focus,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14170,Shining Ward Greatsword,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14159,Shining Ward Hammer,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14212,Shining Ward Longbow,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14247,Shining Ward Mace,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14200,Shining Ward Pistol,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14190,Shining Ward Rifle,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14177,Shining Ward Scepter,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14140,Shining Ward Shield,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14239,Shining Ward Short Bow,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14168,Shining Ward Spear,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14147,Shining Ward Staff,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14191,Shining Ward Sword,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14208,Shining Ward Torch,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
+14181,Shining Ward Warhorn,Weapon,Basic,,Visions of Eternity,set,Shining Ward weapons
 13297,Strelitzia Crystallinum Axe,Weapon,Basic,,Visions of Eternity,set,Strelitzia Crystallinum weapons
 13303,Strelitzia Crystallinum Dagger,Weapon,Basic,,Visions of Eternity,set,Strelitzia Crystallinum weapons
 13467,Strelitzia Crystallinum Focus,Weapon,Basic,,Visions of Eternity,set,Strelitzia Crystallinum weapons
@@ -10607,7 +10657,25 @@ id,name,type,rarity,weight_class,bucket,via,set
 13392,Strelitzia Crystallinum Sword,Weapon,Basic,,Visions of Eternity,set,Strelitzia Crystallinum weapons
 13355,Strelitzia Crystallinum Torch,Weapon,Basic,,Visions of Eternity,set,Strelitzia Crystallinum weapons
 13500,Strelitzia Crystallinum Warhorn,Weapon,Basic,,Visions of Eternity,set,Strelitzia Crystallinum weapons
+14183,Tenebral Ward Heavy Boots,Armor,Basic,Heavy,Visions of Eternity,set,Tenebral Ward armor
 14157,Tenebral Ward Heavy Chestplate,Armor,Basic,Heavy,Visions of Eternity,set,Tenebral Ward armor
+14194,Tenebral Ward Heavy Gloves,Armor,Basic,Heavy,Visions of Eternity,set,Tenebral Ward armor
+14175,Tenebral Ward Heavy Helmet,Armor,Basic,Heavy,Visions of Eternity,set,Tenebral Ward armor
+14174,Tenebral Ward Heavy Leggings,Armor,Basic,Heavy,Visions of Eternity,set,Tenebral Ward armor
+14219,Tenebral Ward Heavy Pauldrons,Armor,Basic,Heavy,Visions of Eternity,set,Tenebral Ward armor
+14209,Tenebral Ward Light Boots,Armor,Basic,Light,Visions of Eternity,set,Tenebral Ward armor
 14207,Tenebral Ward Light Chestplate,Armor,Basic,Light,Visions of Eternity,set,Tenebral Ward armor
+14139,Tenebral Ward Light Gloves,Armor,Basic,Light,Visions of Eternity,set,Tenebral Ward armor
+14202,Tenebral Ward Light Helmet,Armor,Basic,Light,Visions of Eternity,set,Tenebral Ward armor
+14155,Tenebral Ward Light Leggings,Armor,Basic,Light,Visions of Eternity,set,Tenebral Ward armor
+14201,Tenebral Ward Light Pauldrons,Armor,Basic,Light,Visions of Eternity,set,Tenebral Ward armor
+14144,Tenebral Ward Medium Boots,Armor,Basic,Medium,Visions of Eternity,set,Tenebral Ward armor
 14238,Tenebral Ward Medium Chestplate,Armor,Basic,Medium,Visions of Eternity,set,Tenebral Ward armor
+14162,Tenebral Ward Medium Gloves,Armor,Basic,Medium,Visions of Eternity,set,Tenebral Ward armor
+14130,Tenebral Ward Medium Helmet,Armor,Basic,Medium,Visions of Eternity,set,Tenebral Ward armor
+14165,Tenebral Ward Medium Leggings,Armor,Basic,Medium,Visions of Eternity,set,Tenebral Ward armor
+14142,Tenebral Ward Medium Pauldrons,Armor,Basic,Medium,Visions of Eternity,set,Tenebral Ward armor
+14192,The Tyrant's Justification,Weapon,Basic,,Visions of Eternity,content,
+14134,The Tyrant's Selection Process,Weapon,Basic,,Visions of Eternity,content,
+14169,Torrs Calare Greatsword,Weapon,Basic,,Visions of Eternity,content,
 14230,Wages of Stars,Weapon,Legendary,,Visions of Eternity,content,

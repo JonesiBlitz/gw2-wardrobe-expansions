@@ -41,6 +41,16 @@ export async function searchTitles(query, offset = 0) {
   return { titles: (json?.query?.search ?? []).map((s) => s.title), next: json?.continue?.sroffset ?? null };
 }
 
+/** Which of the given titles exist as wiki pages (redirects resolve to their target title). */
+export async function existingTitles(titles) {
+  const found = new Set();
+  for (let i = 0; i < titles.length; i += 50) {
+    const json = await apiGet({ action: "query", titles: titles.slice(i, i + 50).join("|"), redirects: "1" });
+    for (const p of Object.values(json?.query?.pages ?? {})) if (p.missing === undefined) found.add(p.title);
+  }
+  return found;
+}
+
 /** Rendered HTML of a wiki article (needed for template-driven tables like "Sold by"). */
 export async function parsePageHtml(title) {
   const json = await apiGet({ action: "parse", page: title, prop: "text", disablelimitreport: "1" });

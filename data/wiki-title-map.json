@@ -4474,27 +4474,7 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
-  "\"Cryptonym\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Dragonrender\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Endurance\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
   "\"Eye of the Storm!\" (Gale Song)": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Faren's Flyer\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Glory of Tyria\" Strongbox": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -4502,67 +4482,7 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
-  "\"Legacy of Owl\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Lethal Vantage\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Mellaggan's Valor\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Obsidian Triumph\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Plains of Golghein\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Pride of Lion's Arch\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Scorchrazor II\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Shard of Brilliance\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Slice of Sky\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Straight and Narrow\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Sword of Smodur\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Thunderbreaker\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Unsolved Conundrum\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Vengeance Rising\" Strongbox": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
   "\"Where's Balthazar\"": {
-    "bucket": "heart-of-thorns",
-    "via": "content"
-  },
-  "\"Whitebear's Pride II\" Strongbox": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -5038,6 +4958,10 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Ancient Ley Line Collector": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Ancient Ley Line Energy Collector": {
     "bucket": "heart-of-thorns",
     "via": "content"
@@ -5311,6 +5235,10 @@
     "via": "content"
   },
   "Arcane Dust": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Arcane Eye Banner": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -9934,6 +9862,10 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Chak Hive (object)": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Chak Hollow": {
     "bucket": "heart-of-thorns",
     "via": "content"
@@ -10043,6 +9975,10 @@
     "via": "content"
   },
   "Champion Commander Razorwing": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Champion Corrupted Sylvari": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -13714,11 +13650,19 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Down and Out: Bastion of the Penitent": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Down and Out: Salvation Pass": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
   "Down and Out: Spirit Vale": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Down and Out: Stronghold of the Faithful": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -16883,6 +16827,14 @@
     "via": "content"
   },
   "Forceful Persistence": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Foreboding Raven Roost": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Foreboding Raven Tree": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -20518,7 +20470,15 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Iron Column 16 x 240 x 16": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Iron Column 16 x 240 x 30": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Iron Column 30 x 240 x 30": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -22195,6 +22155,10 @@
     "via": "content"
   },
   "Ley Energy": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Ley Energy (Dragon's Stand)": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -25542,6 +25506,10 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Norn Tent (Narrow)": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Norn Tent (Wide)": {
     "bucket": "heart-of-thorns",
     "via": "content"
@@ -27670,6 +27638,10 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Plush Mad King": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Plush Rug": {
     "bucket": "heart-of-thorns",
     "via": "content"
@@ -27679,6 +27651,10 @@
     "via": "content"
   },
   "Plush Sofa": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Plush Zhaia (decoration)": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -30770,6 +30746,10 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Roller Beetle Boost Pad": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Rolling Devil": {
     "bucket": "heart-of-thorns",
     "via": "content"
@@ -31450,6 +31430,10 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Saurian Egg": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Saurian Roar": {
     "bucket": "heart-of-thorns",
     "via": "content"
@@ -31875,6 +31859,10 @@
     "via": "content"
   },
   "Seer Bed": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Seer Chain": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -34106,7 +34094,19 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Stone Cliff": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Stone Dragon Head": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Stone Formation": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Stone Pillar": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -34231,6 +34231,86 @@
     "via": "content"
   },
   "Strongbox": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from \"Faren's Flyer\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from \"Mellaggan's Valor\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from \"Whitebear's Pride II\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Cryptonym\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Endurance\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Glory of Tyria\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Legacy of Owl\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Lethal Vantage\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Obsidian Triumph\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Plains of Golghein\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Pride of Lion's Arch\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Scorchrazor II\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Shard of Brilliance\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Slice of Sky\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Straight and Narrow\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Sword of Smodur\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Thunderbreaker\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Unsolved Conundrum\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox from the \"Vengeance Rising\"": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Strongbox of the \"Dragonrender\"": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -38582,11 +38662,31 @@
     "bucket": "heart-of-thorns",
     "via": "content"
   },
+  "Wall Gable 360 x 100": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Wall Gable 360 x 100 Mirror": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
   "Wall Gable 360 x 200": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
   "Wall Gable 360 x 200 Mirror": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Wall Gable 720 x 100": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Wall Gable 720 x 200": {
+    "bucket": "heart-of-thorns",
+    "via": "content"
+  },
+  "Wall Window 120 x 240": {
     "bucket": "heart-of-thorns",
     "via": "content"
   },
@@ -40442,6 +40542,10 @@
     "bucket": "living-world-s2",
     "via": "content"
   },
+  "Mawdrey": {
+    "bucket": "living-world-s2",
+    "via": "content"
+  },
   "Meeting the Asura": {
     "bucket": "living-world-s2",
     "via": "content"
@@ -41954,6 +42058,10 @@
     "bucket": "living-world-s3",
     "via": "content"
   },
+  "Break Free (Bitterfrost Frontier)": {
+    "bucket": "living-world-s3",
+    "via": "content"
+  },
   "Broadleaf": {
     "bucket": "living-world-s3",
     "via": "content"
@@ -43078,10 +43186,6 @@
     "bucket": "living-world-s3",
     "via": "content"
   },
-  "Drake Egg (Putrid Broodmother)": {
-    "bucket": "living-world-s3",
-    "via": "content"
-  },
   "Dredgehaunt Cliffs Insight: Dostoev Sky Peak": {
     "bucket": "living-world-s3",
     "via": "content"
@@ -43435,6 +43539,10 @@
     "via": "content"
   },
   "Elite Unchained Kingpin": {
+    "bucket": "living-world-s3",
+    "via": "content"
+  },
+  "Elite Unchained Mage": {
     "bucket": "living-world-s3",
     "via": "content"
   },
@@ -58846,6 +58954,18 @@
     "bucket": "path-of-fire",
     "via": "content"
   },
+  "Down and Out: Hall of Chains": {
+    "bucket": "path-of-fire",
+    "via": "content"
+  },
+  "Down and Out: Mythwright Gambit": {
+    "bucket": "path-of-fire",
+    "via": "content"
+  },
+  "Down and Out: The Key of Ahdashim": {
+    "bucket": "path-of-fire",
+    "via": "content"
+  },
   "Dracodile Skyscale": {
     "bucket": "path-of-fire",
     "via": "content"
@@ -59946,6 +60066,10 @@
     "bucket": "path-of-fire",
     "via": "content"
   },
+  "Enervate (soulbeast)": {
+    "bucket": "path-of-fire",
+    "via": "content"
+  },
   "Enervating Earth": {
     "bucket": "path-of-fire",
     "via": "content"
@@ -60538,11 +60662,11 @@
     "bucket": "path-of-fire",
     "via": "content"
   },
-  "Fire Blast": {
+  "Fire Blast (Mythwright Gambit)": {
     "bucket": "path-of-fire",
     "via": "content"
   },
-  "Fire Bolt (Fire Imp)": {
+  "Fire Bolt (Mythwright Gambit)": {
     "bucket": "path-of-fire",
     "via": "content"
   },
@@ -63427,6 +63551,10 @@
     "via": "content"
   },
   "Hunter Glorg": {
+    "bucket": "path-of-fire",
+    "via": "content"
+  },
+  "Hurt Farmer": {
     "bucket": "path-of-fire",
     "via": "content"
   },
@@ -75258,6 +75386,10 @@
     "bucket": "path-of-fire",
     "via": "content"
   },
+  "Vampiric Predation (soulbeast)": {
+    "bucket": "path-of-fire",
+    "via": "content"
+  },
   "Vantage Scree": {
     "bucket": "path-of-fire",
     "via": "content"
@@ -79403,10 +79535,6 @@
     "via": "content"
   },
   "Champion of Life": {
-    "bucket": "living-world-s4",
-    "via": "content"
-  },
-  "Champion Rampaging Earth Elemental": {
     "bucket": "living-world-s4",
     "via": "content"
   },
@@ -89426,15 +89554,15 @@
     "bucket": "living-world-s4",
     "via": "content"
   },
-  "Soul Binder (object)": {
-    "bucket": "living-world-s4",
-    "via": "content"
-  },
   "Soul Binder Supplier": {
     "bucket": "living-world-s4",
     "via": "content"
   },
   "Soul Binder Supply Bull": {
+    "bucket": "living-world-s4",
+    "via": "content"
+  },
+  "Soul Binders": {
     "bucket": "living-world-s4",
     "via": "content"
   },
@@ -101430,6 +101558,10 @@
     "bucket": "icebrood-saga",
     "via": "content"
   },
+  "Throw Torch (Sacred Torch)": {
+    "bucket": "icebrood-saga",
+    "via": "content"
+  },
   "Time in a Bottle": {
     "bucket": "icebrood-saga",
     "via": "content"
@@ -101463,6 +101595,10 @@
     "via": "content"
   },
   "Torch (Khan-Ur's Gauntlet)": {
+    "bucket": "icebrood-saga",
+    "via": "content"
+  },
+  "Torch Fielder": {
     "bucket": "icebrood-saga",
     "via": "content"
   },
@@ -106963,6 +107099,10 @@
     "bucket": "end-of-dragons",
     "via": "content"
   },
+  "Chul-Moo (vision)": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
   "Chun-Mao": {
     "bucket": "end-of-dragons",
     "via": "content"
@@ -109099,6 +109239,10 @@
     "bucket": "end-of-dragons",
     "via": "content"
   },
+  "Eir (vision)": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
   "Eira zu Heltzer": {
     "bucket": "end-of-dragons",
     "via": "content"
@@ -109496,10 +109640,6 @@
     "via": "content"
   },
   "Elite Unchained Acolyte": {
-    "bucket": "end-of-dragons",
-    "via": "content"
-  },
-  "Elite Unchained Mage": {
     "bucket": "end-of-dragons",
     "via": "content"
   },
@@ -110252,6 +110392,10 @@
     "via": "content"
   },
   "Fall of the Axe": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
+  "Fallen Mech": {
     "bucket": "end-of-dragons",
     "via": "content"
   },
@@ -111039,6 +111183,10 @@
     "bucket": "end-of-dragons",
     "via": "content"
   },
+  "General Almorra Soulkeeper (vision)": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
   "Generate Reflection Shield": {
     "bucket": "end-of-dragons",
     "via": "content"
@@ -111280,6 +111428,10 @@
     "via": "content"
   },
   "Googly-Eyed Squid": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
+  "Gorrik (vision)": {
     "bucket": "end-of-dragons",
     "via": "content"
   },
@@ -114375,6 +114527,10 @@
     "bucket": "end-of-dragons",
     "via": "content"
   },
+  "Magister Sieran (vision)": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
   "Magma Ray": {
     "bucket": "end-of-dragons",
     "via": "content"
@@ -114944,6 +115100,10 @@
     "via": "content"
   },
   "Mila": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
+  "Min (vision)": {
     "bucket": "end-of-dragons",
     "via": "content"
   },
@@ -117356,6 +117516,10 @@
     "via": "content"
   },
   "Rak'ehl Woundgiver": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
+  "Rama (vision)": {
     "bucket": "end-of-dragons",
     "via": "content"
   },
@@ -121627,6 +121791,10 @@
     "bucket": "end-of-dragons",
     "via": "content"
   },
+  "Taimi (vision)": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
   "Tainted Bolts": {
     "bucket": "end-of-dragons",
     "via": "content"
@@ -122559,6 +122727,10 @@
     "bucket": "end-of-dragons",
     "via": "content"
   },
+  "Trahearne (vision)": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
   "Trainee Saba": {
     "bucket": "end-of-dragons",
     "via": "content"
@@ -122972,6 +123144,10 @@
     "via": "content"
   },
   "Unnamed object (Grub Lane)": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
+  "Unnamed object (North Peninsula)": {
     "bucket": "end-of-dragons",
     "via": "content"
   },
@@ -124271,10 +124447,6 @@
     "bucket": "end-of-dragons",
     "via": "content"
   },
-  "Warbanner (object)": {
-    "bucket": "end-of-dragons",
-    "via": "content"
-  },
   "Warden (race)": {
     "bucket": "end-of-dragons",
     "via": "content"
@@ -124772,6 +124944,10 @@
     "via": "content"
   },
   "Yao": {
+    "bucket": "end-of-dragons",
+    "via": "content"
+  },
+  "Yao (vision)": {
     "bucket": "end-of-dragons",
     "via": "content"
   },
@@ -127868,6 +128044,10 @@
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
+  "Bundle of Notes": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
   "Burgeon": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
@@ -128189,6 +128369,14 @@
     "via": "content"
   },
   "Champion Sky-Chak Drone": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
+  "Champion Sky-Chak Slinger": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
+  "Champion Sky-Chak Zapper": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
@@ -129037,6 +129225,10 @@
     "via": "content"
   },
   "Den": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
+  "Dense Bushes": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
@@ -130684,6 +130876,10 @@
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
+  "Goop (Commander without a Cause)": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
   "Goop (Sky-Chak)": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
@@ -130913,10 +131109,6 @@
     "via": "content"
   },
   "Heart of the Obscure Recharging": {
-    "bucket": "secrets-of-the-obscure",
-    "via": "content"
-  },
-  "Heart of the Obscure Research": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
@@ -131261,6 +131453,14 @@
     "via": "content"
   },
   "Incarnation of the Parasite": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
+  "Incarnation of the Parasite (champion)": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
+  "Incarnation of the Parasite (elite)": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
@@ -132101,6 +132301,10 @@
     "via": "content"
   },
   "Lion's Arch Connector": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
+  "Liquid Spill": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
@@ -133384,6 +133588,10 @@
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
+  "Poster (Commander without a Cause)": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
   "Pouch of Stardust": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
@@ -133537,6 +133745,10 @@
     "via": "content"
   },
   "Ragna Copperwolf": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
+  "Rain of Comets": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
@@ -134760,6 +134972,10 @@
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
+  "Sketchy Individual": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
   "Skoposa": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
@@ -135373,6 +135589,10 @@
     "via": "content"
   },
   "Stew Recipe": {
+    "bucket": "secrets-of-the-obscure",
+    "via": "content"
+  },
+  "Still (Commander without a Cause)": {
     "bucket": "secrets-of-the-obscure",
     "via": "content"
   },
@@ -138581,6 +138801,10 @@
     "bucket": "janthir-wilds",
     "via": "content"
   },
+  "Arcane Eye Banner (Handiwork)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
   "Arcanist Nolai": {
     "bucket": "janthir-wilds",
     "via": "content"
@@ -138818,6 +139042,46 @@
     "via": "content"
   },
   "Aura of Corruption (Greer)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Cornstalk": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Falling Leaves": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Fence": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Gate": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Hanging Lantern": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Homestead Package (container)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Leaf Pile": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Tree": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Tree (Bare)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Autumn Garden Tree Stump": {
     "bucket": "janthir-wilds",
     "via": "content"
   },
@@ -139190,6 +139454,42 @@
     "via": "content"
   },
   "Bjorn Thicket": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Black Lion Autumn Garden Cornstalk Recipe": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Black Lion Autumn Garden Falling Leaves Recipe": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Black Lion Autumn Garden Fence Recipe": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Black Lion Autumn Garden Gate Recipe": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Black Lion Autumn Garden Hanging Lantern Recipe": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Black Lion Autumn Garden Leaf Pile Recipe": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Black Lion Autumn Garden Tree (Bare) Recipe": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Black Lion Autumn Garden Tree Recipe": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Black Lion Autumn Garden Tree Stump Recipe": {
     "bucket": "janthir-wilds",
     "via": "content"
   },
@@ -139734,6 +140034,10 @@
     "via": "content"
   },
   "Bonfire Lodge": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Boosted (Roller Beetle Boost Pad)": {
     "bucket": "janthir-wilds",
     "via": "content"
   },
@@ -141301,6 +141605,10 @@
     "bucket": "janthir-wilds",
     "via": "content"
   },
+  "Down and Out: Mount Balrior": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
   "Dragging Down": {
     "bucket": "janthir-wilds",
     "via": "content"
@@ -141477,7 +141785,7 @@
     "bucket": "janthir-wilds",
     "via": "content"
   },
-  "Edible Mushroom (effect)": {
+  "Edible Mushroom (Bjorn Thicket)": {
     "bucket": "janthir-wilds",
     "via": "content"
   },
@@ -142362,6 +142670,14 @@
     "via": "content"
   },
   "Forced Entry": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Foreboding Raven Roost (Handiwork)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Foreboding Raven Tree (Handiwork)": {
     "bucket": "janthir-wilds",
     "via": "content"
   },
@@ -145605,6 +145921,10 @@
     "bucket": "janthir-wilds",
     "via": "content"
   },
+  "Mad King Homestead Sky": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
   "Mad Moon (Handiwork)": {
     "bucket": "janthir-wilds",
     "via": "content"
@@ -147073,6 +147393,10 @@
     "bucket": "janthir-wilds",
     "via": "content"
   },
+  "Plush Mad King (Handiwork)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
   "Plush Pals 2 Homestead Package (container)": {
     "bucket": "janthir-wilds",
     "via": "content"
@@ -147094,6 +147418,10 @@
     "via": "content"
   },
   "Plush Vulpine Pal": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Plush Zhaia (Handiwork)": {
     "bucket": "janthir-wilds",
     "via": "content"
   },
@@ -148289,6 +148617,10 @@
     "bucket": "janthir-wilds",
     "via": "content"
   },
+  "Replica Castoran Mirror (Handiwork)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
   "Reptilia Pools": {
     "bucket": "janthir-wilds",
     "via": "content"
@@ -149114,6 +149446,10 @@
     "via": "content"
   },
   "Seer Casket (Handiwork)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Seer Chain (Handiwork)": {
     "bucket": "janthir-wilds",
     "via": "content"
   },
@@ -150086,6 +150422,18 @@
     "via": "content"
   },
   "Stomp the Growth (Greer)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Stone Cliff (Handiwork)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Stone Formation (Handiwork)": {
+    "bucket": "janthir-wilds",
+    "via": "content"
+  },
+  "Stone Pillar (Handiwork)": {
     "bucket": "janthir-wilds",
     "via": "content"
   },
@@ -152409,7 +152757,7 @@
     "bucket": "janthir-wilds",
     "via": "content"
   },
-  "Water Bucket (Lowland Shore)": {
+  "Water Bucket (object)": {
     "bucket": "janthir-wilds",
     "via": "content"
   },
@@ -153479,7 +153827,37 @@
     "via": "set",
     "set": "Tenebral Ward armor"
   },
+  "Tenebral Ward Heavy Boots": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
   "Tenebral Ward Heavy Chestplate": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Heavy Gloves": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Heavy Helmet": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Heavy Leggings": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Heavy Pauldrons": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Light Boots": {
     "bucket": "visions-of-eternity",
     "via": "set",
     "set": "Tenebral Ward armor"
@@ -153489,7 +153867,52 @@
     "via": "set",
     "set": "Tenebral Ward armor"
   },
+  "Tenebral Ward Light Gloves": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Light Helmet": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Light Leggings": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Light Pauldrons": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Medium Boots": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
   "Tenebral Ward Medium Chestplate": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Medium Gloves": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Medium Helmet": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Medium Leggings": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Tenebral Ward armor"
+  },
+  "Tenebral Ward Medium Pauldrons": {
     "bucket": "visions-of-eternity",
     "via": "set",
     "set": "Tenebral Ward armor"
@@ -153794,12 +154217,22 @@
     "via": "set",
     "set": "Inquest Experimental Shadowstone weapons"
   },
+  "Backbone Breaker Spear": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Inquest Experimental Shadowstone weapons"
+  },
   "Double-Edge Greatsword": {
     "bucket": "visions-of-eternity",
     "via": "set",
     "set": "Inquest Experimental Shadowstone weapons"
   },
   "Double-Edge Sword": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Inquest Experimental Shadowstone weapons"
+  },
+  "Inquest Rifleblade Greatsword": {
     "bucket": "visions-of-eternity",
     "via": "set",
     "set": "Inquest Experimental Shadowstone weapons"
@@ -153909,6 +154342,96 @@
     "via": "set",
     "set": "Seer-Enchanted weapons"
   },
+  "Shining Ward weapons": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Axe": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Dagger": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Focus": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Greatsword": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Hammer": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Longbow": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Mace": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Pistol": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Rifle": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Scepter": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Shield": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Short Bow": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Spear": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Staff": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Sword": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Torch": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
+  "Shining Ward Warhorn": {
+    "bucket": "visions-of-eternity",
+    "via": "set",
+    "set": "Shining Ward weapons"
+  },
   "Strelitzia Crystallinum weapons": {
     "bucket": "visions-of-eternity",
     "via": "set",
@@ -154008,6 +154531,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "\"/Clap\" Emote Tome": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "\"/CrabDance\" Emote Tome": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -154016,7 +154543,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "\"/FingerGuns\" Emote Tome": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "\"/Flex\" Emote Tome": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "\"/Lean\" Emote Tome": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -154208,6 +154743,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Achievement Eligibility: Hobby Aquaculturist": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Achievement Eligibility: Home Again": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -154276,6 +154815,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Achievement Eligibility: Natural-Born Beetle": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Achievement Eligibility: No Witnesses": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -154301,6 +154844,10 @@
     "via": "content"
   },
   "Achievement Eligibility: Proper Introductions": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Achievement Eligibility: Protector of Meaning": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -154464,6 +155011,18 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Aetherlocation Detective: Bronze": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Aetherlocation Detective: Gold": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Aetherlocation Detective: Silver": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Aetherlocation Treasure": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -154509,6 +155068,10 @@
     "via": "content"
   },
   "Aged Tablet": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Aged Tablet (Doyen's Adytum)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -154644,6 +155207,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Alliance Missive": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Alliance Supporter": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -154688,6 +155255,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Amethyst Solitaire": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "An Imperial Inquiry": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -154709,6 +155280,14 @@
     "via": "content"
   },
   "Ancient Seer Tome": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Ancient Stick (Throwable)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Ancient Stick (Throwable) (object)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -154741,6 +155320,14 @@
     "via": "content"
   },
   "Annals of the Great Hunt": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Annihilating Orb": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Annihilating Orb (teleport)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -154777,6 +155364,14 @@
     "via": "content"
   },
   "Arbor of Lamentation": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Arcane Eye Agent Blaff": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Arcane Eye Agent Zada": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -154840,6 +155435,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Ardere Ironbound": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Arms of the People": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -154872,6 +155471,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Artificer's Lever (Throwable)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Artificer's Lever (Throwable) (object)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Artificer's Rise": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -154892,11 +155499,31 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Ascension (effect)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Ascension (seer)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Ascension's Sacrifice": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Ash Legion Surveillance Notes": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Ashqar the Snake": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Aspect of the Spear": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Aspect of the Staff": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -154913,6 +155540,10 @@
     "via": "content"
   },
   "Assist Mineralogist Gabi as she seeks out and returns precious minerals": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Assist Steward Divo while he performs his creator's last work": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -154940,7 +155571,11 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
-  "Astral Leap": {
+  "Astral Leap (The Burden of Seeing)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Astral Leap (Unscheduled Departures)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155005,6 +155640,10 @@
     "via": "content"
   },
   "Astral Ward Mage Firestripe": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Astral Ward Mage Neasa": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155116,6 +155755,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Astral Ward Researcher Pawdust": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Astral Ward Researcher Raf": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -155156,11 +155799,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Astral Ward Turret": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Astral Ward Umbrius Mindblade": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Attuning Chamber": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Audio Log (Leyspring Hollows)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155176,7 +155827,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Augmented Greatsword": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Augmented Razortooth": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Augmented Rifle": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155240,7 +155899,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Bane of Inquest": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Banner of the Tenebral Ward": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Bar Stool": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Barrel of Rifles": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155316,7 +155987,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Berserker's Godskull Poleaxe": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Berserker's Krait Spear": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Berserker's Mithril Javelin": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Berserker's Norn Impaler": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155340,7 +156023,11 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
-  "Bessie": {
+  "Bessie (skimmer)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Bessie's Toy": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155393,6 +156080,10 @@
     "via": "content"
   },
   "Birdie Benefactor": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Bite (Coleopteran)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155488,7 +156179,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Bleeding Edge Inquest Weapon Collector": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Bleeding Edge Inquest weapons": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Blending In (Ordnance Depot)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155509,6 +156208,14 @@
     "via": "content"
   },
   "Blue Hole": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Blue Key (Square)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Blue Ley Magic": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155600,6 +156307,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Break Free (Mutagenic Chamber)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Breakable Rock": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -155668,6 +156379,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Build Trap": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Build Trap (Escort Seamus the Curious Hullgardener as he explores the cavern)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Bunkhome Square": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -155676,7 +156395,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Bureaucratic Paperwork": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Burrow (Coleopteran)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Burrow (Kela)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Burrow Out": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155824,7 +156555,39 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Cargo": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Carrion Tribal Bident of Rage": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Carrots (Everything That We Are)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Carrying Book (\"At Valley's End, Accounts from the Seer-Mursaat War\")": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Carrying Book (\"The Tyrian Alliance: A Primer\")": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Carrying Book (\"Tyrian Alliance Report: Astral Ward Cont.\")": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Carrying Book (Inquest Expedition Journal)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Carrying Book (Sayida's Travel Log)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Carrying Book (Whisper Agent's Dossier)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -155836,11 +156599,23 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Carrying Crate": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Carrying Heavy Barrel": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Carrying Inquest Loot": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Carrying Lead Researcher": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Carrying Ley Magic": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156104,6 +156879,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Castaway Marr": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Castaway Mary Ellen": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156224,6 +157003,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Castaway Tidescratch": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Castaway Toni": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156340,6 +157123,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Castoran Gear Box (Nexus of Eternity)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Castoran Gnarled Boar Treasure Box": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156392,6 +157179,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Cattle Hay": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Cave Overlook": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156412,11 +157203,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Chak Nest (object)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Chak Shield": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Chak Shield (effect)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Chak Studies": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156429,6 +157228,22 @@
     "via": "content"
   },
   "Chamber of Rising Petals": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Aspect of the Spear": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Aspect of the Staff": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Aspect of the Sword": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Augmented Emperor": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156449,6 +157264,18 @@
     "via": "content"
   },
   "Champion Coalesced Sentinel": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Cosmic Bulwark": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Cosmic Piercer": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Cosmic Sunderer": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156492,6 +157319,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Champion Haunting Reflection": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Champion Inquest Amalgam Assassin": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156508,7 +157339,39 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Champion Mark IX Centurion Golem": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Champion Mindless Mutation": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Protacia Ironsoul": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Scarab Queen": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion SERV": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Spineshell Impaler": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion T-E 1000": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion T-E 2000": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion T-E 3000": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156545,6 +157408,10 @@
     "via": "content"
   },
   "Champion Tyrannus Man-Eater": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Champion Water Elemental": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156596,11 +157463,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Cheese (NPC)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Chef Chiara": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Cherished Book": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Cherished Book (Ley Distributary)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156704,6 +157579,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Chug": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Chuggin' Calasus": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156732,6 +157611,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Clap (event)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Claw (raptor swiftwing)": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156748,7 +157631,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Clean Furnishings": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Cleansing Progress": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Clear debris and look for survivors (Leyspring Hollows)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156820,6 +157711,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Collected Debate Notes": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Collected Fruit (Castora)": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156864,6 +157759,18 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Communication Terminal": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Compacted Metal Orb (Throwable)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Compacted Metal Orb (Throwable) (object)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Concealed Microthruster": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156885,6 +157792,10 @@
     "via": "content"
   },
   "Conduit": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Confidential Document (Hall of Assemblage)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156913,6 +157824,10 @@
     "via": "content"
   },
   "Contagious Mutation": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Containment Purge": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -156976,6 +157891,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Corporal Vikar": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Correct Input": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -156985,6 +157904,18 @@
     "via": "content"
   },
   "Corroded Weapon": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Cosmic Charge": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Cosmic Piercer": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Cosmic Sunderer": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157017,6 +157948,10 @@
     "via": "content"
   },
   "Covered in Tar ('Booter's Path)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Covered Ley Shoot": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157096,6 +158031,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Crinkled Note (Doyen's Adytum)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Crippled (Isgarren)": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157141,6 +158080,14 @@
     "via": "content"
   },
   "Crushed Saltpeter": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Crystal Coleopteran": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Crystal Coleopteran (champion)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157208,11 +158155,23 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Dash (Solitary Throne)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Dash (The Burden of Seeing)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Dash! (choya)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Dash! (kitshark)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Datapad (Doyen's Adytum)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157245,6 +158204,10 @@
     "via": "content"
   },
   "Deafening Drum": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Debris (Leyspring Hollows)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157300,7 +158263,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Defeat Kuda and her twisted creation": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Defeat Operative Neel": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Defeat Project 5388": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157309,6 +158280,14 @@
     "via": "content"
   },
   "Defeat Security Chief Ziff": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Defeat Senior Biomancer Zmelle": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Defeat Subject Gamma": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157324,6 +158303,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Defeat the crystal coleopteran": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Defeat the enhanced creature to sever the chain": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157336,11 +158319,27 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Defeat the Ley Colossal": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Defeat the patrolling enchanted spell guardian": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Defeat the rat king": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Defeat the Seer-Enchanted Staff to reveal a map fragment": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Defeat the Seer-Enchanted Sword to reveal a map fragment": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Defeat the Seer-Enchanted Torch to reveal a map fragment": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157360,6 +158359,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Defend the Auguratorium from the Inquest": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Defend the camp from the large beast": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157372,11 +158375,27 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Defend the Gloamlit Courtyard from the Inquest": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Defend the Hullgardeners' territory from invading freebooters": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Defend the priory camp from the Inquest raid": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Defend the rifts in the Auguratorium": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Defend the rifts in the Doyen's Adytum": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Defend the rifts in the Ley Distributary": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157392,7 +158411,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Defensive Trainer Lene Farstrider": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Delete Data": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Deliver tomes and missives to the ghosts of the elders as they debate battle plans": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157417,6 +158444,10 @@
     "via": "content"
   },
   "Destroy the Inquest canisters": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Destroy the Mark III Golem!": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157468,6 +158499,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Disguise yourself and destroy Inquest communication devices": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Dismiss Cyclone Bow": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157516,6 +158551,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Division Eternal": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Divitium Nava": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157536,6 +158575,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Dodge Trainer Servat Foecatcher": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Dome of the Indelible Word": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157549,6 +158592,10 @@
     "via": "content"
   },
   "Double Helix": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Down Arrow Key": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157572,7 +158619,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Drink (Everything That We Are 2)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Drink (Everything That We Are)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Drink (Eyes, Ears, and Arms)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Dropped Hay": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157636,6 +158695,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Durable": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Dwarven Retribution": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157660,6 +158723,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Echo of Vloxx": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Echoing Blade": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Echoing Outburst": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157669,6 +158740,10 @@
     "via": "content"
   },
   "Edible Fish": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Edible Mushroom (Leyspring Hollows)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157716,6 +158791,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Elemental Hurricane": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Elemental Procession": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157733,6 +158812,14 @@
     "via": "content"
   },
   "Elite Coalesced Sentinel": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Elite Cosmic Bulwark": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Elite Cosmic Piercer": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157808,6 +158895,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Elite Trained Hullgardener": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Elite Transcended Archomorph": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157836,6 +158927,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Emerald Solitaire": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Emergency Jade Shield": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -157856,11 +158951,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Empowered (Vloxx)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Empowered Armaments": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Empowered Armaments (effect)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Empowered Chak Blitzer": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157920,7 +159023,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Endless Ascended Visionary Combat Tonic": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Endless Castoran Choya Tonic": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Endless Inquest Director Combat Tonic": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -157949,6 +159060,10 @@
     "via": "content"
   },
   "Enervate": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Engage Fetch Protocol (skill)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -158016,7 +159131,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Equipment Parts": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Eroded Statue": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Escaped Rabbit": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -158052,6 +159175,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Escort Seamus the Curious Hullgardener as he explores the cavern": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Escort the castaways into freebooter territory to pillage and plunder": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -158060,11 +159187,31 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Escort Ward Medic Taliesin out of the Infested Sluiceways": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Escorting Blue Ley-Aligned Steward": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Escorting Red Ley-Aligned Steward": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Escorting Yellow Ley-Aligned Steward": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Essence Blast": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Essence of Seer Spirit": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Eternal Reflection": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -158172,6 +159319,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Excision Extremis": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Executor of Waves": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -158189,6 +159340,10 @@
     "via": "content"
   },
   "Exit Ritualist's Shroud": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Exit Steward": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -158440,6 +159595,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Feed Trough (Everything That We Are)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Feel the Rush": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -158449,6 +159608,10 @@
     "via": "content"
   },
   "Feretory of Offering": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Ferocious Assault": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -158489,6 +159652,10 @@
     "via": "content"
   },
   "Finishing Station": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Fire (Castora)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -158632,6 +159799,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Forest Call": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Forest Caretaker": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -158721,6 +159892,14 @@
     "via": "content"
   },
   "Forward Base Bravo": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Fossilized Papyrus (Throwable)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Fossilized Papyrus (Throwable) (object)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -158816,7 +159995,27 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Friendly Beetle": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Friendly Boar": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Friendly Crab": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Friendly Moth": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Friendly Wavehawk": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "From Ruins to Riches": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -158896,10 +160095,6 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
-  "Ghosts Need Friends Too": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
   "Giant's Lap": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -158952,11 +160147,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Gift of Shining Arms": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Gift of Shipwreck Strand Exploration": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Gift of Starlit Weald Exploration": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Gift of Tenebral Armor": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -159092,6 +160295,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Golden Mushroom (Leyspring Hollows)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Golem Admin Notes": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -159105,6 +160312,10 @@
     "via": "content"
   },
   "Grand Colonnade": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Grand Raid Chest (Visions of Eternity)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -159316,6 +160527,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Heavy Inquest Aquabreather": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Heavy Steward Body": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -159341,6 +160556,10 @@
     "via": "content"
   },
   "Help Arlene with her floral research": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Help Astral Ward Mage Piera capture and secure the area": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -159392,6 +160611,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Help Hullgardener Larsson retrieve supplies": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Help Klorrk subdue the Inquest-enhanced creatures": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -159420,6 +160643,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Help Rift Hunter Cressus train some Hullgardners": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Help Rift Hunter Cressus train some Hullgardners (boss)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Help Saltwhisker guide the ghosts back to their bones using your skimmer's Aetherlocation skill": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -159440,7 +160671,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Help Steward Isnard stabilize the atelier": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Help Sulien intercept Inquest radio frequencies": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Help the anxious steward prepare for his creator's return": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Help the Astral Ward set up for an ambush": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -159449,6 +160692,10 @@
     "via": "content"
   },
   "Help the Durmand Priory rebuild the camp": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Help the stewards tend to the subterranean garden": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -159508,6 +160755,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Historian of the Leyspring": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Historian Taraz": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -159537,6 +160788,10 @@
     "via": "content"
   },
   "Homestead Recipe Book: Seer Catalogue Volume 2": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Honey Ale": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -159748,6 +161003,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Inquest Assassin (veteran)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Inquest Audio Log Box": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -159800,11 +161059,23 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Inquest Disguise": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Inquest Expedition Journal": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Inquest Experimental Shadowstone Weapon Collector": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Inquest Galvanic Technician": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Inquest Golemancer Lissi": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -159992,6 +161263,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Into the Depths": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Investigate the tide pools to help the Hullgardeners find resources": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -160032,6 +161307,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Jhesi Slickstrike": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Johanna": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -160057,6 +161336,10 @@
     "via": "content"
   },
   "Joy of Movement": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Judgment of Eternity": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -160200,7 +161483,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Kolgrima": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Krait Spear": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Kuda's Audio Log": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -160280,6 +161571,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Lead Researcher": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Leading from the Front": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -160309,6 +161604,10 @@
     "via": "content"
   },
   "Leaving Area": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Left Arrow Key": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -160344,6 +161643,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Letter of Interest": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Letter to Cantha": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -160376,11 +161679,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Ley Magic": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Ley Magic and Research Notes": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Ley Vampire Bat": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Ley-Crazed Chak": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -160404,6 +161715,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Ley-Shoot Deposit": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Ley-Spotted Moth": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -160421,6 +161736,10 @@
     "via": "content"
   },
   "Leyspring Bore": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Leyspring Hollow: Aetherlocation Detective": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -160460,7 +161779,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Leyspring Hollows Renown Token": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Leyspring Hollows: Hero's Choice Chest": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Leyspring Hollows: Serpent Simulator": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -160716,6 +162043,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Lure chak to the nearby Inquest annex": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Lure Rabbit": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Lured": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -160733,6 +162068,10 @@
     "via": "content"
   },
   "Machine Overclock": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Magi's Pact Spade of Force": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -160828,6 +162167,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Maiming Staff": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Main Laboratory": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -160844,6 +162187,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Malicious Intent (achievement)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Mark IX Centurion Golem": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -160852,7 +162199,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Marvelous Convergence Extraction": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Master-at-Arms": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Masterwork Overcharged Rift Extraction": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -160885,6 +162240,10 @@
     "via": "content"
   },
   "Medication": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Meditate": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -160989,6 +162348,10 @@
     "via": "content"
   },
   "Mi-Sun": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Mighty Throw (seer staff)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -161164,6 +162527,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Mirror Shatter": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Mirror Wall": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Misplaced Inquest Box": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -161256,6 +162627,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Moon Call": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Mordrem Ichor": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -161304,6 +162679,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Mutagenic Chamber": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "My Jernul": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -161340,6 +162719,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Navarium Floor": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Nectar Sickness": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -161372,11 +162755,23 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Newspaper Clipping (Hall of Assemblage)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Nexus of Eternity": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Nexus of Eternity (instance)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Nigellus Ruinseeker": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Nightmare Rift": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -161432,7 +162827,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Nurturing Bloom": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Obscured Riches": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Observation Notes": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -161461,6 +162864,14 @@
     "via": "content"
   },
   "Olaf the Bloodwatcher": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Old Journal (Everything That We Are)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Old Letter to Isgarren": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -161636,6 +163047,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Password hint?": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Pat Head": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -161645,6 +163060,10 @@
     "via": "content"
   },
   "Path of the Divine": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Path of the Lattice": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -161688,6 +163107,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Pelagia": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Pelt": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -161721,6 +163144,14 @@
     "via": "content"
   },
   "Pet the Chick": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Petrified Branch (Throwable)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Petrified Branch (Throwable) (object)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -161776,6 +163207,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Place Arcane Trap": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Place Bait": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -161828,6 +163263,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Polished Plaque": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Poppy (skimmer)": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -161857,6 +163296,14 @@
     "via": "content"
   },
   "Portable Hourglass (object)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Portal to Doyen's Adytum": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Portal to Rooted Sanctuary": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -162008,6 +163455,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Probability Distribution": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Prodigious Pincher": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -162064,6 +163515,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Protect the Hullgardeners as they secure and return ancient texts to camp": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Protection Spell": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -162089,6 +163544,10 @@
     "via": "content"
   },
   "Pull Whale": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Pull!": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -162152,6 +163611,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Radiant Consecration": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Radiant Courage": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -162188,6 +163651,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Radiation Empowered": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Raging Storm (Vloxx)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Raging Waterfall": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -162216,11 +163687,23 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Ranch Hand Ysola": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Rancher Cantis Sparksmelt": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Rapacious Strain": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Raptor Swiftwing": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Rare Overcharged Rift Extraction": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -162448,6 +163931,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Red Key (Rhomboid)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Red Ley Magic": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Red Light (Magical Essence)": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -162457,6 +163948,10 @@
     "via": "content"
   },
   "Refined Oxidized Copper": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Reinforced Armor (Inquest)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -162528,7 +164023,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Relic of the Eternal Alchemy": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Relic of the First Revenant": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Relic of the Lantern": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Relic of the Last Tyrant": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -162556,6 +164063,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Relic of the Visionary": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Relic of Watch": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -162577,6 +164088,10 @@
     "via": "content"
   },
   "Reliquary of the Divine": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Reload (Castora)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -162692,6 +164207,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Rescue the captives": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Rescue the sick castaways and wreak havoc at Grogslinger's to stop the staff from serving poisoned drinks": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -162769,6 +164288,10 @@
     "via": "content"
   },
   "Resilient Weapon (effect)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Resist": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -162944,11 +164467,23 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Rift Overcharge (effect)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Rift Sickness": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Rift Tear": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Rift Tears": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Right Arrow Key": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -162992,6 +164527,18 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Rolled-Up Scroll (Throwable)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Rolled-Up Scroll (Throwable) (object)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Rookie Hullgardener": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Root out traps and defeat freebooters to help the Hullgardeners prepare for a siege": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -163017,6 +164564,10 @@
     "via": "content"
   },
   "Rubble (Scour for Seer Relics)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Ruby Solitaire": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163132,6 +164683,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Sapphire Solitaire": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Sarah": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -163156,7 +164711,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Scepter of Vedere": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Scholar Benita": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Scholar Muireall": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163165,6 +164728,10 @@
     "via": "content"
   },
   "Scholar Renato": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Scholar Vazza": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163181,6 +164748,10 @@
     "via": "content"
   },
   "Scout Alusian": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Scout Semma": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163236,6 +164807,30 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Searching for Astral Ward Book": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Searching for Castora Mission Book": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Searching for Inquest Book": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Searching for Seer-Mursaat War Book": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Searching for Tyrian Alliance Book": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Searching for Vloxx Dossier": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Seashell (object)": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -163276,6 +164871,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Seer Acting Manual Page": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Seer Archivist": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -163296,6 +164895,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Seer Chest": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Seer Dagger": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -163309,6 +164912,10 @@
     "via": "content"
   },
   "Seer Ghost": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Seer Greatsword Required": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163348,11 +164955,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Seer Staff Required": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Seer Sticker": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Seer Storage Chest": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Seer Storage Chest (Depths of Cruelty)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163365,6 +164980,14 @@
     "via": "content"
   },
   "Seer Tome": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Seer Tome (Divitium Nava)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Seer Torch Required": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163428,6 +165051,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Selecting Evidence": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Send the castaway children home before they get in big, big trouble": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -163468,6 +165095,22 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Sergeant Bock": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Serpent Simulator: Bronze": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Serpent Simulator: Gold": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Serpent Simulator: Silver": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "SERV": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -163497,6 +165140,14 @@
     "via": "content"
   },
   "Shadow (Kitty Crew)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Shadow Dance": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Shadow's Torment": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163640,75 +165291,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
-  "Shining Ward Axe": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Dagger": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Focus": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Greatsword": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Hammer": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Longbow": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Mace": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Pistol": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Rifle": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Scepter": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Shield": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Short Bow": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Spear": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Staff": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Sword": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Torch": {
-    "bucket": "visions-of-eternity",
-    "via": "content"
-  },
-  "Shining Ward Warhorn": {
+  "Shining Ward Weapon Collector": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Shining Ward Weapon Shard": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Shiny Bauble (Throwable)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Shiny Bauble Chest": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163820,6 +165415,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Shrink down to a miniscule size and repair the steward from the inside": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Sidle Step": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -163837,6 +165436,10 @@
     "via": "content"
   },
   "Sieging Castaway": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Signy (Charr)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -163952,6 +165555,18 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Slate Disc (Throwable)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Slate Disc (Throwable) (object)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Slice Through Reality": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Slipstream Boost": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -164045,6 +165660,10 @@
     "via": "content"
   },
   "Soul Twisting": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Soundtrack Single—Visions of Eternity": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164316,7 +165935,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Steward Divo, \"Doyen Sidony\"": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Steward Drudo": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Steward Galeas": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164329,6 +165956,18 @@
     "via": "content"
   },
   "Steward of Galdra": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Steward of the Greatsword": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Steward of the Staff": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Steward of the Torch": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164420,7 +166059,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Strange Artifact": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Strange Inquest Suit": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Strange Pedestal": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164453,6 +166100,10 @@
     "via": "content"
   },
   "Stun and Expose": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Sturdy": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164552,6 +166203,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Surrounding Curse": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Surrounding Curse (Aspect of the Staff)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Survivalist's Supply Stash": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -164565,6 +166224,10 @@
     "via": "content"
   },
   "Susanna": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Suspicion Level (Ordnance Depot)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164668,6 +166331,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Targeted (The Eternal Tyrant)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Tattered Journal (Hullgarden)": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -164677,6 +166344,10 @@
     "via": "content"
   },
   "Tattered Page": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Tavern Chair": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164696,6 +166367,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Teleport (Inquest Cache)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Temple of Abnegation": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -164708,7 +166383,35 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Tenebral Ward Armor Chest": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Tenebral Ward Armor Collection": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Tenebral Ward Heavy Helmet (skin)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Tenebral Ward Heavy Pauldrons (skin)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Tenebral Ward Light Helmet (skin)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Tenebral Ward Light Pauldrons (skin)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Tenebral Ward Medium Helmet (skin)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Tenebral Ward Medium Pauldrons (skin)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164773,6 +166476,10 @@
     "via": "content"
   },
   "The Beachtree": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "The Big Gun": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164848,6 +166555,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "The Mists (area)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "The Most Extreme": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -164876,6 +166587,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "The Path of the Seal": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "The Path of the Stars": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "The Scriptorium": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -164884,7 +166603,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "The Tale of Bessie": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "The Temple of Abnegation": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "The Tyrant's Justification": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "The Tyrant's Selection Process": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -164928,6 +166659,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Thousand Strikes": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Threshold of Eternity": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Threshold of Heaven": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -164957,6 +166696,10 @@
     "via": "content"
   },
   "Throw Water (Whale)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Throwing Stick": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165056,6 +166799,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Toggle Aim Down Sights": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Token of Affection (object)": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165088,6 +166835,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Torrs Calare Greatsword": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Torvi": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165116,11 +166867,23 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 1: Visions of Eternity": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 2: A New Journey": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Track 2: Mist Connections": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 2: Tragedies of Hullgarden": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 3: Castora": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165132,6 +166895,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 4: After Sunfall": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 4: Togo's Legacy": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165140,7 +166907,23 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 5: When All Else Is Quiet": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 6: Secrets of the Weald": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 7: Starlit Voyage": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 8: Beginning of a Warrior's Journey": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 8: Echoes from Another Era": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165148,11 +166931,31 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 9: Hallowed Ruins": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 10: Far from Home": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 10: The Hammerhearts": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 11: Seneschal of Waves": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 12: Mutiny": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 13: False Gods": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 13: Freebooter Tactics": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165168,7 +166971,43 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 14: Sebb's Abominations": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 15: On the Inquest's Trail": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 16: Primeval Enemies": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 17: The Doyen's Curse": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 18: Endless Watch": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 19: Seneschal of the Forest": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 20: Principal Biomancer": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 20: Taming the Jungle": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 21: Terra Firma": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 22: Augmented Perception": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165176,11 +167015,31 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 23: Choya Dance": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 24: Desert Skimming": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 24: Eternity's Garden": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 25: Through the Labyrinth": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 26: Hearts and Minds": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 26: Hunter's Advantage": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 27: Juncture": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165192,7 +167051,27 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 28: Shackles of the Ancients": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 29: A Future Carved in Jade": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 29: Leyspring Hollows": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 30: Climbing the Dais": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 31: Prodigious Daughter": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 32: Nexus of Eternity": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165200,7 +167079,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 33: Alone, If I Must": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 33: Refuge for Outcasts": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 34: Magus Disaster": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 35: Awakened Pestilence": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165208,7 +167099,27 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Track 36: Terror from the Mists": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 37: The Director's Mettle": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 38: One Charr": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Track 38: The Opulence of Vabbi": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 39: Of Cruel and Cold Design": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Track 40: A World without Us": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165304,6 +167215,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Transformed into a Mushroom": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Transformed into Crab": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165316,11 +167231,23 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Trapped (Mutagenic Chamber)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Tray of Grapeshot Grog": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Treasure Map Fragments": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Treasure Pile": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Treasure-Map Fragment": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165337,6 +167264,10 @@
     "via": "content"
   },
   "Tropical Beach Gear Bag": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Tropical Depths Gear Bag": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165420,6 +167351,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Tyrian Alliance Researcher Murrow": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Ubaldesca, Avatar of the All Seer": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165488,6 +167423,22 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Unstable Ley Energy": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Unstable Ley Magic": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Unstable Ley Magic Blast": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Unstable Ley Shoot": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Unstable Seer Artifact": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165512,6 +167463,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Up Arrow Key": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Upgraded Hologram Emitter": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165521,6 +167476,10 @@
     "via": "content"
   },
   "Use Imren's spellbook to aid the Inquest-controlled stewards": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Use the arcane grimoire to weaken the chak": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165576,6 +167535,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Vessel of the Mists": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Veteran Augmented Greatsword": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Veteran Augmented Stinger": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165596,7 +167563,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Veteran Chak Drone": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Veteran Coalesced Sentinel": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Veteran Construct of Subservience": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Veteran Cosmic Piercer": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165605,6 +167584,10 @@
     "via": "content"
   },
   "Veteran Crushing Horror": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Veteran Empowered Chak Drone": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165676,7 +167659,15 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Veteran Rookie Hullgardener": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Veteran SERV": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Veteran Trained Hullgardener": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165720,6 +167711,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Viable Specimen": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Vial of Liquid Shadowstone": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165733,6 +167728,34 @@
     "via": "content"
   },
   "Vines (effect)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Vision of Grothmar Valley": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Vision of the Encroaching Mists": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Vision of the End": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Vision of the Luminates Plant": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Vision of the Magus Dam": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Vision of the Scarab Plague": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Visions of Eternity (Vloxx)": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165772,7 +167795,31 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Vloxx's Coffer": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Vloxx's Magnificent Coffer": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Vloxx's Vision": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Vloxx's Vision (stacking)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Void Storm (effect)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Volatile Ascension": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Volatile Glimmer of Ascension": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165808,6 +167855,14 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Ward Equilibrist Wammi": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Ward Historian Ailys": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Ward Mage Efo": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165828,6 +167883,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Ward Scout Erenn Dore": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Ward Scout Lexxi": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165841,6 +167900,10 @@
     "via": "content"
   },
   "Warding Spell": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Warning from the Stewards": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -165860,6 +167923,10 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Water (drink)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Water Elemental": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -165873,6 +167940,10 @@
     "via": "content"
   },
   "Waterfall Rest Grotto": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Wave Scepter": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -166016,11 +168087,19 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Wild Call": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Wild Seer Magic Unlocked": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
   "Wild Wavehawk": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Wild Wrath": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },
@@ -166060,6 +168139,18 @@
     "bucket": "visions-of-eternity",
     "via": "content"
   },
+  "Worldpiercer": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Worn Scroll (Doyen's Adytum)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Worn Scroll (The Auguratorium)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
   "Worn Seer Coin": {
     "bucket": "visions-of-eternity",
     "via": "content"
@@ -166089,6 +168180,14 @@
     "via": "content"
   },
   "Yellow Firework (effect)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Yellow Key (Cross)": {
+    "bucket": "visions-of-eternity",
+    "via": "content"
+  },
+  "Yellow Ley Magic": {
     "bucket": "visions-of-eternity",
     "via": "content"
   },

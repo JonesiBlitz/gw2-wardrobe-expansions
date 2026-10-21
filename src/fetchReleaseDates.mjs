@@ -20,14 +20,20 @@ async function main() {
   const byExpansion = JSON.parse(await readFile(path.join(DATA, "skins-by-expansion.json"), "utf8"));
   const unmatchedNames = [...new Set(byExpansion[CORE_TYRIA.key].skins.map((s) => s.name))];
 
-  console.log(`Looking up first-revision dates for ${unmatchedNames.length} unmatched skin names...`);
-  const dates = await getFirstRevisionTimestamps(unmatchedNames, {
+  // A page's first revision never changes, so only look up names we haven't
+  // already found (pages that were missing last time are retried).
+  const cache = JSON.parse(await readFile(path.join(DATA, "unmatched-release-dates.json"), "utf8").catch(() => "{}"));
+  const todo = unmatchedNames.filter((n) => !(cache[n] && !cache[n].missing));
+  console.log(`Looking up first-revision dates for ${todo.length} of ${unmatchedNames.length} unmatched skin names (${unmatchedNames.length - todo.length} cached)...`);
+  const fresh = await getFirstRevisionTimestamps(todo, {
     onProgress: (done, total) => {
       if (done % 200 === 0 || done === total) process.stdout.write(`\r  ${done}/${total}`);
     },
   });
   console.log();
 
+  // Cached hits plus fresh lookups, restricted to names still in the bucket.
+  const dates = new Map(unmatchedNames.map((n) => [n, fresh.get(n) ?? cache[n]]));
   let found = 0;
   let missing = 0;
   for (const v of dates.values()) (v.missing ? missing++ : found++);

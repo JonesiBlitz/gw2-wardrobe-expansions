@@ -30,19 +30,24 @@ async function main() {
     if (plain && !plain.missing) continue; // plain title already resolved, nothing to retry
     candidates.add(weightClassTitle(skin.name, skin.weight_class));
   }
-  const titles = [...candidates];
+  const all = [...candidates];
 
-  console.log(`Retrying ${titles.length} weight-class-disambiguated titles (e.g. "Angler Vest (light skin)")...`);
-  const dates = await getFirstRevisionTimestamps(titles, {
+  // First-revision dates never change: only look up titles not already found.
+  const cache = JSON.parse(await readFile(path.join(DATA, "weight-class-release-dates.json"), "utf8").catch(() => "{}"));
+  const titles = all.filter((t) => !(cache[t] && !cache[t].missing));
+
+  console.log(`Retrying ${titles.length} of ${all.length} weight-class-disambiguated titles (e.g. "Angler Vest (light skin)"; ${all.length - titles.length} cached)...`);
+  const fresh = await getFirstRevisionTimestamps(titles, {
     onProgress: (done, total) => {
       if (done % 200 === 0 || done === total) process.stdout.write(`\r  ${done}/${total}`);
     },
   });
   console.log();
+  const dates = new Map(all.map((t) => [t, fresh.get(t) ?? cache[t]]));
 
   let found = 0;
   for (const v of dates.values()) if (!v.missing) found++;
-  console.log(`Found wiki pages for ${found} of ${titles.length} weight-suffixed titles.`);
+  console.log(`Found wiki pages for ${found} of ${all.length} weight-suffixed titles.`);
 
   await writeFile(
     path.join(DATA, "weight-class-release-dates.json"),

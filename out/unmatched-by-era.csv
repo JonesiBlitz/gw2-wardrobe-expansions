@@ -2444,7 +2444,6 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 4194,Viridian Antique Wand,Weapon,Basic,,2014-08-07T19:46:15Z,Living World Season 1
 4229,Viridian Antique Warhammer,Weapon,Basic,,2014-08-07T19:46:17Z,Living World Season 1
 5545,Cultivated Vine,Back,Basic,,2014-08-12T21:35:50Z,Living World Season 1
-5544,Mawdrey,Back,Basic,,2014-08-14T11:56:45Z,Living World Season 1
 5541,Wreath of Cooperation,Armor,Basic,Heavy,2014-08-14T15:27:49Z,Living World Season 1
 5542,Wreath of Cooperation,Armor,Basic,Light,2014-08-14T15:27:49Z,Living World Season 1
 5543,Wreath of Cooperation,Armor,Basic,Medium,2014-08-14T15:27:49Z,Living World Season 1
@@ -8405,7 +8404,6 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13869,Ward Hunter's Shoulders,Armor,Basic,Light,2026-05-13T10:45:20Z,Visions of Eternity
 13942,Ward Hunter's Shoulders,Armor,Basic,Medium,2026-05-13T10:48:26Z,Visions of Eternity
 13931,Ward Hunter's Shoulders,Armor,Basic,Heavy,2026-05-13T10:50:44Z,Visions of Eternity
-13779,Heavy Inquest Aquabreather,Armor,Exotic,Heavy,2026-05-14T12:27:41Z,Visions of Eternity
 13976,Synergetics Axe,Weapon,Basic,,2026-05-14T14:04:50Z,Visions of Eternity
 13965,Synergetics Dagger,Weapon,Basic,,2026-05-14T14:10:10Z,Visions of Eternity
 13857,Synergetics Focus,Weapon,Basic,,2026-05-14T14:11:53Z,Visions of Eternity
@@ -8571,6 +8569,84 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13992,Arcane Occultist's Hat,Armor,Basic,Medium,2026-09-10T16:30:26Z,Visions of Eternity
 13887,Arcane Occultist's Hat,Armor,Basic,Light,2026-09-10T16:31:05Z,Visions of Eternity
 14153,Explorer's Kukri,Weapon,Basic,,2026-09-15T23:49:09Z,Visions of Eternity
+14250,Gwyl Knight's Axe,Weapon,Basic,,2026-09-20T13:03:03Z,Visions of Eternity
+14206,Gwyl Knight's Dagger,Weapon,Basic,,2026-09-20T13:04:47Z,Visions of Eternity
+14133,Gwyl Knight's Focus,Weapon,Basic,,2026-09-20T13:06:16Z,Visions of Eternity
+14184,Gwyl Knight's Greatsword,Weapon,Basic,,2026-09-20T13:07:23Z,Visions of Eternity
+14189,Gwyl Knight's Hammer,Weapon,Basic,,2026-09-20T13:08:44Z,Visions of Eternity
+14228,Gwyl Knight's Longbow,Weapon,Basic,,2026-09-20T13:09:42Z,Visions of Eternity
+14224,Gwyl Knight's Mace,Weapon,Basic,,2026-09-20T13:10:49Z,Visions of Eternity
+14215,Gwyl Knight's Pistol,Weapon,Basic,,2026-09-20T13:11:43Z,Visions of Eternity
+14232,Gwyl Knight's Rifle,Weapon,Basic,,2026-09-20T13:12:37Z,Visions of Eternity
+14167,Gwyl Knight's Scepter,Weapon,Basic,,2026-09-20T13:14:04Z,Visions of Eternity
+14233,Gwyl Knight's Shield,Weapon,Basic,,2026-09-20T13:15:04Z,Visions of Eternity
+14185,Gwyl Knight's Short Bow,Weapon,Basic,,2026-09-20T13:16:05Z,Visions of Eternity
+14180,Gwyl Knight's Spear,Weapon,Basic,,2026-09-20T13:16:58Z,Visions of Eternity
+14205,Gwyl Knight's Staff,Weapon,Basic,,2026-09-20T13:17:50Z,Visions of Eternity
+14225,Gwyl Knight's Sword,Weapon,Basic,,2026-09-20T13:18:50Z,Visions of Eternity
+14222,Gwyl Knight's Torch,Weapon,Basic,,2026-09-20T13:19:41Z,Visions of Eternity
+14240,Gwyl Knight's Warhorn,Weapon,Basic,,2026-09-20T13:20:32Z,Visions of Eternity
+14178,Dreamwalker Spear,Weapon,Basic,,2026-09-22T17:36:04Z,Visions of Eternity
+14164,Exuberant Gloves,Armor,Basic,Light,2026-09-22T19:06:34Z,Visions of Eternity
+14243,Exuberant Gloves,Armor,Basic,Medium,2026-09-22T19:06:52Z,Visions of Eternity
+14131,Exuberant Gloves,Armor,Basic,Heavy,2026-09-22T19:07:08Z,Visions of Eternity
+14214,Exuberant Sandals,Armor,Basic,Light,2026-09-22T19:09:24Z,Visions of Eternity
+14198,Exuberant Sandals,Armor,Basic,Medium,2026-09-22T19:09:39Z,Visions of Eternity
+14179,Exuberant Sandals,Armor,Basic,Heavy,2026-09-22T19:09:54Z,Visions of Eternity
+14260,Exuberant Leggings,Armor,Basic,Light,2026-09-22T19:12:15Z,Visions of Eternity
+14248,Exuberant Leggings,Armor,Basic,Medium,2026-09-22T19:12:33Z,Visions of Eternity
+14249,Exuberant Leggings,Armor,Basic,Heavy,2026-09-22T19:12:57Z,Visions of Eternity
+14252,Exuberant Helm,Armor,Basic,Light,2026-09-22T19:14:25Z,Visions of Eternity
+14143,Exuberant Helm,Armor,Basic,Medium,2026-09-22T19:14:38Z,Visions of Eternity
+14148,Exuberant Helm,Armor,Basic,Heavy,2026-09-22T19:14:51Z,Visions of Eternity
+14246,Exuberant Chest,Armor,Basic,Light,2026-09-22T19:15:50Z,Visions of Eternity
+14154,Exuberant Chest,Armor,Basic,Medium,2026-09-22T19:16:05Z,Visions of Eternity
+14141,Exuberant Chest,Armor,Basic,Heavy,2026-09-22T19:16:15Z,Visions of Eternity
+14261,Enchanted Threader Staff,Weapon,Basic,,2026-09-29T18:08:56Z,Visions of Eternity
+14262,Enchanted Threader Spear,Weapon,Basic,,2026-09-29T18:08:57Z,Visions of Eternity
+14176,The Tyrant's Absolute Oppression,Weapon,Basic,,2026-09-29T19:10:17Z,Visions of Eternity
+14138,Enchanter's Embroidered Hat,Armor,Basic,Light,2026-10-06T18:23:57Z,Visions of Eternity
+14236,Enchanter's Embroidered Hat,Armor,Basic,Heavy,2026-10-06T18:24:30Z,Visions of Eternity
+14221,Enchanter's Embroidered Hat,Armor,Basic,Medium,2026-10-06T18:24:31Z,Visions of Eternity
+14231,Enchanter's Travelling Hat,Armor,Basic,Heavy,2026-10-06T18:26:58Z,Visions of Eternity
+14156,Enchanter's Travelling Hat,Armor,Basic,Medium,2026-10-06T18:27:00Z,Visions of Eternity
+14149,Enchanter's Travelling Hat,Armor,Basic,Light,2026-10-06T18:27:02Z,Visions of Eternity
+14227,The Tyrant's Absolute Cruelty,Weapon,Basic,,2026-10-12T06:10:52Z,Visions of Eternity
+14290,Plush Mad King Backpack,Back,Exotic,,2026-10-13T16:24:44Z,Visions of Eternity
+14278,Flowing Sand Cape,Back,Masterwork,,2026-10-13T17:21:42Z,Visions of Eternity
+14279,Primeval King's Wrappings,Armor,Basic,Medium,2026-10-13T18:57:51Z,Visions of Eternity
+14270,Primeval King's Wrappings,Armor,Basic,Heavy,2026-10-13T19:02:07Z,Visions of Eternity
+14284,Primeval King's Wrappings,Armor,Basic,Light,2026-10-13T19:04:48Z,Visions of Eternity
+14300,Grim Machine Spear,Weapon,Basic,,2026-10-14T14:01:44Z,Visions of Eternity
+14268,Fog Machine Axe,Weapon,Basic,,2026-10-14T14:33:20Z,Visions of Eternity
+14286,Fog Machine Dagger,Weapon,Basic,,2026-10-14T14:35:01Z,Visions of Eternity
+14297,Fog Machine Mace,Weapon,Basic,,2026-10-14T14:38:02Z,Visions of Eternity
+14264,Fog Machine Pistol,Weapon,Basic,,2026-10-14T14:39:25Z,Visions of Eternity
+14271,Fog Machine Scepter,Weapon,Basic,,2026-10-14T14:40:35Z,Visions of Eternity
+14277,Fog Machine Sword,Weapon,Basic,,2026-10-14T14:41:34Z,Visions of Eternity
+14280,Fog Machine Focus,Weapon,Basic,,2026-10-14T14:43:58Z,Visions of Eternity
+14292,Fog Machine Shield,Weapon,Basic,,2026-10-14T14:45:18Z,Visions of Eternity
+14274,Fog Machine Torch,Weapon,Basic,,2026-10-14T14:46:22Z,Visions of Eternity
+14283,Fog Machine Warhorn,Weapon,Basic,,2026-10-14T14:47:19Z,Visions of Eternity
+14291,Fog Machine Greatsword,Weapon,Basic,,2026-10-14T14:48:18Z,Visions of Eternity
+14272,Fog Machine Hammer,Weapon,Basic,,2026-10-14T14:49:44Z,Visions of Eternity
+14293,Fog Machine Longbow,Weapon,Basic,,2026-10-14T14:50:42Z,Visions of Eternity
+14273,Fog Machine Rifle,Weapon,Basic,,2026-10-14T14:51:47Z,Visions of Eternity
+14287,Fog Machine Short Bow,Weapon,Basic,,2026-10-14T14:52:44Z,Visions of Eternity
+14281,Fog Machine Staff,Weapon,Basic,,2026-10-14T14:53:41Z,Visions of Eternity
+14299,Fog Machine Spear,Weapon,Basic,,2026-10-14T14:54:28Z,Visions of Eternity
+14263,Hair Bow (Back),Armor,Basic,Light,2026-10-20T17:56:29Z,Visions of Eternity
+14298,Hair Bow (Back),Armor,Basic,Medium,2026-10-20T17:56:57Z,Visions of Eternity
+14295,Hair Bow (Back),Armor,Basic,Heavy,2026-10-20T17:57:15Z,Visions of Eternity
+14282,Hair Bow (Left),Armor,Basic,Light,2026-10-20T17:59:01Z,Visions of Eternity
+14294,Hair Bow (Left),Armor,Basic,Medium,2026-10-20T17:59:02Z,Visions of Eternity
+14289,Hair Bow (Left),Armor,Basic,Heavy,2026-10-20T17:59:04Z,Visions of Eternity
+14269,Hair Bow (Double),Armor,Basic,Light,2026-10-20T18:00:35Z,Visions of Eternity
+14288,Hair Bow (Double),Armor,Basic,Medium,2026-10-20T18:00:36Z,Visions of Eternity
+14276,Hair Bow (Double),Armor,Basic,Heavy,2026-10-20T18:00:42Z,Visions of Eternity
+14296,Hair Bow (Right),Armor,Basic,Light,2026-10-20T18:02:25Z,Visions of Eternity
+14275,Hair Bow (Right),Armor,Basic,Medium,2026-10-20T18:02:27Z,Visions of Eternity
+14265,Hair Bow (Right),Armor,Basic,Heavy,2026-10-20T18:02:32Z,Visions of Eternity
 681,,Armor,Basic,Medium,,unknown (no wiki page found)
 1042,,Armor,Basic,Clothing,,unknown (no wiki page found)
 1043,,Armor,Basic,Clothing,,unknown (no wiki page found)
@@ -8713,7 +8789,6 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 8355,,Weapon,Basic,,,unknown (no wiki page found)
 8433,,Armor,Rare,Light,,unknown (no wiki page found)
 13489,Aureate Partisan,Weapon,Basic,,,unknown (no wiki page found)
-14193,Backbone Breaker Spear,Weapon,Basic,,,unknown (no wiki page found)
 13311,Beaded Spear,Weapon,Basic,,,unknown (no wiki page found)
 7004,Crystalline Wings Backpack,Back,Basic,,,unknown (no wiki page found)
 12712,Decima's Manica,Armor,Basic,Heavy,,unknown (no wiki page found)
@@ -8726,34 +8801,22 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 13004,Enduring Infinite Light,Weapon,Basic,,,unknown (no wiki page found)
 10440,Fishing Bait,Gathering,Basic,,,unknown (no wiki page found)
 13596,Glyphic Javelin,Weapon,Basic,,,unknown (no wiki page found)
-14250,Gwyl Knight's Axe,Weapon,Basic,,,unknown (no wiki page found)
-14206,Gwyl Knight's Dagger,Weapon,Basic,,,unknown (no wiki page found)
-14133,Gwyl Knight's Focus,Weapon,Basic,,,unknown (no wiki page found)
-14184,Gwyl Knight's Greatsword,Weapon,Basic,,,unknown (no wiki page found)
-14189,Gwyl Knight's Hammer,Weapon,Basic,,,unknown (no wiki page found)
-14228,Gwyl Knight's Longbow,Weapon,Basic,,,unknown (no wiki page found)
-14224,Gwyl Knight's Mace,Weapon,Basic,,,unknown (no wiki page found)
-14215,Gwyl Knight's Pistol,Weapon,Basic,,,unknown (no wiki page found)
-14232,Gwyl Knight's Rifle,Weapon,Basic,,,unknown (no wiki page found)
-14167,Gwyl Knight's Scepter,Weapon,Basic,,,unknown (no wiki page found)
-14233,Gwyl Knight's Shield,Weapon,Basic,,,unknown (no wiki page found)
-14185,Gwyl Knight's Short Bow,Weapon,Basic,,,unknown (no wiki page found)
-14180,Gwyl Knight's Spear,Weapon,Basic,,,unknown (no wiki page found)
-14205,Gwyl Knight's Staff,Weapon,Basic,,,unknown (no wiki page found)
-14225,Gwyl Knight's Sword,Weapon,Basic,,,unknown (no wiki page found)
-14222,Gwyl Knight's Torch,Weapon,Basic,,,unknown (no wiki page found)
-14240,Gwyl Knight's Warhorn,Weapon,Basic,,,unknown (no wiki page found)
-14218,Inquest Rifleblade Greatsword,Weapon,Basic,,,unknown (no wiki page found)
+13473,Godskull Poleaxe,Weapon,Basic,,,unknown (no wiki page found)
 2361,King Toad Backpack Cover,Back,Basic,,,unknown (no wiki page found)
 13212,Mists-Grasper Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
 13227,Mists-Grasper Gloves,Armor,Basic,Light,,unknown (no wiki page found)
 13228,Mists-Grasper Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
+13515,Norn Impaler,Weapon,Basic,,,unknown (no wiki page found)
+13538,Pact Spade,Weapon,Basic,,,unknown (no wiki page found)
 12988,Powered Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
 12993,Powered Boots,Armor,Basic,Light,,unknown (no wiki page found)
 12996,Powered Boots,Armor,Basic,Medium,,unknown (no wiki page found)
 13821,Powered Vest,Armor,Basic,Heavy,,unknown (no wiki page found)
 13833,Powered Vest,Armor,Basic,Medium,,unknown (no wiki page found)
 13835,Powered Vest,Armor,Basic,Light,,unknown (no wiki page found)
+14266,Primeval King's Uncovered Wrappings,Armor,Basic,Heavy,,unknown (no wiki page found)
+14267,Primeval King's Uncovered Wrappings,Armor,Basic,Light,,unknown (no wiki page found)
+14285,Primeval King's Uncovered Wrappings,Armor,Basic,Medium,,unknown (no wiki page found)
 11667,Sanctified Shoulders,Armor,Basic,Heavy,,unknown (no wiki page found)
 11727,Sanctified Shoulders,Armor,Basic,Light,,unknown (no wiki page found)
 11749,Sanctified Shoulders,Armor,Basic,Medium,,unknown (no wiki page found)
@@ -8791,24 +8854,6 @@ id,name,type,rarity,weight_class,wiki_first_seen,inferred_era
 7971,Slumbering Obsidian Torch,Weapon,Basic,,,unknown (no wiki page found)
 8304,Slumbering Obsidian Warhorn,Weapon,Basic,,,unknown (no wiki page found)
 11340,Tahkayun's Reverse-Grip Edge,Weapon,Basic,,,unknown (no wiki page found)
-14183,Tenebral Ward Heavy Boots,Armor,Basic,Heavy,,unknown (no wiki page found)
-14194,Tenebral Ward Heavy Gloves,Armor,Basic,Heavy,,unknown (no wiki page found)
-14175,Tenebral Ward Heavy Helmet,Armor,Basic,Heavy,,unknown (no wiki page found)
-14174,Tenebral Ward Heavy Leggings,Armor,Basic,Heavy,,unknown (no wiki page found)
-14219,Tenebral Ward Heavy Pauldrons,Armor,Basic,Heavy,,unknown (no wiki page found)
-14209,Tenebral Ward Light Boots,Armor,Basic,Light,,unknown (no wiki page found)
-14139,Tenebral Ward Light Gloves,Armor,Basic,Light,,unknown (no wiki page found)
-14202,Tenebral Ward Light Helmet,Armor,Basic,Light,,unknown (no wiki page found)
-14155,Tenebral Ward Light Leggings,Armor,Basic,Light,,unknown (no wiki page found)
-14201,Tenebral Ward Light Pauldrons,Armor,Basic,Light,,unknown (no wiki page found)
-14144,Tenebral Ward Medium Boots,Armor,Basic,Medium,,unknown (no wiki page found)
-14162,Tenebral Ward Medium Gloves,Armor,Basic,Medium,,unknown (no wiki page found)
-14130,Tenebral Ward Medium Helmet,Armor,Basic,Medium,,unknown (no wiki page found)
-14165,Tenebral Ward Medium Leggings,Armor,Basic,Medium,,unknown (no wiki page found)
-14142,Tenebral Ward Medium Pauldrons,Armor,Basic,Medium,,unknown (no wiki page found)
-14192,The Tyrant's Justification,Weapon,Basic,,,unknown (no wiki page found)
-14134,The Tyrant's Selection Process,Weapon,Basic,,,unknown (no wiki page found)
-14169,Torrs Calare Greatsword,Weapon,Basic,,,unknown (no wiki page found)
 14089,Unclouded Cuirass,Armor,Basic,Heavy,,unknown (no wiki page found)
 14096,Unclouded Cuirass,Armor,Basic,Light,,unknown (no wiki page found)
 14119,Unclouded Cuirass,Armor,Basic,Medium,,unknown (no wiki page found)

@@ -68,8 +68,18 @@ async function main() {
   }
   const tagged = items.filter((i) => i.category).length;
 
-  // 2. First-revision dates for everything not tagged.
-  const need = [...new Set(items.filter((i) => !i.category).flatMap((i) => i.candidates))];
+  // 2. First-revision dates for everything not tagged. A page's first
+  // revision never changes, so reuse dates found on a previous run.
+  const previous = JSON.parse(await readFile(path.join(DATA, "minis-novelties.json"), "utf8").catch(() => '{"items":[]}'));
+  const prevDate = new Map(previous.items.filter((p) => p.wikiFirstSeen).map((p) => [`${p.kind}:${p.id}`, p]));
+  for (const it of items) {
+    const p = prevDate.get(`${it.kind}:${it.id}`);
+    if (!it.category && p) {
+      it.wikiFirstSeen = p.wikiFirstSeen;
+      it.datedVia = p.datedVia;
+    }
+  }
+  const need = [...new Set(items.filter((i) => !i.category && !i.wikiFirstSeen).flatMap((i) => i.candidates))];
   console.log(`${tagged} of ${items.length} tagged by wiki category; dating ${need.length} titles by first revision...`);
   const dates = await getFirstRevisionTimestamps(need, {
     onProgress: (done, total) => {
@@ -78,9 +88,9 @@ async function main() {
   });
   console.log();
 
-  let dated = 0;
+  let dated = items.filter((i) => !i.category && i.wikiFirstSeen).length;
   for (const it of items) {
-    if (it.category) continue;
+    if (it.category || it.wikiFirstSeen) continue;
     for (const c of it.candidates) {
       const d = dates.get(c);
       if (d && !d.missing && d.timestamp) {

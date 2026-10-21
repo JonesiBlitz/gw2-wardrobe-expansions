@@ -14,7 +14,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { getCategoryMembers, parsePageHtml, searchTitles } from "./wikiApi.mjs";
+import { existingTitles, getCategoryMembers, parsePageHtml, searchTitles } from "./wikiApi.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA = path.join(__dirname, "..", "data");
@@ -177,6 +177,50 @@ async function crawlItemsPage(page, titles) {
     }
   }
   return { setTitles: [...setTitles], added: titles.size - before };
+}
+
+// 2b. Per-year festival pages ("Shadow of the Mad King 2026"). A new year's
+// weapon set and items show up in its "New skins and equipment" /
+// "New miniatures" / "New items" sections before the <Festival>/items index is
+// updated, so this is how a brand-new set gets discovered.
+const YEAR_STEMS = {
+  "lunar-new-year": "Lunar New Year",
+  "super-adventure-box": "Super Adventure Festival",
+  "dragon-bash": "Dragon Bash",
+  "four-winds": "Festival of the Four Winds",
+  halloween: "Shadow of the Mad King",
+  wintersday: "A Very Merry Wintersday",
+};
+const NEW_SECTION = /^New_(skins|equipment|miniatures|minis|items|weapons|armor|tonics|novelties|back)/i;
+
+async function crawlYearPages(festival, titles) {
+  const stem = YEAR_STEMS[festival.key];
+  if (!stem) return { setTitles: [], pages: 0, added: 0 };
+  const thisYear = new Date().getFullYear();
+  const candidates = [];
+  for (let y = 2012; y <= thisYear; y++) candidates.push(`${stem} ${y}`);
+  const pages = [...(await existingTitles(candidates))];
+
+  const before = titles.size;
+  const setTitles = new Set();
+  for (const page of pages) {
+    const html = await parsePageHtml(page);
+    await sleep(40);
+    if (!html) continue;
+    // "New ..." sections are usually <h3>s under a "<year> features" <h2>.
+    for (const part of html.split(/<h[234]/).slice(1)) {
+      const id = part.match(/id="([^"]+)"/)?.[1] ?? "";
+      if (!NEW_SECTION.test(id)) continue;
+      for (const t of anchorTitles(part.split(/<h[234]/)[0])) {
+        if (/^(API:|Category:|Decoration|Edit section)/.test(t) || CURRENCY.test(t)) continue;
+        // Only weapon sets listed under "New ..." count: the rest of a year page
+        // also links unrelated sets (returning features, Wizard's Vault, ...).
+        if (/ weapons$/.test(t)) setTitles.add(t);
+        else addTitle(titles, t, page);
+      }
+    }
+  }
+  return { setTitles: [...setTitles], pages: pages.length, added: titles.size - before };
 }
 
 // 3a. Vendors named in the festival page's "Vendors" section -> item sales.
@@ -548,8 +592,20 @@ async function main() {
     const items = await crawlItemsPage(f.page, titles);
     // Festivals without an /items page (Super Adventure Box) still have one
     // "<Set> weapons" category per set; those categories are the set list.
-    const setTitles = [...new Set([...items.setTitles, ...[...visited].map((c) => c.replace(/^Category:/, "")).filter((n) => / weapons$/.test(n) && n !== `${f.page} weapons`)])];
-    console.log(`  ${visited.size} categories, +${items.added} titles from ${f.page}/items, ${setTitles.length} weapon sets`);
+    const years = await crawlYearPages(f, titles);
+    const catSets = [...visited].map((c) => c.replace(/^Category:/, "")).filter((n) => / weapons$/.test(n) && n !== `${f.page} weapons`);
+    // Sets found only on a year page must say they're festival weapons - those
+    // pages also link unrelated sets (WvW/sPvP Obsidian, Officer's Remnant, ...).
+    const known = new Set([...items.setTitles, ...catSets]);
+    const yearSets = [];
+    for (const t of years.setTitles) {
+      if (known.has(t)) continue;
+      const intro = strip(((await parsePageHtml(t)) ?? "").slice(0, 3000));
+      await sleep(40);
+      if (/Festival weapons/.test(intro)) yearSets.push(t);
+    }
+    const setTitles = [...new Set([...known, ...yearSets])];
+    console.log(`  ${visited.size} categories, +${items.added} titles from ${f.page}/items, +${years.added} from ${years.pages} year pages, ${setTitles.length} weapon sets`);
 
     const { sales, vendorCount } = await crawlVendorSales(f.page, f.extraVendors);
     console.log(`  ${sales.size} vendor sale rows from ${vendorCount} vendor pages`);

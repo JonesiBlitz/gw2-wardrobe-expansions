@@ -71,6 +71,15 @@ const FESTIVALS = [
     // Trick-or-Treat bags, ...) not visible from vendor tables.
     weaponCategory: "Category:Halloween weapons",
     extraVendors: ["Court Merchant", "Lunatic Chef"],
+    // Black Lion / Gem Store unlocks the wiki files under Halloween but that
+    // aren't tied to the event itself (the Deathly shoulder boxes, cat ears,
+    // Maguuma armor pieces).
+    exclude: [
+      "Deathly Avian Mantle", "Deathly Avian Pauldrons", "Deathly Avian Shoulderpads",
+      "Deathly Bull's Mantle", "Deathly Bull's Pauldrons", "Deathly Bull's Shoulderpads",
+      "Deathly Mantle", "Deathly Pauldrons", "Deathly Shoulderpads",
+      "Furrocious Cat Ears", "Maguuma's Grasp", "Maguuma's Mantle",
+    ],
   },
   { key: "wintersday", label: "Wintersday", emoji: "❄️", page: "Wintersday", extraVendors: ["Charity Corps Seraph (historical)"] },
 ];
@@ -726,6 +735,21 @@ async function main() {
     }
     const r = mergePieces(o, merged, "Collection achievement");
     console.log(`  ${o.label}: ${cols.length} collections (${cols.map((c) => c.name).join("; ")}) -> ${r.tagged} items tagged, ${r.added} new`);
+  }
+
+  // Hand-curated removals (see `exclude` in FESTIVALS). Applied last so nothing
+  // (sets, achievements, collections) can add them back.
+  for (const f of FESTIVALS) {
+    if (!f.exclude?.length) continue;
+    const out = outFestivals.find((o) => o.key === f.key);
+    const drop = new Set(f.exclude);
+    let removed = 0;
+    for (const kind of ["skins", "minis", "novelties"]) {
+      const before = out[kind].length;
+      out[kind] = out[kind].filter((i) => !drop.has(i.name));
+      removed += before - out[kind].length;
+    }
+    console.log(`${f.label}: excluded ${removed} entries (${f.exclude.length} names)`);
   }
 
   await writeFile(

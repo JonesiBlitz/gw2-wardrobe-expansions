@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:48:15.371Z",
+  "generatedAt": "2026-10-21T14:42:09.890Z",
   "totalSkins": 10680,
   "totalMinis": 951,
   "totalNovelties": 236,
@@ -176908,7 +176908,7 @@
       "event": true,
       "group": "festival",
       "note": "Halloween skins, minis and novelties. These span every year - skins here also appear in their release-window tab.",
-      "count": 386,
+      "count": 368,
       "skins": [
         {
           "id": 7802,
@@ -178213,141 +178213,6 @@
           "wikiFirstSeen": null
         },
         {
-          "id": 1121,
-          "name": "Deathly Avian Mantle",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Light",
-          "icon": "https://render.guildwars2.com/file/340F26CF50A5A5595E3DFF9D699B54F865CE7A52/499476.png",
-          "cats": [
-            "Halloween armor skins"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Halloween armor skins",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 1116,
-          "name": "Deathly Avian Pauldrons",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Heavy",
-          "icon": "https://render.guildwars2.com/file/340F26CF50A5A5595E3DFF9D699B54F865CE7A52/499476.png",
-          "cats": [
-            "Halloween armor skins"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Halloween armor skins",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 1128,
-          "name": "Deathly Avian Shoulderpads",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Medium",
-          "icon": "https://render.guildwars2.com/file/340F26CF50A5A5595E3DFF9D699B54F865CE7A52/499476.png",
-          "cats": [
-            "Halloween armor skins"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Halloween armor skins",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 1123,
-          "name": "Deathly Bull's Mantle",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Light",
-          "icon": "https://render.guildwars2.com/file/48B2D9B505D2AAF124256C54B341EFECE06CBA06/499477.png",
-          "cats": [
-            "Halloween armor skins"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Halloween armor skins",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 1119,
-          "name": "Deathly Bull's Pauldrons",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Heavy",
-          "icon": "https://render.guildwars2.com/file/48B2D9B505D2AAF124256C54B341EFECE06CBA06/499477.png",
-          "cats": [
-            "Halloween armor skins"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Halloween armor skins",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 1131,
-          "name": "Deathly Bull's Shoulderpads",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Medium",
-          "icon": "https://render.guildwars2.com/file/48B2D9B505D2AAF124256C54B341EFECE06CBA06/499477.png",
-          "cats": [
-            "Halloween armor skins"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Halloween armor skins",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 1126,
-          "name": "Deathly Mantle",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Light",
-          "icon": "https://render.guildwars2.com/file/C40623F844125E074C04C509217D0803747804C4/499475.png",
-          "cats": [
-            "Halloween armor skins"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Halloween armor skins",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 1120,
-          "name": "Deathly Pauldrons",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Heavy",
-          "icon": "https://render.guildwars2.com/file/C40623F844125E074C04C509217D0803747804C4/499475.png",
-          "cats": [
-            "Halloween armor skins"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Halloween armor skins",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 1136,
-          "name": "Deathly Shoulderpads",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Medium",
-          "icon": "https://render.guildwars2.com/file/C40623F844125E074C04C509217D0803747804C4/499475.png",
-          "cats": [
-            "Halloween armor skins"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Halloween armor skins",
-          "wikiFirstSeen": null
-        },
-        {
           "set": "Demon-Haunted weapons",
           "released": "October 13, 2020",
           "id": 9626,
@@ -179606,51 +179471,6 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Shadow of the Mad King 2026, Fog Machine weapons",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 6972,
-          "name": "Furrocious Cat Ears",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Heavy",
-          "icon": "https://render.guildwars2.com/file/BDE329E2E9A27D0AA27C369BD25017B60B18A79A/1504162.png",
-          "cats": [
-            "Gem Store Halloween items"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Gem Store Halloween items",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 6974,
-          "name": "Furrocious Cat Ears",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Medium",
-          "icon": "https://render.guildwars2.com/file/BDE329E2E9A27D0AA27C369BD25017B60B18A79A/1504162.png",
-          "cats": [
-            "Gem Store Halloween items"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Gem Store Halloween items",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 6975,
-          "name": "Furrocious Cat Ears",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Light",
-          "icon": "https://render.guildwars2.com/file/BDE329E2E9A27D0AA27C369BD25017B60B18A79A/1504162.png",
-          "cats": [
-            "Gem Store Halloween items"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Gem Store Halloween items",
           "wikiFirstSeen": null
         },
         {
@@ -182315,96 +182135,6 @@
           "kind": "skin",
           "source": "event",
           "sourceLabel": "Halloween: Mad Realm weapon skins",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 9219,
-          "name": "Maguuma's Grasp",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Heavy",
-          "icon": "https://render.guildwars2.com/file/41152BF05BC00F0D0FAC545A9708EAC6E13E1CF0/2261375.png",
-          "cats": [
-            "Gem Store Halloween items"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Gem Store Halloween items",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 9228,
-          "name": "Maguuma's Grasp",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Light",
-          "icon": "https://render.guildwars2.com/file/41152BF05BC00F0D0FAC545A9708EAC6E13E1CF0/2261375.png",
-          "cats": [
-            "Gem Store Halloween items"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Gem Store Halloween items",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 9239,
-          "name": "Maguuma's Grasp",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Medium",
-          "icon": "https://render.guildwars2.com/file/41152BF05BC00F0D0FAC545A9708EAC6E13E1CF0/2261375.png",
-          "cats": [
-            "Gem Store Halloween items"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Gem Store Halloween items",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 9222,
-          "name": "Maguuma's Mantle",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Light",
-          "icon": "https://render.guildwars2.com/file/3D1FBB3E91BF6B116205DFF311D03BB62FE0F101/2261376.png",
-          "cats": [
-            "Gem Store Halloween items"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Gem Store Halloween items",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 9224,
-          "name": "Maguuma's Mantle",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Medium",
-          "icon": "https://render.guildwars2.com/file/3D1FBB3E91BF6B116205DFF311D03BB62FE0F101/2261376.png",
-          "cats": [
-            "Gem Store Halloween items"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Gem Store Halloween items",
-          "wikiFirstSeen": null
-        },
-        {
-          "id": 9226,
-          "name": "Maguuma's Mantle",
-          "type": "Armor",
-          "rarity": "Basic",
-          "weight_class": "Heavy",
-          "icon": "https://render.guildwars2.com/file/3D1FBB3E91BF6B116205DFF311D03BB62FE0F101/2261376.png",
-          "cats": [
-            "Gem Store Halloween items"
-          ],
-          "kind": "skin",
-          "source": "event",
-          "sourceLabel": "Halloween: Gem Store Halloween items",
           "wikiFirstSeen": null
         },
         {
